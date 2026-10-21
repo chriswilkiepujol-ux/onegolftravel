@@ -29,7 +29,7 @@
 <link rel="apple-touch-icon" href="/assets/images/brand/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/css/style.css">
 {% if schema %}{{ schema | safe }}{% endif %}
 </head>
@@ -37,7 +37,7 @@
 
 <header class="site-header">
   <div class="nav">
-    <a class="logo" href="{{ R.home }}" aria-label="{{ site.fullName }}"><img src="/assets/images/brand/logo-mark.png" alt="" width="40" height="40"><span><b>{{ site.name }}</b> {{ site.nameAccent }}</span></a>
+    <a class="logo" href="{{ R.home }}" aria-label="{{ site.fullName }}"><img src="/assets/images/brand/logo-lockup.png" alt="{{ site.fullName }}" width="235" height="44"></a>
     <nav class="links" aria-label="{{ T.nav.mainNav }}">
       <div class="nav-item-dropdown">
         <a href="{{ R.destinations }}"{% if navActive == 'dest' %} class="active"{% endif %}>{{ T.nav.destinations }} <span class="chevron">▾</span></a>
@@ -126,7 +126,7 @@
   <div class="wrap">
     <div class="footer-grid">
       <div class="footer-brand">
-        <a class="logo" href="{{ R.home }}"><img src="/assets/images/brand/logo-mark.png" alt="" width="40" height="40"><span><b>{{ site.name }}</b> {{ site.nameAccent }}</span></a>
+        <a class="logo" href="{{ R.home }}"><img src="/assets/images/brand/logo-lockup-white.png" alt="{{ site.fullName }}" width="235" height="44"></a>
         <p>{{ T.footer.blurb }}</p>
         <div class="footer-contact"><a href="tel:{{ site.phone | replace(' ', '') }}">{{ site.phone }}</a><br><a href="mailto:{{ site.email }}">{{ site.email }}</a></div>
         <div class="footer-iagto"><img src="/assets/images/brand/iagto.png" alt="IAGTO" width="110" loading="lazy"><span>{{ T.footer.iagto }}</span></div>
