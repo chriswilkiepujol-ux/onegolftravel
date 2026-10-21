@@ -373,7 +373,7 @@ section[id]{scroll-margin-top:130px;}
 
 /* ---------- PRODUCT LAYOUT ---------- */
 .product-layout{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:56px;align-items:start;padding-top:40px;}
-.product-layout--form{grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);padding-top:0;}
+.product-layout--form{grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);padding-top:48px;}
 .enquiry-card{background:var(--stone);border-radius:22px;padding:30px;border:1.5px solid var(--stone-deep);position:sticky;top:96px;}
 .enquiry-card--wide{position:static;padding:34px;}
 .enquiry-card h3{font-size:21px;margin-bottom:6px;}
