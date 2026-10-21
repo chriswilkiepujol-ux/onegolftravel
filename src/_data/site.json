@@ -1,0 +1,18 @@
+{
+  "name": "One",
+  "nameAccent": "Golf Travel",
+  "fullName": "One Golf Travel",
+  "tagline": "There isn't a fairway on earth we cannot put you on",
+  "domain": "https://www.onegolftravel.com",
+  "phone": "+44 7432 740083",
+  "email": "info@onegolftravel.com",
+  "whatsapp": "447432740083",
+  "companyLine": "IAGTO member",
+  "poweredByName": "impulsomedia.es",
+  "poweredByUrl": "https://impulsomedia.es",
+  "formspree": "https://formspree.io/f/mrpzkgbl",
+  "ga4Id": "",
+  "gscVerification": "",
+  "locales": ["en", "es", "de"],
+  "defaultLocale": "en"
+}

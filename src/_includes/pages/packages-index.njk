@@ -1,0 +1,21 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set TP = T.packages -%}
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TP.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TP.h1 }}</h1><p class="lede">{{ TP.lede }}</p>
+  </div>
+</section>
+<section class="sec" style="padding-top:0;">
+  <div class="wrap">
+    <div class="trip-filter" data-pkg-filter>
+      <span class="trip-filter-label">{{ TP.filterCountry }}</span>
+      <button type="button" class="active" data-country="all">{{ T.destinations.filterAll }}</button>
+      {% for c in D.countries %}{% if (D.packages | packagesForCountry(c.id) | length) > 0 %}<button type="button" data-country="{{ c.id }}">{{ c.flag }} {{ c.name }}</button>{% endif %}{% endfor %}
+    </div>
+    <div class="tickets-grid" data-pkg-list>
+      {% for pkg in D.packages %}<div class="trip-item" data-country="{{ pkg.country }}" data-tier="{{ pkg.tier }}">{% include "partials/package-card.njk" %}</div>{% endfor %}
+    </div>
+    <p class="empty-note" data-pkg-empty hidden>{{ TP.empty }}</p>
+  </div>
+</section>
+{% set ctaTitle = T.custom.h1 %}{% set ctaText = T.custom.lede %}{% include "partials/cta-band.njk" %}

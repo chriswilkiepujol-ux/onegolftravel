@@ -1,0 +1,26 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set TD = T.destinations -%}
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TD.title, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TD.h1 }}</h1><p class="lede">{{ TD.lede }}</p>
+  </div>
+</section>
+<section class="sec" style="padding-top:0;">
+  <div class="wrap">
+    <div class="dest-grid reveal">{% for country in D.countries %}{% include "partials/country-card.njk" %}{% endfor %}</div>
+  </div>
+</section>
+<section class="sec sec-stone">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ TD.allRegions }}</div><h2>{{ TD.jumpRegions }}</h2></div></div>
+    <div class="region-grid reveal">
+      {% for r in D.regions %}{% set country = D.countries | findCountry(r.country) %}
+      <a class="region-card{% if r.status == 'coming-soon' %} is-soon{% endif %}" href="{{ r.url }}" style="background-image:linear-gradient(0deg, rgba(3,22,61,.88), rgba(3,22,61,.05) 65%), url('{{ r.image }}');">
+        <span class="code-badge">{{ country.flag }} {{ r.code }}</span>
+        {% if r.status == 'coming-soon' %}<span class="tier-badge tier-soon">{{ T.common.comingSoon }}</span>{% endif %}
+        <div class="region-card-body"><h3>{{ r.name }}</h3><p>{{ r.lede }}</p></div>
+      </a>{% endfor %}
+    </div>
+  </div>
+</section>
+{% set ctaTitle = T.home.ctaTitle %}{% set ctaText = T.home.ctaText %}{% include "partials/cta-band.njk" %}

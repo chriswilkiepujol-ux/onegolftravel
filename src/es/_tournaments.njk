@@ -1,0 +1,15 @@
+---
+pagination:
+  data: loc.es.tournaments
+  size: 1
+  alias: ev
+  addAllPagesToCollections: true
+permalink: "{{ ev.url }}"
+navActive: tournaments
+eleventyComputed:
+  translationKey: "tournaments:{{ ev.id }}"
+  title: "{% set T = t.es %}{{ T.seo.tournament.title | fmt({ name: ev.name }) }}{{ T.titleSuffix }}"
+  description: "{% set T = t.es %}{{ ev.lede }}"
+  ogImage: "{{ ev.image or ev.hero }}"
+---
+{% include "pages/tournament.njk" %}

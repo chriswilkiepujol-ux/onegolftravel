@@ -1,0 +1,11 @@
+{# `course` = localised course #}
+{%- set TT = t[locale] -%}
+<a class="course-card" href="{{ course.url }}">
+  <div class="course-photo" style="background-image:url('{{ course.image }}');"><span class="code-badge">{{ TT.common.par }} {{ course.par }}</span></div>
+  <div class="course-body">
+    <div class="eyebrow">{{ course.style }}</div>
+    <h4>{{ course.name }}</h4>
+    <p>{{ course.summary }}</p>
+    <div class="course-meta"><span>{{ course.length }}</span>{% if course.designer %}<span>{{ course.designer }}</span>{% endif %}</div>
+  </div>
+</a>

@@ -1,0 +1,14 @@
+{# `country` = localised country #}
+{%- set TT = t[locale] -%}
+{%- set n = loc[locale].packages | packagesForCountry(country.id) | length -%}
+<a class="dest-card{% if country.status == 'coming-soon' %} is-soon{% endif %}" href="{{ country.url }}" style="background-image:url('{{ country.image }}');">
+  <div class="dest-card-top">
+    <span class="code-badge">{{ country.code }}</span>
+    {% if country.status == 'coming-soon' %}<span class="tier-badge tier-soon">{{ TT.common.comingSoon }}</span>{% endif %}
+  </div>
+  <div class="dest-card-body">
+    <h3>{{ country.flag }} {{ country.name }}</h3>
+    <p>{{ country.lede }}</p>
+    <span class="dest-card-meta">{% if n > 0 %}{{ (TT.common.packageCount if n == 1 else TT.common.packagesCount | fmt({ n: n })) }}{% else %}{{ TT.destinations.targetNote | fmt({ n: country.targets.packages }) }}{% endif %} · {{ TT.common.explore | fmt({ name: country.name }) }}</span>
+  </div>
+</a>

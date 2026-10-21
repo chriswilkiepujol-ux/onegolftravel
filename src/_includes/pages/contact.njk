@@ -1,0 +1,40 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set TC = T.contact -%}{%- set TF = T.form -%}
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TC.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TC.h1 }}</h1><p class="lede">{{ TC.lede }}</p>
+  </div>
+</section>
+<section class="sec" style="padding-top:0;">
+  <div class="wrap product-layout product-layout--form">
+    <div class="enquiry-card enquiry-card--wide">
+      <h3>{{ TC.formTitle }}</h3>
+      <form class="enquiry-form" action="{{ site.formspree }}" method="POST">
+        <input type="hidden" name="_site" value="One Golf Travel">
+        <input type="hidden" name="_subject" value="{{ TF.contactSubject }} ({{ locale | upper }})">
+        <input type="hidden" name="language" value="{{ locale }}">
+        <div class="form-row"><div class="form-field full"><label for="k-name">{{ TF.name }}</label><input type="text" id="k-name" name="name" required></div></div>
+        <div class="form-row">
+          <div class="form-field"><label for="k-email">{{ TF.email }}</label><input type="email" id="k-email" name="email" required></div>
+          <div class="form-field"><label for="k-phone">{{ TF.phone }}</label><input type="tel" id="k-phone" name="phone"></div>
+        </div>
+        <div class="form-row"><div class="form-field full"><label for="k-msg">{{ TF.message }}</label><textarea id="k-msg" name="message" rows="5" required></textarea></div></div>
+        <button type="submit" class="btn btn-accent" style="width:100%;justify-content:center;">{{ TF.sendRequest }}</button>
+        <div class="form-status" role="status"></div>
+        <div class="enquiry-note">{{ TF.noObligationReply }}</div>
+      </form>
+    </div>
+    <aside>
+      <div class="contact-box">
+        <div class="eyebrow">{{ T.nav.talkToUs }}</div>
+        <a href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener" class="btn btn-outline" style="width:100%;justify-content:center;">{{ T.nav.whatsapp }}</a>
+        <a href="mailto:{{ site.email }}" class="contact-line">{{ site.email }}</a>
+        <a href="tel:{{ site.phone | replace(' ', '') }}" class="contact-line">{{ site.phone }}</a>
+      </div>
+      <div class="contact-box">
+        <div class="eyebrow">{{ TC.quickTitle }}</div>
+        <a href="{{ R.custom }}" class="btn btn-accent" style="width:100%;justify-content:center;">{{ T.common.customPackage }} →</a>
+      </div>
+    </aside>
+  </div>
+</section>

@@ -1,0 +1,57 @@
+{
+  "the-masters": {
+    "slug": "the-masters",
+    "name": "The Masters",
+    "lede": "Eine Woche in Augusta National mit Tickets, Hotels und Golf aus einer Hand, die Reise, die jeder Golfer einmal machen will.",
+    "intro": [
+      "Das Masters ist das schwierigste Ticket im Golf und die Reise, bei der sich gute Planung am meisten auszahlt. Wir organisieren Tickets für Übungs- und Turniertage, Unterkünfte in Augusta oder Atlanta, tägliche Transfers zum Platz und Runden auf Plätzen in der Umgebung an den Tagen, an denen Sie nicht auf dem Gelände sind.",
+      "Die Verfügbarkeit ist begrenzt und wird lange im Voraus gesichert, je früher Sie anfragen, desto besser. Sagen Sie uns, wie viele reisen und welche Tage am wichtigsten sind, und Sie erhalten ein Angebot."
+    ],
+    "dates": "Zweite Aprilwoche, jedes Jahr",
+    "includes": ["Turnier- und Übungstag-Tickets", "Hotel mit Frühstück", "Tägliche Transfers zum Platz und zurück", "Golf auf Plätzen in der Umgebung an turnierfreien Tagen", "Hospitality auf Anfrage"]
+  },
+  "ryder-cup": {
+    "slug": "ryder-cup",
+    "name": "Ryder Cup",
+    "lede": "Drei Tage Matchplay, die beste Atmosphäre im Golf und eine Reise rund um den Austragungsort, auf welcher Seite des Atlantiks er auch liegt.",
+    "intro": [
+      "Der Ryder Cup ist etwas Eigenes: ein Teamwettbewerb, ein parteiisches Publikum und ein Austragungsort, der alle zwei Jahre wechselt. Die Ausgabe 2027 kommt nach Adare Manor in der Grafschaft Limerick, Irland, also genau in die Gegend, die wir am besten kennen.",
+      "Wir organisieren Tickets, Unterkünfte in Reichweite des Platzes, Transfers und Golf auf den umliegenden Plätzen an den Tagen rund um die Matches. Die Nachfrage ist enorm, melden Sie Ihr Interesse früh an."
+    ],
+    "dates": "2027: Adare Manor, Irland, September",
+    "includes": ["Tickets für die Matchtage", "Unterkunft mit Frühstück", "Tägliche Transfers", "Golf auf umliegenden Plätzen", "Hospitality auf Anfrage"]
+  },
+  "the-open": {
+    "slug": "the-open",
+    "name": "The Open Championship",
+    "lede": "Das älteste Championship im Golf, jeden Juli auf den Linksplätzen Schottlands und Englands gespielt, mit einer Golfreise darum herum.",
+    "intro": [
+      "Die Open rotiert über die großen Linksplätze Großbritanniens, deshalb ist jede Ausgabe eine andere Reise: die Küste von Ayrshire, East Lothian, Kent, Lancashire oder St Andrews selbst. Wir kombinieren Tickets mit Unterkünften in der Nähe und Runden auf den umliegenden Links, damit Ihre Gruppe genau das Golf spielt, das sie gerade gesehen hat.",
+      "Nennen Sie uns das Jahr und wir planen die Reise um diesen Austragungsort."
+    ],
+    "dates": "Dritte Juliwoche, jedes Jahr, wechselnde Linksplätze",
+    "includes": ["Championship-Tickets für Ihre Wunschtage", "Unterkunft nahe dem Austragungsort", "Transfers", "Golf auf nahegelegenen Linksplätzen", "Hospitality auf Anfrage"]
+  },
+  "solheim-cup": {
+    "slug": "solheim-cup",
+    "name": "Solheim Cup",
+    "lede": "Damengolf in seiner intensivsten Form, Europa gegen die USA alle zwei Jahre, mit einer Reise rund um den Austragungsort.",
+    "intro": [
+      "Der Solheim Cup ist zu einer der besten Wochen im Golf geworden, mit Publikum und Stimmung auf Ryder-Cup-Niveau und Tickets, die deutlich leichter zu bekommen sind. Der Austragungsort wechselt zwischen Europa und den Vereinigten Staaten.",
+      "Wir organisieren Tickets, Unterkunft, Transfers und Golf auf den umliegenden Plätzen an den Tagen vor und nach den Matches."
+    ],
+    "dates": "Alle zwei Jahre, im September",
+    "includes": ["Tickets für die Matchtage", "Unterkunft mit Frühstück", "Transfers", "Golf auf nahegelegenen Plätzen", "Hospitality auf Anfrage"]
+  },
+  "race-to-dubai": {
+    "slug": "race-to-dubai-finale",
+    "name": "Race to Dubai Finale",
+    "lede": "Das Saisonfinale der DP World Tour im November in Dubai, kombiniert mit einer Wintersonnen-Golfreise auf die Plätze, die die Tour spielt.",
+    "intro": [
+      "Das Race to Dubai endet jeden November in den Jumeirah Golf Estates mit der DP World Tour Championship, und Dubai im November ist Golfwetter, wie es besser nicht geht. Wir kombinieren Turniertickets und Hospitality mit Runden im Emirates Golf Club, in den Jumeirah Golf Estates und auf den anderen Tour-Plätzen, dazu Fünf-Sterne-Hotels in verschiedenen Preisklassen.",
+      "Für Hospitality bitte früh anfragen; der allgemeine Eintritt ist einfacher."
+    ],
+    "dates": "Mitte November, jedes Jahr",
+    "includes": ["Turniertickets oder Hospitality", "Fünf-Sterne-Hotel", "Transfers", "Runden auf den Tour-Plätzen rund um Dubai", "Wüsten- und Stadterlebnisse für Nichtgolfer"]
+  }
+}

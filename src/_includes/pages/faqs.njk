@@ -1,0 +1,11 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set TQ = T.faqs -%}
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TQ.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TQ.h1 }}</h1><p class="lede">{{ TQ.lede }}</p>
+  </div>
+</section>
+<section class="sec" style="padding-top:0;">
+  <div class="wrap faq-wrap">{% set faqs = TQ.items %}{% include "partials/faq-list.njk" %}</div>
+</section>
+{% set ctaTitle = T.home.ctaTitle %}{% set ctaText = T.home.ctaText %}{% include "partials/cta-band.njk" %}

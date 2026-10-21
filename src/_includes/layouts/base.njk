@@ -1,0 +1,168 @@
+{%- set T = t[locale] -%}
+{%- set R = T.routes -%}
+{%- set D = loc[locale] -%}
+{%- set alts = collections.tmap[translationKey] or {} -%}
+{%- set homeFor = { en: '/', es: '/es/', de: '/de/' } -%}
+<!DOCTYPE html>
+<html lang="{{ T.htmlLang }}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+{% if site.ga4Id %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4Id }}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ site.ga4Id }}');</script>
+{% endif %}
+{% if site.gscVerification %}<meta name="google-site-verification" content="{{ site.gscVerification }}">{% endif %}
+<title>{{ title | he | safe }}</title>
+<meta name="description" content="{{ description | he | safe }}">
+<link rel="canonical" href="{{ site.domain }}{{ page.url }}">
+<meta property="og:type" content="{{ ogType or 'website' }}">
+<meta property="og:title" content="{{ title | he | safe }}">
+<meta property="og:description" content="{{ description | he | safe }}">
+<meta property="og:url" content="{{ site.domain }}{{ page.url }}">
+<meta property="og:locale" content="{{ T.ogLocale }}">
+<meta property="og:image" content="{{ site.domain }}{{ ogImage or '/assets/images/brand/hero.webp' }}">
+<meta name="twitter:card" content="summary_large_image">
+{% for l in site.locales %}{% if alts[l] %}<link rel="alternate" hreflang="{{ t[l].hreflang }}" href="{{ site.domain }}{{ alts[l] }}">
+{% endif %}{% endfor %}<link rel="alternate" hreflang="x-default" href="{{ site.domain }}{{ alts.en or page.url }}">
+<link rel="icon" type="image/png" href="/assets/images/brand/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="/assets/images/brand/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/style.css">
+{% if schema %}{{ schema | safe }}{% endif %}
+</head>
+<body>
+
+<header class="site-header">
+  <div class="nav">
+    <a class="logo" href="{{ R.home }}" aria-label="{{ site.fullName }}"><img src="/assets/images/brand/logo-mark.png" alt="" width="40" height="40"><span><b>{{ site.name }}</b> {{ site.nameAccent }}</span></a>
+    <nav class="links" aria-label="{{ T.nav.mainNav }}">
+      <div class="nav-item-dropdown">
+        <a href="{{ R.destinations }}"{% if navActive == 'dest' %} class="active"{% endif %}>{{ T.nav.destinations }} <span class="chevron">▾</span></a>
+        <div class="nav-dropdown-panel">
+          {% for c in D.countries %}<a href="{{ c.url }}"><span class="nav-flag">{{ c.flag }}</span>{{ c.name }}{% if c.status == 'coming-soon' %} <small>{{ T.nav.comingSoon }}</small>{% endif %}</a>{% endfor %}
+          <a href="{{ R.destinations }}" class="nav-dropdown-secondary">{{ T.nav.allDestinations }}</a>
+        </div>
+      </div>
+      <div class="nav-item-dropdown">
+        <a href="{{ R.packages }}"{% if navActive == 'packages' %} class="active"{% endif %}>{{ T.nav.packages }} <span class="chevron">▾</span></a>
+        <div class="nav-dropdown-panel">
+          {% for c in D.countries %}{% if c.status != 'coming-soon' %}<a href="{{ c.url }}#packages">{{ c.name }}</a>{% endif %}{% endfor %}
+          <a href="{{ R.packages }}" class="nav-dropdown-secondary">{{ T.nav.allPackages }}</a>
+          <a href="{{ R.custom }}" class="nav-dropdown-secondary">{{ T.nav.custom }}</a>
+        </div>
+      </div>
+      <div class="nav-item-dropdown">
+        <a href="{{ R.courses }}"{% if navActive == 'courses' %} class="active"{% endif %}>{{ T.nav.courses }} <span class="chevron">▾</span></a>
+        <div class="nav-dropdown-panel">
+          <a href="{{ R.topTen }}">{{ T.nav.topTen }}</a>
+          <a href="{{ R.courses }}">{{ T.nav.courses }}</a>
+          <a href="{{ R.hotels }}">{{ T.nav.hotels }}</a>
+        </div>
+      </div>
+      <div class="nav-item-dropdown">
+        <a href="{{ R.tournaments }}"{% if navActive == 'tournaments' %} class="active"{% endif %}>{{ T.nav.tournaments }} <span class="chevron">▾</span></a>
+        <div class="nav-dropdown-panel">
+          {% for e in D.tournaments %}<a href="{{ e.url }}">{{ e.name }}</a>{% endfor %}
+        </div>
+      </div>
+    </nav>
+    <div class="nav-cta">
+      <div class="lang-switch" role="navigation" aria-label="{{ T.nav.language }}">
+        {% for l in site.locales %}<a href="{{ alts[l] or homeFor[l] }}" hreflang="{{ l }}" lang="{{ l }}"{% if locale == l %} class="current" aria-current="true"{% endif %}>{{ t[l].langShort }}</a>{% endfor %}
+      </div>
+      <a class="nav-icon-btn" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener" aria-label="{{ T.nav.whatsapp }}" title="{{ T.nav.whatsapp }}">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 1.8a8.2 8.2 0 1 1-4.2 15.3l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 0 1 12 3.8zm-3 4.4c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.1 4.9 4.3 2.4 1 2.9.8 3.4.7.5 0 1.7-.7 1.9-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.6-.3l-2-1c-.3-.1-.5-.1-.7.1l-.9 1.1c-.2.2-.3.2-.6.1-.3-.2-1.2-.5-2.3-1.5-.9-.8-1.5-1.7-1.6-2-.2-.3 0-.4.1-.6l.4-.5.3-.5c.1-.2 0-.4 0-.5L9.6 8.8c-.2-.5-.4-.5-.6-.5z"/></svg>
+      </a>
+      <a class="btn btn-accent nav-quote" href="{{ R.custom }}">{{ T.nav.getQuote }}</a>
+      <button class="nav-menu-btn burger" type="button" aria-label="{{ T.nav.menu }}" aria-expanded="false" aria-controls="site-menu">
+        <span class="burger-lines" aria-hidden="true"><span></span><span></span><span></span></span>
+        <span class="nav-menu-label">{{ T.nav.menu }}</span>
+      </button>
+    </div>
+  </div>
+  <div class="site-menu" id="site-menu" hidden>
+    <div class="site-menu-inner">
+      <div class="site-menu-col site-menu-primary">
+        <div class="site-menu-head">{{ T.nav.destinations }}</div>
+        {% for c in D.countries %}<a href="{{ c.url }}">{{ c.flag }} {{ c.name }}</a>{% endfor %}
+        <a href="{{ R.destinations }}">{{ T.nav.allDestinations }}</a>
+      </div>
+      <div class="site-menu-col">
+        <div class="site-menu-head">{{ T.nav.planTrip }}</div>
+        <a href="{{ R.packages }}">{{ T.nav.packages }}</a>
+        <a href="{{ R.custom }}">{{ T.nav.custom }}</a>
+        <a href="{{ R.topTen }}">{{ T.nav.topTen }}</a>
+        <a href="{{ R.courses }}">{{ T.nav.courses }}</a>
+        <a href="{{ R.hotels }}">{{ T.nav.hotels }}</a>
+        <a href="{{ R.tournaments }}">{{ T.nav.tournaments }}</a>
+      </div>
+      <div class="site-menu-col">
+        <div class="site-menu-head">{{ T.nav.moreInfo }}</div>
+        <a href="{{ R.howItWorks }}">{{ T.nav.howItWorks }}</a>
+        <a href="{{ R.transfers }}">{{ T.nav.transfers }}</a>
+        <a href="{{ R.faqs }}">{{ T.nav.faqs }}</a>
+        <a href="{{ R.about }}">{{ T.nav.about }}</a>
+        <a href="{{ R.contact }}">{{ T.contact.crumb }}</a>
+      </div>
+      <div class="site-menu-col site-menu-contact">
+        <div class="site-menu-head">{{ T.nav.talkToUs }}</div>
+        <a class="btn btn-accent site-menu-quote" href="{{ R.custom }}">{{ T.nav.getQuote }}</a>
+        <a class="site-menu-line" href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener"><span>{{ T.nav.whatsapp }}</span>{{ site.phone }}</a>
+        <a class="site-menu-line" href="mailto:{{ site.email }}"><span>{{ T.nav.emailUs }}</span>{{ site.email }}</a>
+        <div class="site-menu-langs">{% for l in site.locales %}<a href="{{ alts[l] or homeFor[l] }}" hreflang="{{ l }}" lang="{{ l }}"{% if locale == l %} class="current"{% endif %}>{{ t[l].langName }}</a>{% endfor %}</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+{{ content | safe }}
+
+<footer>
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a class="logo" href="{{ R.home }}"><img src="/assets/images/brand/logo-mark.png" alt="" width="40" height="40"><span><b>{{ site.name }}</b> {{ site.nameAccent }}</span></a>
+        <p>{{ T.footer.blurb }}</p>
+        <div class="footer-contact"><a href="tel:{{ site.phone | replace(' ', '') }}">{{ site.phone }}</a><br><a href="mailto:{{ site.email }}">{{ site.email }}</a></div>
+        <div class="footer-iagto"><img src="/assets/images/brand/iagto.png" alt="IAGTO" width="110" loading="lazy"><span>{{ T.footer.iagto }}</span></div>
+      </div>
+      <div><h5>{{ T.footer.destinations }}</h5><ul>
+        {% for c in D.countries %}<li><a href="{{ c.url }}">{{ c.name }}</a></li>{% endfor %}
+      </ul></div>
+      <div><h5>{{ T.footer.trips }}</h5><ul>
+        <li><a href="{{ R.packages }}">{{ T.nav.packages }}</a></li>
+        <li><a href="{{ R.custom }}">{{ T.nav.custom }}</a></li>
+        <li><a href="{{ R.tournaments }}">{{ T.nav.tournaments }}</a></li>
+        <li><a href="{{ R.topTen }}">{{ T.nav.topTen }}</a></li>
+        <li><a href="{{ R.courses }}">{{ T.nav.courses }}</a></li>
+        <li><a href="{{ R.hotels }}">{{ T.nav.hotels }}</a></li>
+      </ul></div>
+      <div><h5>{{ T.footer.company }}</h5><ul>
+        <li><a href="{{ R.about }}">{{ T.nav.about }}</a></li>
+        <li><a href="{{ R.howItWorks }}">{{ T.nav.howItWorks }}</a></li>
+        <li><a href="{{ R.transfers }}">{{ T.nav.transfers }}</a></li>
+        <li><a href="{{ R.faqs }}">{{ T.nav.faqs }}</a></li>
+        <li><a href="{{ R.contact }}">{{ T.contact.crumb }}</a></li>
+      </ul></div>
+      <div><h5>{{ T.footer.legal }}</h5><ul>
+        <li><a href="{{ R.privacy }}">{{ T.legal.privacyTitle }}</a></li>
+        <li><a href="{{ R.terms }}">{{ T.legal.termsTitle }}</a></li>
+      </ul>
+      <h5 style="margin-top:22px;">{{ T.nav.language }}</h5><ul>
+        {% for l in site.locales %}<li><a href="{{ alts[l] or homeFor[l] }}" hreflang="{{ l }}" lang="{{ l }}">{{ t[l].langName }}</a></li>{% endfor %}
+      </ul></div>
+    </div>
+    <div class="footer-tagline">{{ site.tagline }}</div>
+    <div class="footer-bottom">
+      <span>{{ T.footer.copyright | fmt({ name: site.fullName }) }}</span>
+      <span>{{ T.footer.poweredBy }} <a href="{{ site.poweredByUrl }}" rel="noopener">{{ site.poweredByName }}</a></span>
+    </div>
+  </div>
+</footer>
+
+<script src="/assets/js/main.js"></script>
+</body>
+</html>

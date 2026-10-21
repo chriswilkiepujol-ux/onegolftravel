@@ -1,0 +1,6 @@
+{# `faqs` = array of [q, a] #}
+<div class="faq-list">
+  {% for f in faqs %}
+  <div class="faq-item"><button class="faq-q" type="button" aria-expanded="false">{{ f[0] }}<span class="faq-plus" aria-hidden="true">+</span></button><div class="faq-a"><p>{{ f[1] }}</p></div></div>
+  {% endfor %}
+</div>

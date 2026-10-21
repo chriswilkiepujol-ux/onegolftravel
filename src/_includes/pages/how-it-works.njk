@@ -1,0 +1,23 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set H = T.home -%}{%- set TH = T.howItWorks -%}
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TH.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TH.h1 }}</h1><p class="lede">{{ TH.lede }}</p>
+  </div>
+</section>
+<section class="sec" style="padding-top:0;">
+  <div class="wrap">
+    <div class="steps steps--large reveal">
+      <div class="step"><span class="step-n">1</span><h4>{{ H.how1t }}</h4><p>{{ H.how1p }}</p></div>
+      <div class="step"><span class="step-n">2</span><h4>{{ H.how2t }}</h4><p>{{ H.how2p }}</p></div>
+      <div class="step"><span class="step-n">3</span><h4>{{ H.how3t }}</h4><p>{{ H.how3p }}</p></div>
+    </div>
+  </div>
+</section>
+<section class="sec sec-stone">
+  <div class="wrap faq-wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ T.faqs.crumb }}</div><h2>{{ T.faqs.h1 }}</h2></div></div>
+    {% set faqs = T.faqs.items %}{% include "partials/faq-list.njk" %}
+  </div>
+</section>
+{% set ctaTitle = H.ctaTitle %}{% set ctaText = H.ctaText %}{% include "partials/cta-band.njk" %}

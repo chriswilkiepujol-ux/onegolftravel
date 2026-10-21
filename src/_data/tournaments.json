@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "the-masters",
+    "name": "The Masters",
+    "short": "Augusta National, Georgia",
+    "code": "AUG",
+    "month": "April",
+    "image": "/assets/images/tournaments/masters.webp",
+    "lede": "A week at Augusta National with badges, hotels and golf arranged, the one trip every golfer wants to do once.",
+    "intro": [
+      "The Masters is the hardest ticket in golf and the most rewarding trip to get right. We arrange practice-day and tournament-day badges, accommodation in Augusta or Atlanta, transfers to the course each day and rounds at nearby courses on the days you are not inside the gates.",
+      "Availability is limited and secured well in advance, so the earlier you enquire the better. Tell us how many are travelling and which days matter most and we will send a proposal."
+    ],
+    "dates": "Second week of April each year",
+    "includes": ["Tournament and practice-day badges", "Hotel accommodation with breakfast", "Daily transfers to and from the course", "Golf at nearby courses on non-tournament days", "Hospitality options on request"]
+  },
+  {
+    "slug": "ryder-cup",
+    "name": "Ryder Cup",
+    "short": "Europe v USA, every two years",
+    "code": "RYD",
+    "month": "September",
+    "image": "/assets/images/tournaments/ryder-cup.webp",
+    "lede": "Three days of match play, the best atmosphere in golf, and a package built around the venue, whichever side of the Atlantic it is on.",
+    "intro": [
+      "The Ryder Cup is a different animal: a team event, a partisan crowd and a venue that changes every two years. The 2027 edition comes to Adare Manor in County Limerick, Ireland, which puts it squarely in the part of the world we know best.",
+      "We arrange tickets, accommodation within reach of the course, transfers and golf on the surrounding courses for the days around the matches. Demand is enormous, so register your interest early."
+    ],
+    "dates": "2027: Adare Manor, Ireland, September",
+    "includes": ["Match-day tickets", "Accommodation with breakfast", "Daily transfers", "Golf on surrounding courses", "Hospitality options on request"]
+  },
+  {
+    "slug": "the-open",
+    "name": "The Open Championship",
+    "short": "Links golf's oldest major",
+    "code": "OPN",
+    "month": "July",
+    "image": "/assets/images/tournaments/the-open.webp",
+    "lede": "The oldest championship in golf, played on the links of Scotland and England every July, with a golf trip built around it.",
+    "intro": [
+      "The Open rotates around the great links of Britain, so every edition is a different trip: the Ayrshire coast, East Lothian, Kent, Lancashire or St Andrews itself. We combine tickets with accommodation nearby and rounds on the surrounding links, so your group plays the same kind of golf it has just watched.",
+      "Tell us which year and we will build the package around that venue."
+    ],
+    "dates": "Third week of July each year, rotating links venues",
+    "includes": ["Championship tickets for your chosen days", "Accommodation near the venue", "Transfers", "Golf on nearby links courses", "Hospitality options on request"]
+  },
+  {
+    "slug": "solheim-cup",
+    "name": "Solheim Cup",
+    "short": "Europe v USA, women's team golf",
+    "code": "SOL",
+    "month": "September",
+    "image": "/assets/images/tournaments/solheim-cup.webp",
+    "lede": "The women's game at its most intense, Europe against the USA every two years, with a trip built around the host venue.",
+    "intro": [
+      "The Solheim Cup has become one of the best weeks in golf, with crowds and atmosphere to match the Ryder Cup and tickets that are far easier to come by. The venue alternates between Europe and the United States.",
+      "We arrange tickets, accommodation, transfers and golf on the surrounding courses for the days either side of the matches."
+    ],
+    "dates": "Every two years, September",
+    "includes": ["Match-day tickets", "Accommodation with breakfast", "Transfers", "Golf on nearby courses", "Hospitality options on request"]
+  },
+  {
+    "slug": "race-to-dubai",
+    "name": "Race to Dubai Finale",
+    "short": "DP World Tour Championship, Jumeirah Golf Estates",
+    "code": "DXB",
+    "month": "November",
+    "image": "/assets/images/tournaments/race-to-dubai.webp",
+    "lede": "The DP World Tour season finale in Dubai in November, combined with a winter-sun golf trip on the courses the tour plays.",
+    "intro": [
+      "The Race to Dubai ends each November at Jumeirah Golf Estates with the DP World Tour Championship, and Dubai in November is as good as golf weather gets. We combine tournament tickets and hospitality with rounds at Emirates Golf Club, Jumeirah Golf Estates and the other tour venues, plus five-star hotels at a range of prices.",
+      "Enquire early for hospitality; general admission is easier."
+    ],
+    "dates": "Mid November each year",
+    "includes": ["Tournament tickets or hospitality", "Five-star hotel accommodation", "Transfers", "Rounds at tour venues around Dubai", "Desert and city experiences for non-golfers"]
+  }
+]

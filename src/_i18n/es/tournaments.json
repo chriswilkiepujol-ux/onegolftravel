@@ -1,0 +1,57 @@
+{
+  "the-masters": {
+    "slug": "el-masters",
+    "name": "El Masters",
+    "lede": "Una semana en Augusta National con entradas, hoteles y golf organizados: el viaje que todo golfista quiere hacer una vez en la vida.",
+    "intro": [
+      "El Masters es la entrada más difícil del golf y el viaje que más compensa hacer bien. Organizamos entradas para los días de prácticas y de torneo, alojamiento en Augusta o Atlanta, traslados al campo cada día y rondas en campos cercanos los días que no estáis dentro.",
+      "La disponibilidad es limitada y se asegura con mucha antelación, así que cuanto antes nos escribas, mejor. Dinos cuántos viajáis y qué días os importan más y te enviamos una propuesta."
+    ],
+    "dates": "Segunda semana de abril, cada año",
+    "includes": ["Entradas de torneo y de días de prácticas", "Hotel con desayuno", "Traslados diarios al campo y de vuelta", "Golf en campos cercanos los días sin torneo", "Hospitality bajo petición"]
+  },
+  "ryder-cup": {
+    "slug": "ryder-cup",
+    "name": "Ryder Cup",
+    "lede": "Tres días de match play, el mejor ambiente del golf y un paquete montado alrededor de la sede, esté en el lado del Atlántico que esté.",
+    "intro": [
+      "La Ryder Cup es otra cosa: un torneo por equipos, un público entregado y una sede que cambia cada dos años. La edición de 2027 llega a Adare Manor, en el condado de Limerick, Irlanda, es decir, a la parte del mundo que mejor conocemos.",
+      "Organizamos entradas, alojamiento cerca del campo, traslados y golf en los campos de alrededor los días anteriores y posteriores. La demanda es enorme, así que apúntate pronto."
+    ],
+    "dates": "2027: Adare Manor, Irlanda, septiembre",
+    "includes": ["Entradas de día de partido", "Alojamiento con desayuno", "Traslados diarios", "Golf en campos de la zona", "Hospitality bajo petición"]
+  },
+  "the-open": {
+    "slug": "the-open",
+    "name": "The Open Championship",
+    "lede": "El campeonato más antiguo del golf, jugado cada julio en los links de Escocia e Inglaterra, con un viaje de golf alrededor.",
+    "intro": [
+      "El Open rota por los grandes links de Gran Bretaña, así que cada edición es un viaje distinto: la costa de Ayrshire, East Lothian, Kent, Lancashire o el propio St Andrews. Combinamos entradas con alojamiento cerca y rondas en los links de alrededor, para que vuestro grupo juegue el mismo tipo de golf que acaba de ver.",
+      "Dinos qué año y montamos el paquete alrededor de esa sede."
+    ],
+    "dates": "Tercera semana de julio, cada año, en sedes rotatorias",
+    "includes": ["Entradas del campeonato para los días que elijáis", "Alojamiento cerca de la sede", "Traslados", "Golf en links cercanos", "Hospitality bajo petición"]
+  },
+  "solheim-cup": {
+    "slug": "solheim-cup",
+    "name": "Solheim Cup",
+    "lede": "El golf femenino en su versión más intensa, Europa contra Estados Unidos cada dos años, con un viaje montado alrededor de la sede.",
+    "intro": [
+      "La Solheim Cup se ha convertido en una de las mejores semanas del golf, con un público y un ambiente a la altura de la Ryder Cup y entradas mucho más fáciles de conseguir. La sede alterna entre Europa y Estados Unidos.",
+      "Organizamos entradas, alojamiento, traslados y golf en los campos de alrededor los días anteriores y posteriores a los partidos."
+    ],
+    "dates": "Cada dos años, en septiembre",
+    "includes": ["Entradas de día de partido", "Alojamiento con desayuno", "Traslados", "Golf en campos cercanos", "Hospitality bajo petición"]
+  },
+  "race-to-dubai": {
+    "slug": "final-race-to-dubai",
+    "name": "Final de la Race to Dubai",
+    "lede": "La final de temporada del DP World Tour en Dubái en noviembre, combinada con un viaje de golf al sol en los campos que juega el Tour.",
+    "intro": [
+      "La Race to Dubai termina cada noviembre en Jumeirah Golf Estates con el DP World Tour Championship, y Dubái en noviembre es lo mejor que puede ofrecer el tiempo para jugar al golf. Combinamos entradas y hospitality con rondas en Emirates Golf Club, Jumeirah Golf Estates y las otras sedes del Tour, además de hoteles de cinco estrellas a distintos precios.",
+      "Para hospitality, escríbenos pronto; la entrada general es más fácil."
+    ],
+    "dates": "Mediados de noviembre, cada año",
+    "includes": ["Entradas de torneo u hospitality", "Hotel de cinco estrellas", "Traslados", "Rondas en las sedes del Tour alrededor de Dubái", "Experiencias de desierto y ciudad para acompañantes"]
+  }
+}

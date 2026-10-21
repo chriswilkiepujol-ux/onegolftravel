@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "st-andrews",
+    "country": "scotland",
+    "name": "St Andrews & Fife",
+    "code": "STA",
+    "status": "live",
+    "featured": true,
+    "image": "/assets/images/regions/st-andrews.webp",
+    "images": ["/assets/images/regions/st-andrews.webp", "/assets/images/courses/castle-course.webp", "/assets/images/courses/eden-course.webp", "/assets/images/regions/kittocks.webp"],
+    "lede": "The birthplace of golf, with more than 50 courses within an hour of the Old Course and a town that has been welcoming golfers for 600 years.",
+    "intro": [
+      "A St Andrews golf break works with or without the Old Course. Our packages can be built with a guaranteed Old Course tee time, or we can guide your group through the ballot, which opens each August for the following season. Either way the other St Andrews Links courses, the Castle, the Jubilee, the Eden and the New, are world class in their own right, and our Unlimited Golf option guarantees a daily tee time regardless of the ballot result.",
+      "Beyond the Links there is Kingsbarns, Crail and the East Neuk fishing villages, Carnoustie across the Tay, and the Fairmont's two championship courses on the cliffs south of town. Fly into Edinburgh, Glasgow, Dundee or Aberdeen; St Andrews is about 75 minutes from Edinburgh airport."
+    ],
+    "stats": [
+      ["75 min", "From Edinburgh airport"],
+      ["50+", "Courses within an hour"],
+      ["7", "St Andrews Links courses"],
+      ["Apr–Oct", "Peak season"]
+    ],
+    "faqs": [
+      ["How does the Old Course ballot work?", "Two days before play, names go into a daily ballot for the following day's tee times. We can also secure guaranteed Old Course tee times through advance applications, which open each August, or through our trade allocations. Tell us how important the Old Course is and we will build the package accordingly."],
+      ["Is St Andrews walkable?", "Yes. Town-centre hotels like Greyfriars are a few minutes on foot from the Links Clubhouse and the first tee of the Old Course. Drumoig and the Fairmont are a short drive away, and we include transfers or a hire car as needed."],
+      ["What is the Unlimited Golf option?", "A daily guaranteed tee time on the St Andrews Links courses other than the Old Course, so your group plays every day whatever happens in the ballot. It is included in our St Andrews Signature package."]
+    ]
+  },
+  {
+    "slug": "east-lothian",
+    "country": "scotland",
+    "name": "Edinburgh & East Lothian",
+    "code": "EDI",
+    "status": "coming-soon",
+    "featured": false,
+    "image": "/assets/images/regions/east-lothian.webp",
+    "images": ["/assets/images/regions/east-lothian.webp"],
+    "lede": "Scotland's Golf Coast: Muirfield, North Berwick, Gullane and Dunbar strung along thirty miles of coastline, forty minutes from Edinburgh.",
+    "intro": [
+      "East Lothian is the most convenient great golf in Scotland. Twenty-two courses sit along the coast east of Edinburgh, including Muirfield, North Berwick, the three Gullane courses, Archerfield and Renaissance, home of the Scottish Open. Stay in North Berwick or Gullane and most of them are within fifteen minutes.",
+      "Our East Lothian packages are being finalised. We are booking trips here on request now, so tell us your dates and which courses matter most to your group."
+    ],
+    "stats": [
+      ["40 min", "From Edinburgh airport"],
+      ["22", "Courses on the coast"],
+      ["30 mi", "Of links coastline"],
+      ["Apr–Oct", "Peak season"]
+    ],
+    "faqs": [
+      ["Can you arrange Muirfield?", "Muirfield takes visitors on Tuesdays and Thursdays and books up far in advance. With enough notice we can usually arrange it for a group; tell us your dates as early as possible."]
+    ]
+  },
+  {
+    "slug": "west-coast-ayrshire",
+    "country": "scotland",
+    "name": "West Coast & Ayrshire",
+    "code": "AYR",
+    "status": "coming-soon",
+    "featured": false,
+    "image": "/assets/images/regions/west-coast.webp",
+    "images": ["/assets/images/regions/west-coast.webp"],
+    "lede": "Open Championship links at Troon, Turnberry and Prestwick, with Loch Lomond and the Glasgow airports under an hour away.",
+    "intro": [
+      "Ayrshire has hosted more Open Championships than any other region after St Andrews. Royal Troon, Turnberry's Ailsa and Prestwick, where the first Open was played in 1860, line the Firth of Clyde, with Western Gailes, Dundonald and Kilmarnock Barassie alongside them.",
+      "Our West Coast packages are being finalised. We are already booking trips here on request, so send us your dates and the courses on your list."
+    ],
+    "stats": [
+      ["45 min", "From Glasgow airport"],
+      ["15 min", "From Prestwick airport"],
+      ["3", "Open Championship venues"],
+      ["Apr–Oct", "Peak season"]
+    ],
+    "faqs": [
+      ["Where should we stay in Ayrshire?", "Troon is the most convenient base for most of the courses, with Turnberry's hotel the luxury option for groups playing the Ailsa course. Ayr and Prestwick have good-value hotels close to the courses."]
+    ]
+  },
+  {
+    "slug": "dublin-wicklow",
+    "country": "ireland",
+    "name": "Dublin & Wicklow",
+    "code": "DUB",
+    "status": "live",
+    "featured": true,
+    "image": "/assets/images/regions/wicklow.webp",
+    "images": ["/assets/images/regions/wicklow.webp", "/assets/images/courses/druids-glen.webp", "/assets/images/regions/wicklow-nose.webp", "/assets/images/hotels/druids-glen-hotel.webp"],
+    "lede": "Ryder Cup and Irish Open venues within an hour of Dublin, the Garden of Ireland on the doorstep, and the capital's pubs at the end of the day.",
+    "intro": [
+      "Dublin is the natural base for an Irish golf trip. Druids Glen and Druids Heath sit in the Wicklow hills forty minutes south of the city, The K Club in Kildare hosted the 2006 Ryder Cup, and Portmarnock and The Island offer true links golf on the coast north of the airport.",
+      "Our packages are built around resorts where the golf is on site, so there is no daily travel unless you want it. Fly into Dublin from almost anywhere in Europe and the UK; most groups use a private driver for the week."
+    ],
+    "stats": [
+      ["40 min", "From Dublin airport"],
+      ["3", "Irish Open venues"],
+      ["1", "Ryder Cup venue"],
+      ["May–Oct", "Peak season"]
+    ],
+    "faqs": [
+      ["Which courses are in the Dublin packages?", "Druids Glen, Druids Heath, The K Club Palmer North and Wicklow Golf Club in the Signature package, with Portmarnock Links, Powerscourt and The Island available in our other Dublin trips or as swaps."],
+      ["Is Dublin good for a mixed group?", "Very. Non-golfers have the city, Powerscourt Gardens, Glendalough and the Wicklow coast, and every resort we use has a spa. We can plan a dual itinerary so everyone meets for dinner."],
+      ["How far is Wicklow from Dublin?", "Druids Glen is about 40 minutes from Dublin airport and 35 from the city centre. The K Club is 40 minutes west of the city, Portmarnock 15 minutes from the airport."]
+    ]
+  },
+  {
+    "slug": "sotogrande",
+    "country": "spain",
+    "name": "Sotogrande & San Roque",
+    "code": "SOT",
+    "status": "live",
+    "featured": true,
+    "image": "/assets/images/regions/sotogrande.webp",
+    "images": ["/assets/images/regions/sotogrande.webp", "/assets/images/courses/la-canada.webp", "/assets/images/courses/the-alto.webp", "/assets/images/hotels/so-sotogrande.webp"],
+    "lede": "Nine 18-hole courses within six kilometres, Valderrama and Real Sotogrande among them, and the Rock of Gibraltar on the horizon.",
+    "intro": [
+      "Sotogrande is Spanish golf at its best. The estate was laid out around Robert Trent Jones Sr's Real Club de Golf Sotogrande in the 1960s and Valderrama, host of the 1997 Ryder Cup, followed. Today nine 18-hole courses sit within about six kilometres: La Cañada, The Alto at SO/ Sotogrande, San Roque Club, La Reserva and the two courses at La Hacienda on the coast at Alcaidesa.",
+      "It is also our home. We are based here, we play these courses every week, and our relationships with the clubs mean we can often arrange access that is hard to get as a visitor. Gibraltar airport is ten minutes from the first tee at La Hacienda; Málaga is about an hour along the coast."
+    ],
+    "stats": [
+      ["10 min", "From Gibraltar airport"],
+      ["60 min", "From Málaga airport"],
+      ["9", "Courses within 6 km"],
+      ["Oct–May", "Peak season"]
+    ],
+    "faqs": [
+      ["Which courses are in the Sotogrande Signature package?", "La Cañada, The Alto, Hacienda Links and Hacienda Heathland over four rounds, with Valderrama, Real Sotogrande, San Roque and La Reserva available as upgrades or in our other Sotogrande packages."],
+      ["Gibraltar or Málaga?", "Gibraltar if there is a direct flight from your airport: it is ten minutes from La Hacienda and twenty from Sotogrande. Málaga has far more flights and is about an hour away by private transfer."],
+      ["What is the weather like in winter?", "Mild. Daytime temperatures of 16 to 20 degrees from November to February are normal, which is why the season runs from October to May. Summer is hot but very playable with early tee times."]
+    ]
+  }
+]

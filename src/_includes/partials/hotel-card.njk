@@ -1,0 +1,10 @@
+{# `hotel` = localised hotel #}
+{%- set TT = t[locale] -%}
+<a class="course-card" href="{{ hotel.url }}">
+  <div class="course-photo" style="background-image:url('{{ hotel.image }}');"><span class="stars">{% for i in range(hotel.stars) %}★{% endfor %}</span></div>
+  <div class="course-body">
+    <div class="eyebrow">{{ hotel.location }}</div>
+    <h4>{{ hotel.name }}</h4>
+    <p>{{ hotel.about | truncate(150) }}</p>
+  </div>
+</a>

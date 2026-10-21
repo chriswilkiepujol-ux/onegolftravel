@@ -1,0 +1,15 @@
+---
+pagination:
+  data: loc.en.packages
+  size: 1
+  alias: pkg
+  addAllPagesToCollections: true
+permalink: "{{ pkg.url }}"
+navActive: packages
+eleventyComputed:
+  translationKey: "packages:{{ pkg.id }}"
+  title: "{% set T = t.en %}{{ T.seo.package.title | fmt({ title: pkg.title, n: pkg.nights, r: pkg.rounds, price: pkg.priceDisplay }) }}{{ T.titleSuffix }}"
+  description: "{% set T = t.en %}{{ T.seo.package.description | fmt({ hotel: pkg.hotelName, location: pkg.location, n: pkg.nights, r: pkg.rounds, board: pkg.board }) }}"
+  ogImage: "{{ pkg.image or pkg.hero }}"
+---
+{% include "pages/package.njk" %}

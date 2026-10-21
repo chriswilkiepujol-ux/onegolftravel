@@ -1,0 +1,68 @@
+{
+  "la-canada": {
+    "summary": "Gereifter Parklandplatz zwischen Korkeichen mit Blick aufs Mittelmeer, bekannt für schnelle Grüns und das beste Preis-Leistungs-Verhältnis in Sotogrande.",
+    "about": "La Cañada wurde von Dave Thomas entworfen, die zweiten Neun stammen von Robert Trent Jones Sr., und der Platz windet sich über dem Guadiaro-Tal durch alten Baumbestand mit Blick aufs Meer. Es ist der Heimatclub von Sotogrande, mit starker Jugendarbeit und einem der freundlichsten Clubhäuser der Gegend, bekannt für schnelle, ehrliche Grüns und faire Greenfees. Eine gute Auftaktrunde für eine Woche in der Region.",
+    "signature": "",
+    "facilities": ["Driving Range mit Rasenabschlägen", "Putting- und Chipping-Grün", "Trolley- und Cartverleih", "Leihschläger", "Pro Shop", "Clubhaus mit Restaurant, Café, Bar und Terrasse", "Spinde und Duschen"]
+  },
+  "hacienda-links": {
+    "summary": "Ein Küstenlinks in Alcaidesa mit Löchern an der Klippenkante, breiten Fairways und großen Grüns, Gibraltar füllt auf den zweiten Neun das Panorama.",
+    "about": "2021 von Kurtis Bowman neu gedacht, ist La Hacienda Links das, was in Südspanien echtem Linksgolf am nächsten kommt. Der Platz verläuft über den Klippen oberhalb des Strands von Alcaidesa bei San Roque, mit breiten Fairways, großen Grüns und Meerblick an fast jedem Loch, und der Felsen von Gibraltar steht die ganze Runde am Horizont. Der Umbau brachte mehr Länge, bessere Drainage und eine deutlich verbesserte Übungsanlage. Zehn Minuten vom Flughafen Gibraltar.",
+    "signature": "",
+    "facilities": ["Driving Range mit über 70 überdachten und Rasenabschlägen", "Putting-Grüns und Kurzspielbereich mit Bunkern", "GPS-Carts", "Leihschläger", "Pro Shop", "Clubhaus und Umkleiden"]
+  },
+  "hacienda-heathland": {
+    "summary": "Der Schwesterplatz des Links in La Hacienda im Landesinneren, ein Heathland-Layout durch Pinien und Korkeichen mit großzügigen Fairways und demselben Meerblick.",
+    "about": "Der Heathland-Platz von La Hacienda liegt am Hang oberhalb des Links und stellt eine andere Aufgabe: baumgesäumte Löcher, Höhenunterschiede und große, gut verteidigte Grüns, mit demselben Panorama über die Straße von Gibraltar bis nach Afrika. Zusammen mit dem Links ergibt er einen hervorragenden 36-Loch-Tag, und er ist meist der ruhigere der beiden.",
+    "signature": "",
+    "facilities": ["Übungsanlage gemeinsam mit dem Links", "Carts und Trolleys", "Leihschläger", "Pro Shop", "Clubhaus und Restaurant"]
+  },
+  "the-alto": {
+    "summary": "27 Löcher in den Hügeln von Sotogrande zwischen Seen, Pinien und Korkeichen, Teil des Fünf-Sterne-Resorts SO/ Sotogrande.",
+    "about": "The Alto, früher Almenara, wurde von Dave Thomas entworfen und 1998 eröffnet, 2021 dann von Ryder-Cup-Spieler Manuel Piñero als Teil des Resorts SO/ Sotogrande umgebaut. Drei Neun-Loch-Schleifen, Lagos, Pinos und Alcornoques, ergeben einen 18-Loch-Platz voller Abwechslung, mit Wasser auf der Lagos-Schleife und engen, baumgesäumten Fairways auf den anderen. 2025 wurde eine Golfakademie eröffnet. Sieben weitere Spitzenplätze liegen keine zehn Minuten entfernt, darunter Real Sotogrande, Valderrama, San Roque und La Hacienda.",
+    "signature": "",
+    "facilities": ["Driving Range mit 27 Abschlägen", "Kurzspielbereiche", "Trolleys und Carts", "Leihschläger", "Pro Shop", "Golfakademie (seit 2025)", "Clubhaus, Restaurants und Spa des SO/ Sotogrande"]
+  },
+  "castle-course": {
+    "summary": "Der jüngste Platz der St Andrews Links, ein Klippenlayout mit Nordseeblick an jedem Loch und einem Par 3 an der 17, das über den Abgrund gespielt wird.",
+    "about": "Der Castle Course wurde 2008 auf den Klippen drei Kilometer südlich von St Andrews eröffnet und ist der siebte Platz der Links-Familie. David McLay Kidd schuf ein dramatisches Layout mit riesigen, welligen Grüns, Blick zurück auf Stadt und Bucht und einer Schlussstrecke entlang der Klippe, darunter die berühmte 17, ein Par 3 über eine Schlucht auf ein Grün am Abgrund.",
+    "signature": "17, Par 3 über die Klippenkante",
+    "facilities": ["Kurzspielbereich", "Clubhaus mit Restaurant und Meerblick", "Cartverleih", "Trolley- und Schlägerverleih", "Pro Shop", "Unterricht und Caddies"]
+  },
+  "eden-course": {
+    "summary": "Harry Colts Links von 1914 am Eden-Ästuar, der verzeihendste der St-Andrews-Plätze und ein Favorit für den ersten Tag.",
+    "about": "Der Eden verläuft am Ästuar nördlich des Old Course und zeigt überall Harry Colts Handschrift: breite Fairways, subtile Neigungen und gut gebunkerte Grüns, die gute Positionierung mehr belohnen als rohe Länge. Er ist der verzeihendste Platz der St Andrews Links und damit der ideale Auftakt für eine Gruppe mit gemischten Handicaps. Links Academy und Übungszentrum liegen direkt nebenan.",
+    "signature": "14, ein kurzes Par 4",
+    "facilities": ["Übungs-Putting-Grün", "Zugang zur St Andrews Links Academy", "Trolley- und Schlägerverleih", "Spinde", "Café"]
+  },
+  "jubilee-course": {
+    "summary": "Die härteste Prüfung in St Andrews, entlang der Dünen am Meer zwischen Old Course und West Sands.",
+    "about": "1897 zum diamantenen Thronjubiläum von Königin Victoria eröffnet und ursprünglich für Anfänger und Damen gedacht, wurde der Jubilee von Donald Steel zu dem umgebaut, was allgemein als anspruchsvollster Platz von St Andrews gilt. Er liegt auf der Meerseite der Links, mit exponierten, welligen Fairways und einer langen Heimstrecke gegen den Wind. Bringen Sie alle Schläge mit.",
+    "signature": "15, ein enges Par 4 am Meer",
+    "facilities": ["Komplette Links-Übungsanlagen", "Trolley- und Schlägerverleih", "Spinde", "Café und Bar in der Nähe"]
+  },
+  "druids-glen": {
+    "summary": "Viermaliger Austragungsort der Irish Open in den Hügeln von Wicklow, wegen seiner Blumen, seines Wassers und seiner makellosen Pflege oft das Augusta Europas genannt.",
+    "about": "Druids Glen richtete von 1996 bis 1999 die Irish Open aus und ist bis heute einer der bestgepflegten Parklandplätze Irlands. Pat Ruddy und Tom Craddock legten ihn durch ein bewaldetes Tal mit Bächen, Seen und einem berühmten Par 3 mit Inselgrün, und die Bepflanzung rund um die 12 und 13 trägt ihm den Augusta-Vergleich ein. Das Resorthotel liegt auf dem Gelände, Fahrten an Golftagen entfallen.",
+    "signature": "13, Par 3 auf ein Inselgrün",
+    "facilities": ["Überdachte Driving Range", "Kurzspielbereich", "Putting-Grün", "Cart- und Elektrotrolley-Verleih", "Premium-Leihschläger", "Clubhaus im Woodstock House aus dem 18. Jahrhundert"]
+  },
+  "druids-heath": {
+    "summary": "Die wildere Schwester von Druids Glen, ein Heathland-Layout durch Steinbrüche und Ginster mit Meerblick und dem Ruf, hart zu sein.",
+    "about": "Pat Ruddy kehrte 2003 nach Druids Glen zurück, um gleich nebenan einen ganz anderen Platz zu bauen. Druids Heath ist lang und exponiert, Ginster, Fels und natürliche Steinbrüche rahmen die Löcher, und von den Anhöhen sieht man die Irische See. Austragungsort der Irish PGA Championship, verlangt vor allem gerade Abschläge. Die 12 ist das Signature Hole.",
+    "signature": "12",
+    "facilities": ["Driving Range", "Drei-Loch-Kurzplatz", "Pro Shop", "Clubhaus mit Bar und Küche", "Umkleiden"]
+  },
+  "k-club-palmer-north": {
+    "summary": "Austragungsort des Ryder Cup 2006 und der Irish Open 2016 und 2023, Arnold Palmers Parklandplatz am River Liffey in der Grafschaft Kildare.",
+    "about": "Der Palmer North Course des K Club ist der berühmteste Parklandplatz Irlands. Arnold Palmer legte ihn 1991 am River Liffey an, Europa gewann hier 2006 den Ryder Cup, und die Irish Open kehrte 2016 und 2023 zurück. Wasser spielt an der Hälfte der Löcher mit, darunter das Par 3 an der 8, das den Fluss neben einer 175 Jahre alten Fußgängerbrücke quert. Der 2003 eröffnete Palmer South ist der zweite Platz des Anwesens.",
+    "signature": "8, Par 3 über den Liffey",
+    "facilities": ["Driving Range und Übungsakademie", "Carts, Trolleys und Caddies", "Leihschläger", "Pro Shop", "Clubhaus-Restaurant und Bar", "Hotel und Spa des K Club auf dem Gelände"]
+  },
+  "portmarnock-links": {
+    "summary": "Ein echter Links auf der Halbinsel Portmarnock, fünfzehn Minuten vom Flughafen Dublin, entworfen von Bernhard Langer, mit dem Hotel direkt am Platz.",
+    "about": "Bernhard Langers Links in Portmarnock verläuft durch die Dünen am Velvet Strand, direkt neben dem berühmten Portmarnock Golf Club. Ein echter Links mit festen Fairways, Seebrise und tiefen, verschalten Bunkern, und weil das Hotel neben dem ersten Abschlag steht, ist er einer der am einfachsten zu bereisenden großen Plätze Irlands. Der Flughafen Dublin liegt fünfzehn Minuten entfernt.",
+    "signature": "",
+    "facilities": ["Driving Range", "Putting-Grün", "Carts und Trolleys", "Leihschläger", "Pro Shop", "Hotel, Spa und Restaurants auf dem Gelände"]
+  }
+}

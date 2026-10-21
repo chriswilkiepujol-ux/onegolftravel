@@ -1,0 +1,203 @@
+{
+  "sotogrande-signature": {
+    "slug": "sotogrande-signature",
+    "title": "Sotogrande Signature",
+    "location": "San Roque y Sotogrande, Cádiz",
+    "board": "Alojamiento y desayuno",
+    "includes": [
+      "5 noches en INMOOD San Roque con desayuno, por persona en habitación doble compartida",
+      "4 rondas: La Cañada, The Alto, Hacienda Links y Hacienda Heathland",
+      "Conserjería 24 horas de nuestro equipo en Sotogrande",
+      "Horas de salida confirmadas antes de viajar",
+      "Vuelos desde Málaga, Sevilla, Jerez o Gibraltar bajo petición"
+    ],
+    "itinerary": [
+      { "day": "Día 1", "text": "Llegada a Málaga o Gibraltar, traslado a INMOOD San Roque e instalación." },
+      { "day": "Día 2", "text": "La Cañada, el club local de Sotogrande, para abrir con suavidad sobre greens rápidos." },
+      { "day": "Día 3", "text": "The Alto en SO/ Sotogrande, 27 hoyos en las colinas con almuerzo en el resort." },
+      { "day": "Día 4", "text": "Hacienda Links sobre los acantilados de Alcaidesa, con Gibraltar a la vista toda la vuelta." },
+      { "day": "Día 5", "text": "Hacienda Heathland, el hermano interior y más tranquilo, y última tarde en el puerto de Sotogrande." },
+      { "day": "Día 6", "text": "Traslado al aeropuerto y vuelo de vuelta." }
+    ],
+    "aboutHotel": "Un resort moderno de cuatro estrellas entre jardines, entre San Roque y Sotogrande, con más de 130 habitaciones, tres sitios donde comer y beber, una gran piscina exterior y gimnasio. La Hacienda y San Roque Club están a minutos y el hotel gestiona el alquiler de palos y carros.",
+    "note": "El transporte no está incluido. A partir de seis golfistas, un traslado privado de grupo suele salir más barato que alquilar coches, unos 90 a 120 € por persona para la semana con base en ocho golfistas con palos. Hay versión de 7 noches con dos rondas más bajo petición."
+  },
+  "sotogrande-value": {
+    "slug": "sotogrande-value",
+    "title": "Sotogrande Value",
+    "location": "Sotogrande, Cádiz",
+    "board": "Alojamiento y desayuno",
+    "includes": [
+      "5 noches en el Hotel Encinar de Sotogrande con desayuno, por persona en habitación compartida",
+      "4 rondas: La Cañada dos veces, Hacienda Links y Hacienda Heathland",
+      "Conserjería de golf en el hotel, alquiler de palos y carros disponible",
+      "Horas de salida confirmadas antes de viajar"
+    ],
+    "itinerary": [
+      { "day": "Día 1", "text": "Llegada y traslado al Encinar, dentro de la urbanización de Sotogrande." },
+      { "day": "Día 2", "text": "La Cañada, a cinco minutos del hotel." },
+      { "day": "Día 3", "text": "Hacienda Heathland, sobre la costa de Alcaidesa." },
+      { "day": "Día 4", "text": "Hacienda Links, el campo del acantilado con Gibraltar en el horizonte." },
+      { "day": "Día 5", "text": "Vuelta a La Cañada para la competición del grupo, con entrega de premios en el bar del hotel." },
+      { "day": "Día 6", "text": "Traslado al aeropuerto." }
+    ],
+    "aboutHotel": "Un cuatro estrellas de estilo andaluz tradicional dentro de Sotogrande, con habitaciones con vistas al jardín o al golf, restaurante mediterráneo, bar con terraza, piscina exterior y pistas de tenis. Valderrama, La Cañada y The Alto están a pocos minutos.",
+    "note": "Transporte no incluido; traslados privados de grupo desde unos 90 € por persona para la semana. El precio es orientativo y se confirma en el presupuesto."
+  },
+  "sotogrande-luxury": {
+    "slug": "sotogrande-lujo-so",
+    "title": "Sotogrande Lujo en SO/",
+    "location": "Sotogrande, Cádiz",
+    "board": "Alojamiento y desayuno",
+    "includes": [
+      "5 noches en SO/ Sotogrande con desayuno, por persona en habitación compartida",
+      "4 rondas: The Alto dos veces, Hacienda Links y La Cañada",
+      "Buggies en The Alto y acceso al spa durante toda la estancia",
+      "Conserjería 24 horas",
+      "Valderrama o Real Sotogrande como ronda de mejora, según disponibilidad"
+    ],
+    "itinerary": [
+      { "day": "Día 1", "text": "Llegada y traslado a SO/ Sotogrande, en las colinas sobre la urbanización." },
+      { "day": "Día 2", "text": "The Alto, directamente desde el hotel, recorridos Lagos y Pinos." },
+      { "day": "Día 3", "text": "Hacienda Links en la costa, con almuerzo en la casa club mirando a Gibraltar." },
+      { "day": "Día 4", "text": "La Cañada, y tarde de spa." },
+      { "day": "Día 5", "text": "The Alto de nuevo por el recorrido Alcornoques, o ronda de mejora en Valderrama si se ha reservado." },
+      { "day": "Día 6", "text": "Traslado al aeropuerto." }
+    ],
+    "aboutHotel": "El cinco estrellas de Sotogrande, con interiores de diseño, cuatro restaurantes y bares, un spa de 3.500 metros cuadrados, tres piscinas exteriores y el campo The Alto en el propio resort, con buggies, caddies y conserjería.",
+    "note": "El precio es orientativo y se confirma en el presupuesto. Traslados de lujo disponibles a través del hotel."
+  },
+  "st-andrews-signature": {
+    "slug": "st-andrews-signature",
+    "title": "St Andrews Signature",
+    "location": "St Andrews, Fife",
+    "board": "Alojamiento y desayuno",
+    "includes": [
+      "5 noches en el Drumoig Hotel con desayuno, por persona en habitación doble compartida",
+      "Rondas en los campos Castle, Eden y Jubilee de St Andrews Links",
+      "Golf Ilimitado: salida diaria garantizada, incluidos los campos Torrance y Kittocks",
+      "60 bolas de prácticas gratis en las instalaciones de St Andrews Links",
+      "Conserjería 24 horas",
+      "Inscripción en el sorteo del Old Course gestionada para el grupo"
+    ],
+    "itinerary": [
+      { "day": "Día 1", "text": "Llegada a Edimburgo, Glasgow, Dundee o Aberdeen y traslado a Drumoig." },
+      { "day": "Día 2", "text": "El Castle Course, golf sobre el acantilado con el pueblo al otro lado de la bahía." },
+      { "day": "Día 3", "text": "El Eden Course, el links amable de Harry Colt junto al estuario." },
+      { "day": "Día 4", "text": "El Jubilee Course, el examen más duro de St Andrews." },
+      { "day": "Día 5", "text": "Golf ilimitado: el Torrance o el Kittocks en el Fairmont, o el Old Course si sale el sorteo." },
+      { "day": "Día 6", "text": "Vuelo de vuelta desde uno de los cuatro aeropuertos." }
+    ],
+    "aboutHotel": "Un hotel de campo acogedor a diez minutos de St Andrews, con 29 habitaciones, su propio campo de 18 hoyos y campo de prácticas, y restaurante con bar para las noches. Cómodo y a buen precio, lo que mantiene el paquete centrado en el golf.",
+    "note": "El transporte no está incluido. A partir de seis golfistas, un traslado privado suele salir a cuenta, unos 90 a 120 € por persona para la semana con base en ocho golfistas con palos. Horas garantizadas en el Old Course disponibles bajo petición con coste adicional."
+  },
+  "st-andrews-fairmont": {
+    "slug": "st-andrews-lujo-fairmont",
+    "title": "St Andrews Lujo en el Fairmont",
+    "location": "St Andrews, Fife",
+    "board": "Alojamiento y desayuno",
+    "includes": [
+      "5 noches en el Fairmont St Andrews con desayuno, por persona en habitación compartida",
+      "Rondas en los campos Torrance y Kittocks del resort",
+      "Rondas en los campos Castle y Jubilee de St Andrews Links",
+      "Acceso al spa y lanzadera del resort a St Andrews",
+      "Conserjería 24 horas e inscripción en el sorteo del Old Course"
+    ],
+    "itinerary": [
+      { "day": "Día 1", "text": "Llegada y traslado al Fairmont, en los acantilados al sur del pueblo." },
+      { "day": "Día 2", "text": "El Torrance, el campo clasificatorio del Open del resort." },
+      { "day": "Día 3", "text": "El Castle Course, a un corto trayecto por la costa." },
+      { "day": "Día 4", "text": "El Kittocks, con la tarde en el spa." },
+      { "day": "Día 5", "text": "El Jubilee, o el Old Course si sale el sorteo." },
+      { "day": "Día 6", "text": "Vuelo de vuelta." }
+    ],
+    "aboutHotel": "Un resort de cinco estrellas sobre los acantilados con 211 habitaciones, dos campos de campeonato en la finca, spa completo, piscina interior y varios restaurantes, a pocos minutos del pueblo y de los Links.",
+    "note": "El precio es orientativo y se confirma en el presupuesto. Horas garantizadas en el Old Course bajo petición."
+  },
+  "st-andrews-town": {
+    "slug": "st-andrews-escapada-centro",
+    "title": "Escapada a St Andrews centro",
+    "location": "Centro de St Andrews",
+    "board": "Alojamiento y desayuno",
+    "includes": [
+      "3 noches en el Greyfriars Hotel de North Street con desayuno, por persona en habitación compartida",
+      "3 rondas: los campos Eden, Jubilee y Castle",
+      "Al primer tee andando, sin coches en el pueblo",
+      "Inscripción en el sorteo del Old Course gestionada para el grupo"
+    ],
+    "itinerary": [
+      { "day": "Día 1", "text": "Llegada, check-in en North Street y paseo hasta los Links para jugar el Eden." },
+      { "day": "Día 2", "text": "El Jubilee por la mañana, los pubs de St Andrews por la noche." },
+      { "day": "Día 3", "text": "Lanzadera al Castle Course, o el Old Course si sale el sorteo." },
+      { "day": "Día 4", "text": "Vuelo de vuelta desde Edimburgo." }
+    ],
+    "aboutHotel": "Un hotel boutique en el centro de St Andrews con más de 20 habitaciones y un restaurante y bar muy populares, a pocos minutos a pie del Old Course y del Links Clubhouse.",
+    "note": "El precio es orientativo y se confirma en el presupuesto. Un formato de fin de semana largo que funciona muy bien para grupos que llegan el viernes."
+  },
+  "dublin-signature": {
+    "slug": "dublin-signature",
+    "title": "Dublín Signature",
+    "location": "Wicklow y Kildare, a 40 minutos de Dublín",
+    "board": "Alojamiento y desayuno",
+    "includes": [
+      "5 noches en el Druids Glen Hotel & Golf Resort, por persona en habitación doble compartida",
+      "4 rondas: Druids Glen, Druids Heath, Wicklow Golf Club y The K Club Palmer North",
+      "Dos campos en el propio resort, sin desplazamientos en tres de los días de golf",
+      "Acceso completo al spa y al circuito termal del resort",
+      "Conserjería 24 horas"
+    ],
+    "itinerary": [
+      { "day": "Día 1", "text": "Llegada a Dublín y traslado a Druids Glen, en las colinas de Wicklow." },
+      { "day": "Día 2", "text": "Druids Glen, el Augusta de Europa, desde la puerta del hotel." },
+      { "day": "Día 3", "text": "Druids Heath, el hermano salvaje de al lado." },
+      { "day": "Día 4", "text": "Wicklow Golf Club, sobre los acantilados del mar de Irlanda." },
+      { "day": "Día 5", "text": "The K Club, Palmer North, el campo de la Ryder Cup de 2006." },
+      { "day": "Día 6", "text": "Traslado al aeropuerto de Dublín y vuelo de vuelta." }
+    ],
+    "aboutHotel": "Un resort de cinco estrellas en una finca con 145 habitaciones y suites, el gastronómico Hugo's, The Garden Rooms, bar con terraza y un spa con circuito termal, piscina interior y gimnasio. Los dos campos Druids están en la finca, con Powerscourt, las montañas de Wicklow y Glendalough cerca.",
+    "note": "El transporte no está incluido. A partir de seis golfistas suele compensar un conductor privado toda la semana, unos 90 a 120 € por persona con base en ocho golfistas con palos."
+  },
+  "dublin-woodstock": {
+    "slug": "woodstock-house-exclusivo",
+    "title": "Woodstock House en exclusiva",
+    "location": "Resort Druids Glen, condado de Wicklow",
+    "board": "Alojamiento y desayuno",
+    "includes": [
+      "4 noches con uso exclusivo de Woodstock House para grupos de hasta 18",
+      "4 rondas: Druids Glen dos veces, Druids Heath y The K Club Palmer North",
+      "Cena privada en la casa cada noche",
+      "Acceso completo al spa del resort Druids Glen",
+      "Conserjería 24 horas"
+    ],
+    "itinerary": [
+      { "day": "Día 1", "text": "Llegada, la casa es vuestra. Cena de bienvenida en el comedor privado." },
+      { "day": "Día 2", "text": "Druids Glen, directamente desde la casa." },
+      { "day": "Día 3", "text": "Druids Heath." },
+      { "day": "Día 4", "text": "The K Club, Palmer North, con la final del grupo en Druids Glen a la mañana siguiente." },
+      { "day": "Día 5", "text": "Ronda final en Druids Glen y traslado al aeropuerto." }
+    ],
+    "aboutHotel": "Una casa de campo de estilo georgiano dentro de la finca de Druids Glen, con nueve habitaciones y suites, dos de ellas panorámicas sobre los dos campos, comedor privado y acceso completo al resort.",
+    "note": "El precio es orientativo y se confirma en el presupuesto. El uso exclusivo depende del tamaño del grupo."
+  },
+  "dublin-portmarnock": {
+    "slug": "portmarnock-links-y-ciudad",
+    "title": "Portmarnock Links y ciudad",
+    "location": "Portmarnock, a 15 minutos del aeropuerto de Dublín",
+    "board": "Alojamiento y desayuno",
+    "includes": [
+      "4 noches en el Portmarnock Hotel & Golf Links con desayuno, por persona en habitación compartida",
+      "3 rondas: Portmarnock Links dos veces y The K Club Palmer North",
+      "Links a la puerta, Dublín a 15 minutos",
+      "Acceso al spa y conserjería 24 horas"
+    ],
+    "itinerary": [
+      { "day": "Día 1", "text": "Aterrizaje en Dublín, quince minutos al hotel y primera ronda en el links esa misma tarde." },
+      { "day": "Día 2", "text": "The K Club, Palmer North." },
+      { "day": "Día 3", "text": "Día libre en Dublín, o ronda alternativa en The Island bajo petición." },
+      { "day": "Día 4", "text": "Portmarnock Links de nuevo para la final del grupo." },
+      { "day": "Día 5", "text": "Traslado al aeropuerto." }
+    ],
+    "aboutHotel": "Un resort costero de cuatro estrellas en Velvet Strand con 137 habitaciones, The Bay Restaurant, el Cliff Lounge y un spa con piscina interior, y el links de Bernhard Langer junto al primer tee.",
+    "note": "El precio es orientativo y se confirma en el presupuesto."
+  }
+}

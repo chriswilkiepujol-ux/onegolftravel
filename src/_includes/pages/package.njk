@@ -1,0 +1,64 @@
+{#- Package page. `pkg` = localised package -#}
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set TP = T.packages -%}
+{% set country = D.countries | findCountry(pkg.country) %}
+{% set region = D.regions | findRegion(pkg.region) %}
+{% set hotel = D.hotels | findHotel(pkg.hotel) %}
+{% set courses = D.courses | coursesBySlugs(pkg.courses) %}
+{% set related = D.packages | relatedPackages(pkg, 3) %}
+{%- set tierLabel = { best: T.common.tierBest, popular: T.common.tierPopular, value: T.common.tierValue }[pkg.tier] -%}
+
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [country.name, country.url], [region.name, region.url], [pkg.title, null]] %}{% include "partials/breadcrumb.njk" %}
+    <div class="eyebrow">{{ pkg.code }} · {{ T.common.nightsRounds | fmt({ n: pkg.nights, r: pkg.rounds }) }}{% if tierLabel %} · <span class="tier-inline tier-{{ pkg.tier }}">{{ tierLabel }}</span>{% endif %}</div>
+    <h1>{{ pkg.title }}</h1>
+    <p class="lede">{{ pkg.hotelName }} {% for i in range(pkg.stars) %}★{% endfor %} · {{ pkg.location }} · {{ pkg.board }}</p>
+  </div>
+</section>
+
+<section class="sec" style="padding-top:0;">
+  <div class="wrap product-layout">
+    <div>
+      {% set images = pkg.images %}{% set galleryAlt = pkg.title %}{% include "partials/gallery.njk" %}
+
+      <h2 class="h-sm">{{ TP.included }}</h2>
+      <ul class="check-list">{% for item in pkg.includes %}<li>{{ item }}</li>{% endfor %}</ul>
+
+      <h2 class="h-sm">{{ TP.dayByDay }}</h2>
+      <ol class="itinerary">{% for step in pkg.itinerary %}<li><span class="it-day">{{ step.day }}</span><span>{{ step.text }}</span></li>{% endfor %}</ol>
+
+      {% if courses.length %}
+      <h2 class="h-sm">{{ TP.coursesTitle }}</h2>
+      <div class="course-grid course-grid--compact">{% for course in courses %}{% include "partials/course-card.njk" %}{% endfor %}</div>
+      {% endif %}
+
+      <h2 class="h-sm">{{ TP.theHotel }}</h2>
+      <div class="hotel-strip">
+        {% if hotel %}<a href="{{ hotel.url }}" class="hotel-strip-photo" style="background-image:url('{{ hotel.image }}');" aria-label="{{ hotel.name }}"></a>{% endif %}
+        <div><h4>{{ pkg.hotelName }} <span class="stars-inline">{% for i in range(pkg.stars) %}★{% endfor %}</span></h4><p>{{ pkg.aboutHotel }}</p>{% if hotel %}<a href="{{ hotel.url }}" class="link-accent">{{ TP.fullDetails }}</a>{% endif %}</div>
+      </div>
+
+      {% if pkg.note %}
+      <h2 class="h-sm">{{ TP.goodToKnow }}</h2>
+      <p class="prose">{{ pkg.note }}</p>
+      {% endif %}
+    </div>
+
+    <aside class="enquiry-card">
+      <div class="price-line">{{ TP.priceLine | fmt({ price: pkg.priceDisplay }) | safe }}</div>
+      <div class="price-note">{{ TP.priceNote | fmt({ n: pkg.nights, r: pkg.rounds }) }}{% if pkg.priceStatus == 'placeholder' %} · {{ T.common.indicative }}{% endif %}</div>
+      <h3>{{ TP.quoteTitle }}</h3>
+      <p class="enquiry-sub">{{ TP.quoteSub }}</p>
+      {% include "partials/quote-form.njk" %}
+    </aside>
+  </div>
+</section>
+
+{% if related.length %}
+<section class="sec sec-stone">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ TP.alsoLike }}</div><h2>{{ TP.otherTrips }}</h2></div></div>
+    <div class="tickets-grid reveal">{% for pkg in related %}{% include "partials/package-card.njk" %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}

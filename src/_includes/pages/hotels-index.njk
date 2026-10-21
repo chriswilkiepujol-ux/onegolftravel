@@ -1,0 +1,16 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set TH = T.hotels -%}
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TH.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TH.h1 }}</h1><p class="lede">{{ TH.lede }}</p>
+  </div>
+</section>
+{% for c in D.countries %}{% set hs = D.hotels | hotelsForCountry(c.id) %}{% if hs.length %}
+<section class="sec{% if loop.index % 2 == 0 %} sec-stone{% endif %}" style="{% if loop.first %}padding-top:0;{% endif %}">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ c.flag }} {{ c.name }}</div><h2>{{ T.destinations.hotelsIn | fmt({ name: c.name }) }}</h2></div></div>
+    <div class="course-grid reveal">{% for hotel in hs %}{% include "partials/hotel-card.njk" %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}{% endfor %}
+{% set ctaTitle = T.home.ctaTitle %}{% set ctaText = T.home.ctaText %}{% include "partials/cta-band.njk" %}

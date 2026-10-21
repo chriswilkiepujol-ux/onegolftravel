@@ -1,0 +1,68 @@
+{
+  "la-canada": {
+    "summary": "Parkland maduro entre alcornoques con vistas al Mediterráneo, famoso por sus greens rápidos y por ser la mejor relación calidad-precio de Sotogrande.",
+    "about": "La Cañada lo diseñó Dave Thomas, con los segundos nueve de Robert Trent Jones Sr., y serpentea entre árboles adultos sobre el valle del Guadiaro con vistas al mar. Es el club local de Sotogrande, con una cantera juvenil potente y una de las casas club más acogedoras de la zona, y es conocido por sus greens rápidos y fieles y por unos green fees razonables. Una buena ronda de apertura para una semana en la zona.",
+    "signature": "",
+    "facilities": ["Campo de prácticas con tees de hierba", "Putting green y zona de approach", "Alquiler de carros y buggies", "Alquiler de palos", "Tienda", "Casa club con restaurante, cafetería, bar y terraza", "Taquillas y duchas"]
+  },
+  "hacienda-links": {
+    "summary": "Un links costero en Alcaidesa con hoyos al borde del acantilado, calles anchas y greens grandes, con Gibraltar llenando la vista en los segundos nueve.",
+    "about": "Reinventado por Kurtis Bowman en 2021, La Hacienda Links es lo más parecido a un links de verdad en el sur de España. El recorrido va por los acantilados sobre la playa de Alcaidesa, cerca de San Roque, con calles anchas, greens amplios y vistas al mar en casi todos los hoyos, y el Peñón de Gibraltar en el horizonte durante toda la vuelta. La remodelación añadió longitud, mejor drenaje y una zona de prácticas muy mejorada. A diez minutos del aeropuerto de Gibraltar.",
+    "signature": "",
+    "facilities": ["Campo de prácticas con más de 70 puestos cubiertos y de hierba", "Putting greens y zona de juego corto con bunkers", "Buggies con GPS", "Alquiler de palos", "Tienda", "Casa club y vestuarios"]
+  },
+  "hacienda-heathland": {
+    "summary": "El hermano interior del Links en La Hacienda, un recorrido estilo heathland entre pinos y alcornoques con calles generosas y las mismas vistas al mar.",
+    "about": "El Heathland de La Hacienda está en la ladera sobre el Links y plantea un reto distinto: hoyos entre árboles, cambios de nivel y greens grandes y bien defendidos, con las mismas vistas panorámicas sobre el Estrecho hacia Gibraltar y África. Jugado junto con el Links es un día de 36 hoyos excelente, y suele ser el más tranquilo de los dos.",
+    "signature": "",
+    "facilities": ["Zona de prácticas compartida con el Links", "Buggies y carros", "Alquiler de palos", "Tienda", "Casa club y restaurante"]
+  },
+  "the-alto": {
+    "summary": "27 hoyos en las colinas de Sotogrande entre lagos, pinos y alcornoques, parte del resort de cinco estrellas SO/ Sotogrande.",
+    "about": "The Alto, antes Almenara, lo diseñó Dave Thomas y abrió en 1998; en 2021 lo remodeló el jugador de Ryder Cup Manuel Piñero como parte del resort SO/ Sotogrande. Tres recorridos de nueve hoyos, Lagos, Pinos y Alcornoques, se combinan en un 18 hoyos de mucha variedad, con agua en los hoyos de Lagos y calles estrechas entre árboles en los demás. En 2025 abrió una academia de golf. Otros siete campos de primera están a menos de diez minutos, incluidos Real Sotogrande, Valderrama, San Roque y La Hacienda.",
+    "signature": "",
+    "facilities": ["Campo de prácticas de 27 puestos", "Zonas de juego corto", "Carros y buggies", "Alquiler de palos", "Tienda", "Academia de golf (desde 2025)", "Casa club, restaurantes y spa de SO/ Sotogrande"]
+  },
+  "castle-course": {
+    "summary": "El más nuevo de los campos de St Andrews Links, un recorrido sobre los acantilados con vistas al Mar del Norte en todos los hoyos y un par 3, el 17, jugado sobre el borde.",
+    "about": "El Castle Course abrió en 2008 en los acantilados a tres kilómetros al sur de St Andrews y es el séptimo campo de la familia Links. David McLay Kidd trazó un recorrido espectacular con greens enormes y ondulados, vistas al pueblo y a la bahía, y una serie final de hoyos por el acantilado que incluye el famoso 17, un par 3 jugado sobre un barranco hacia un green al borde del precipicio.",
+    "signature": "El 17, par 3 sobre el borde del acantilado",
+    "facilities": ["Zona de juego corto", "Casa club con restaurante con vistas al mar", "Alquiler de buggies", "Alquiler de carros y palos", "Tienda", "Clases y caddies"]
+  },
+  "eden-course": {
+    "summary": "El links de Harry Colt de 1914 junto al estuario del Eden, el más amable de los campos de St Andrews y favorito para el primer día.",
+    "about": "El Eden discurre junto al estuario al norte del Old Course y lleva la firma de Harry Colt en todo el recorrido: calles anchas, pendientes sutiles y greens bien protegidos por bunkers que premian la buena colocación por encima de la fuerza. Es el más benévolo de los campos de St Andrews Links, lo que lo convierte en una apertura ideal para un grupo con hándicaps variados. La Links Academy y el centro de prácticas están al lado.",
+    "signature": "El 14, un par 4 corto",
+    "facilities": ["Putting green de prácticas", "Acceso a la St Andrews Links Academy", "Alquiler de carros y palos", "Taquillas", "Cafetería"]
+  },
+  "jubilee-course": {
+    "summary": "El examen más duro de St Andrews, entre las dunas junto al mar, entre el Old Course y la playa de West Sands.",
+    "about": "Inaugurado en 1897 para conmemorar el Jubileo de Diamante de la reina Victoria y pensado en origen para principiantes y señoras, el Jubilee fue remodelado por Donald Steel hasta convertirse en el campo más exigente de St Andrews, según opinión general. Está en el lado del mar de los links, con calles expuestas y onduladas y una larga vuelta a casa contra el viento. Traed todos los golpes de la bolsa.",
+    "signature": "El 15, un par 4 estrecho junto al mar",
+    "facilities": ["Instalaciones completas de prácticas de links", "Alquiler de carros y palos", "Taquillas", "Cafetería y bar cerca"]
+  },
+  "druids-glen": {
+    "summary": "Cuatro veces sede del Irish Open en las colinas de Wicklow, conocido como el Augusta de Europa por sus flores, su agua y su mantenimiento impecable.",
+    "about": "Druids Glen acogió el Irish Open de 1996 a 1999 y sigue siendo uno de los parkland mejor cuidados de Irlanda. Pat Ruddy y Tom Craddock lo trazaron por una cañada boscosa con arroyos, lagos y un famoso par 3 con green en isla, y la vegetación alrededor del 12 y el 13 le ha ganado la comparación con Augusta. El hotel del resort está en el propio recinto, así que no hay desplazamientos los días de golf.",
+    "signature": "El 13, par 3 a un green en isla",
+    "facilities": ["Campo de prácticas cubierto", "Zona de juego corto", "Putting green", "Alquiler de buggies y carros eléctricos", "Palos de alquiler premium", "Casa club en la Woodstock House del siglo XVIII"]
+  },
+  "druids-heath": {
+    "summary": "La hermana salvaje de Druids Glen, un recorrido heathland entre canteras y tojo con vistas al mar y fama de duro.",
+    "about": "Pat Ruddy volvió a Druids Glen en 2003 para construir un campo muy distinto al lado. Druids Heath es largo y expuesto, con tojo, roca y canteras naturales enmarcando los hoyos y el mar de Irlanda a la vista desde las zonas altas. Ha acogido el Irish PGA Championship y exige, sobre todo, salidas rectas. El 12 es el hoyo emblemático.",
+    "signature": "El 12",
+    "facilities": ["Campo de prácticas", "Campo corto de tres hoyos", "Tienda", "Casa club con bar y comida", "Vestuarios"]
+  },
+  "k-club-palmer-north": {
+    "summary": "Sede de la Ryder Cup de 2006 y de los Irish Open de 2016 y 2023, el parkland de Arnold Palmer junto al río Liffey, en el condado de Kildare.",
+    "about": "El Palmer North de The K Club es el parkland más famoso de Irlanda. Arnold Palmer lo trazó junto al río Liffey en 1991, Europa ganó aquí la Ryder Cup de 2006 y el Irish Open volvió en 2016 y 2023. El agua entra en juego en la mitad de los hoyos, incluido el par 3 del 8, que cruza el río junto a una pasarela de 175 años. El Palmer South, abierto en 2003, es el segundo campo de la finca.",
+    "signature": "El 8, par 3 cruzando el Liffey",
+    "facilities": ["Campo de prácticas y academia", "Buggies, carros y caddies", "Alquiler de palos", "Tienda", "Restaurante y bar en la casa club", "Hotel y spa de The K Club en el recinto"]
+  },
+  "portmarnock-links": {
+    "summary": "Un links auténtico en la península de Portmarnock, a quince minutos del aeropuerto de Dublín, diseñado por Bernhard Langer y con el hotel en el propio campo.",
+    "about": "El links de Bernhard Langer en Portmarnock discurre entre las dunas de Velvet Strand, junto al famoso Portmarnock Golf Club. Es un links de verdad, con calles firmes, brisa marina y bunkers profundos de pared revestida, y como el hotel está junto al primer tee es uno de los grandes campos de Irlanda más fáciles para organizar un viaje. El aeropuerto de Dublín está a quince minutos.",
+    "signature": "",
+    "facilities": ["Campo de prácticas", "Putting green", "Buggies y carros", "Alquiler de palos", "Tienda", "Hotel, spa y restaurantes en el recinto"]
+  }
+}

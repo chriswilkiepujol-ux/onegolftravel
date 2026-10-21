@@ -1,0 +1,16 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set TA = T.about -%}
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TA.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TA.h1 }}</h1><p class="lede">{{ TA.lede }}</p>
+  </div>
+</section>
+<section class="sec" style="padding-top:0;">
+  <div class="wrap about-grid">
+    <div class="about-media reveal"><img src="/assets/images/regions/sotogrande.webp" alt="" loading="lazy" style="border-radius:20px;"></div>
+    <div class="prose reveal"><p>{{ TA.p1 }}</p><p>{{ TA.p2 }}</p><p>{{ TA.p3 }}</p>
+      <div class="footer-iagto" style="margin-top:18px;"><img src="/assets/images/brand/iagto.png" alt="IAGTO" width="120"><span>{{ T.footer.iagto }}</span></div>
+    </div>
+  </div>
+</section>
+{% set ctaTitle = T.home.ctaTitle %}{% set ctaText = T.home.ctaText %}{% include "partials/cta-band.njk" %}

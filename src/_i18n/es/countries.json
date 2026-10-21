@@ -1,0 +1,80 @@
+{
+  "scotland": {
+    "slug": "escocia",
+    "name": "Escocia",
+    "lede": "La cuna del golf. Links que se juegan desde hace siglos, el sorteo del Old Course y tres regiones a menos de dos horas de los aeropuertos de Edimburgo y Glasgow.",
+    "intro": [
+      "No hay ningún lugar en el mundo como Escocia para jugar al golf. Aquí nació el juego y aquí sigue más vivo que en ningún sitio: links azotados por el viento a lo largo de la costa, pot bunkers que se han tragado carreras enteras y casas club donde la historia está en las paredes y no en un folleto.",
+      "Trabajamos Escocia en tres regiones. St Andrews y el Reino de Fife por el Old Course y sus hermanos, Edimburgo y East Lothian por la Golf Coast, y la costa oeste y Ayrshire por los links del Open como Troon y Turnberry. Cada una funciona como base para un viaje de 5 a 7 noches, y los grupos más golfistas combinan dos."
+    ],
+    "faqs": [
+      ["¿Podéis meternos en el Old Course?", "Sí. Montamos paquetes con hora de salida garantizada en el Old Course o acompañamos a vuestro grupo en el sorteo, que se abre cada agosto para el año siguiente. Nuestra opción Golf Ilimitado garantiza una salida diaria en los otros campos de St Andrews Links pase lo que pase en el sorteo."],
+      ["¿Cuándo es la mejor época para jugar en Escocia?", "De mayo a septiembre hay más horas de luz y más probabilidades de buen tiempo; junio y julio son los meses más llenos. Abril y octubre son más tranquilos y bastante más baratos, y los links drenan tan bien que el golf de invierno es perfectamente jugable para los valientes."],
+      ["¿A qué aeropuerto volamos?", "Edimburgo para St Andrews y East Lothian; Glasgow o Prestwick para Ayrshire y la costa oeste. Aberdeen, Dundee e Inverness sirven para viajes a las Highlands y el noreste. Dinos desde dónde salís y os proponemos la ruta más sencilla."]
+    ]
+  },
+  "ireland": {
+    "slug": "irlanda",
+    "name": "Irlanda",
+    "lede": "Parkland de campeonato a una hora de Dublín, links salvajes en la costa y una acogida que convierte un viaje de golf en el que vuestro grupo recordará durante años.",
+    "intro": [
+      "Irlanda es uno de los grandes destinos de golf de verano y ahora mismo ofrece una relación calidad-precio excelente. Dublín es la base natural: sedes de la Ryder Cup, campos del Irish Open y links auténticos a menos de una hora de la ciudad, con los pubs y restaurantes de la capital esperando al final del día.",
+      "Nuestros paquetes de Dublín y Wicklow combinan Druids Glen, Druids Heath y The K Club con resorts construidos alrededor del golf. Más allá de Dublín organizamos el suroeste y la costa norte bajo petición, y encantados montamos un viaje con dos bases."
+    ],
+    "faqs": [
+      ["¿Cuándo ir a Irlanda?", "De mayo a septiembre es la temporada alta. Los campos están en su mejor momento y las tardes son largas. Septiembre y principios de octubre son más tranquilos y a menudo más baratos, y con el clima suave de Irlanda los links se juegan casi todo el año."],
+      ["¿Pueden venir acompañantes que no juegan?", "Sí. Dublín es una ciudad estupenda para unos días, y organizamos itinerarios paralelos con visitas a la ciudad, días de spa o excursiones a Wicklow y Glendalough mientras los golfistas juegan."],
+      ["¿Cómo funciona el transporte?", "La mayoría de los grupos lleva un conductor privado toda la semana. A partir de seis golfistas suele salir más barato que alquilar coches y nadie tiene que renunciar a la Guinness. También organizamos coches de alquiler si preferís conducir."]
+    ]
+  },
+  "england": {
+    "slug": "inglaterra",
+    "name": "Inglaterra",
+    "lede": "Links del Open en el noroeste, los clásicos de heathland de Surrey y Berkshire, y acceso fácil desde todos los grandes aeropuertos.",
+    "intro": [
+      "Inglaterra concentra una cantidad enorme de golf en poco espacio. Solo la costa de Lancashire tiene Royal Birkdale, Royal Lytham y Hillside a pocos minutos unos de otros, y los campos de heathland de Surrey, alrededor de Sunningdale y Wentworth, están a veinte minutos de Heathrow.",
+      "Estamos preparando nuestros primeros paquetes de Inglaterra. Mientras tanto organizamos viajes bajo petición: dinos tus fechas y los campos de tu lista y te preparamos una propuesta."
+    ],
+    "faqs": [
+      ["¿Qué zona de Inglaterra nos conviene?", "Para links, la costa noroeste entre Liverpool y Blackpool. Para heathland y cercanía a Londres, Surrey y Berkshire. Para mezclar las dos cosas con paisaje de costa, Kent y el sureste."]
+    ]
+  },
+  "spain": {
+    "slug": "espana",
+    "name": "España",
+    "lede": "Más de 80 campos entre Málaga y la frontera portuguesa, 300 días de sol al año y un equipo que vive a la puerta de Valderrama y Sotogrande.",
+    "intro": [
+      "Andalucía es el destino de golf más popular del sur de Europa por una buena razón: más de 80 campos desde Málaga hasta Cádiz, Jerez y la frontera con Portugal, más de 600.000 visitantes de golf al año y una temporada que va de octubre a mayo, cuando el resto de Europa está bajo techo.",
+      "Sotogrande y San Roque son nuestra casa. Nueve campos de 18 hoyos se reparten en unos seis kilómetros, incluidos Valderrama, Real Sotogrande, San Roque y La Hacienda, y gracias a nuestras relaciones locales solemos conseguir acceso a campos con juego limitado para visitantes. Los viajes a la Costa del Sol, Cádiz y Sevilla se montan bajo petición."
+    ],
+    "faqs": [
+      ["¿Cuándo es la temporada de golf en Andalucía?", "De octubre a mayo es la temporada alta, con días suaves y soleados y los campos en perfectas condiciones. En verano hace calor, pero se juega muy bien con salidas tempranas, y los precios bajan de forma notable en julio y agosto."],
+      ["¿Podéis meternos en Valderrama o Real Sotogrande?", "Muchas veces, sí. Los dos limitan el juego de visitantes, pero gracias a nuestras relaciones en el sector solemos conseguir acceso para grupos que reservan con tiempo. Dinos tus fechas y comprobamos disponibilidad."],
+      ["¿Cuál es el mejor aeropuerto?", "Málaga tiene más vuelos y está a una hora de Sotogrande. Gibraltar está a diez minutos del primer tee de La Hacienda y merece la pena mirarlo desde el Reino Unido. Sevilla y Jerez son buenas alternativas para los campos del oeste."]
+    ]
+  },
+  "morocco": {
+    "slug": "marruecos",
+    "name": "Marruecos",
+    "lede": "Sol de invierno a tres horas de la mayoría de aeropuertos europeos, campos entre palmeras en Marrakech y Agadir, y hoteles que convierten el hoyo 19 en lo mejor del día.",
+    "intro": [
+      "Marruecos se ha convertido en uno de los destinos de golf de invierno con mejor relación calidad-precio al alcance de Europa. Marrakech combina golf de resort con los zocos y riads de la medina, Agadir ofrece sol fiable y campos junto al Atlántico, y los Royal Golf tienen historia de verdad.",
+      "Nuestros primeros paquetes de Marruecos están en preparación. Ya organizamos viajes bajo petición: mándanos tus fechas, cuántos sois y los campos que tenéis en mente."
+    ],
+    "faqs": [
+      ["¿Cuál es la mejor época para jugar en Marruecos?", "De octubre a abril. Los días de invierno son cálidos y soleados, y es uno de los pocos lugares en el huso horario europeo donde puedes contar con golf en manga corta en enero."]
+    ]
+  },
+  "uae": {
+    "slug": "emiratos-dubai",
+    "name": "Emiratos y Dubái",
+    "lede": "Campos de nivel Tour bajo el skyline, golf nocturno con focos y hoteles de cinco estrellas a todos los precios. Dubái es el viaje de golf con el volumen al máximo.",
+    "intro": [
+      "Dubái y Abu Dabi acogen al DP World Tour cada temporada y los campos se mantienen a esa altura: Emirates Golf Club, Jumeirah Golf Estates, Yas Links y Abu Dhabi Golf Club entre ellos. Añade el sol del desierto de octubre a abril y vuelos directos desde casi toda Europa, y el atractivo está claro.",
+      "Nuestros paquetes de Emiratos se están cerrando. Organizamos viajes a Dubái y Abu Dabi bajo petición, incluida hospitality para la final de la Race to Dubai en noviembre."
+    ],
+    "faqs": [
+      ["¿Cuándo visitar Dubái para jugar al golf?", "De octubre a abril. En verano hace demasiado calor para la mayoría de grupos, aunque el golf nocturno con focos es una opción. Noviembre es especialmente popular por el DP World Tour Championship."]
+    ]
+  }
+}

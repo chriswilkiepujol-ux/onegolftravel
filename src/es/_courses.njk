@@ -1,0 +1,15 @@
+---
+pagination:
+  data: loc.es.courses
+  size: 1
+  alias: course
+  addAllPagesToCollections: true
+permalink: "{{ course.url }}"
+navActive: courses
+eleventyComputed:
+  translationKey: "courses:{{ course.id }}"
+  title: "{% set T = t.es %}{{ T.seo.course.title | fmt({ name: course.name }) }}{{ T.titleSuffix }}"
+  description: "{% set T = t.es %}{{ course.summary }}"
+  ogImage: "{{ course.image or course.hero }}"
+---
+{% include "pages/course.njk" %}

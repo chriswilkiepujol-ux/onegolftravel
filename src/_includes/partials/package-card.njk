@@ -1,0 +1,25 @@
+{# Usage: include with `pkg` (localised package) in scope. Boarding-pass style card. #}
+{%- set TT = t[locale] -%}
+{%- set tierLabel = { best: TT.common.tierBest, popular: TT.common.tierPopular, value: TT.common.tierValue }[pkg.tier] -%}
+<article class="ticket">
+  <a class="ticket-photo" href="{{ pkg.url }}" style="background-image:url('{{ pkg.image }}');" aria-label="{{ pkg.title }}">
+    <span class="code-badge">{{ pkg.code }}</span>
+    {% if tierLabel %}<span class="tier-badge tier-{{ pkg.tier }}">{{ tierLabel }}</span>{% endif %}
+    <span class="stars">{% for i in range(pkg.stars) %}★{% endfor %}</span>
+  </a>
+  <div class="ticket-body">
+    <h4><a href="{{ pkg.url }}">{{ pkg.title }}</a></h4>
+    <div class="loc">{{ pkg.hotelName }} · {{ pkg.location }}</div>
+  </div>
+  <div class="perforation"></div>
+  <div class="ticket-data">
+    <div><span class="k">{{ TT.common.nights }}</span><span class="v">{{ pkg.nights }}</span></div>
+    <div><span class="k">{{ TT.common.rounds }}</span><span class="v">{{ pkg.rounds }}</span></div>
+    <div><span class="k">{{ TT.common.hotel }}</span><span class="v">{{ TT.common.stars | fmt({ n: pkg.stars }) }}</span></div>
+    <div><span class="k">{{ TT.common.board }}</span><span class="v">{{ pkg.board }}</span></div>
+  </div>
+  <div class="ticket-foot">
+    <div><span class="from">{{ TT.common.from }}</span><div class="price">{{ pkg.priceDisplay }} <small>{{ TT.common.pp }}</small></div></div>
+    <a href="{{ pkg.url }}#quote">{{ TT.common.quoteMe }} →</a>
+  </div>
+</article>

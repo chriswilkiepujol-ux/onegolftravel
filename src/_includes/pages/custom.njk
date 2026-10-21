@@ -1,0 +1,77 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set TC = T.custom -%}{%- set TF = T.form -%}
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TC.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TC.h1 }}</h1><p class="lede">{{ TC.lede }}</p>
+  </div>
+</section>
+<section class="sec" style="padding-top:0;">
+  <div class="wrap product-layout product-layout--form">
+    <div class="enquiry-card enquiry-card--wide" id="quote">
+      <form class="enquiry-form" action="{{ site.formspree }}" method="POST" data-prefill>
+        <input type="hidden" name="_site" value="One Golf Travel">
+        <input type="hidden" name="_subject" value="{{ TF.customSubject }} ({{ locale | upper }})">
+        <input type="hidden" name="language" value="{{ locale }}">
+        <input type="hidden" name="prefill_region" data-prefill-field="region">
+        <input type="hidden" name="prefill_course" data-prefill-field="course">
+        <input type="hidden" name="prefill_hotel" data-prefill-field="hotel">
+        <div class="form-row">
+          <div class="form-field"><label for="c-where">{{ TF.where }}</label>
+            <select id="c-where" name="destination" data-prefill-field="destination">
+              {% for c in D.countries %}<option value="{{ c.id }}">{{ c.flag }} {{ c.name }}</option>{% endfor %}
+              <option value="mauritius">🇲🇺 Mauritius</option>
+              <option value="usa">🇺🇸 USA</option>
+              <option value="portugal">🇵🇹 Portugal</option>
+              <option value="other">{{ TF.elsewhere }}</option>
+              <option value="advise">{{ TF.notSure }}</option>
+            </select><div class="field-hint">{{ TF.whereHint }}</div></div>
+          <div class="form-field"><label for="c-size">{{ TF.groupSize }}</label><input type="number" id="c-size" name="group_size" min="1" placeholder="8" required></div>
+        </div>
+        <div class="form-row">
+          <div class="form-field"><label for="c-from">{{ TF.dateFrom }}</label><input type="date" id="c-from" name="date_from"></div>
+          <div class="form-field"><label for="c-to">{{ TF.dateTo }}</label><input type="date" id="c-to" name="date_to"></div>
+        </div>
+        <div class="form-row">
+          <div class="form-field"><label for="c-month">{{ TF.orMonth }}</label>
+            <select id="c-month" name="travel_month"><option value="">{{ TF.flexible }}</option>{% for m in travelMonths[locale] %}<option>{{ m }}</option>{% endfor %}</select></div>
+          <div class="form-field"><label for="c-nights">{{ TF.nights }}</label>
+            <select id="c-nights" name="nights"><option>3</option><option>4</option><option selected>5</option><option>6</option><option>7</option><option>7+</option></select></div>
+        </div>
+        <div class="form-row">
+          <div class="form-field"><label for="c-rounds">{{ TF.rounds }}</label>
+            <select id="c-rounds" name="rounds"><option>2</option><option>3</option><option selected>4</option><option>5</option><option>6</option><option>7+</option></select></div>
+          <div class="form-field"><label for="c-hotel">{{ TF.hotelStyle }}</label>
+            <select id="c-hotel" name="hotel_style"><option>{{ TF.hotelAny }}</option><option>{{ TF.hotelResort }}</option><option>{{ TF.hotelLuxury }}</option><option>{{ TF.hotelValue }}</option><option>{{ TF.hotelTown }}</option></select></div>
+        </div>
+        <div class="form-row"><div class="form-field full"><label for="c-courses">{{ TF.courses }}</label><input type="text" id="c-courses" name="courses" placeholder="{{ TF.coursesPlaceholder }}"></div></div>
+        <div class="form-row">
+          <div class="form-field"><label for="c-transport">{{ TF.transport }}</label>
+            <select id="c-transport" name="transport"><option>{{ TF.transportTransfers }}</option><option>{{ TF.transportCar }}</option><option>{{ TF.transportFlights }}</option><option>{{ TF.transportNone }}</option></select></div>
+          <div class="form-field"><label for="c-budget">{{ TF.budget }}</label><input type="text" id="c-budget" name="budget" placeholder="€"><div class="field-hint">{{ TF.budgetHint }}</div></div>
+        </div>
+        <div class="form-row"><div class="form-field full"><label for="c-notes">{{ TF.comments }}</label><textarea id="c-notes" name="changes" rows="4" placeholder="{{ TF.commentsPlaceholder }}"></textarea></div></div>
+        <div class="form-row"><div class="form-field full"><label for="c-name">{{ TF.name }}</label><input type="text" id="c-name" name="name" required></div></div>
+        <div class="form-row">
+          <div class="form-field"><label for="c-email">{{ TF.email }}</label><input type="email" id="c-email" name="email" required></div>
+          <div class="form-field"><label for="c-phone">{{ TF.phone }}</label><input type="tel" id="c-phone" name="phone"></div>
+        </div>
+        <button type="submit" class="btn btn-accent btn-lg" style="width:100%;justify-content:center;">{{ TF.sendRequest }}</button>
+        <div class="form-status" role="status"></div>
+        <div class="enquiry-note">{{ TF.noObligationReply }} · {{ TF.privacy }}</div>
+      </form>
+    </div>
+    <aside>
+      <div class="eyebrow">{{ TC.whyEyebrow }}</div>
+      <div class="why-stack">
+        <div class="why-card" data-n="01"><h4>{{ TC.why1t }}</h4><p>{{ TC.why1p }}</p></div>
+        <div class="why-card" data-n="02"><h4>{{ TC.why2t }}</h4><p>{{ TC.why2p }}</p></div>
+        <div class="why-card" data-n="03"><h4>{{ TC.why3t }}</h4><p>{{ TC.why3p }}</p></div>
+      </div>
+      <div class="contact-box">
+        <a href="https://wa.me/{{ site.whatsapp }}" target="_blank" rel="noopener" class="btn btn-outline" style="width:100%;justify-content:center;">{{ T.nav.whatsapp }}</a>
+        <a href="mailto:{{ site.email }}" class="contact-line">{{ site.email }}</a>
+        <a href="tel:{{ site.phone | replace(' ', '') }}" class="contact-line">{{ site.phone }}</a>
+      </div>
+    </aside>
+  </div>
+</section>

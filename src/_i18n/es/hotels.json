@@ -1,0 +1,47 @@
+{
+  "inmood-san-roque": {
+    "location": "San Roque, a 10 minutos de Sotogrande",
+    "about": "Un resort moderno de cuatro estrellas entre jardines, entre San Roque y Sotogrande, con más de 130 habitaciones y suites, tres restaurantes y bares, una gran piscina exterior con solárium y gimnasio. Es la base de nuestro paquete Sotogrande Signature: La Hacienda y San Roque Club están a pocos minutos, y el hotel gestiona el alquiler de palos y carros bajo petición.",
+    "facilities": ["Más de 130 habitaciones y suites", "Tres espacios de restauración", "Piscina exterior y solárium", "Gimnasio", "Alquiler de palos y carros bajo petición", "Admite mascotas, wifi gratis, parking privado"]
+  },
+  "encinar-sotogrande": {
+    "location": "Sotogrande, Cádiz",
+    "about": "Un hotel de cuatro estrellas de estilo andaluz tradicional dentro de la urbanización de Sotogrande, con más de 100 habitaciones con vistas al jardín o al golf, restaurante mediterráneo, cafetería, bar con terraza, piscina exterior, pistas de tenis y un pequeño gimnasio. Tiene conserjería de golf y alquiler de palos y carros, y Valderrama, La Cañada y The Alto están a pocos minutos. Nuestra opción de mejor precio en Sotogrande.",
+    "facilities": ["Más de 100 habitaciones con vistas al jardín o al golf", "Restaurante mediterráneo, cafetería y bar con terraza", "Piscina exterior", "Pistas de tenis y gimnasio pequeño", "Conserjería de golf, alquiler de palos y carros", "Wifi y parking gratuitos, taquillas con duchas"]
+  },
+  "so-sotogrande": {
+    "location": "Colinas de Sotogrande, Cádiz",
+    "about": "El resort de cinco estrellas de Sotogrande, con interiores de diseño, más de 150 habitaciones y suites, cuatro restaurantes y bares, un spa de 3.500 metros cuadrados con hammam y sauna, piscina interior climatizada, tres piscinas exteriores y gimnasio. El campo The Alto está en el propio resort, con buggies, carros, caddies y conserjería, y el hotel ofrece bicicletas eléctricas, actividades guiadas, aparcacoches y traslados de lujo.",
+    "facilities": ["Más de 150 habitaciones y suites", "Cuatro restaurantes y bares", "Spa de 3.500 m² con hammam y sauna", "Piscina interior climatizada, tres exteriores, gimnasio", "Golf en el resort: The Alto, buggies, caddies, conserjería", "Bicicletas eléctricas, actividades guiadas, aparcacoches y traslados de lujo"]
+  },
+  "drumoig": {
+    "location": "Leuchars, a 10 minutos de St Andrews",
+    "about": "Un hotel de estilo lodge en el campo, a diez minutos de St Andrews, con 29 habitaciones con baño, su propio campo parkland de 18 hoyos, campo de prácticas y restaurante con bar. Cómodo, acogedor y a buen precio, por eso es la base de nuestro paquete St Andrews Signature. Sin spa.",
+    "facilities": ["29 habitaciones con baño", "Campo parkland de 18 hoyos propio", "Campo de prácticas", "Restaurante y bar", "Parking gratuito"]
+  },
+  "fairmont-st-andrews": {
+    "location": "St Andrews, en los acantilados sobre el Mar del Norte",
+    "about": "Un resort de cinco estrellas en los acantilados justo al sur de St Andrews, con 211 habitaciones y suites, dos campos de campeonato en la finca, el Torrance y el Kittocks, spa completo, piscina interior, gimnasio y varios restaurantes. Kingsbarns, Crail y los pueblos del East Neuk están a un corto trayecto por la costa.",
+    "facilities": ["211 habitaciones y suites", "Dos campos de campeonato en el resort", "Spa completo y piscina interior", "Gimnasio", "Varios restaurantes y bares", "Lanzadera al pueblo de St Andrews"]
+  },
+  "greyfriars": {
+    "location": "North Street, centro de St Andrews",
+    "about": "Un hotel boutique en North Street, en pleno centro de St Andrews, con más de 20 habitaciones con baño y un restaurante y bar muy populares. A un paseo corto del Old Course, del Links Clubhouse y de todos los pubs del pueblo, así que el grupo puede dejar los coches donde están. Sin spa.",
+    "facilities": ["Más de 20 habitaciones con baño", "Restaurante y bar", "A pie del Old Course", "Ubicación en el centro"]
+  },
+  "druids-glen-hotel": {
+    "location": "Newtownmountkennedy, condado de Wicklow",
+    "about": "Un resort de cinco estrellas en una finca a cuarenta minutos al sur de Dublín, con 145 habitaciones y suites, el restaurante gastronómico Hugo's, The Garden Rooms para todo el día, bar con terraza y un spa con tratamientos Elemis, circuito termal, piscina interior, jacuzzi, sauna, baño de vapor y gimnasio. Druids Glen y Druids Heath están en la finca, y Powerscourt, las montañas de Wicklow y Glendalough están cerca.",
+    "facilities": ["145 habitaciones y suites", "Hugo's (gastronómico) y The Garden Rooms", "Bar y terraza", "Spa con tratamientos Elemis, circuito termal y piscina interior", "Gimnasio", "Dos campos en la finca"]
+  },
+  "woodstock-house": {
+    "location": "Resort Druids Glen, condado de Wicklow",
+    "about": "Una casa de campo de estilo georgiano dentro de la finca de Druids Glen, con nueve habitaciones y suites, incluidas dos suites panorámicas con vistas a los campos Druids Glen y Druids Heath. Comedor privado para grupos y acceso completo al spa y los restaurantes del resort. Ideal para un grupo de hasta 18 que quiera la casa entera.",
+    "facilities": ["9 habitaciones y suites, dos panorámicas", "Comedor privado para grupos", "Opción de uso exclusivo", "Acceso al spa del resort", "Vistas a los dos campos"]
+  },
+  "portmarnock-hotel": {
+    "location": "Portmarnock, a 15 minutos del aeropuerto de Dublín",
+    "about": "Un resort costero de cuatro estrellas en Velvet Strand con 137 habitaciones y suites, The Bay Restaurant, el Cliff Lounge & Bar, Toast Café y un spa con tratamientos Elemis, piscina interior, gimnasio, sauna y baños de vapor. El links de Bernhard Langer está en el propio recinto y el centro de Dublín a 15 minutos.",
+    "facilities": ["137 habitaciones y suites", "The Bay Restaurant, Cliff Lounge & Bar, Toast Café", "Spa con tratamientos Elemis y piscina interior", "Gimnasio, sauna y baños de vapor", "Links en el recinto", "A 15 minutos del aeropuerto de Dublín"]
+  }
+}

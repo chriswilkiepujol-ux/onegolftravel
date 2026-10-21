@@ -1,0 +1,21 @@
+{# Usage: {% include "partials/gallery.njk" %} with `images` (array of paths), `gradient` (fallback color) and `galleryAlt` (base alt text) in scope #}
+{%- set TG = t[locale].gallery -%}
+{% set imgs = images | default([]) %}
+{% if imgs.length %}
+<div class="gallery" data-gallery>
+  <div class="gallery-track">
+    {% for img in imgs %}
+    <img src="{{ img }}" alt="{{ TG.photoAlt | fmt({ alt: galleryAlt, i: loop.index, n: imgs.length }) }}" loading="{% if loop.first %}eager{% else %}lazy{% endif %}" class="gallery-slide{% if loop.first %} active{% endif %}">
+    {% endfor %}
+  </div>
+  {% if imgs.length > 1 %}
+  <button class="gallery-prev" type="button" aria-label="{{ TG.prev }}">‹</button>
+  <button class="gallery-next" type="button" aria-label="{{ TG.next }}">›</button>
+  <div class="gallery-dots">
+    {% for img in imgs %}<button class="gallery-dot{% if loop.first %} active{% endif %}" type="button" data-index="{{ loop.index0 }}" aria-label="{{ TG.goTo | fmt({ i: loop.index }) }}"></button>{% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% else %}
+<div style="aspect-ratio:16/9;border-radius:20px;background:linear-gradient(140deg,{{ gradient }});margin-bottom:36px;"></div>
+{% endif %}

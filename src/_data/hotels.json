@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "inmood-san-roque",
+    "name": "INMOOD San Roque",
+    "country": "spain",
+    "region": "sotogrande",
+    "stars": 4,
+    "image": "/assets/images/hotels/inmood.webp",
+    "images": ["/assets/images/hotels/inmood.webp", "/assets/images/hotels/inmood-2.webp"],
+    "location": "San Roque, 10 minutes from Sotogrande",
+    "about": "A modern four-star resort in landscaped gardens between San Roque and Sotogrande, with over 130 rooms and suites, three restaurants and bars, a large outdoor pool with sun terrace and a fitness centre. The base for our Sotogrande Signature package: La Hacienda and San Roque Club are minutes away, and the hotel arranges club and trolley hire on request.",
+    "facilities": ["130+ rooms and suites", "Three dining outlets", "Outdoor pool and sun terrace", "Fitness centre", "Club and trolley hire on request", "Pet friendly, free Wi-Fi, private parking"]
+  },
+  {
+    "slug": "encinar-sotogrande",
+    "name": "Hotel Encinar de Sotogrande",
+    "country": "spain",
+    "region": "sotogrande",
+    "stars": 4,
+    "image": "/assets/images/hotels/encinar.webp",
+    "images": ["/assets/images/hotels/encinar.webp"],
+    "location": "Sotogrande, Cádiz",
+    "about": "A traditional Andalusian-style four-star hotel inside the Sotogrande estate, with over 100 rooms looking onto gardens or the golf, a Mediterranean restaurant, café, terrace bar, outdoor pool, tennis courts and a small gym. The hotel has a golf concierge and club and trolley rental, and Valderrama, La Cañada and The Alto are all a few minutes away. Our value pick for Sotogrande.",
+    "facilities": ["100+ rooms with garden or golf views", "Mediterranean restaurant, café and terrace bar", "Outdoor pool", "Tennis courts and small gym", "Golf concierge, club and trolley rental", "Free Wi-Fi and parking, lockers with showers"]
+  },
+  {
+    "slug": "so-sotogrande",
+    "name": "SO/ Sotogrande",
+    "country": "spain",
+    "region": "sotogrande",
+    "stars": 5,
+    "image": "/assets/images/hotels/so-sotogrande.webp",
+    "images": ["/assets/images/hotels/so-sotogrande.webp"],
+    "location": "Hills of Sotogrande, Cádiz",
+    "about": "The five-star resort of Sotogrande, with designer interiors, over 150 rooms and suites, four restaurants and bars, a 3,500 square metre spa with hammam and sauna, an indoor heated pool, three outdoor pools and a gym. The Alto golf course is on site with buggies, trolleys, caddies and a concierge, and the hotel offers e-bikes, guided activities, valet and luxury transfers.",
+    "facilities": ["150+ rooms and suites", "Four restaurants and bars", "3,500 m² spa with hammam and sauna", "Indoor heated pool, three outdoor pools, gym", "On-site golf: The Alto, buggies, caddies, concierge", "E-bikes, guided activities, valet and luxury transfers"]
+  },
+  {
+    "slug": "drumoig",
+    "name": "Drumoig Hotel & Golf Course",
+    "country": "scotland",
+    "region": "st-andrews",
+    "stars": 3,
+    "image": "/assets/images/hotels/drumoig.webp",
+    "images": ["/assets/images/hotels/drumoig.webp"],
+    "location": "Leuchars, 10 minutes from St Andrews",
+    "about": "A countryside lodge-style hotel ten minutes from St Andrews with 29 en-suite rooms, its own 18-hole parkland course, a driving range and a restaurant and bar. Comfortable, friendly and well priced, which is why it anchors our St Andrews Signature package. No spa.",
+    "facilities": ["29 en-suite rooms", "On-site 18-hole parkland course", "Driving range", "Restaurant and bar", "Free parking"]
+  },
+  {
+    "slug": "fairmont-st-andrews",
+    "name": "Fairmont St Andrews",
+    "country": "scotland",
+    "region": "st-andrews",
+    "stars": 5,
+    "image": "/assets/images/hotels/fairmont-st-andrews.webp",
+    "images": ["/assets/images/hotels/fairmont-st-andrews.webp"],
+    "location": "St Andrews, clifftop over the North Sea",
+    "about": "A five-star resort on the cliffs just south of St Andrews with 211 rooms and suites, two championship courses on the estate, the Torrance and the Kittocks, a full spa, indoor pool, gym and several restaurants. Kingsbarns, Crail and the East Neuk villages are a short drive along the coast.",
+    "facilities": ["211 rooms and suites", "Two championship courses on site", "Full spa and indoor pool", "Gym", "Several restaurants and bars", "Shuttle to St Andrews town"]
+  },
+  {
+    "slug": "greyfriars",
+    "name": "Greyfriars Hotel",
+    "country": "scotland",
+    "region": "st-andrews",
+    "stars": 3,
+    "image": "/assets/images/hotels/greyfriars.webp",
+    "images": ["/assets/images/hotels/greyfriars.webp"],
+    "location": "North Street, St Andrews town centre",
+    "about": "A boutique hotel on North Street in the centre of St Andrews with more than 20 en-suite rooms and a popular restaurant and bar. A short walk from the Old Course, the Links Clubhouse and every pub in town, so the group can leave the cars where they are. No spa.",
+    "facilities": ["20+ en-suite rooms", "Restaurant and bar", "Walking distance to the Old Course", "Town-centre location"]
+  },
+  {
+    "slug": "druids-glen-hotel",
+    "name": "Druids Glen Hotel & Golf Resort",
+    "country": "ireland",
+    "region": "dublin-wicklow",
+    "stars": 5,
+    "image": "/assets/images/hotels/druids-glen-hotel.webp",
+    "images": ["/assets/images/hotels/druids-glen-hotel.webp"],
+    "location": "Newtownmountkennedy, County Wicklow",
+    "about": "A five-star country estate resort forty minutes south of Dublin with 145 rooms and suites, Hugo's fine-dining restaurant, the all-day Garden Rooms, a bar and terrace, and a spa with Elemis treatments, thermal suite, indoor pool, jacuzzi, sauna, steam room and gym. Druids Glen and Druids Heath are on the estate, with Powerscourt, the Wicklow Mountains and Glendalough nearby.",
+    "facilities": ["145 rooms and suites", "Hugo's fine dining and The Garden Rooms", "Bar and terrace", "Spa with Elemis treatments, thermal suite and indoor pool", "Gym", "Two courses on site"]
+  },
+  {
+    "slug": "woodstock-house",
+    "name": "Woodstock House",
+    "country": "ireland",
+    "region": "dublin-wicklow",
+    "stars": 5,
+    "image": "/assets/images/hotels/woodstock-house.webp",
+    "images": ["/assets/images/hotels/woodstock-house.webp"],
+    "location": "Druids Glen Resort, County Wicklow",
+    "about": "A Georgian-style country house within the Druids Glen estate with nine guest rooms and suites, including two panoramic suites overlooking the Druids Glen and Druids Heath courses. Private dining for groups, and full access to the main resort's spa and restaurants. Ideal for a group of up to 18 who want the whole house.",
+    "facilities": ["9 rooms and suites, two panoramic suites", "Private dining for groups", "Exclusive-use option", "Access to the resort spa", "Views over both courses"]
+  },
+  {
+    "slug": "portmarnock-hotel",
+    "name": "Portmarnock Hotel & Golf Links",
+    "country": "ireland",
+    "region": "dublin-wicklow",
+    "stars": 4,
+    "image": "/assets/images/hotels/portmarnock-hotel.webp",
+    "images": ["/assets/images/hotels/portmarnock-hotel.webp"],
+    "location": "Portmarnock, 15 minutes from Dublin airport",
+    "about": "A four-star coastal resort on the Velvet Strand with 137 rooms and suites, The Bay Restaurant, the Cliff Lounge and Bar, Toast Café and a spa with Elemis treatments, indoor pool, gym, sauna and steam rooms. The Bernhard Langer links is on site and Dublin city centre is 15 minutes away.",
+    "facilities": ["137 rooms and suites", "The Bay Restaurant, Cliff Lounge & Bar, Toast Café", "Spa with Elemis treatments and indoor pool", "Gym, sauna and steam rooms", "Links course on site", "15 minutes from Dublin airport"]
+  }
+]

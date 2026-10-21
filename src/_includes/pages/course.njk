@@ -1,0 +1,56 @@
+{#- Course page. `course` = localised course -#}
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set TC = T.courses -%}
+{% set country = D.countries | findCountry(course.country) %}
+{% set region = D.regions | findRegion(course.region) %}
+{% set pkgs = D.packages | packagesForCourse(course.id) %}
+{% set others = D.courses | coursesForRegion(course.region) %}
+
+<section class="page-hero page-hero--photo" style="background-image:linear-gradient(0deg, rgba(3,22,61,.9) 0%, rgba(3,22,61,.35) 60%, rgba(3,22,61,.2) 100%), url('{{ course.image }}');">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TC.crumb, R.courses], [region.name, region.url], [course.name, null]] %}{% include "partials/breadcrumb.njk" %}
+    <div class="eyebrow">{{ country.flag }} {{ region.name }} · {{ course.style }}</div>
+    <h1>{{ course.name }}</h1>
+    <p class="lede">{{ course.summary }}</p>
+  </div>
+</section>
+
+<section class="sec stats-band">
+  <div class="wrap stats-row reveal">
+    <div><div class="num">{{ course.par }}</div><div class="lab">{{ T.common.par }}</div></div>
+    <div><div class="num">{{ course.length }}</div><div class="lab">{{ T.common.length }}</div></div>
+    {% if course.slope %}<div><div class="num">{{ course.slope }}</div><div class="lab">{{ T.common.slope }}</div></div>{% endif %}
+    <div><div class="num num-sm">{{ course.opened }}</div><div class="lab">{{ T.common.opened }}</div></div>
+    <div><div class="num num-sm">{{ course.designer }}</div><div class="lab">{{ T.common.designer }}</div></div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap product-layout">
+    <div>
+      {% if course.images.length > 1 %}{% set images = course.images %}{% set galleryAlt = course.name %}{% include "partials/gallery.njk" %}{% endif %}
+      <h2 class="h-sm">{{ TC.about }}</h2>
+      <p class="prose">{{ course.about }}</p>
+      {% if course.signature %}<p class="prose"><strong>{{ TC.signature }}:</strong> {{ course.signature }}</p>{% endif %}
+      <h2 class="h-sm">{{ TC.facilities }}</h2>
+      <ul class="check-list">{% for f in course.facilities %}<li>{{ f }}</li>{% endfor %}</ul>
+    </div>
+    <aside class="enquiry-card">
+      <h3>{{ TC.ctaTitle | fmt({ name: course.name }) }}</h3>
+      <p class="enquiry-sub">{{ TC.ctaText }}</p>
+      <a href="{{ R.custom }}?destination={{ course.country }}&region={{ course.region }}&course={{ course.id }}" class="btn btn-accent" style="width:100%;justify-content:center;">{{ TC.askCourse }} →</a>
+      {% if pkgs.length %}
+      <h4 class="aside-sub">{{ TC.playsIn }}</h4>
+      <ul class="aside-list">{% for p in pkgs %}<li><a href="{{ p.url }}">{{ p.title }}</a> <span>{{ T.common.from }} {{ p.priceDisplay }}</span></li>{% endfor %}</ul>
+      {% else %}<p class="enquiry-note">{{ TC.noPackage }}</p>{% endif %}
+    </aside>
+  </div>
+</section>
+
+{% if others.length > 1 %}
+<section class="sec sec-stone">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ region.name }}</div><h2>{{ TC.inRegion | fmt({ name: region.name }) }}</h2></div></div>
+    <div class="course-grid reveal">{% for o in others %}{% if o.id != course.id %}{% set course2 = course %}{% set course = o %}{% include "partials/course-card.njk" %}{% set course = course2 %}{% endif %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}

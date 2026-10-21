@@ -1,0 +1,15 @@
+---
+pagination:
+  data: loc.de.hotels
+  size: 1
+  alias: hotel
+  addAllPagesToCollections: true
+permalink: "{{ hotel.url }}"
+navActive: courses
+eleventyComputed:
+  translationKey: "hotels:{{ hotel.id }}"
+  title: "{% set T = t.de %}{{ T.seo.hotel.title | fmt({ name: hotel.name, location: hotel.location }) }}{{ T.titleSuffix }}"
+  description: "{% set T = t.de %}{{ hotel.about | truncate(155) }}"
+  ogImage: "{{ hotel.image or hotel.hero }}"
+---
+{% include "pages/hotel.njk" %}

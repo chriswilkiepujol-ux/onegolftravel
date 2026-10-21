@@ -1,0 +1,56 @@
+{#- Tournament page. `ev` = localised tournament -#}
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set TT = T.tournaments -%}{%- set TF = T.form -%}
+
+<section class="page-hero page-hero--photo" style="background-image:linear-gradient(0deg, rgba(3,22,61,.92) 0%, rgba(3,22,61,.4) 60%, rgba(3,22,61,.2) 100%), url('{{ ev.image }}');">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TT.crumb, R.tournaments], [ev.name, null]] %}{% include "partials/breadcrumb.njk" %}
+    <div class="eyebrow">{{ ev.code }} · {{ ev.short }}</div>
+    <h1>{{ ev.name }}</h1>
+    <p class="lede">{{ ev.lede }}</p>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap product-layout">
+    <div>
+      <div class="prose">{% for p in ev.intro %}<p>{{ p }}</p>{% endfor %}</div>
+      {% if ev.dates %}<p class="prose"><strong>{{ TT.when }}:</strong> {{ ev.dates }}</p>{% endif %}
+      <h2 class="h-sm">{{ TT.included }}</h2>
+      <ul class="check-list">{% for i in ev.includes %}<li>{{ i }}</li>{% endfor %}</ul>
+    </div>
+    <aside class="enquiry-card" id="quote">
+      <h3>{{ TT.registerTitle }}</h3>
+      <p class="enquiry-sub">{{ TT.registerSub }}</p>
+      <form class="enquiry-form" action="{{ site.formspree }}" method="POST">
+        <input type="hidden" name="_site" value="One Golf Travel">
+        <input type="hidden" name="_subject" value="{{ TT.event }}: {{ ev.name }} ({{ locale | upper }})">
+        <input type="hidden" name="event" value="{{ ev.name }}">
+        <input type="hidden" name="language" value="{{ locale }}">
+        <div class="form-row">
+          <div class="form-field"><label>{{ TF.groupSize }}</label><input type="number" name="group_size" min="1" placeholder="4" required></div>
+          <div class="form-field"><label>{{ TF.dates }}</label><input type="text" name="travel_dates" placeholder="{{ ev.dates }}"></div>
+        </div>
+        <div class="form-row"><div class="form-field full"><label>{{ TF.comments }}</label><textarea name="changes" rows="3" placeholder="{{ TF.commentsHint }}"></textarea></div></div>
+        <div class="form-row"><div class="form-field full"><label>{{ TF.name }}</label><input type="text" name="name" required></div></div>
+        <div class="form-row">
+          <div class="form-field"><label>{{ TF.email }}</label><input type="email" name="email" required></div>
+          <div class="form-field"><label>{{ TF.phone }}</label><input type="tel" name="phone"></div>
+        </div>
+        <button type="submit" class="btn btn-accent" style="width:100%;justify-content:center;">{{ TF.sendRequest }}</button>
+        <div class="form-status" role="status"></div>
+        <div class="enquiry-note">{{ TF.noObligationReply }}</div>
+      </form>
+    </aside>
+  </div>
+</section>
+
+<section class="sec sec-stone">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ TT.others }}</div><h2>{{ TT.h1 }}</h2></div></div>
+    <div class="tour-grid reveal">
+      {% for e in D.tournaments %}{% if e.id != ev.id %}
+      <a class="tour-card" href="{{ e.url }}" style="background-image:linear-gradient(0deg, rgba(3,22,61,.85), rgba(3,22,61,.1) 60%), url('{{ e.image }}');"><span class="code-badge">{{ e.month }}</span><h4>{{ e.name }}</h4><p>{{ e.short }}</p></a>
+      {% endif %}{% endfor %}
+    </div>
+  </div>
+</section>

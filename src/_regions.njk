@@ -1,0 +1,15 @@
+---
+pagination:
+  data: loc.en.regions
+  size: 1
+  alias: r
+  addAllPagesToCollections: true
+permalink: "{{ r.url }}"
+navActive: dest
+eleventyComputed:
+  translationKey: "regions:{{ r.id }}"
+  title: "{% set T = t.en %}{{ T.seo.region.title | fmt({ name: r.name, country: (loc[locale].countries | findCountry(r.country)).name }) }}{{ T.titleSuffix }}"
+  description: "{% set T = t.en %}{{ r.lede }}"
+  ogImage: "{{ r.image or r.hero }}"
+---
+{% include "pages/region.njk" %}

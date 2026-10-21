@@ -1,0 +1,17 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set TC = T.courses -%}
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TC.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TC.h1 }}</h1><p class="lede">{{ TC.lede }}</p>
+    <p><a href="{{ R.topTen }}" class="link-accent">{{ T.nav.topTen }} →</a></p>
+  </div>
+</section>
+{% for c in D.countries %}{% set cs = D.courses | coursesForCountry(c.id) %}{% if cs.length %}
+<section class="sec{% if loop.index % 2 == 0 %} sec-stone{% endif %}" style="{% if loop.first %}padding-top:0;{% endif %}">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ c.flag }} {{ c.name }}</div><h2>{{ T.destinations.coursesIn | fmt({ name: c.name }) }}</h2></div><a href="{{ c.url }}" class="btn btn-outline">{{ T.common.explore | fmt({ name: c.name }) }}</a></div>
+    <div class="course-grid reveal">{% for course in cs %}{% include "partials/course-card.njk" %}{% endfor %}</div>
+  </div>
+</section>
+{% endif %}{% endfor %}
+{% set ctaTitle = T.custom.h1 %}{% set ctaText = T.custom.lede %}{% include "partials/cta-band.njk" %}

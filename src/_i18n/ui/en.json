@@ -1,0 +1,507 @@
+{
+  "htmlLang": "en",
+  "ogLocale": "en_GB",
+  "hreflang": "en",
+  "langName": "English",
+  "langShort": "EN",
+  "titleSuffix": " | One Golf Travel",
+  "routes": {
+    "home": "/",
+    "destinations": "/destinations/",
+    "packages": "/golf-packages/",
+    "courses": "/golf-courses/",
+    "hotels": "/hotels/",
+    "tournaments": "/tournaments/",
+    "topTen": "/top-10-golf-courses-scotland/",
+    "custom": "/custom-golf-package/",
+    "howItWorks": "/how-it-works/",
+    "transfers": "/transfers/",
+    "faqs": "/faqs/",
+    "about": "/about-us/",
+    "contact": "/contact/",
+    "privacy": "/privacy-policy/",
+    "terms": "/terms-and-conditions/"
+  },
+  "nav": {
+    "destinations": "Destinations",
+    "allDestinations": "All destinations",
+    "packages": "Golf Packages",
+    "allPackages": "All packages",
+    "byCountry": "By country",
+    "tournaments": "Tournaments",
+    "courses": "Golf Courses",
+    "topTen": "Top 10 in Scotland",
+    "custom": "Custom Package",
+    "getQuote": "Get a Quote",
+    "menu": "Menu",
+    "language": "Language",
+    "mainNav": "Main",
+    "callUs": "Call us",
+    "whatsapp": "WhatsApp us",
+    "emailUs": "Email us",
+    "planTrip": "Plan your trip",
+    "moreInfo": "Good to know",
+    "talkToUs": "Talk to us",
+    "howItWorks": "How it works",
+    "transfers": "Transfers & car hire",
+    "faqs": "FAQs",
+    "about": "About us",
+    "hotels": "Hotels",
+    "comingSoon": "Coming soon"
+  },
+  "footer": {
+    "blurb": "Golf travel for groups, built around the courses you want to play. Scotland, Ireland, England, Spain, Morocco and the UAE, with custom packages anywhere else.",
+    "destinations": "Destinations",
+    "trips": "Golf trips",
+    "company": "Company",
+    "legal": "Legal",
+    "copyright": "© 2026 {name}. All rights reserved.",
+    "poweredBy": "Website by",
+    "iagto": "Member of the International Association of Golf Tour Operators"
+  },
+  "langPrompt": {
+    "text": "This page is also available in English.",
+    "link": "Switch to English",
+    "dismiss": "Close"
+  },
+  "common": {
+    "home": "Home",
+    "from": "From",
+    "perPerson": "per person",
+    "pp": "pp",
+    "nights": "Nights",
+    "rounds": "Rounds",
+    "nightsRounds": "{n} nights · {r} rounds",
+    "hotel": "Hotel",
+    "board": "Board",
+    "viewPackage": "View package →",
+    "quoteMe": "Quote me for my dates",
+    "explore": "Explore {name} →",
+    "viewCourse": "View course →",
+    "viewHotel": "View hotel →",
+    "viewAll": "View all",
+    "comingSoon": "Coming soon",
+    "enquireNow": "Enquire now",
+    "startQuote": "Start my quote →",
+    "customPackage": "Build a custom package",
+    "tierBest": "Our pick",
+    "tierPopular": "Most popular",
+    "tierValue": "Best value",
+    "indicative": "Indicative price, confirmed on quote",
+    "swipe": "Swipe for more",
+    "readMore": "Read more",
+    "readLess": "Show less",
+    "prev": "Previous",
+    "next": "Next",
+    "packagesCount": "{n} packages",
+    "packageCount": "1 package",
+    "coursesCount": "{n} courses",
+    "region": "Region",
+    "country": "Country",
+    "airports": "Airports",
+    "par": "Par",
+    "length": "Length",
+    "slope": "Slope",
+    "designer": "Designer",
+    "opened": "Opened",
+    "style": "Style",
+    "stars": "{n}-star"
+  },
+  "gallery": {
+    "photoAlt": "{alt}, photo {i} of {n}",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "goTo": "Go to photo {i}"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone or WhatsApp",
+    "groupSize": "Number of golfers",
+    "dates": "Travel dates",
+    "datesHint": "Exact dates if you have them, otherwise a month and year",
+    "dateFrom": "Arrive",
+    "dateTo": "Depart",
+    "orMonth": "Or roughly when",
+    "flexible": "Flexible / not sure yet",
+    "where": "Where do you want to play?",
+    "whereHint": "Pick a destination, or tell us in the comments",
+    "notSure": "Not sure yet, advise me",
+    "elsewhere": "Somewhere else (tell us below)",
+    "nights": "How many nights?",
+    "rounds": "How many rounds?",
+    "budget": "Budget per person (optional)",
+    "budgetHint": "Helps us pitch the hotels right",
+    "transport": "Getting around",
+    "transportTransfers": "Please arrange private transfers",
+    "transportCar": "We'll hire cars, please advise",
+    "transportFlights": "Please include flights",
+    "transportNone": "We'll sort our own transport",
+    "comments": "Anything you'd like changed or added?",
+    "commentsHint": "Different courses, a hotel upgrade, extra nights, non-golfers, a competition format…",
+    "commentsPlaceholder": "e.g. swap one round for Valderrama if possible, two non-golfers joining, we'd like a buggy each",
+    "courses": "Courses you want to play",
+    "coursesPlaceholder": "List any must-plays, or leave blank and we'll suggest",
+    "hotelStyle": "Hotel style",
+    "hotelAny": "No preference",
+    "hotelResort": "Golf resort, courses on site",
+    "hotelLuxury": "Five-star luxury",
+    "hotelValue": "Comfortable and good value",
+    "hotelTown": "In town, walk to bars and restaurants",
+    "requestMyQuote": "Request my quote",
+    "sendRequest": "Send my request",
+    "noObligationReply": "No obligation · We reply within 24 hours",
+    "subjectPrefix": "Quote request: ",
+    "customSubject": "Custom package request",
+    "contactSubject": "General enquiry",
+    "message": "Message",
+    "privacy": "By sending this form you agree to our privacy policy."
+  },
+  "js": {
+    "sending": "Sending…",
+    "thanks": "Thanks, we'll be in touch within 24 hours.",
+    "error": "Something went wrong. Please email us at {email}."
+  },
+  "home": {
+    "eyebrow": "Golf travel for groups · Worldwide",
+    "h1a": "Golf destinations",
+    "h1b": "all over the world.",
+    "lede": "Hand-picked courses, hotels that work for golfers and a team that lives on the first tee at Sotogrande. Tell us where and when, we'll do the rest.",
+    "cta1": "Browse golf packages",
+    "cta2": "Build a custom trip",
+    "trust1": "IAGTO member",
+    "trust2": "Quotes within 24 hours",
+    "trust3": "Access to limited-visitor courses",
+    "searchEyebrow": "Quick quote",
+    "searchTitle": "Where shall we send you?",
+    "searchBtn": "Get my quote",
+    "searchNote": "Takes 30 seconds · No card details",
+    "destEyebrow": "Destinations",
+    "destTitle": "Six countries, hundreds of courses.",
+    "destSub": "Packages in Scotland, Ireland and Spain today, England, Morocco and the UAE next. Anywhere else, we build it from scratch.",
+    "packEyebrow": "Featured packages",
+    "packTitle": "We only sell the trips we'd book ourselves.",
+    "packSub": "Every package below is one of three things: the best in its region, the most popular, or the best value. Anything else, we build custom.",
+    "whyEyebrow": "Why One Golf Travel",
+    "whyTitle": "There isn't a fairway on earth we cannot put you on.",
+    "why1t": "Expertly curated, fully tailored",
+    "why1p": "Every trip is designed around your group: the courses you want, the hotels that suit, the pace you play at.",
+    "why2t": "Seamless, end to end",
+    "why2p": "Transfers, tee times, hotels, excursions. One contact from first email to last putt.",
+    "why3t": "Access to elite courses",
+    "why3p": "Valderrama, Real Sotogrande, Muirfield, the Old Course: our relationships get groups onto courses with limited visitor access.",
+    "why4t": "Golfers, not call centres",
+    "why4p": "Based in Sotogrande and playing these courses every week. We've walked the fairways we recommend.",
+    "topEyebrow": "Our Top 10",
+    "topTitle": "The ten Scottish courses we'd play before any others.",
+    "topSub": "Chosen by our team, not by committee. See the full list and build a trip around them.",
+    "topBtn": "See the Top 10 →",
+    "tourEyebrow": "Tournament travel",
+    "tourTitle": "Watch the best, then play the courses they play.",
+    "tourSub": "Tickets, hospitality, hotels and golf for the biggest weeks in the calendar.",
+    "howEyebrow": "How it works",
+    "howTitle": "Three steps from enquiry to first tee.",
+    "how1t": "Tell us the shape of the trip",
+    "how1p": "Where, when, how many, and what matters most: the courses, the hotel, the budget.",
+    "how2t": "Get a tailored quote within 24 hours",
+    "how2p": "A full itinerary with courses, hotel, transfers and a per-person price. Change anything.",
+    "how3t": "We book it, you play",
+    "how3p": "Tee times, rooms and transfers confirmed in writing, and one contact throughout the trip.",
+    "testiEyebrow": "What groups say",
+    "testi1": "Max always seems to get great tee times on some of the most iconic courses.",
+    "testi1by": "Steve Gregory, London",
+    "testi2": "My go to for all our golfing holidays.",
+    "testi2by": "Miguel Sánchez, Lisbon",
+    "testi3": "Always so effortless. Just pick a location and a date and they do the rest.",
+    "testi3by": "Hanz Eis, Germany",
+    "partnersEyebrow": "Our partners",
+    "ctaTitle": "Tell us your dates. We'll do the rest.",
+    "ctaText": "One short form, a tailored quote within 24 hours and no obligation to book.",
+    "ctaBtn": "Start my quote →"
+  },
+  "destinations": {
+    "title": "Golf Destinations",
+    "h1": "Where do you want to play?",
+    "lede": "We book six countries as packages and anywhere else as a custom trip. Pick a country to see its regions, courses and packages.",
+    "regionsIn": "Regions in {name}",
+    "packagesIn": "Packages in {name}",
+    "coursesIn": "Courses in {name}",
+    "hotelsIn": "Hotels in {name}",
+    "comingTitle": "{name} packages are on their way.",
+    "comingText": "We're finalising our first {name} packages and we only publish a trip once we've confirmed the courses, the hotel and the rates ourselves. We're already booking {name} on request, so tell us your dates and the courses on your list and we'll build it for you.",
+    "askAbout": "Ask about {name} →",
+    "faqs": "FAQs",
+    "answered": "{name}, answered.",
+    "ctaTitle": "Ready to play in {name}?",
+    "ctaText": "Tell us your dates and group size and we'll send a tailored quote within 24 hours.",
+    "jumpRegions": "Regions",
+    "jumpPackages": "Packages",
+    "jumpCourses": "Courses",
+    "jumpHotels": "Hotels",
+    "jumpFaqs": "FAQs",
+    "aboutEyebrow": "About {name}",
+    "aboutTitle": "What it's like to play here.",
+    "flyInto": "Fly into",
+    "targetNote": "{n} packages planned",
+    "allRegions": "All regions",
+    "filterAll": "All"
+  },
+  "packages": {
+    "title": "Golf Packages",
+    "h1": "Golf packages worth boarding a flight for.",
+    "lede": "Every package is one of three things: the best in its region, the most popular, or the best value. Prices are per person sharing and depend on your exact dates, so hit \"quote me\" and we'll confirm within 24 hours.",
+    "crumb": "Packages",
+    "included": "What's included",
+    "dayByDay": "Day by day",
+    "coursesTitle": "The courses",
+    "theHotel": "The hotel",
+    "fullDetails": "Full hotel details →",
+    "quoteTitle": "Quote me for my dates",
+    "quoteSub": "Prices depend on your exact dates and group size. Tell us yours and we'll confirm within 24 hours.",
+    "priceLine": "From <b>{price}</b> per person",
+    "priceNote": "Based on sharing a twin or double, {n} nights, {r} rounds",
+    "alsoLike": "You might also like",
+    "otherTrips": "Other packages worth a look.",
+    "goodToKnow": "Good to know",
+    "tierNote": "Not quite right? Every package is a starting point. Change courses, add nights, upgrade the hotel in the form.",
+    "filterCountry": "Country",
+    "filterTier": "Type",
+    "empty": "No packages here yet. Build a custom one instead."
+  },
+  "courses": {
+    "title": "Golf Courses",
+    "h1": "The courses we book.",
+    "lede": "Individual pages for the courses in our packages, with the facts your group will ask about: par, length, designer and what to expect.",
+    "crumb": "Courses",
+    "about": "About the course",
+    "facilities": "Facilities",
+    "signature": "Signature hole",
+    "playsIn": "Packages that play here",
+    "noPackage": "No package plays here yet? Ask us, we can usually arrange it directly.",
+    "askCourse": "Ask about this course",
+    "ctaTitle": "Want to play {name}?",
+    "ctaText": "Tell us your dates and group size and we'll build a package around it.",
+    "inRegion": "Other courses in {name}"
+  },
+  "hotels": {
+    "title": "Hotels",
+    "h1": "Hotels that work for golfers.",
+    "lede": "The properties in our packages, chosen for their location next to the golf and for what the group needs at the end of the day.",
+    "crumb": "Hotels",
+    "about": "About the hotel",
+    "facilities": "Facilities",
+    "packagesAt": "Packages at this hotel",
+    "enquire": "Enquire about this hotel",
+    "ctaTitle": "Want to stay at {name}?",
+    "ctaText": "Tell us your dates and we'll build the golf around it."
+  },
+  "tournaments": {
+    "title": "Tournament Travel",
+    "h1": "Watch the best, then play the courses they play.",
+    "lede": "Tickets, hospitality, hotels and golf for the biggest weeks in the calendar. Tell us which event and how many are travelling.",
+    "crumb": "Tournaments",
+    "when": "When",
+    "included": "What we arrange",
+    "registerTitle": "Register your interest",
+    "registerSub": "Tickets for these events are limited and secured well in advance. The earlier we hear from you, the better the package.",
+    "event": "Event",
+    "others": "Other events"
+  },
+  "topTen": {
+    "title": "Top 10 Golf Courses in Scotland",
+    "h1": "Our Top 10 in Scotland.",
+    "lede": "Not a ranking by committee. These are the ten Scottish courses our team would play before any others, and we can build a trip around any combination of them.",
+    "crumb": "Top 10 Scotland",
+    "buildTitle": "Build a trip around them",
+    "buildText": "Pick the ones your group wants, tell us your dates and we'll route the trip to fit them in.",
+    "buildBtn": "Build my Scotland trip →",
+    "inRegion": "In {name}"
+  },
+  "custom": {
+    "title": "Custom Golf Package",
+    "h1": "Tell us what you want. We'll build it.",
+    "lede": "Courses or hotels that aren't in our packages, a country we don't list yet, a stag week, a society tour, a two-centre trip. Fill in what you know and we'll come back with a full proposal within 24 hours.",
+    "crumb": "Custom package",
+    "whyEyebrow": "How custom works",
+    "why1t": "Any course, any country",
+    "why1p": "If it has eighteen holes we can probably get you on it. Private clubs, limited-visitor courses and tour venues included.",
+    "why2t": "Your pace, your budget",
+    "why2p": "Three rounds in four days or seven in seven. Three-star and walkable or five-star with a spa. You set the brief.",
+    "why3t": "One price, no surprises",
+    "why3p": "A per-person price covering everything you asked for, confirmed in writing before you pay a deposit."
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "h1": "From enquiry to first tee in three steps.",
+    "lede": "No online checkout, no bots. A real golfer reads your request and builds the trip.",
+    "crumb": "How it works"
+  },
+  "transfers": {
+    "title": "Transfers & Car Hire",
+    "h1": "Getting you there when it counts.",
+    "lede": "Three ways to get around on a golf trip. Tell us which you'd prefer in the quote form and we'll build it in.",
+    "crumb": "Transfers",
+    "t1": "Private transfers",
+    "p1": "The most economical seamless option: point-to-point transfers between the airport, the hotel and each course, so nobody has to navigate unfamiliar roads or find parking. From six golfers up it is usually cheaper than hiring cars, typically €90 to €120 per person for a five-night trip based on eight golfers with clubs.",
+    "t2": "Driver-guide",
+    "p2": "The same trusted driver throughout your stay, handling airport transfers, daily trips to the course and the last-minute changes that happen on every golf trip, with local recommendations thrown in. The stress-free option for groups who want to switch off.",
+    "t3": "Self-drive car hire",
+    "p3": "For groups who prefer flexibility: we arrange hire cars with club-friendly boot space and you drive yourselves. More planning, more freedom, and the best way to reach the remoter courses we book."
+  },
+  "faqs": {
+    "title": "FAQs",
+    "h1": "Questions golfers ask us.",
+    "lede": "The short version of what's included, how booking works and when to travel. Anything else, just ask.",
+    "crumb": "FAQs",
+    "items": [
+      [
+        "What is included in a package?",
+        "Each itinerary is bespoke, but packages typically cover accommodation with breakfast, green fees on the courses listed, tee times confirmed in advance and concierge support throughout. Private transfers, flights, buggies, caddies and extras such as dinners, whisky tastings or cultural tours are added on request."
+      ],
+      [
+        "Can we change a package?",
+        "Yes, every package is a starting point. Swap courses, add nights, upgrade the hotel or bring non-golfers. Tell us in the comments box on the quote form."
+      ],
+      [
+        "Can you get us onto private or limited-access courses?",
+        "Often, yes. Through our industry relationships we can arrange access to courses with limited visitor play, including Real Valderrama and Real Sotogrande, Muirfield and the Old Course. Book in good time."
+      ],
+      [
+        "Private transfers or a driver-guide?",
+        "Private transfers give you point-to-point comfort. A driver-guide stays with the group all week, handles changes on the fly and adds local knowledge. Self-drive car hire is the third option. See our transfers page."
+      ],
+      [
+        "When is the best time to travel?",
+        "Scotland, Ireland and England: May to October. Spain: October to May. Morocco and the UAE: October to April. Within those windows, the shoulder months are quieter and better value."
+      ],
+      [
+        "How far ahead should we book?",
+        "Four to eight months for premium courses and the best hotels, especially for spring and autumn in Britain and Ireland and winter in Spain. We can often work with shorter notice, so ask."
+      ],
+      [
+        "Can non-golfers join?",
+        "Absolutely. We build dual itineraries with sightseeing, spa days and excursions alongside the golf, so everyone meets for dinner."
+      ],
+      [
+        "What skill level do we need?",
+        "Any. Our trips suit casual players and low handicappers alike, and we'll match the courses to the group."
+      ],
+      [
+        "Do you provide travel insurance?",
+        "We don't sell it, but we strongly recommend comprehensive cover that includes golf equipment, and we'll advise what to look for."
+      ],
+      [
+        "How do we book?",
+        "Send an enquiry through any form on the site. We'll reply with a proposal within 24 hours, refine it with you, then confirm with a deposit. The balance is due before travel."
+      ]
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "h1": "Golfers first, travel agents second.",
+    "lede": "One Golf Travel is run by golfers based in Sotogrande, southern Spain, with roots in the UK. We book the trips we would take ourselves.",
+    "crumb": "About us",
+    "p1": "We started One Golf Travel because the golf trips we were booking for friends kept turning into the trips they talked about for years. We know the courses because we play them, we know the hotels because we have stayed in them, and we know the transfer times because we have sat in the van.",
+    "p2": "We are a member of the International Association of Golf Tour Operators and we work with the clubs, hotels and transport partners directly. That is what gets a group onto Valderrama on a Tuesday or into the Old Course ballot with the paperwork done.",
+    "p3": "Our sister brand, Racket Breaks, does the same for padel in the south of Spain."
+  },
+  "contact": {
+    "title": "Contact",
+    "h1": "Talk to a golfer.",
+    "lede": "Our travel consultants are passionate golfers who understand what a group needs. Email, call, WhatsApp or use the form.",
+    "crumb": "Contact",
+    "formTitle": "Send us a message",
+    "quickTitle": "Or get straight to a quote"
+  },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms & Conditions",
+    "placeholder": "This page is being finalised with the legal text for One Golf Travel and will be published before launch."
+  },
+  "seo": {
+    "home": {
+      "title": "One Golf Travel | Golf Holidays & Packages in Scotland, Ireland, Spain and Beyond",
+      "description": "Golf travel for groups: packages in Scotland, Ireland and Spain, custom golf trips anywhere, and tournament travel to the Masters, Ryder Cup and The Open. Quotes within 24 hours."
+    },
+    "destinations": {
+      "title": "Golf Destinations | Scotland, Ireland, England, Spain, Morocco, UAE",
+      "description": "Choose a country for golf packages, courses, hotels and regions. Custom trips anywhere else in the world."
+    },
+    "packages": {
+      "title": "Golf Packages | Hotel, Green Fees and Tee Times Arranged",
+      "description": "Golf packages in Scotland, Ireland and Spain with hotel, rounds and tee times arranged. Prices per person; quote for your exact dates in 24 hours."
+    },
+    "courses": {
+      "title": "Golf Courses We Book",
+      "description": "Course pages for the golf courses in our packages: par, length, designer, facilities and what to expect."
+    },
+    "hotels": {
+      "title": "Golf Hotels",
+      "description": "The hotels in our golf packages, chosen for their location beside the golf."
+    },
+    "tournaments": {
+      "title": "Tournament Travel | Masters, Ryder Cup, The Open, Solheim Cup, Race to Dubai",
+      "description": "Tickets, hospitality, hotels and golf around the biggest events in the golf calendar."
+    },
+    "topTen": {
+      "title": "Top 10 Golf Courses in Scotland | Chosen by One Golf Travel",
+      "description": "The ten Scottish courses our team would play before any others, and how to build a trip around them."
+    },
+    "custom": {
+      "title": "Custom Golf Package | Any Course, Any Country",
+      "description": "Tell us where, when and how many. We build a bespoke golf trip and reply with a full proposal within 24 hours."
+    },
+    "howItWorks": {
+      "title": "How It Works | Booking a Golf Trip with One Golf Travel",
+      "description": "Three steps from enquiry to first tee: tell us the trip, get a tailored quote in 24 hours, we book it."
+    },
+    "transfers": {
+      "title": "Transfers & Car Hire for Golf Trips",
+      "description": "Private transfers, driver-guide or self-drive car hire for your golf trip. We arrange whichever suits the group."
+    },
+    "faqs": {
+      "title": "FAQs | Golf Packages, Booking and Travel",
+      "description": "What is included, how to book, best times to travel and access to private courses."
+    },
+    "about": {
+      "title": "About One Golf Travel",
+      "description": "Golf travel specialists based in Sotogrande, Spain, IAGTO members, booking the trips we would take ourselves."
+    },
+    "contact": {
+      "title": "Contact One Golf Travel",
+      "description": "Email, call or WhatsApp a golfer. We reply within 24 hours."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "How One Golf Travel handles your data."
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "description": "Booking terms for One Golf Travel packages."
+    },
+    "country": {
+      "title": "Golf Holidays in {name} | Packages, Courses & Hotels",
+      "description": "Golf packages in {name}: regions, courses, hotels and tailored quotes within 24 hours."
+    },
+    "region": {
+      "title": "Golf Holidays in {name}, {country}",
+      "description": "{lede}"
+    },
+    "package": {
+      "title": "{title} | {n} Nights, {r} Rounds from {price} pp",
+      "description": "{hotel}, {location}. {n} nights, {r} rounds, {board}. Quote for your dates within 24 hours."
+    },
+    "course": {
+      "title": "{name} | Golf Course Guide",
+      "description": "{summary}"
+    },
+    "hotel": {
+      "title": "{name} | Golf Hotel in {location}",
+      "description": "{about}"
+    },
+    "tournament": {
+      "title": "{name} Travel Packages | Tickets, Hotels & Golf",
+      "description": "{lede}"
+    }
+  }
+}

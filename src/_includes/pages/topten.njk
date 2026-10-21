@@ -1,0 +1,19 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set TT = T.topTen -%}
+{% set scotland = D.countries | findCountry('scotland') %}
+<section class="page-hero page-hero--photo" style="background-image:linear-gradient(0deg, rgba(3,22,61,.92) 0%, rgba(3,22,61,.4) 60%, rgba(3,22,61,.2) 100%), url('{{ scotland.hero }}');">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [scotland.name, scotland.url], [TT.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <div class="eyebrow">{{ scotland.flag }} {{ scotland.name }}</div>
+    <h1>{{ TT.h1 }}</h1><p class="lede">{{ TT.lede }}</p>
+  </div>
+</section>
+<section class="sec">
+  <div class="wrap">
+    <ol class="top-ten reveal">
+      {% for c in D.topten %}{% set r = D.regions | findRegion(c.region) %}
+      <li><span class="top-ten-rank">{{ c.rank }}</span><div><h3>{{ c.name }}</h3><div class="eyebrow">{% if r %}<a href="{{ r.url }}">{{ r.name }}</a>{% endif %}</div><p>{{ c.blurb }}</p></div></li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+{% set ctaTitle = TT.buildTitle %}{% set ctaText = TT.buildText %}{% set ctaHref = R.custom + '?destination=scotland' %}{% include "partials/cta-band.njk" %}

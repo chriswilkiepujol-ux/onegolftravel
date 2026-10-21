@@ -1,0 +1,12 @@
+{
+  "old-course": { "name": "El Old Course, St Andrews", "blurb": "El original. Siete greens dobles, el Road Hole y el puente de Swilcan; todo golfista debería subir por el 18 una vez." },
+  "carnoustie": { "name": "Carnoustie Championship", "blurb": "Al otro lado del Tay desde St Andrews y la sede del Open más dura que existe. El final del Barry Burn ha decidido campeonatos." },
+  "royal-troon": { "name": "Royal Troon", "blurb": "Nueve veces sede del Open en la costa de Ayrshire, hogar del Postage Stamp, el par 3 corto más famoso del golf." },
+  "turnberry-ailsa": { "name": "Turnberry, Ailsa", "blurb": "El links más bonito de Escocia, con el faro, Ailsa Craig y los hoyos del Duelo bajo el Sol junto a la orilla." },
+  "muirfield": { "name": "Muirfield", "blurb": "El links de la Honourable Company en East Lothian: dos bucles, viento de todas las direcciones y un día de visitantes que merece organizar un viaje." },
+  "kingsbarns": { "name": "Kingsbarns", "blurb": "Links moderno en la costa al sur de St Andrews con el mar en casi todos los hoyos. Abrió en 2000 y ya es un clásico." },
+  "royal-dornoch": { "name": "Royal Dornoch", "blurb": "Muy al norte, en las Highlands, y vale cada kilómetro. Links natural, greens en meseta y el tojo en flor en mayo." },
+  "north-berwick": { "name": "North Berwick, West Links", "blurb": "Peculiar, histórico y divertidísimo, con el Redan original y el Bass Rock en el mar." },
+  "castle-stuart": { "name": "Cabot Highlands (Castle Stuart)", "blurb": "Sede del Scottish Open sobre el Moray Firth, cerca de Inverness, con calles anchas y vistas a la Black Isle." },
+  "gleneagles-kings": { "name": "Gleneagles, King's Course", "blurb": "La obra maestra de interior de James Braid en Perthshire, con un hotel a la altura. La Ryder Cup de 2014 se jugó en el vecino PGA Centenary." }
+}

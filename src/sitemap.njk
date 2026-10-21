@@ -1,0 +1,17 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{%- for key, v in collections.tmap %}
+{%- for l in site.locales %}{% if v[l] %}
+  <url>
+    <loc>{{ site.domain }}{{ v[l] }}</loc>
+    {%- for l2 in site.locales %}{% if v[l2] %}
+    <xhtml:link rel="alternate" hreflang="{{ t[l2].hreflang }}" href="{{ site.domain }}{{ v[l2] }}"/>{% endif %}{% endfor %}
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.domain }}{{ v.en }}"/>
+  </url>
+{%- endif %}{% endfor %}
+{%- endfor %}
+</urlset>

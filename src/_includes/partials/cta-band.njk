@@ -1,0 +1,10 @@
+{# `ctaTitle`, `ctaText`, optional `ctaHref` #}
+{%- set TT = t[locale] -%}
+<section class="sec sec-tight">
+  <div class="wrap">
+  <div class="cta-banner reveal">
+    <div><h2>{{ ctaTitle }}</h2><p>{{ ctaText }}</p></div>
+    <a href="{{ ctaHref or TT.routes.custom }}" class="btn btn-accent btn-lg">{{ TT.common.startQuote }}</a>
+  </div>
+  </div>
+</section>

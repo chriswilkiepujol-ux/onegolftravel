@@ -1,0 +1,136 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set H = T.home -%}
+{% set featuredPackages = D.packages | featured %}
+{% set top = D.topten %}
+
+<section class="hero" style="background-image:linear-gradient(100deg, rgba(3,22,61,.84) 0%, rgba(3,22,61,.55) 40%, rgba(3,22,61,.2) 75%, rgba(3,22,61,.1) 100%), url('/assets/images/brand/hero.webp');">
+  <div class="hero-inner">
+    <div class="hero-copy">
+      <div class="eyebrow hero-eyebrow"><span class="dot-pink"></span>{{ H.eyebrow }}</div>
+      <h1>{{ H.h1a }} <em>{{ H.h1b }}</em></h1>
+      <p class="lede">{{ H.lede }}</p>
+      <div class="hero-actions">
+        <a href="{{ R.packages }}" class="btn btn-accent">{{ H.cta1 }} →</a>
+        <a href="{{ R.custom }}" class="btn btn-ghost-dark">{{ H.cta2 }}</a>
+      </div>
+      <div class="trust-badges"><span>{{ H.trust1 }}</span><span>{{ H.trust2 }}</span><span>{{ H.trust3 }}</span></div>
+    </div>
+    <div class="hero-search">
+      <div class="eyebrow">{{ H.searchEyebrow }}</div>
+      <h3>{{ H.searchTitle }}</h3>
+      <form class="enquiry-form" action="{{ site.formspree }}" method="POST">
+        <input type="hidden" name="_site" value="One Golf Travel">
+        <input type="hidden" name="_subject" value="{{ T.form.subjectPrefix }}Homepage ({{ locale | upper }})">
+        <input type="hidden" name="language" value="{{ locale }}">
+        <div class="hero-field-row">
+          <div class="hero-field"><label for="h-where">{{ T.form.where }}</label>
+            <select id="h-where" name="destination">
+              {% for c in D.countries %}<option>{{ c.name }}</option>{% endfor %}
+              <option>{{ T.form.elsewhere }}</option>
+              <option>{{ T.form.notSure }}</option>
+            </select></div>
+          <div class="hero-field"><label for="h-size">{{ T.form.groupSize }}</label><input type="number" id="h-size" name="group_size" placeholder="8" min="1"></div>
+        </div>
+        <div class="hero-field-row">
+          <div class="hero-field"><label for="h-month">{{ T.form.orMonth }}</label>
+            <select id="h-month" name="travel_month"><option value="">{{ T.form.flexible }}</option>{% for m in travelMonths[locale] %}<option>{{ m }}</option>{% endfor %}</select></div>
+          <div class="hero-field"><label for="h-nights">{{ T.form.nights }}</label>
+            <select id="h-nights" name="nights"><option>3</option><option>4</option><option selected>5</option><option>6</option><option>7</option><option>7+</option></select></div>
+        </div>
+        <div class="hero-field"><label for="h-email">{{ T.form.email }}</label><input type="email" id="h-email" name="email" required placeholder="you@email.com"></div>
+        <button type="submit" class="btn btn-accent" style="width:100%;justify-content:center;">{{ H.searchBtn }}</button>
+        <div class="form-status" role="status"></div>
+        <div class="hero-form-note">{{ H.searchNote }}</div>
+      </form>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="destinations">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ H.destEyebrow }}</div><h2>{{ H.destTitle }}</h2></div><p>{{ H.destSub }}</p></div>
+    <div class="dest-grid reveal">
+      {% for country in D.countries %}{% include "partials/country-card.njk" %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sec sec-stone" id="packages">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ H.packEyebrow }}</div><h2>{{ H.packTitle }}</h2></div><p>{{ H.packSub }}</p></div>
+    <div class="tickets-scroll swipe-row reveal">
+      {% for pkg in featuredPackages %}{% include "partials/package-card.njk" %}{% endfor %}
+    </div>
+    <div class="sec-foot"><a href="{{ R.packages }}" class="btn btn-outline">{{ T.nav.allPackages }} →</a> <a href="{{ R.custom }}" class="btn btn-ghost">{{ T.common.customPackage }} →</a></div>
+  </div>
+</section>
+
+<section class="sec why">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ H.whyEyebrow }}</div><h2>{{ H.whyTitle }}</h2></div></div>
+    <div class="why-grid reveal">
+      <div class="why-card" data-n="01"><h4>{{ H.why1t }}</h4><p>{{ H.why1p }}</p></div>
+      <div class="why-card" data-n="02"><h4>{{ H.why2t }}</h4><p>{{ H.why2p }}</p></div>
+      <div class="why-card" data-n="03"><h4>{{ H.why3t }}</h4><p>{{ H.why3p }}</p></div>
+      <div class="why-card" data-n="04"><h4>{{ H.why4t }}</h4><p>{{ H.why4p }}</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec-navy" id="top10">
+  <div class="wrap top-split">
+    <div class="top-copy reveal">
+      <div class="eyebrow">{{ H.topEyebrow }}</div>
+      <h2>{{ H.topTitle }}</h2>
+      <p>{{ H.topSub }}</p>
+      <a href="{{ R.topTen }}" class="btn btn-accent">{{ H.topBtn }}</a>
+    </div>
+    <ol class="top-list reveal">
+      {% for c in top %}<li><span class="top-rank">{{ c.rank }}</span><span>{{ c.name }}</span></li>{% endfor %}
+    </ol>
+  </div>
+</section>
+
+<section class="sec" id="tournaments">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ H.tourEyebrow }}</div><h2>{{ H.tourTitle }}</h2></div><p>{{ H.tourSub }}</p></div>
+    <div class="tour-grid reveal">
+      {% for e in D.tournaments %}
+      <a class="tour-card" href="{{ e.url }}" style="background-image:linear-gradient(0deg, rgba(3,22,61,.85), rgba(3,22,61,.1) 60%), url('{{ e.image }}');">
+        <span class="code-badge">{{ e.month }}</span>
+        <h4>{{ e.name }}</h4><p>{{ e.short }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sec sec-stone" id="how">
+  <div class="wrap">
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ H.howEyebrow }}</div><h2>{{ H.howTitle }}</h2></div></div>
+    <div class="steps reveal">
+      <div class="step"><span class="step-n">1</span><h4>{{ H.how1t }}</h4><p>{{ H.how1p }}</p></div>
+      <div class="step"><span class="step-n">2</span><h4>{{ H.how2t }}</h4><p>{{ H.how2p }}</p></div>
+      <div class="step"><span class="step-n">3</span><h4>{{ H.how3t }}</h4><p>{{ H.how3p }}</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="eyebrow reveal" style="text-align:center;margin-bottom:22px;">{{ H.testiEyebrow }}</div>
+    <div class="testi-grid reveal">
+      <blockquote>“{{ H.testi1 }}”<cite>{{ H.testi1by }}</cite></blockquote>
+      <blockquote>“{{ H.testi2 }}”<cite>{{ H.testi2by }}</cite></blockquote>
+      <blockquote>“{{ H.testi3 }}”<cite>{{ H.testi3by }}</cite></blockquote>
+    </div>
+    <div class="partners reveal">
+      <div class="eyebrow">{{ H.partnersEyebrow }}</div>
+      <div class="partners-row">
+        <img src="/assets/images/brand/iagto.png" alt="IAGTO" loading="lazy">
+        {% for i in [2,3,4,5,6,7,8,9,10,11,12] %}<img src="/assets/images/brand/partner-{{ i }}.png" alt="" loading="lazy">{% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+{% set ctaTitle = H.ctaTitle %}{% set ctaText = H.ctaText %}{% include "partials/cta-band.njk" %}

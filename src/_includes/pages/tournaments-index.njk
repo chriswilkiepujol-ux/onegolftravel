@@ -1,0 +1,17 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set D = loc[locale] -%}{%- set TT = T.tournaments -%}
+<section class="page-hero">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TT.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TT.h1 }}</h1><p class="lede">{{ TT.lede }}</p>
+  </div>
+</section>
+<section class="sec" style="padding-top:0;">
+  <div class="wrap">
+    <div class="tour-grid tour-grid--large reveal">
+      {% for e in D.tournaments %}
+      <a class="tour-card" href="{{ e.url }}" style="background-image:linear-gradient(0deg, rgba(3,22,61,.88), rgba(3,22,61,.1) 60%), url('{{ e.image }}');"><span class="code-badge">{{ e.month }}</span><h4>{{ e.name }}</h4><p>{{ e.lede }}</p></a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% set ctaTitle = TT.registerTitle %}{% set ctaText = TT.registerSub %}{% include "partials/cta-band.njk" %}

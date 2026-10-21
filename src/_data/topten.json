@@ -1,0 +1,12 @@
+[
+  { "slug": "old-course", "rank": 1, "name": "The Old Course, St Andrews", "region": "st-andrews", "blurb": "The original. Seven double greens, the Road Hole and the Swilcan Bridge; every golfer should walk up the 18th once." },
+  { "slug": "carnoustie", "rank": 2, "name": "Carnoustie Championship", "region": "st-andrews", "blurb": "Across the Tay from St Andrews and the hardest Open venue there is. The Barry Burn finish has decided championships." },
+  { "slug": "royal-troon", "rank": 3, "name": "Royal Troon", "region": "west-coast-ayrshire", "blurb": "Nine-time Open host on the Ayrshire coast, home of the Postage Stamp, the most famous short par 3 in golf." },
+  { "slug": "turnberry-ailsa", "rank": 4, "name": "Turnberry, Ailsa", "region": "west-coast-ayrshire", "blurb": "The most beautiful links in Scotland, with the lighthouse, Ailsa Craig and the Duel in the Sun holes along the shore." },
+  { "slug": "muirfield", "rank": 5, "name": "Muirfield", "region": "east-lothian", "blurb": "The Honourable Company's links in East Lothian: two loops, every wind direction, and a visitor day that is worth planning a trip around." },
+  { "slug": "kingsbarns", "rank": 6, "name": "Kingsbarns", "region": "st-andrews", "blurb": "Modern links on the coast south of St Andrews with the sea on almost every hole. Opened in 2000 and already a classic." },
+  { "slug": "royal-dornoch", "rank": 7, "name": "Royal Dornoch", "region": "st-andrews", "blurb": "Far north in the Highlands and worth every mile. Natural links, plateau greens and gorse in flower in May." },
+  { "slug": "north-berwick", "rank": 8, "name": "North Berwick, West Links", "region": "east-lothian", "blurb": "Quirky, historic and enormous fun, with the original Redan hole and the Bass Rock out to sea." },
+  { "slug": "castle-stuart", "rank": 9, "name": "Cabot Highlands (Castle Stuart)", "region": "st-andrews", "blurb": "Scottish Open venue above the Moray Firth near Inverness, wide fairways and views to the Black Isle." },
+  { "slug": "gleneagles-kings", "rank": 10, "name": "Gleneagles, King's Course", "region": "st-andrews", "blurb": "James Braid's inland masterpiece in Perthshire, with the hotel to match. The 2014 Ryder Cup was played on the neighbouring PGA Centenary." }
+]

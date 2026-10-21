@@ -1,0 +1,17 @@
+{%- set T = t[locale] -%}{%- set R = T.routes -%}{%- set TR = T.transfers -%}
+<section class="page-hero page-hero--photo" style="background-image:linear-gradient(0deg, rgba(3,22,61,.92) 0%, rgba(3,22,61,.4) 60%, rgba(3,22,61,.2) 100%), url('/assets/images/brand/transfers.webp');">
+  <div class="wrap">
+    {% set crumbs = [[T.common.home, R.home], [TR.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
+    <h1>{{ TR.h1 }}</h1><p class="lede">{{ TR.lede }}</p>
+  </div>
+</section>
+<section class="sec">
+  <div class="wrap">
+    <div class="why-grid why-grid--3 reveal">
+      <div class="why-card" data-n="01"><h4>{{ TR.t1 }}</h4><p>{{ TR.p1 }}</p></div>
+      <div class="why-card" data-n="02"><h4>{{ TR.t2 }}</h4><p>{{ TR.p2 }}</p></div>
+      <div class="why-card" data-n="03"><h4>{{ TR.t3 }}</h4><p>{{ TR.p3 }}</p></div>
+    </div>
+  </div>
+</section>
+{% set ctaTitle = T.home.ctaTitle %}{% set ctaText = T.home.ctaText %}{% include "partials/cta-band.njk" %}
