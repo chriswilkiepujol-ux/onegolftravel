@@ -34,7 +34,7 @@
           <div class="hero-field"><label for="h-month">{{ T.form.orMonth }}</label>
             <select id="h-month" name="travel_month"><option value="">{{ T.form.flexible }}</option>{% for m in travelMonths[locale] %}<option>{{ m }}</option>{% endfor %}</select></div>
           <div class="hero-field"><label for="h-nights">{{ T.form.nights }}</label>
-            <select id="h-nights" name="nights"><option>3</option><option>4</option><option selected>5</option><option>6</option><option>7</option><option>7+</option></select></div>
+            <select id="h-nights" name="nights"><option selected>5</option><option>7</option><option>{{ T.form.nightsOther }}</option></select></div>
         </div>
         <div class="hero-field"><label for="h-email">{{ T.form.email }}</label><input type="email" id="h-email" name="email" required placeholder="you@email.com"></div>
         <button type="submit" class="btn btn-accent" style="width:100%;justify-content:center;">{{ H.searchBtn }}</button>
@@ -56,7 +56,7 @@
 
 <section class="sec sec-stone" id="packages">
   <div class="wrap">
-    <div class="sec-head reveal"><div><div class="eyebrow">{{ H.packEyebrow }}</div><h2>{{ H.packTitle }}</h2></div><p>{{ H.packSub }}</p></div>
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ H.packEyebrow }}</div><h2>{{ H.packTitle }}</h2></div><p>{{ H.packSub }} {{ T.packages.lengthsNote }}</p></div>
     <div class="tickets-scroll swipe-row reveal">
       {% for pkg in featuredPackages %}{% include "partials/package-card.njk" %}{% endfor %}
     </div>

@@ -49,6 +49,8 @@
       <div class="nav-item-dropdown">
         <a href="{{ R.packages }}"{% if navActive == 'packages' %} class="active"{% endif %}>{{ T.nav.packages }} <span class="chevron">▾</span></a>
         <div class="nav-dropdown-panel">
+          <a href="{{ R.packages }}?nights=5">{{ T.nav.fiveNight }}</a>
+          <a href="{{ R.packages }}?nights=7">{{ T.nav.sevenNight }}</a>
           {% for c in D.countries %}{% if c.status != 'coming-soon' %}<a href="{{ c.url }}#packages">{{ c.name }}</a>{% endif %}{% endfor %}
           <a href="{{ R.packages }}" class="nav-dropdown-secondary">{{ T.nav.allPackages }}</a>
           <a href="{{ R.custom }}" class="nav-dropdown-secondary">{{ T.nav.custom }}</a>

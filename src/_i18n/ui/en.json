@@ -47,7 +47,9 @@
     "faqs": "FAQs",
     "about": "About us",
     "hotels": "Hotels",
-    "comingSoon": "Coming soon"
+    "comingSoon": "Coming soon",
+    "fiveNight": "5-night packages",
+    "sevenNight": "7-night packages"
   },
   "footer": {
     "blurb": "Golf travel for groups, built around the courses you want to play. Scotland, Ireland, England, Spain, Morocco and the UAE, with custom packages anywhere else.",
@@ -155,7 +157,8 @@
     "customSubject": "Custom package request",
     "contactSubject": "General enquiry",
     "message": "Message",
-    "privacy": "By sending this form you agree to our privacy policy."
+    "privacy": "By sending this form you agree to our privacy policy.",
+    "nightsOther": "Other (custom package)"
   },
   "js": {
     "sending": "Sending…",
@@ -266,7 +269,11 @@
     "tierNote": "Not quite right? Every package is a starting point. Change courses, add nights, upgrade the hotel in the form.",
     "filterCountry": "Country",
     "filterTier": "Type",
-    "empty": "No packages here yet. Build a custom one instead."
+    "empty": "No packages here yet. Build a custom one instead.",
+    "lengthsNote": "Our packages come as 5 nights or 7 nights. Anything shorter, longer or in between is a custom package, built around your group.",
+    "filterNights": "Length",
+    "nightsChip": "{n} nights",
+    "customChip": "Other lengths → custom"
   },
   "courses": {
     "title": "Golf Courses",

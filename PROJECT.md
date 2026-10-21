@@ -15,6 +15,7 @@ Built by Impulso Media (Chris Wilkie), project value €3,000. Rebuilt from the 
 ## 2. The brief from Max (meeting notes, Oct 2026)
 
 - Destinations are number one. Category/parent pages are **countries**, each with **region** sub-pages (Scotland → St Andrews / Edinburgh & East Lothian / West Coast & Ayrshire).
+- **Package lengths are 5 nights or 7 nights only** (Max, 21 Oct). Anything shorter, longer or in between is a custom package. Every package record must have `nights: 5` or `nights: 7`; the packages index filters by length and the nav links to `?nights=5` / `?nights=7`.
 - Packages: "we only sell the best": good / popular / value per region. Anything else is a custom package. Targets: Scotland 15, Ireland 10, England 5, Spain 20, Morocco 5, UAE 5 (stored in `countries.json > targets`).
 - Golf course pages per course: not for now (Scotland 50, England 20, Spain 50, Ireland 30, Morocco 15 is too many). The template exists and the 11 courses already on the live site have pages; adding more is one JSON record each.
 - Top 10 recommended in Scotland "by us" → `/top-10-golf-courses-scotland/`. The current list is a placeholder for Max to reorder/replace.

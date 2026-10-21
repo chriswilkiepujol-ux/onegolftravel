@@ -47,7 +47,9 @@
     "faqs": "Preguntas frecuentes",
     "about": "Sobre nosotros",
     "hotels": "Hoteles",
-    "comingSoon": "Próximamente"
+    "comingSoon": "Próximamente",
+    "fiveNight": "Paquetes de 5 noches",
+    "sevenNight": "Paquetes de 7 noches"
   },
   "footer": {
     "blurb": "Viajes de golf para grupos, organizados alrededor de los campos que quieres jugar. Escocia, Irlanda, Inglaterra, España, Marruecos y Emiratos, y paquetes a medida en cualquier otro destino.",
@@ -155,7 +157,8 @@
     "customSubject": "Solicitud de paquete a medida",
     "contactSubject": "Consulta general",
     "message": "Mensaje",
-    "privacy": "Al enviar este formulario aceptas nuestra política de privacidad."
+    "privacy": "Al enviar este formulario aceptas nuestra política de privacidad.",
+    "nightsOther": "Otra (paquete a medida)"
   },
   "js": {
     "sending": "Enviando…",
@@ -266,7 +269,11 @@
     "tierNote": "¿No encaja del todo? Cada paquete es un punto de partida. Cambia campos, añade noches o mejora el hotel desde el formulario.",
     "filterCountry": "País",
     "filterTier": "Tipo",
-    "empty": "Todavía no hay paquetes aquí. Crea uno a medida."
+    "empty": "Todavía no hay paquetes aquí. Crea uno a medida.",
+    "lengthsNote": "Nuestros paquetes son de 5 o de 7 noches. Cualquier duración más corta, más larga o intermedia es un paquete a medida, montado alrededor de vuestro grupo.",
+    "filterNights": "Duración",
+    "nightsChip": "{n} noches",
+    "customChip": "Otras duraciones → a medida"
   },
   "courses": {
     "title": "Campos de golf",
@@ -354,16 +361,46 @@
     "lede": "La versión corta de qué incluye, cómo se reserva y cuándo viajar. Cualquier otra cosa, pregúntanos.",
     "crumb": "Preguntas frecuentes",
     "items": [
-      ["¿Qué incluye un paquete?", "Cada itinerario es a medida, pero los paquetes suelen cubrir alojamiento con desayuno, green fees de los campos indicados, horas de salida confirmadas con antelación y asistencia de conserjería durante todo el viaje. Traslados privados, vuelos, buggies, caddies y extras como cenas, catas de whisky o visitas culturales se añaden bajo petición."],
-      ["¿Podemos cambiar un paquete?", "Sí, cada paquete es un punto de partida. Cambia campos, añade noches, mejora el hotel o trae acompañantes que no juegan. Cuéntanoslo en el cuadro de comentarios del formulario."],
-      ["¿Podéis meternos en campos privados o de acceso restringido?", "Muchas veces, sí. Gracias a nuestras relaciones en el sector podemos conseguir acceso a campos con juego limitado para visitantes, como Real Valderrama y Real Sotogrande, Muirfield o el Old Course. Reservad con tiempo."],
-      ["¿Traslados privados o conductor-guía?", "Los traslados privados os dan comodidad punto a punto. Un conductor-guía está con el grupo toda la semana, resuelve cambios sobre la marcha y aporta conocimiento local. El coche de alquiler es la tercera opción. Más en nuestra página de traslados."],
-      ["¿Cuál es la mejor época para viajar?", "Escocia, Irlanda e Inglaterra: de mayo a octubre. España: de octubre a mayo. Marruecos y Emiratos: de octubre a abril. Dentro de esas ventanas, los meses de hombro son más tranquilos y más baratos."],
-      ["¿Con cuánta antelación reservamos?", "De cuatro a ocho meses para campos premium y los mejores hoteles, sobre todo en primavera y otoño en Gran Bretaña e Irlanda y en invierno en España. A menudo podemos trabajar con menos margen, así que preguntad."],
-      ["¿Pueden venir acompañantes que no juegan?", "Por supuesto. Montamos itinerarios dobles con visitas, días de spa y excursiones en paralelo al golf, para que todos coincidáis en la cena."],
-      ["¿Qué nivel necesitamos?", "Cualquiera. Nuestros viajes funcionan tanto para jugadores ocasionales como para hándicaps bajos, y adaptamos los campos al grupo."],
-      ["¿Ofrecéis seguro de viaje?", "No lo vendemos, pero recomendamos encarecidamente una cobertura completa que incluya el equipo de golf, y os aconsejamos qué buscar."],
-      ["¿Cómo reservamos?", "Envía una consulta por cualquier formulario de la web. Respondemos con una propuesta en 24 horas, la afinamos contigo y la confirmamos con una señal. El resto se paga antes del viaje."]
+      [
+        "¿Qué incluye un paquete?",
+        "Cada itinerario es a medida, pero los paquetes suelen cubrir alojamiento con desayuno, green fees de los campos indicados, horas de salida confirmadas con antelación y asistencia de conserjería durante todo el viaje. Traslados privados, vuelos, buggies, caddies y extras como cenas, catas de whisky o visitas culturales se añaden bajo petición."
+      ],
+      [
+        "¿Podemos cambiar un paquete?",
+        "Sí, cada paquete es un punto de partida. Cambia campos, añade noches, mejora el hotel o trae acompañantes que no juegan. Cuéntanoslo en el cuadro de comentarios del formulario."
+      ],
+      [
+        "¿Podéis meternos en campos privados o de acceso restringido?",
+        "Muchas veces, sí. Gracias a nuestras relaciones en el sector podemos conseguir acceso a campos con juego limitado para visitantes, como Real Valderrama y Real Sotogrande, Muirfield o el Old Course. Reservad con tiempo."
+      ],
+      [
+        "¿Traslados privados o conductor-guía?",
+        "Los traslados privados os dan comodidad punto a punto. Un conductor-guía está con el grupo toda la semana, resuelve cambios sobre la marcha y aporta conocimiento local. El coche de alquiler es la tercera opción. Más en nuestra página de traslados."
+      ],
+      [
+        "¿Cuál es la mejor época para viajar?",
+        "Escocia, Irlanda e Inglaterra: de mayo a octubre. España: de octubre a mayo. Marruecos y Emiratos: de octubre a abril. Dentro de esas ventanas, los meses de hombro son más tranquilos y más baratos."
+      ],
+      [
+        "¿Con cuánta antelación reservamos?",
+        "De cuatro a ocho meses para campos premium y los mejores hoteles, sobre todo en primavera y otoño en Gran Bretaña e Irlanda y en invierno en España. A menudo podemos trabajar con menos margen, así que preguntad."
+      ],
+      [
+        "¿Pueden venir acompañantes que no juegan?",
+        "Por supuesto. Montamos itinerarios dobles con visitas, días de spa y excursiones en paralelo al golf, para que todos coincidáis en la cena."
+      ],
+      [
+        "¿Qué nivel necesitamos?",
+        "Cualquiera. Nuestros viajes funcionan tanto para jugadores ocasionales como para hándicaps bajos, y adaptamos los campos al grupo."
+      ],
+      [
+        "¿Ofrecéis seguro de viaje?",
+        "No lo vendemos, pero recomendamos encarecidamente una cobertura completa que incluya el equipo de golf, y os aconsejamos qué buscar."
+      ],
+      [
+        "¿Cómo reservamos?",
+        "Envía una consulta por cualquier formulario de la web. Respondemos con una propuesta en 24 horas, la afinamos contigo y la confirmamos con una señal. El resto se paga antes del viaje."
+      ]
     ]
   },
   "about": {
@@ -389,26 +426,89 @@
     "placeholder": "Esta página se está completando con el texto legal de One Golf Travel y se publicará antes del lanzamiento."
   },
   "seo": {
-    "home": { "title": "One Golf Travel | Viajes y paquetes de golf en Escocia, Irlanda, España y más", "description": "Viajes de golf para grupos: paquetes en Escocia, Irlanda y España, viajes a medida a cualquier destino y viajes a torneos como el Masters, la Ryder Cup o The Open. Presupuesto en 24 horas." },
-    "destinations": { "title": "Destinos de golf | Escocia, Irlanda, Inglaterra, España, Marruecos, Emiratos", "description": "Elige un país para ver paquetes de golf, campos, hoteles y regiones. Viajes a medida en cualquier otro lugar del mundo." },
-    "packages": { "title": "Paquetes de golf | Hotel, green fees y horas de salida organizados", "description": "Paquetes de golf en Escocia, Irlanda y España con hotel, rondas y horas de salida. Precio por persona; presupuesto para tus fechas en 24 horas." },
-    "courses": { "title": "Campos de golf que reservamos", "description": "Fichas de los campos de nuestros paquetes: par, longitud, diseñador, instalaciones y qué esperar." },
-    "hotels": { "title": "Hoteles de golf", "description": "Los hoteles de nuestros paquetes de golf, elegidos por su ubicación junto a los campos." },
-    "tournaments": { "title": "Viajes a torneos | Masters, Ryder Cup, The Open, Solheim Cup, Race to Dubai", "description": "Entradas, hospitality, hoteles y golf alrededor de los grandes eventos del calendario." },
-    "topTen": { "title": "Los 10 mejores campos de golf de Escocia | Elegidos por One Golf Travel", "description": "Los diez campos escoceses que nuestro equipo jugaría antes que ningún otro, y cómo montar un viaje alrededor de ellos." },
-    "custom": { "title": "Paquete de golf a medida | Cualquier campo, cualquier país", "description": "Dinos dónde, cuándo y cuántos. Montamos un viaje de golf a medida y te enviamos una propuesta completa en 24 horas." },
-    "howItWorks": { "title": "Cómo funciona | Reservar un viaje de golf con One Golf Travel", "description": "Tres pasos de la consulta al primer tee: cuéntanos el viaje, recibe un presupuesto en 24 horas, nosotros reservamos." },
-    "transfers": { "title": "Traslados y alquiler de coches para viajes de golf", "description": "Traslados privados, conductor-guía o coche de alquiler para tu viaje de golf. Organizamos lo que mejor encaje con el grupo." },
-    "faqs": { "title": "Preguntas frecuentes | Paquetes de golf, reservas y viaje", "description": "Qué incluye, cómo reservar, las mejores fechas y el acceso a campos privados." },
-    "about": { "title": "Sobre One Golf Travel", "description": "Especialistas en viajes de golf con base en Sotogrande, miembros de IAGTO, que reservan los viajes que harían ellos mismos." },
-    "contact": { "title": "Contacto | One Golf Travel", "description": "Escribe, llama o manda un WhatsApp a un golfista. Respondemos en 24 horas." },
-    "privacy": { "title": "Política de privacidad", "description": "Cómo trata One Golf Travel tus datos." },
-    "terms": { "title": "Términos y condiciones", "description": "Condiciones de reserva de los paquetes de One Golf Travel." },
-    "country": { "title": "Viajes de golf a {name} | Paquetes, campos y hoteles", "description": "Paquetes de golf en {name}: regiones, campos, hoteles y presupuestos a medida en 24 horas." },
-    "region": { "title": "Viajes de golf a {name}, {country}", "description": "{lede}" },
-    "package": { "title": "{title} | {n} noches, {r} rondas desde {price} p.p.", "description": "{hotel}, {location}. {n} noches, {r} rondas, {board}. Presupuesto para tus fechas en 24 horas." },
-    "course": { "title": "{name} | Guía del campo", "description": "{summary}" },
-    "hotel": { "title": "{name} | Hotel de golf en {location}", "description": "{about}" },
-    "tournament": { "title": "Viaje al {name} | Entradas, hoteles y golf", "description": "{lede}" }
+    "home": {
+      "title": "One Golf Travel | Viajes y paquetes de golf en Escocia, Irlanda, España y más",
+      "description": "Viajes de golf para grupos: paquetes en Escocia, Irlanda y España, viajes a medida a cualquier destino y viajes a torneos como el Masters, la Ryder Cup o The Open. Presupuesto en 24 horas."
+    },
+    "destinations": {
+      "title": "Destinos de golf | Escocia, Irlanda, Inglaterra, España, Marruecos, Emiratos",
+      "description": "Elige un país para ver paquetes de golf, campos, hoteles y regiones. Viajes a medida en cualquier otro lugar del mundo."
+    },
+    "packages": {
+      "title": "Paquetes de golf | Hotel, green fees y horas de salida organizados",
+      "description": "Paquetes de golf en Escocia, Irlanda y España con hotel, rondas y horas de salida. Precio por persona; presupuesto para tus fechas en 24 horas."
+    },
+    "courses": {
+      "title": "Campos de golf que reservamos",
+      "description": "Fichas de los campos de nuestros paquetes: par, longitud, diseñador, instalaciones y qué esperar."
+    },
+    "hotels": {
+      "title": "Hoteles de golf",
+      "description": "Los hoteles de nuestros paquetes de golf, elegidos por su ubicación junto a los campos."
+    },
+    "tournaments": {
+      "title": "Viajes a torneos | Masters, Ryder Cup, The Open, Solheim Cup, Race to Dubai",
+      "description": "Entradas, hospitality, hoteles y golf alrededor de los grandes eventos del calendario."
+    },
+    "topTen": {
+      "title": "Los 10 mejores campos de golf de Escocia | Elegidos por One Golf Travel",
+      "description": "Los diez campos escoceses que nuestro equipo jugaría antes que ningún otro, y cómo montar un viaje alrededor de ellos."
+    },
+    "custom": {
+      "title": "Paquete de golf a medida | Cualquier campo, cualquier país",
+      "description": "Dinos dónde, cuándo y cuántos. Montamos un viaje de golf a medida y te enviamos una propuesta completa en 24 horas."
+    },
+    "howItWorks": {
+      "title": "Cómo funciona | Reservar un viaje de golf con One Golf Travel",
+      "description": "Tres pasos de la consulta al primer tee: cuéntanos el viaje, recibe un presupuesto en 24 horas, nosotros reservamos."
+    },
+    "transfers": {
+      "title": "Traslados y alquiler de coches para viajes de golf",
+      "description": "Traslados privados, conductor-guía o coche de alquiler para tu viaje de golf. Organizamos lo que mejor encaje con el grupo."
+    },
+    "faqs": {
+      "title": "Preguntas frecuentes | Paquetes de golf, reservas y viaje",
+      "description": "Qué incluye, cómo reservar, las mejores fechas y el acceso a campos privados."
+    },
+    "about": {
+      "title": "Sobre One Golf Travel",
+      "description": "Especialistas en viajes de golf con base en Sotogrande, miembros de IAGTO, que reservan los viajes que harían ellos mismos."
+    },
+    "contact": {
+      "title": "Contacto | One Golf Travel",
+      "description": "Escribe, llama o manda un WhatsApp a un golfista. Respondemos en 24 horas."
+    },
+    "privacy": {
+      "title": "Política de privacidad",
+      "description": "Cómo trata One Golf Travel tus datos."
+    },
+    "terms": {
+      "title": "Términos y condiciones",
+      "description": "Condiciones de reserva de los paquetes de One Golf Travel."
+    },
+    "country": {
+      "title": "Viajes de golf a {name} | Paquetes, campos y hoteles",
+      "description": "Paquetes de golf en {name}: regiones, campos, hoteles y presupuestos a medida en 24 horas."
+    },
+    "region": {
+      "title": "Viajes de golf a {name}, {country}",
+      "description": "{lede}"
+    },
+    "package": {
+      "title": "{title} | {n} noches, {r} rondas desde {price} p.p.",
+      "description": "{hotel}, {location}. {n} noches, {r} rondas, {board}. Presupuesto para tus fechas en 24 horas."
+    },
+    "course": {
+      "title": "{name} | Guía del campo",
+      "description": "{summary}"
+    },
+    "hotel": {
+      "title": "{name} | Hotel de golf en {location}",
+      "description": "{about}"
+    },
+    "tournament": {
+      "title": "Viaje al {name} | Entradas, hoteles y golf",
+      "description": "{lede}"
+    }
   }
 }

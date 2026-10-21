@@ -103,12 +103,24 @@ document.addEventListener('DOMContentLoaded', () => {
     const list = box.parentElement.querySelector('[data-pkg-list]');
     const empty = box.parentElement.querySelector('[data-pkg-empty]');
     if (!list) return;
-    box.querySelectorAll('button[data-country]').forEach((btn) => btn.addEventListener('click', () => {
-      const c = btn.dataset.country;
-      box.querySelectorAll('button').forEach((b) => b.classList.toggle('active', b === btn));
+    const state = { country: 'all', nights: 'all' };
+    const apply = () => {
       let shown = 0;
-      list.querySelectorAll('.trip-item').forEach((it) => { const on = c === 'all' || it.dataset.country === c; it.hidden = !on; if (on) shown++; });
+      list.querySelectorAll('.trip-item').forEach((it) => {
+        const on = (state.country === 'all' || it.dataset.country === state.country) && (state.nights === 'all' || it.dataset.nights === state.nights);
+        it.hidden = !on; if (on) shown++;
+      });
       if (empty) empty.hidden = shown > 0;
+      ['country', 'nights'].forEach((k) => box.querySelectorAll(`button[data-${k}]`).forEach((b) => b.classList.toggle('active', b.dataset[k] === state[k])));
+    };
+    box.querySelectorAll('button[data-country],button[data-nights]').forEach((btn) => btn.addEventListener('click', () => {
+      if (btn.dataset.country) state.country = btn.dataset.country;
+      if (btn.dataset.nights) state.nights = btn.dataset.nights;
+      apply();
     }));
+    const q = new URLSearchParams(location.search);
+    if (q.get('nights')) state.nights = q.get('nights');
+    if (q.get('country')) state.country = q.get('country');
+    apply();
   });
 });

@@ -47,7 +47,7 @@
 {% if pkgs.length %}
 <section class="sec sec-stone" id="packages">
   <div class="wrap">
-    <div class="sec-head reveal"><div><div class="eyebrow">{{ TD.jumpPackages }}</div><h2>{{ TD.packagesIn | fmt({ name: c.name }) }}</h2></div><p>{{ T.packages.tierNote }}</p></div>
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ TD.jumpPackages }}</div><h2>{{ TD.packagesIn | fmt({ name: c.name }) }}</h2></div><p>{{ T.packages.lengthsNote }} {{ T.packages.tierNote }}</p></div>
     <div class="tickets-grid reveal">
       {% for pkg in pkgs %}{% include "partials/package-card.njk" %}{% endfor %}
     </div>

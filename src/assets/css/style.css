@@ -252,6 +252,10 @@ nav.links a:hover,nav.links a.active{color:var(--ink);}
 @media(min-width:1000px){.tickets-scroll{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));overflow:visible;padding:0;}.tickets-scroll .ticket{flex:none;}}
 
 /* Package filter */
+.trip-filters{display:flex;flex-direction:column;gap:10px;margin:0 0 26px;}
+.trip-filters .trip-filter{margin:0;}
+.trip-filter-link{font-size:13.5px;font-weight:600;color:var(--accent);margin-left:6px;}
+.lede-note{font-size:15px !important;margin-top:14px !important;}
 .trip-filter{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:0 0 26px;}
 .trip-filter-label{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-45);margin-right:6px;}
 .trip-filter button{font:inherit;font-size:14px;font-weight:600;padding:8px 16px;border-radius:100px;border:1.5px solid var(--stone-deep);background:var(--white);color:var(--ink-70);cursor:pointer;transition:all .15s;}

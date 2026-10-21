@@ -3,17 +3,27 @@
   <div class="wrap">
     {% set crumbs = [[T.common.home, R.home], [TP.crumb, null]] %}{% include "partials/breadcrumb.njk" %}
     <h1>{{ TP.h1 }}</h1><p class="lede">{{ TP.lede }}</p>
+    <p class="lede lede-note">{{ TP.lengthsNote }} <a href="{{ R.custom }}" class="link-accent">{{ T.common.customPackage }} →</a></p>
   </div>
 </section>
 <section class="sec" style="padding-top:0;">
   <div class="wrap">
-    <div class="trip-filter" data-pkg-filter>
-      <span class="trip-filter-label">{{ TP.filterCountry }}</span>
-      <button type="button" class="active" data-country="all">{{ T.destinations.filterAll }}</button>
-      {% for c in D.countries %}{% if (D.packages | packagesForCountry(c.id) | length) > 0 %}<button type="button" data-country="{{ c.id }}">{{ c.flag }} {{ c.name }}</button>{% endif %}{% endfor %}
+    <div class="trip-filters" data-pkg-filter>
+      <div class="trip-filter">
+        <span class="trip-filter-label">{{ TP.filterCountry }}</span>
+        <button type="button" class="active" data-country="all">{{ T.destinations.filterAll }}</button>
+        {% for c in D.countries %}{% if (D.packages | packagesForCountry(c.id) | length) > 0 %}<button type="button" data-country="{{ c.id }}">{{ c.flag }} {{ c.name }}</button>{% endif %}{% endfor %}
+      </div>
+      <div class="trip-filter">
+        <span class="trip-filter-label">{{ TP.filterNights }}</span>
+        <button type="button" class="active" data-nights="all">{{ T.destinations.filterAll }}</button>
+        <button type="button" data-nights="5">{{ TP.nightsChip | fmt({ n: 5 }) }}</button>
+        <button type="button" data-nights="7">{{ TP.nightsChip | fmt({ n: 7 }) }}</button>
+        <a href="{{ R.custom }}" class="trip-filter-link">{{ TP.customChip }}</a>
+      </div>
     </div>
     <div class="tickets-grid" data-pkg-list>
-      {% for pkg in D.packages %}<div class="trip-item" data-country="{{ pkg.country }}" data-tier="{{ pkg.tier }}">{% include "partials/package-card.njk" %}</div>{% endfor %}
+      {% for pkg in D.packages %}<div class="trip-item" data-country="{{ pkg.country }}" data-tier="{{ pkg.tier }}" data-nights="{{ pkg.nights }}">{% include "partials/package-card.njk" %}</div>{% endfor %}
     </div>
     <p class="empty-note" data-pkg-empty hidden>{{ TP.empty }}</p>
   </div>

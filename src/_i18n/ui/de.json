@@ -47,7 +47,9 @@
     "faqs": "FAQ",
     "about": "Über uns",
     "hotels": "Hotels",
-    "comingSoon": "Demnächst"
+    "comingSoon": "Demnächst",
+    "fiveNight": "Reisen mit 5 Nächten",
+    "sevenNight": "Reisen mit 7 Nächten"
   },
   "footer": {
     "blurb": "Golfreisen für Gruppen, geplant rund um die Plätze, die Sie spielen möchten. Schottland, Irland, England, Spanien, Marokko und die Emirate, individuelle Reisen überall sonst.",
@@ -155,7 +157,8 @@
     "customSubject": "Anfrage individuelle Golfreise",
     "contactSubject": "Allgemeine Anfrage",
     "message": "Nachricht",
-    "privacy": "Mit dem Absenden stimmen Sie unserer Datenschutzerklärung zu."
+    "privacy": "Mit dem Absenden stimmen Sie unserer Datenschutzerklärung zu.",
+    "nightsOther": "Andere (individuelle Reise)"
   },
   "js": {
     "sending": "Wird gesendet…",
@@ -266,7 +269,11 @@
     "tierNote": "Nicht ganz passend? Jede Reise ist ein Ausgangspunkt. Plätze tauschen, Nächte ergänzen, Hotel upgraden, direkt im Formular.",
     "filterCountry": "Land",
     "filterTier": "Typ",
-    "empty": "Hier gibt es noch keine Reisen. Planen Sie stattdessen eine individuelle."
+    "empty": "Hier gibt es noch keine Reisen. Planen Sie stattdessen eine individuelle.",
+    "lengthsNote": "Unsere Reisen gibt es mit 5 oder 7 Nächten. Alles Kürzere, Längere oder Dazwischen ist eine individuelle Reise, geplant rund um Ihre Gruppe.",
+    "filterNights": "Dauer",
+    "nightsChip": "{n} Nächte",
+    "customChip": "Andere Dauer → individuell"
   },
   "courses": {
     "title": "Golfplätze",
@@ -354,16 +361,46 @@
     "lede": "Die Kurzfassung zu Leistungen, Buchung und Reisezeit. Alles andere einfach fragen.",
     "crumb": "FAQ",
     "items": [
-      ["Was ist in einer Reise enthalten?", "Jeder Reiseverlauf ist individuell, aber in der Regel sind Unterkunft mit Frühstück, Greenfees auf den genannten Plätzen, vorab bestätigte Startzeiten und Concierge-Betreuung während der Reise enthalten. Private Transfers, Flüge, Carts, Caddies und Extras wie Dinner, Whisky-Tastings oder Ausflüge kommen auf Wunsch dazu."],
-      ["Können wir eine Reise ändern?", "Ja, jede Reise ist ein Ausgangspunkt. Plätze tauschen, Nächte ergänzen, das Hotel upgraden oder Nichtgolfer mitbringen. Schreiben Sie es ins Kommentarfeld des Anfrageformulars."],
-      ["Bekommen Sie uns auf private Plätze oder Plätze mit Gästebeschränkung?", "Oft ja. Über unsere Kontakte in der Branche können wir Zugang zu Plätzen mit begrenztem Gästespiel organisieren, darunter Real Valderrama und Real Sotogrande, Muirfield und der Old Course. Bitte rechtzeitig buchen."],
-      ["Private Transfers oder Fahrer-Guide?", "Private Transfers bringen Sie bequem von Tür zu Tür. Ein Fahrer-Guide bleibt die ganze Woche bei der Gruppe, regelt Änderungen spontan und kennt die Region. Mietwagen sind die dritte Option. Mehr auf unserer Transfer-Seite."],
-      ["Wann ist die beste Reisezeit?", "Schottland, Irland und England: Mai bis Oktober. Spanien: Oktober bis Mai. Marokko und die Emirate: Oktober bis April. Innerhalb dieser Fenster sind die Randmonate ruhiger und günstiger."],
-      ["Wie weit im Voraus sollten wir buchen?", "Vier bis acht Monate für Premium-Plätze und die besten Hotels, vor allem für Frühjahr und Herbst in Großbritannien und Irland und den Winter in Spanien. Kurzfristiger geht oft auch, fragen Sie einfach."],
-      ["Können Nichtgolfer mitreisen?", "Natürlich. Wir planen parallele Programme mit Besichtigungen, Spa-Tagen und Ausflügen, sodass sich alle beim Abendessen wiedersehen."],
-      ["Welches Spielniveau brauchen wir?", "Jedes. Unsere Reisen passen für Gelegenheitsgolfer wie für niedrige Handicaps, die Plätze stimmen wir auf die Gruppe ab."],
-      ["Bieten Sie Reiseversicherungen an?", "Wir verkaufen keine, empfehlen aber dringend eine umfassende Versicherung, die auch die Golfausrüstung abdeckt, und beraten gern, worauf Sie achten sollten."],
-      ["Wie buchen wir?", "Schicken Sie eine Anfrage über eines der Formulare auf der Website. Sie erhalten innerhalb von 24 Stunden ein Angebot, das wir gemeinsam verfeinern und dann mit einer Anzahlung bestätigen. Der Restbetrag ist vor der Reise fällig."]
+      [
+        "Was ist in einer Reise enthalten?",
+        "Jeder Reiseverlauf ist individuell, aber in der Regel sind Unterkunft mit Frühstück, Greenfees auf den genannten Plätzen, vorab bestätigte Startzeiten und Concierge-Betreuung während der Reise enthalten. Private Transfers, Flüge, Carts, Caddies und Extras wie Dinner, Whisky-Tastings oder Ausflüge kommen auf Wunsch dazu."
+      ],
+      [
+        "Können wir eine Reise ändern?",
+        "Ja, jede Reise ist ein Ausgangspunkt. Plätze tauschen, Nächte ergänzen, das Hotel upgraden oder Nichtgolfer mitbringen. Schreiben Sie es ins Kommentarfeld des Anfrageformulars."
+      ],
+      [
+        "Bekommen Sie uns auf private Plätze oder Plätze mit Gästebeschränkung?",
+        "Oft ja. Über unsere Kontakte in der Branche können wir Zugang zu Plätzen mit begrenztem Gästespiel organisieren, darunter Real Valderrama und Real Sotogrande, Muirfield und der Old Course. Bitte rechtzeitig buchen."
+      ],
+      [
+        "Private Transfers oder Fahrer-Guide?",
+        "Private Transfers bringen Sie bequem von Tür zu Tür. Ein Fahrer-Guide bleibt die ganze Woche bei der Gruppe, regelt Änderungen spontan und kennt die Region. Mietwagen sind die dritte Option. Mehr auf unserer Transfer-Seite."
+      ],
+      [
+        "Wann ist die beste Reisezeit?",
+        "Schottland, Irland und England: Mai bis Oktober. Spanien: Oktober bis Mai. Marokko und die Emirate: Oktober bis April. Innerhalb dieser Fenster sind die Randmonate ruhiger und günstiger."
+      ],
+      [
+        "Wie weit im Voraus sollten wir buchen?",
+        "Vier bis acht Monate für Premium-Plätze und die besten Hotels, vor allem für Frühjahr und Herbst in Großbritannien und Irland und den Winter in Spanien. Kurzfristiger geht oft auch, fragen Sie einfach."
+      ],
+      [
+        "Können Nichtgolfer mitreisen?",
+        "Natürlich. Wir planen parallele Programme mit Besichtigungen, Spa-Tagen und Ausflügen, sodass sich alle beim Abendessen wiedersehen."
+      ],
+      [
+        "Welches Spielniveau brauchen wir?",
+        "Jedes. Unsere Reisen passen für Gelegenheitsgolfer wie für niedrige Handicaps, die Plätze stimmen wir auf die Gruppe ab."
+      ],
+      [
+        "Bieten Sie Reiseversicherungen an?",
+        "Wir verkaufen keine, empfehlen aber dringend eine umfassende Versicherung, die auch die Golfausrüstung abdeckt, und beraten gern, worauf Sie achten sollten."
+      ],
+      [
+        "Wie buchen wir?",
+        "Schicken Sie eine Anfrage über eines der Formulare auf der Website. Sie erhalten innerhalb von 24 Stunden ein Angebot, das wir gemeinsam verfeinern und dann mit einer Anzahlung bestätigen. Der Restbetrag ist vor der Reise fällig."
+      ]
     ]
   },
   "about": {
@@ -389,26 +426,89 @@
     "placeholder": "Diese Seite wird derzeit mit den rechtlichen Texten von One Golf Travel fertiggestellt und vor dem Start veröffentlicht."
   },
   "seo": {
-    "home": { "title": "One Golf Travel | Golfreisen nach Schottland, Irland, Spanien und mehr", "description": "Golfreisen für Gruppen: fertige Reisen in Schottland, Irland und Spanien, individuelle Golfreisen weltweit und Turnierreisen zu Masters, Ryder Cup und The Open. Angebot innerhalb von 24 Stunden." },
-    "destinations": { "title": "Golfreiseziele | Schottland, Irland, England, Spanien, Marokko, Emirate", "description": "Wählen Sie ein Land für Golfreisen, Plätze, Hotels und Regionen. Individuelle Reisen überall sonst auf der Welt." },
-    "packages": { "title": "Golfreisen | Hotel, Greenfees und Startzeiten organisiert", "description": "Golfreisen nach Schottland, Irland und Spanien mit Hotel, Runden und Startzeiten. Preise pro Person; Angebot für Ihre Termine innerhalb von 24 Stunden." },
-    "courses": { "title": "Golfplätze, die wir buchen", "description": "Platzseiten zu den Golfplätzen aus unseren Reisen: Par, Länge, Architekt, Einrichtungen und was Sie erwartet." },
-    "hotels": { "title": "Golfhotels", "description": "Die Hotels aus unseren Golfreisen, ausgewählt nach ihrer Lage direkt am Golf." },
-    "tournaments": { "title": "Turnierreisen | Masters, Ryder Cup, The Open, Solheim Cup, Race to Dubai", "description": "Tickets, Hospitality, Hotels und Golf rund um die größten Events im Golfkalender." },
-    "topTen": { "title": "Die 10 besten Golfplätze Schottlands | Ausgewählt von One Golf Travel", "description": "Die zehn schottischen Plätze, die unser Team vor allen anderen spielen würde, und wie Sie eine Reise darum planen." },
-    "custom": { "title": "Individuelle Golfreise | Jeder Platz, jedes Land", "description": "Sagen Sie uns wohin, wann und wie viele. Wir planen eine maßgeschneiderte Golfreise und antworten innerhalb von 24 Stunden mit einem kompletten Angebot." },
-    "howItWorks": { "title": "So funktioniert's | Eine Golfreise mit One Golf Travel buchen", "description": "In drei Schritten von der Anfrage zum ersten Abschlag: Reise beschreiben, Angebot in 24 Stunden erhalten, wir buchen." },
-    "transfers": { "title": "Transfers & Mietwagen für Golfreisen", "description": "Private Transfers, Fahrer-Guide oder Mietwagen für Ihre Golfreise. Wir organisieren, was zur Gruppe passt." },
-    "faqs": { "title": "FAQ | Golfreisen, Buchung und Reisezeit", "description": "Leistungen, Buchung, beste Reisezeit und Zugang zu privaten Plätzen." },
-    "about": { "title": "Über One Golf Travel", "description": "Golfreisespezialisten mit Sitz in Sotogrande, IAGTO-Mitglied, die die Reisen buchen, die sie selbst machen würden." },
-    "contact": { "title": "Kontakt | One Golf Travel", "description": "Schreiben, anrufen oder per WhatsApp an einen Golfer. Antwort innerhalb von 24 Stunden." },
-    "privacy": { "title": "Datenschutz", "description": "Wie One Golf Travel mit Ihren Daten umgeht." },
-    "terms": { "title": "AGB", "description": "Buchungsbedingungen für Reisen von One Golf Travel." },
-    "country": { "title": "Golfreisen nach {name} | Reisen, Plätze & Hotels", "description": "Golfreisen in {name}: Regionen, Plätze, Hotels und individuelle Angebote innerhalb von 24 Stunden." },
-    "region": { "title": "Golfreisen nach {name}, {country}", "description": "{lede}" },
-    "package": { "title": "{title} | {n} Nächte, {r} Runden ab {price} p.P.", "description": "{hotel}, {location}. {n} Nächte, {r} Runden, {board}. Angebot für Ihre Termine innerhalb von 24 Stunden." },
-    "course": { "title": "{name} | Platzporträt", "description": "{summary}" },
-    "hotel": { "title": "{name} | Golfhotel in {location}", "description": "{about}" },
-    "tournament": { "title": "{name} Reisen | Tickets, Hotels & Golf", "description": "{lede}" }
+    "home": {
+      "title": "One Golf Travel | Golfreisen nach Schottland, Irland, Spanien und mehr",
+      "description": "Golfreisen für Gruppen: fertige Reisen in Schottland, Irland und Spanien, individuelle Golfreisen weltweit und Turnierreisen zu Masters, Ryder Cup und The Open. Angebot innerhalb von 24 Stunden."
+    },
+    "destinations": {
+      "title": "Golfreiseziele | Schottland, Irland, England, Spanien, Marokko, Emirate",
+      "description": "Wählen Sie ein Land für Golfreisen, Plätze, Hotels und Regionen. Individuelle Reisen überall sonst auf der Welt."
+    },
+    "packages": {
+      "title": "Golfreisen | Hotel, Greenfees und Startzeiten organisiert",
+      "description": "Golfreisen nach Schottland, Irland und Spanien mit Hotel, Runden und Startzeiten. Preise pro Person; Angebot für Ihre Termine innerhalb von 24 Stunden."
+    },
+    "courses": {
+      "title": "Golfplätze, die wir buchen",
+      "description": "Platzseiten zu den Golfplätzen aus unseren Reisen: Par, Länge, Architekt, Einrichtungen und was Sie erwartet."
+    },
+    "hotels": {
+      "title": "Golfhotels",
+      "description": "Die Hotels aus unseren Golfreisen, ausgewählt nach ihrer Lage direkt am Golf."
+    },
+    "tournaments": {
+      "title": "Turnierreisen | Masters, Ryder Cup, The Open, Solheim Cup, Race to Dubai",
+      "description": "Tickets, Hospitality, Hotels und Golf rund um die größten Events im Golfkalender."
+    },
+    "topTen": {
+      "title": "Die 10 besten Golfplätze Schottlands | Ausgewählt von One Golf Travel",
+      "description": "Die zehn schottischen Plätze, die unser Team vor allen anderen spielen würde, und wie Sie eine Reise darum planen."
+    },
+    "custom": {
+      "title": "Individuelle Golfreise | Jeder Platz, jedes Land",
+      "description": "Sagen Sie uns wohin, wann und wie viele. Wir planen eine maßgeschneiderte Golfreise und antworten innerhalb von 24 Stunden mit einem kompletten Angebot."
+    },
+    "howItWorks": {
+      "title": "So funktioniert's | Eine Golfreise mit One Golf Travel buchen",
+      "description": "In drei Schritten von der Anfrage zum ersten Abschlag: Reise beschreiben, Angebot in 24 Stunden erhalten, wir buchen."
+    },
+    "transfers": {
+      "title": "Transfers & Mietwagen für Golfreisen",
+      "description": "Private Transfers, Fahrer-Guide oder Mietwagen für Ihre Golfreise. Wir organisieren, was zur Gruppe passt."
+    },
+    "faqs": {
+      "title": "FAQ | Golfreisen, Buchung und Reisezeit",
+      "description": "Leistungen, Buchung, beste Reisezeit und Zugang zu privaten Plätzen."
+    },
+    "about": {
+      "title": "Über One Golf Travel",
+      "description": "Golfreisespezialisten mit Sitz in Sotogrande, IAGTO-Mitglied, die die Reisen buchen, die sie selbst machen würden."
+    },
+    "contact": {
+      "title": "Kontakt | One Golf Travel",
+      "description": "Schreiben, anrufen oder per WhatsApp an einen Golfer. Antwort innerhalb von 24 Stunden."
+    },
+    "privacy": {
+      "title": "Datenschutz",
+      "description": "Wie One Golf Travel mit Ihren Daten umgeht."
+    },
+    "terms": {
+      "title": "AGB",
+      "description": "Buchungsbedingungen für Reisen von One Golf Travel."
+    },
+    "country": {
+      "title": "Golfreisen nach {name} | Reisen, Plätze & Hotels",
+      "description": "Golfreisen in {name}: Regionen, Plätze, Hotels und individuelle Angebote innerhalb von 24 Stunden."
+    },
+    "region": {
+      "title": "Golfreisen nach {name}, {country}",
+      "description": "{lede}"
+    },
+    "package": {
+      "title": "{title} | {n} Nächte, {r} Runden ab {price} p.P.",
+      "description": "{hotel}, {location}. {n} Nächte, {r} Runden, {board}. Angebot für Ihre Termine innerhalb von 24 Stunden."
+    },
+    "course": {
+      "title": "{name} | Platzporträt",
+      "description": "{summary}"
+    },
+    "hotel": {
+      "title": "{name} | Golfhotel in {location}",
+      "description": "{about}"
+    },
+    "tournament": {
+      "title": "{name} Reisen | Tickets, Hotels & Golf",
+      "description": "{lede}"
+    }
   }
 }

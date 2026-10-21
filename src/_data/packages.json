@@ -16,9 +16,19 @@
     "priceStatus": "confirmed",
     "location": "San Roque & Sotogrande, Cádiz",
     "board": "Bed & breakfast",
-    "courses": ["la-canada", "the-alto", "hacienda-links", "hacienda-heathland"],
+    "courses": [
+      "la-canada",
+      "the-alto",
+      "hacienda-links",
+      "hacienda-heathland"
+    ],
     "image": "/assets/images/courses/hacienda-links.webp",
-    "images": ["/assets/images/courses/hacienda-links.webp", "/assets/images/hotels/inmood.webp", "/assets/images/courses/la-canada.webp", "/assets/images/courses/the-alto.webp"],
+    "images": [
+      "/assets/images/courses/hacienda-links.webp",
+      "/assets/images/hotels/inmood.webp",
+      "/assets/images/courses/la-canada.webp",
+      "/assets/images/courses/the-alto.webp"
+    ],
     "includes": [
       "5 nights at INMOOD San Roque, bed and breakfast, per person sharing a twin or double",
       "4 rounds: La Cañada, The Alto, Hacienda Links and Hacienda Heathland",
@@ -27,12 +37,30 @@
       "Flights from Málaga, Seville, Jerez or Gibraltar arranged on request"
     ],
     "itinerary": [
-      { "day": "Day 1", "text": "Fly into Málaga or Gibraltar, transfer to INMOOD San Roque and settle in." },
-      { "day": "Day 2", "text": "La Cañada, the local club of Sotogrande, for a gentle opener on fast greens." },
-      { "day": "Day 3", "text": "The Alto at SO/ Sotogrande, 27 holes in the hills with lunch at the resort." },
-      { "day": "Day 4", "text": "Hacienda Links on the cliffs at Alcaidesa, Gibraltar in view the whole way round." },
-      { "day": "Day 5", "text": "Hacienda Heathland, the quieter inland sister course, then a final evening in Sotogrande marina." },
-      { "day": "Day 6", "text": "Transfer back to the airport and fly home." }
+      {
+        "day": "Day 1",
+        "text": "Fly into Málaga or Gibraltar, transfer to INMOOD San Roque and settle in."
+      },
+      {
+        "day": "Day 2",
+        "text": "La Cañada, the local club of Sotogrande, for a gentle opener on fast greens."
+      },
+      {
+        "day": "Day 3",
+        "text": "The Alto at SO/ Sotogrande, 27 holes in the hills with lunch at the resort."
+      },
+      {
+        "day": "Day 4",
+        "text": "Hacienda Links on the cliffs at Alcaidesa, Gibraltar in view the whole way round."
+      },
+      {
+        "day": "Day 5",
+        "text": "Hacienda Heathland, the quieter inland sister course, then a final evening in Sotogrande marina."
+      },
+      {
+        "day": "Day 6",
+        "text": "Transfer back to the airport and fly home."
+      }
     ],
     "aboutHotel": "A modern four-star resort in landscaped gardens between San Roque and Sotogrande with over 130 rooms, three places to eat and drink, a big outdoor pool and a gym. La Hacienda and San Roque Club are minutes away and the hotel arranges club and trolley hire on request.",
     "note": "Transport is not included. From six golfers a private group transfer usually works out cheaper than hire cars, around €90 to €120 per person for the week based on eight golfers with clubs. A 7-night version with two extra rounds is available on enquiry."
@@ -54,9 +82,18 @@
     "priceStatus": "placeholder",
     "location": "Sotogrande, Cádiz",
     "board": "Bed & breakfast",
-    "courses": ["la-canada", "hacienda-heathland", "hacienda-links", "la-canada"],
+    "courses": [
+      "la-canada",
+      "hacienda-heathland",
+      "hacienda-links",
+      "la-canada"
+    ],
     "image": "/assets/images/hotels/encinar.webp",
-    "images": ["/assets/images/hotels/encinar.webp", "/assets/images/courses/la-canada.webp", "/assets/images/courses/hacienda-heathland.webp"],
+    "images": [
+      "/assets/images/hotels/encinar.webp",
+      "/assets/images/courses/la-canada.webp",
+      "/assets/images/courses/hacienda-heathland.webp"
+    ],
     "includes": [
       "5 nights at Hotel Encinar de Sotogrande, bed and breakfast, per person sharing",
       "4 rounds: La Cañada twice, Hacienda Links and Hacienda Heathland",
@@ -64,12 +101,30 @@
       "Tee times confirmed before you travel"
     ],
     "itinerary": [
-      { "day": "Day 1", "text": "Arrive, transfer to the Encinar inside the Sotogrande estate." },
-      { "day": "Day 2", "text": "La Cañada, five minutes from the hotel." },
-      { "day": "Day 3", "text": "Hacienda Heathland above the coast at Alcaidesa." },
-      { "day": "Day 4", "text": "Hacienda Links, the clifftop course with Gibraltar on the horizon." },
-      { "day": "Day 5", "text": "Return to La Cañada for the group competition, prize-giving at the hotel bar." },
-      { "day": "Day 6", "text": "Transfer to the airport." }
+      {
+        "day": "Day 1",
+        "text": "Arrive, transfer to the Encinar inside the Sotogrande estate."
+      },
+      {
+        "day": "Day 2",
+        "text": "La Cañada, five minutes from the hotel."
+      },
+      {
+        "day": "Day 3",
+        "text": "Hacienda Heathland above the coast at Alcaidesa."
+      },
+      {
+        "day": "Day 4",
+        "text": "Hacienda Links, the clifftop course with Gibraltar on the horizon."
+      },
+      {
+        "day": "Day 5",
+        "text": "Return to La Cañada for the group competition, prize-giving at the hotel bar."
+      },
+      {
+        "day": "Day 6",
+        "text": "Transfer to the airport."
+      }
     ],
     "aboutHotel": "A traditional Andalusian four-star inside the Sotogrande estate with garden and golf-view rooms, a Mediterranean restaurant, terrace bar, outdoor pool and tennis courts. Valderrama, La Cañada and The Alto are all within a few minutes.",
     "note": "Transport not included; private group transfers from around €90 per person for the week. Price shown is indicative and confirmed on quote."
@@ -84,30 +139,66 @@
     "code": "SOT",
     "tier": "best",
     "featured": true,
-    "nights": 5,
-    "rounds": 4,
+    "nights": 7,
+    "rounds": 5,
     "stars": 5,
-    "price": 1450,
+    "price": 1950,
     "priceStatus": "placeholder",
     "location": "Sotogrande, Cádiz",
     "board": "Bed & breakfast",
-    "courses": ["the-alto", "hacienda-links", "la-canada", "the-alto"],
+    "courses": [
+      "the-alto",
+      "hacienda-links",
+      "la-canada",
+      "hacienda-heathland",
+      "the-alto"
+    ],
     "image": "/assets/images/hotels/so-sotogrande.webp",
-    "images": ["/assets/images/hotels/so-sotogrande.webp", "/assets/images/courses/the-alto.webp", "/assets/images/courses/hacienda-links.webp"],
+    "images": [
+      "/assets/images/hotels/so-sotogrande.webp",
+      "/assets/images/courses/the-alto.webp",
+      "/assets/images/courses/hacienda-links.webp"
+    ],
     "includes": [
-      "5 nights at SO/ Sotogrande, bed and breakfast, per person sharing",
-      "4 rounds: The Alto twice, Hacienda Links and La Cañada",
+      "7 nights at SO/ Sotogrande, bed and breakfast, per person sharing",
+      "5 rounds: The Alto twice, Hacienda Links, Hacienda Heathland and La Cañada",
       "Buggies at The Alto and spa access throughout",
       "24-hour concierge",
       "Valderrama or Real Sotogrande available as an upgrade round, subject to availability"
     ],
     "itinerary": [
-      { "day": "Day 1", "text": "Arrive and transfer to SO/ Sotogrande in the hills above the estate." },
-      { "day": "Day 2", "text": "The Alto, straight from the hotel, Lagos and Pinos loops." },
-      { "day": "Day 3", "text": "Hacienda Links on the coast, lunch at the clubhouse overlooking Gibraltar." },
-      { "day": "Day 4", "text": "La Cañada, then an afternoon in the spa." },
-      { "day": "Day 5", "text": "The Alto again on the Alcornoques loop, or an upgrade round at Valderrama if booked." },
-      { "day": "Day 6", "text": "Transfer to the airport." }
+      {
+        "day": "Day 1",
+        "text": "Arrive and transfer to SO/ Sotogrande in the hills above the estate."
+      },
+      {
+        "day": "Day 2",
+        "text": "The Alto, straight from the hotel, Lagos and Pinos loops."
+      },
+      {
+        "day": "Day 3",
+        "text": "Hacienda Links on the coast, lunch at the clubhouse overlooking Gibraltar."
+      },
+      {
+        "day": "Day 4",
+        "text": "Rest day: the spa, Sotogrande marina, or a day trip to Gibraltar or Tarifa."
+      },
+      {
+        "day": "Day 5",
+        "text": "La Cañada, then an afternoon by the pools."
+      },
+      {
+        "day": "Day 6",
+        "text": "Hacienda Heathland, the quieter inland course above the coast."
+      },
+      {
+        "day": "Day 7",
+        "text": "The Alto again on the Alcornoques loop, or an upgrade round at Valderrama if booked."
+      },
+      {
+        "day": "Day 8",
+        "text": "Transfer to the airport."
+      }
     ],
     "aboutHotel": "The five-star resort of Sotogrande with designer interiors, four restaurants and bars, a 3,500 square metre spa, three outdoor pools and The Alto golf course on site with buggies, caddies and concierge.",
     "note": "Price shown is indicative and confirmed on quote. Luxury transfers available through the hotel."
@@ -129,9 +220,18 @@
     "priceStatus": "confirmed",
     "location": "St Andrews, Fife",
     "board": "Bed & breakfast",
-    "courses": ["castle-course", "eden-course", "jubilee-course"],
+    "courses": [
+      "castle-course",
+      "eden-course",
+      "jubilee-course"
+    ],
     "image": "/assets/images/regions/st-andrews.webp",
-    "images": ["/assets/images/regions/st-andrews.webp", "/assets/images/courses/castle-course.webp", "/assets/images/courses/jubilee-course.webp", "/assets/images/hotels/drumoig.webp"],
+    "images": [
+      "/assets/images/regions/st-andrews.webp",
+      "/assets/images/courses/castle-course.webp",
+      "/assets/images/courses/jubilee-course.webp",
+      "/assets/images/hotels/drumoig.webp"
+    ],
     "includes": [
       "5 nights at Drumoig Hotel, bed and breakfast, per person sharing a twin or double",
       "Rounds on the Castle, Eden and Jubilee courses at St Andrews Links",
@@ -141,12 +241,30 @@
       "Old Course ballot entry handled for the group"
     ],
     "itinerary": [
-      { "day": "Day 1", "text": "Fly into Edinburgh, Glasgow, Dundee or Aberdeen and transfer to Drumoig." },
-      { "day": "Day 2", "text": "The Castle Course, clifftop golf with the town across the bay." },
-      { "day": "Day 3", "text": "The Eden Course, Harry Colt's forgiving links by the estuary." },
-      { "day": "Day 4", "text": "The Jubilee Course, the toughest test in St Andrews." },
-      { "day": "Day 5", "text": "Unlimited golf: the Torrance or Kittocks at the Fairmont, or the Old Course if the ballot comes good." },
-      { "day": "Day 6", "text": "Fly home from one of four airports." }
+      {
+        "day": "Day 1",
+        "text": "Fly into Edinburgh, Glasgow, Dundee or Aberdeen and transfer to Drumoig."
+      },
+      {
+        "day": "Day 2",
+        "text": "The Castle Course, clifftop golf with the town across the bay."
+      },
+      {
+        "day": "Day 3",
+        "text": "The Eden Course, Harry Colt's forgiving links by the estuary."
+      },
+      {
+        "day": "Day 4",
+        "text": "The Jubilee Course, the toughest test in St Andrews."
+      },
+      {
+        "day": "Day 5",
+        "text": "Unlimited golf: the Torrance or Kittocks at the Fairmont, or the Old Course if the ballot comes good."
+      },
+      {
+        "day": "Day 6",
+        "text": "Fly home from one of four airports."
+      }
     ],
     "aboutHotel": "A friendly countryside hotel ten minutes from St Andrews with 29 rooms, its own 18-hole course and driving range, and a restaurant and bar for the evenings. Comfortable and well priced, which keeps the package focused on the golf.",
     "note": "Transport is not included. Groups of six or more usually save with a private transfer, around €90 to €120 per person for the week based on eight golfers with clubs. Old Course tee times can be guaranteed on request at an additional cost."
@@ -161,30 +279,64 @@
     "code": "STA",
     "tier": "best",
     "featured": true,
-    "nights": 5,
-    "rounds": 4,
+    "nights": 7,
+    "rounds": 6,
     "stars": 5,
-    "price": 2400,
+    "price": 3200,
     "priceStatus": "placeholder",
     "location": "St Andrews, Fife",
     "board": "Bed & breakfast",
-    "courses": ["castle-course", "jubilee-course"],
+    "courses": [
+      "castle-course",
+      "jubilee-course",
+      "eden-course"
+    ],
     "image": "/assets/images/hotels/fairmont-st-andrews.webp",
-    "images": ["/assets/images/hotels/fairmont-st-andrews.webp", "/assets/images/regions/kittocks.webp", "/assets/images/courses/castle-course.webp"],
+    "images": [
+      "/assets/images/hotels/fairmont-st-andrews.webp",
+      "/assets/images/regions/kittocks.webp",
+      "/assets/images/courses/castle-course.webp"
+    ],
     "includes": [
-      "5 nights at Fairmont St Andrews, bed and breakfast, per person sharing",
+      "7 nights at Fairmont St Andrews, bed and breakfast, per person sharing",
       "Rounds on the Torrance and Kittocks courses at the resort",
-      "Rounds on the Castle and Jubilee courses at St Andrews Links",
+      "Rounds on the Castle, Jubilee and Eden courses at St Andrews Links, plus Kingsbarns",
       "Spa access and resort shuttle into St Andrews",
       "24-hour concierge and Old Course ballot entry"
     ],
     "itinerary": [
-      { "day": "Day 1", "text": "Arrive and transfer to the Fairmont on the cliffs south of town." },
-      { "day": "Day 2", "text": "The Torrance, the resort's Open qualifying course." },
-      { "day": "Day 3", "text": "The Castle Course, a short drive along the coast." },
-      { "day": "Day 4", "text": "The Kittocks, with the afternoon in the spa." },
-      { "day": "Day 5", "text": "The Jubilee, or the Old Course if the ballot comes good." },
-      { "day": "Day 6", "text": "Fly home." }
+      {
+        "day": "Day 1",
+        "text": "Arrive and transfer to the Fairmont on the cliffs south of town."
+      },
+      {
+        "day": "Day 2",
+        "text": "The Torrance, the resort's Open qualifying course."
+      },
+      {
+        "day": "Day 3",
+        "text": "The Castle Course, a short drive along the coast."
+      },
+      {
+        "day": "Day 4",
+        "text": "The Kittocks, with the afternoon in the spa."
+      },
+      {
+        "day": "Day 5",
+        "text": "Kingsbarns, the modern links on the coast road."
+      },
+      {
+        "day": "Day 6",
+        "text": "The Eden in the morning, free afternoon in St Andrews."
+      },
+      {
+        "day": "Day 7",
+        "text": "The Jubilee, or the Old Course if the ballot comes good."
+      },
+      {
+        "day": "Day 8",
+        "text": "Fly home."
+      }
     ],
     "aboutHotel": "A five-star clifftop resort with 211 rooms, two championship courses on the estate, a full spa, indoor pool and several restaurants, a few minutes from the town and the Links.",
     "note": "Price shown is indicative and confirmed on quote. Guaranteed Old Course tee times available on request."
@@ -199,30 +351,59 @@
     "code": "STA",
     "tier": "value",
     "featured": false,
-    "nights": 3,
-    "rounds": 3,
+    "nights": 5,
+    "rounds": 4,
     "stars": 3,
-    "price": 980,
+    "price": 1450,
     "priceStatus": "placeholder",
     "location": "St Andrews town centre",
     "board": "Bed & breakfast",
-    "courses": ["eden-course", "jubilee-course", "castle-course"],
+    "courses": [
+      "eden-course",
+      "jubilee-course",
+      "castle-course",
+      "eden-course"
+    ],
     "image": "/assets/images/courses/jubilee-course.webp",
-    "images": ["/assets/images/courses/jubilee-course.webp", "/assets/images/hotels/greyfriars.webp", "/assets/images/courses/eden-course.webp"],
+    "images": [
+      "/assets/images/courses/jubilee-course.webp",
+      "/assets/images/hotels/greyfriars.webp",
+      "/assets/images/courses/eden-course.webp"
+    ],
     "includes": [
-      "3 nights at Greyfriars Hotel on North Street, bed and breakfast, per person sharing",
-      "3 rounds: the Eden, Jubilee and Castle courses",
+      "5 nights at Greyfriars Hotel on North Street, bed and breakfast, per person sharing",
+      "4 rounds: the Eden, Jubilee and Castle courses, plus a second round on the Eden or the New Course",
       "Walk to the first tee, no cars needed in town",
       "Old Course ballot entry handled for the group"
     ],
     "itinerary": [
-      { "day": "Day 1", "text": "Arrive, check in on North Street and walk to the Links for the Eden." },
-      { "day": "Day 2", "text": "The Jubilee in the morning, the pubs of St Andrews in the evening." },
-      { "day": "Day 3", "text": "Shuttle to the Castle Course, or the Old Course if the ballot comes good." },
-      { "day": "Day 4", "text": "Fly home from Edinburgh." }
+      {
+        "day": "Day 1",
+        "text": "Arrive, check in on North Street and walk to the Links for the Eden."
+      },
+      {
+        "day": "Day 2",
+        "text": "The Jubilee in the morning, the pubs of St Andrews in the evening."
+      },
+      {
+        "day": "Day 3",
+        "text": "Shuttle to the Castle Course, or the Old Course if the ballot comes good."
+      },
+      {
+        "day": "Day 4",
+        "text": "Free morning in town, afternoon round on the Eden or the New Course."
+      },
+      {
+        "day": "Day 5",
+        "text": "Spare day for the Old Course ballot, Kingsbarns on request, or the East Neuk villages."
+      },
+      {
+        "day": "Day 6",
+        "text": "Fly home from Edinburgh."
+      }
     ],
     "aboutHotel": "A boutique hotel in the centre of St Andrews with more than 20 rooms and a popular restaurant and bar, a few minutes on foot from the Old Course and the Links Clubhouse.",
-    "note": "Price shown is indicative and confirmed on quote. A long-weekend format that works well for groups flying in on Friday."
+    "note": "Price shown is indicative and confirmed on quote. The spare day keeps a second shot at the Old Course ballot open."
   },
   {
     "slug": "dublin-signature",
@@ -241,9 +422,18 @@
     "priceStatus": "confirmed",
     "location": "Wicklow & Kildare, 40 minutes from Dublin",
     "board": "Bed & breakfast",
-    "courses": ["druids-glen", "druids-heath", "k-club-palmer-north"],
+    "courses": [
+      "druids-glen",
+      "druids-heath",
+      "k-club-palmer-north"
+    ],
     "image": "/assets/images/courses/druids-glen.webp",
-    "images": ["/assets/images/courses/druids-glen.webp", "/assets/images/hotels/druids-glen-hotel.webp", "/assets/images/courses/druids-heath.webp", "/assets/images/courses/k-club.webp"],
+    "images": [
+      "/assets/images/courses/druids-glen.webp",
+      "/assets/images/hotels/druids-glen-hotel.webp",
+      "/assets/images/courses/druids-heath.webp",
+      "/assets/images/courses/k-club.webp"
+    ],
     "includes": [
       "5 nights at Druids Glen Hotel & Golf Resort, per person sharing a twin or double",
       "4 rounds: Druids Glen, Druids Heath, Wicklow Golf Club and The K Club Palmer North",
@@ -252,12 +442,30 @@
       "24-hour concierge"
     ],
     "itinerary": [
-      { "day": "Day 1", "text": "Fly into Dublin and transfer to Druids Glen in the Wicklow hills." },
-      { "day": "Day 2", "text": "Druids Glen, the Augusta of Europe, from the hotel door." },
-      { "day": "Day 3", "text": "Druids Heath, the wilder sister course next door." },
-      { "day": "Day 4", "text": "Wicklow Golf Club on the cliffs above the Irish Sea." },
-      { "day": "Day 5", "text": "The K Club, Palmer North, the 2006 Ryder Cup course." },
-      { "day": "Day 6", "text": "Transfer to Dublin airport and fly home." }
+      {
+        "day": "Day 1",
+        "text": "Fly into Dublin and transfer to Druids Glen in the Wicklow hills."
+      },
+      {
+        "day": "Day 2",
+        "text": "Druids Glen, the Augusta of Europe, from the hotel door."
+      },
+      {
+        "day": "Day 3",
+        "text": "Druids Heath, the wilder sister course next door."
+      },
+      {
+        "day": "Day 4",
+        "text": "Wicklow Golf Club on the cliffs above the Irish Sea."
+      },
+      {
+        "day": "Day 5",
+        "text": "The K Club, Palmer North, the 2006 Ryder Cup course."
+      },
+      {
+        "day": "Day 6",
+        "text": "Transfer to Dublin airport and fly home."
+      }
     ],
     "aboutHotel": "A five-star country estate resort with 145 rooms and suites, Hugo's fine dining, the Garden Rooms, a bar and terrace, and a spa with thermal suite, indoor pool and gym. Both Druids courses are on the estate, with Powerscourt, the Wicklow Mountains and Glendalough nearby.",
     "note": "Transport is not included. Groups of six or more usually save with a private driver for the week, around €90 to €120 per person based on eight golfers with clubs."
@@ -272,29 +480,57 @@
     "code": "DUB",
     "tier": "best",
     "featured": false,
-    "nights": 4,
+    "nights": 5,
     "rounds": 4,
     "stars": 5,
-    "price": 2100,
+    "price": 2500,
     "priceStatus": "placeholder",
     "location": "Druids Glen Resort, County Wicklow",
     "board": "Bed & breakfast",
-    "courses": ["druids-glen", "druids-heath", "k-club-palmer-north", "druids-glen"],
+    "courses": [
+      "druids-glen",
+      "druids-heath",
+      "k-club-palmer-north",
+      "druids-glen"
+    ],
     "image": "/assets/images/hotels/woodstock-house.webp",
-    "images": ["/assets/images/hotels/woodstock-house.webp", "/assets/images/courses/druids-glen-2.webp", "/assets/images/courses/k-club.webp"],
+    "images": [
+      "/assets/images/hotels/woodstock-house.webp",
+      "/assets/images/courses/druids-glen-2.webp",
+      "/assets/images/courses/k-club.webp"
+    ],
     "includes": [
-      "4 nights with exclusive use of Woodstock House for groups of up to 18",
+      "5 nights with exclusive use of Woodstock House for groups of up to 18",
       "4 rounds: Druids Glen twice, Druids Heath and The K Club Palmer North",
       "Private dining in the house each evening",
       "Full access to the Druids Glen resort spa",
       "24-hour concierge"
     ],
     "itinerary": [
-      { "day": "Day 1", "text": "Arrive, the house is yours. Welcome dinner in the private dining room." },
-      { "day": "Day 2", "text": "Druids Glen, straight from the house." },
-      { "day": "Day 3", "text": "Druids Heath." },
-      { "day": "Day 4", "text": "The K Club, Palmer North, with the group final back at Druids Glen the next morning." },
-      { "day": "Day 5", "text": "Final round at Druids Glen, then transfer to the airport." }
+      {
+        "day": "Day 1",
+        "text": "Arrive, the house is yours. Welcome dinner in the private dining room."
+      },
+      {
+        "day": "Day 2",
+        "text": "Druids Glen, straight from the house."
+      },
+      {
+        "day": "Day 3",
+        "text": "Druids Heath."
+      },
+      {
+        "day": "Day 4",
+        "text": "Free day: Powerscourt, Glendalough, or a day in Dublin."
+      },
+      {
+        "day": "Day 5",
+        "text": "The K Club, Palmer North, with the group final back at Druids Glen the next morning."
+      },
+      {
+        "day": "Day 6",
+        "text": "Final round at Druids Glen, then transfer to the airport."
+      }
     ],
     "aboutHotel": "A Georgian-style country house inside the Druids Glen estate with nine rooms and suites, two of them panoramic suites over both courses, private dining and full resort access.",
     "note": "Price shown is indicative and confirmed on quote. Exclusive use depends on group size."
@@ -309,28 +545,56 @@
     "code": "DUB",
     "tier": "value",
     "featured": false,
-    "nights": 4,
-    "rounds": 3,
+    "nights": 5,
+    "rounds": 4,
     "stars": 4,
-    "price": 1250,
+    "price": 1550,
     "priceStatus": "placeholder",
     "location": "Portmarnock, 15 minutes from Dublin airport",
     "board": "Bed & breakfast",
-    "courses": ["portmarnock-links", "k-club-palmer-north", "portmarnock-links"],
+    "courses": [
+      "portmarnock-links",
+      "k-club-palmer-north",
+      "druids-glen",
+      "portmarnock-links"
+    ],
     "image": "/assets/images/courses/portmarnock-links.webp",
-    "images": ["/assets/images/courses/portmarnock-links.webp", "/assets/images/hotels/portmarnock-hotel.webp", "/assets/images/courses/k-club.webp"],
+    "images": [
+      "/assets/images/courses/portmarnock-links.webp",
+      "/assets/images/hotels/portmarnock-hotel.webp",
+      "/assets/images/courses/k-club.webp"
+    ],
     "includes": [
-      "4 nights at Portmarnock Hotel & Golf Links, bed and breakfast, per person sharing",
-      "3 rounds: Portmarnock Links twice and The K Club Palmer North",
+      "5 nights at Portmarnock Hotel & Golf Links, bed and breakfast, per person sharing",
+      "4 rounds: Portmarnock Links twice, The K Club Palmer North and Druids Glen",
       "Links on the doorstep, Dublin city 15 minutes away",
       "Spa access and 24-hour concierge"
     ],
     "itinerary": [
-      { "day": "Day 1", "text": "Land in Dublin, fifteen minutes to the hotel, first round on the links that afternoon." },
-      { "day": "Day 2", "text": "The K Club, Palmer North." },
-      { "day": "Day 3", "text": "Free day in Dublin, or a swap round at The Island on request." },
-      { "day": "Day 4", "text": "Portmarnock Links again for the group final." },
-      { "day": "Day 5", "text": "Transfer to the airport." }
+      {
+        "day": "Day 1",
+        "text": "Land in Dublin, fifteen minutes to the hotel, first round on the links that afternoon."
+      },
+      {
+        "day": "Day 2",
+        "text": "The K Club, Palmer North."
+      },
+      {
+        "day": "Day 3",
+        "text": "Free day in Dublin, or a swap round at The Island on request."
+      },
+      {
+        "day": "Day 4",
+        "text": "Druids Glen in the Wicklow hills, forty minutes south."
+      },
+      {
+        "day": "Day 5",
+        "text": "Portmarnock Links again for the group final."
+      },
+      {
+        "day": "Day 6",
+        "text": "Transfer to the airport."
+      }
     ],
     "aboutHotel": "A four-star coastal resort on the Velvet Strand with 137 rooms, The Bay Restaurant, Cliff Lounge and a spa with indoor pool, and the Bernhard Langer links beside the first tee.",
     "note": "Price shown is indicative and confirmed on quote."
