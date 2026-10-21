@@ -247,7 +247,12 @@
     "flyInto": "Fly into",
     "targetNote": "{n} packages planned",
     "allRegions": "All regions",
-    "filterAll": "All"
+    "filterAll": "All",
+    "mapEyebrow": "On the map",
+    "mapTitle": "Where the courses are.",
+    "mapSub": "Every pin is a course we book. Click one for the full page.",
+    "mapNoscript": "Enable JavaScript to see the course map.",
+    "jumpMap": "Map"
   },
   "packages": {
     "title": "Golf Packages",

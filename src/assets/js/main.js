@@ -9,6 +9,22 @@ const MSG = ({
 })[LANG] || { sending: 'Sending…', thanks: 'Thanks.', error: 'Error.' };
 
 document.addEventListener('DOMContentLoaded', () => {
+  // Course maps: load Leaflet only when a map is on the page
+  const maps = document.querySelectorAll('[data-course-map]');
+  if (maps.length) {
+    const css = document.createElement('link'); css.rel = 'stylesheet'; css.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css'; document.head.appendChild(css);
+    const js = document.createElement('script'); js.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+    js.onload = () => maps.forEach((box) => {
+      const pts = JSON.parse(box.dataset.courseMap);
+      const map = L.map(box.querySelector('.course-map-canvas'), { scrollWheelZoom: false });
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors', maxZoom: 18 }).addTo(map);
+      const icon = L.divIcon({ className: '', html: '<div class="ogt-pin"></div>', iconSize: [14, 14], iconAnchor: [7, 7] });
+      const group = L.featureGroup(pts.map((p) => L.marker([p.la, p.lo], { icon }).bindPopup(`<b>${p.n}</b><a href="${p.u}">${box.dataset.label}</a>`)));
+      group.addTo(map); map.fitBounds(group.getBounds().pad(0.15));
+    });
+    document.head.appendChild(js);
+  }
+
   // Scroll reveal
   const io = new IntersectionObserver((entries) => {
     entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });

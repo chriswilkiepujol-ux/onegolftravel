@@ -21,7 +21,7 @@
 <div class="jump-nav"><div class="wrap jump-inner">
   {% if regions.length %}<a href="#regions">{{ TD.jumpRegions }}</a>{% endif %}
   {% if pkgs.length %}<a href="#packages">{{ TD.jumpPackages }}</a>{% endif %}
-  {% if courses.length %}<a href="#courses">{{ TD.jumpCourses }}</a>{% endif %}
+  {% if courses.length %}<a href="#map">{{ TD.jumpMap }}</a><a href="#courses">{{ TD.jumpCourses }}</a>{% endif %}
   {% if hotels.length %}<a href="#hotels">{{ TD.jumpHotels }}</a>{% endif %}
   <a href="#about">{{ TD.aboutEyebrow | fmt({ name: c.name }) }}</a>
   {% if c.faqs and c.faqs.length %}<a href="#faqs">{{ TD.jumpFaqs }}</a>{% endif %}
@@ -67,10 +67,21 @@
 {% endif %}
 
 {% if courses.length %}
-<section class="sec" id="courses">
+<section class="sec" id="map">
   <div class="wrap">
-    <div class="sec-head reveal"><div><div class="eyebrow">{{ TD.jumpCourses }}</div><h2>{{ TD.coursesIn | fmt({ name: c.name }) }}</h2></div></div>
-    <div class="course-grid reveal">{% for course in courses %}{% include "partials/course-card.njk" %}{% endfor %}</div>
+    <div class="sec-head reveal"><div><div class="eyebrow">{{ TD.mapEyebrow }}</div><h2>{{ TD.mapTitle }}</h2></div><p>{{ TD.mapSub }}</p></div>
+    {% set mapCourses = courses %}{% include "partials/course-map.njk" %}
+  </div>
+</section>
+<section class="sec sec-stone" id="courses" style="padding-top:0;">
+  <div class="wrap">
+    <div class="sec-head reveal" style="padding-top:88px;"><div><div class="eyebrow">{{ TD.jumpCourses }}</div><h2>{{ TD.coursesIn | fmt({ name: c.name }) }}</h2></div><p>{{ T.common.coursesCount | fmt({ n: courses.length }) }}</p></div>
+    {% for r in regions %}{% set rc = courses | coursesForRegion(r.id) %}{% if rc.length %}
+    <h3 class="course-group-title"><a href="{{ r.url }}">{{ r.name }}</a> <span>{{ T.common.coursesCount | fmt({ n: rc.length }) }}</span></h3>
+    <div class="course-grid reveal">{% for course in rc %}{% include "partials/course-card.njk" %}{% endfor %}</div>
+    {% endif %}{% endfor %}
+    {% set orphan = [] %}{% for course in courses %}{% set hasRegion = regions | findRegion(course.region) %}{% if not hasRegion %}{% set orphan = (orphan.push(course), orphan) %}{% endif %}{% endfor %}
+    {% if orphan.length %}<div class="course-grid reveal">{% for course in orphan %}{% include "partials/course-card.njk" %}{% endfor %}</div>{% endif %}
   </div>
 </section>
 {% endif %}

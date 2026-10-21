@@ -1,0 +1,10 @@
+{# `mapCourses` = localised courses with lat/lon. Renders a Leaflet map (loaded lazily by main.js). #}
+{%- set TT = t[locale] -%}
+{%- set pts = [] -%}
+{%- for c in mapCourses %}{% if c.lat %}{% set pts = (pts.push({ n: c.name, u: c.url, la: c.lat, lo: c.lon, r: c.region }), pts) %}{% endif %}{% endfor -%}
+{% if pts.length %}
+<div class="course-map" data-course-map='{{ pts | dump | replace("'", "&#39;") }}' data-label="{{ TT.common.viewCourse }}">
+  <div class="course-map-canvas"></div>
+  <noscript><p>{{ TT.destinations.mapNoscript }}</p></noscript>
+</div>
+{% endif %}

@@ -11,11 +11,21 @@
     "designer": "Dave Thomas & Robert Trent Jones Sr",
     "opened": "1991",
     "image": "/assets/images/courses/la-canada.webp",
-    "images": ["/assets/images/courses/la-canada.webp"],
+    "images": [
+      "/assets/images/courses/la-canada.webp"
+    ],
     "summary": "Mature parkland winding through cork oaks with Mediterranean views, famous for quick greens and the best value in Sotogrande.",
     "about": "La Cañada was designed by Dave Thomas, with the back nine by Robert Trent Jones Sr, and it winds through mature trees above the Guadiaro valley with views to the sea. It is the local club of Sotogrande, home to a strong junior programme and one of the friendliest clubhouses in the area, and it is known for fast, true greens and sensible green fees. A good opening round for a week in the region.",
     "signature": "",
-    "facilities": ["Driving range with grass tees", "Putting and chipping greens", "Trolley and buggy hire", "Club rental", "Pro shop", "Clubhouse with restaurant, café, bar and terrace", "Lockers and showers"]
+    "facilities": [
+      "Driving range with grass tees",
+      "Putting and chipping greens",
+      "Trolley and buggy hire",
+      "Club rental",
+      "Pro shop",
+      "Clubhouse with restaurant, café, bar and terrace",
+      "Lockers and showers"
+    ]
   },
   {
     "slug": "hacienda-links",
@@ -29,11 +39,20 @@
     "designer": "Peter Alliss & Clive Clark, redesigned by Kurtis Bowman",
     "opened": "1992, redesigned 2021",
     "image": "/assets/images/courses/hacienda-links.webp",
-    "images": ["/assets/images/courses/hacienda-links.webp"],
+    "images": [
+      "/assets/images/courses/hacienda-links.webp"
+    ],
     "summary": "A coastal links at Alcaidesa with cliff-edge holes, wide fairways and big greens, and Gibraltar filling the view on the back nine.",
     "about": "Reimagined by Kurtis Bowman in 2021, La Hacienda Links is the closest thing to true links golf in southern Spain. The layout runs along the cliffs above the Alcaidesa beach near San Roque with wide fairways, large greens and sea views on almost every hole, and the Rock of Gibraltar sits on the horizon the whole way round. The redesign added length, better drainage and a much-improved practice ground. Ten minutes from Gibraltar airport.",
     "signature": "",
-    "facilities": ["Driving range with over 70 covered and grass tees", "Putting greens and short-game area with bunkers", "GPS buggies", "Club hire", "Pro shop", "Clubhouse and changing rooms"]
+    "facilities": [
+      "Driving range with over 70 covered and grass tees",
+      "Putting greens and short-game area with bunkers",
+      "GPS buggies",
+      "Club hire",
+      "Pro shop",
+      "Clubhouse and changing rooms"
+    ]
   },
   {
     "slug": "hacienda-heathland",
@@ -47,11 +66,19 @@
     "designer": "Dave Thomas",
     "opened": "2007",
     "image": "/assets/images/courses/hacienda-heathland.webp",
-    "images": ["/assets/images/courses/hacienda-heathland.webp"],
+    "images": [
+      "/assets/images/courses/hacienda-heathland.webp"
+    ],
     "summary": "The inland sister of the Links at La Hacienda, a heathland-style layout through pine and cork oak with generous fairways and the same sea views.",
     "about": "The Heathland course at La Hacienda sits on the hillside above the Links and offers a different test: tree-lined holes, elevation changes and large, well-protected greens, with the same panoramic views over the Strait towards Gibraltar and Africa. Played together with the Links it makes an excellent 36-hole day, and it tends to be the quieter of the two.",
     "signature": "",
-    "facilities": ["Shared practice facilities with the Links", "Buggies and trolleys", "Club hire", "Pro shop", "Clubhouse and restaurant"]
+    "facilities": [
+      "Shared practice facilities with the Links",
+      "Buggies and trolleys",
+      "Club hire",
+      "Pro shop",
+      "Clubhouse and restaurant"
+    ]
   },
   {
     "slug": "the-alto",
@@ -65,11 +92,21 @@
     "designer": "Dave Thomas, remodelled by Manuel Piñero",
     "opened": "1998, remodelled 2021",
     "image": "/assets/images/courses/the-alto.webp",
-    "images": ["/assets/images/courses/the-alto.webp"],
+    "images": [
+      "/assets/images/courses/the-alto.webp"
+    ],
     "summary": "27 holes in the hills of Sotogrande set among lakes, pines and cork oaks, part of the five-star SO/ Sotogrande resort.",
     "about": "The Alto, formerly Almenara, was designed by Dave Thomas and opened in 1998, then remodelled in 2021 by Ryder Cup player Manuel Piñero as part of the SO/ Sotogrande resort. Three nine-hole loops, Lagos, Pinos and Alcornoques, combine into an 18-hole course of real variety with water on the Lagos holes and tight tree-lined fairways on the others. A golf academy opened in 2025. Seven other top courses are within ten minutes, including Real Sotogrande, Valderrama, San Roque and La Hacienda.",
     "signature": "",
-    "facilities": ["27-bay driving range", "Short-game areas", "Trolleys and buggies", "Club rental", "Pro shop", "Golf academy (opened 2025)", "SO/ Sotogrande clubhouse, restaurants and spa"]
+    "facilities": [
+      "27-bay driving range",
+      "Short-game areas",
+      "Trolleys and buggies",
+      "Club rental",
+      "Pro shop",
+      "Golf academy (opened 2025)",
+      "SO/ Sotogrande clubhouse, restaurants and spa"
+    ]
   },
   {
     "slug": "castle-course",
@@ -83,11 +120,20 @@
     "designer": "David McLay Kidd",
     "opened": "2008",
     "image": "/assets/images/courses/castle-course.webp",
-    "images": ["/assets/images/courses/castle-course.webp"],
+    "images": [
+      "/assets/images/courses/castle-course.webp"
+    ],
     "summary": "The newest of the St Andrews Links courses, a clifftop layout with North Sea views on every hole and a par-3 17th played over the edge.",
     "about": "The Castle Course opened in 2008 on the cliffs two miles south of St Andrews and is the seventh course in the Links family. David McLay Kidd shaped a dramatic layout with huge undulating greens, views back over the town and the bay, and a run of closing holes along the clifftop that includes the famous 17th, a par 3 played over a chasm to a green on the edge.",
     "signature": "17th, par 3 over the cliff edge",
-    "facilities": ["Short-game area", "Clubhouse with ocean-view dining", "Buggy hire", "Trolley and club hire", "Pro shop", "Coaching and caddie services"]
+    "facilities": [
+      "Short-game area",
+      "Clubhouse with ocean-view dining",
+      "Buggy hire",
+      "Trolley and club hire",
+      "Pro shop",
+      "Coaching and caddie services"
+    ]
   },
   {
     "slug": "eden-course",
@@ -101,11 +147,21 @@
     "designer": "Harry Colt",
     "opened": "1914",
     "image": "/assets/images/courses/eden-course.webp",
-    "images": ["/assets/images/courses/eden-course.webp"],
+    "images": [
+      "/assets/images/courses/eden-course.webp"
+    ],
     "summary": "Harry Colt's 1914 links beside the Eden estuary, the most forgiving of the St Andrews courses and a favourite for the first day.",
     "about": "The Eden runs along the estuary north of the Old Course and shows Harry Colt's hand throughout: wide fairways, subtle slopes and well-bunkered greens that reward good positioning rather than brute length. It is the most forgiving of the St Andrews Links courses, which makes it an ideal opener for a group with mixed handicaps. The Links Academy and practice centre are next door.",
     "signature": "14th, a short par 4",
-    "facilities": ["Practice putting green", "Access to the St Andrews Links Academy", "Trolley and club rental", "Lockers", "Café"]
+    "facilities": [
+      "Practice putting green",
+      "Access to the St Andrews Links Academy",
+      "Trolley and club rental",
+      "Lockers",
+      "Café"
+    ],
+    "lat": 56.3497216,
+    "lon": -2.8165694
   },
   {
     "slug": "jubilee-course",
@@ -119,11 +175,20 @@
     "designer": "John Angus, redesigned by Donald Steel",
     "opened": "1897",
     "image": "/assets/images/courses/jubilee-course.webp",
-    "images": ["/assets/images/courses/jubilee-course.webp"],
+    "images": [
+      "/assets/images/courses/jubilee-course.webp"
+    ],
     "summary": "The toughest test at St Andrews, running along the dunes beside the sea between the Old Course and the West Sands.",
     "about": "Opened in 1897 to mark Queen Victoria's Diamond Jubilee and originally intended for beginners and ladies, the Jubilee was remodelled by Donald Steel into what is generally agreed to be the sternest of the St Andrews courses. It sits on the seaward side of the links with exposed, undulating fairways and a long run home into the wind. Bring a full bag of shots.",
     "signature": "15th, a narrow par 4 along the sea",
-    "facilities": ["Full links practice facilities", "Trolley and club hire", "Lockers", "Café and bar nearby"]
+    "facilities": [
+      "Full links practice facilities",
+      "Trolley and club hire",
+      "Lockers",
+      "Café and bar nearby"
+    ],
+    "lat": 56.3446112,
+    "lon": -2.8094964
   },
   {
     "slug": "druids-glen",
@@ -137,11 +202,21 @@
     "designer": "Pat Ruddy & Tom Craddock",
     "opened": "1995",
     "image": "/assets/images/courses/druids-glen.webp",
-    "images": ["/assets/images/courses/druids-glen.webp", "/assets/images/courses/druids-glen-2.webp"],
+    "images": [
+      "/assets/images/courses/druids-glen.webp",
+      "/assets/images/courses/druids-glen-2.webp"
+    ],
     "summary": "Four-time Irish Open host in the Wicklow hills, often called the Augusta of Europe for its flowers, water and immaculate conditioning.",
     "about": "Druids Glen hosted the Irish Open from 1996 to 1999 and remains one of Ireland's best-conditioned parkland courses. Pat Ruddy and Tom Craddock routed it through a wooded glen with streams, lakes and a famous island-green par 3, and the planting around the 12th and 13th gives it the Augusta comparison it is known for. The resort hotel is on site, so there is no travel on golf days.",
     "signature": "13th, par 3 to an island green",
-    "facilities": ["Covered driving range", "Short-game area", "Putting green", "Buggy and electric trolley hire", "Premium rental clubs", "Clubhouse in the 18th-century Woodstock House"]
+    "facilities": [
+      "Covered driving range",
+      "Short-game area",
+      "Putting green",
+      "Buggy and electric trolley hire",
+      "Premium rental clubs",
+      "Clubhouse in the 18th-century Woodstock House"
+    ]
   },
   {
     "slug": "druids-heath",
@@ -155,11 +230,19 @@
     "designer": "Pat Ruddy",
     "opened": "2003",
     "image": "/assets/images/courses/druids-heath.webp",
-    "images": ["/assets/images/courses/druids-heath.webp"],
+    "images": [
+      "/assets/images/courses/druids-heath.webp"
+    ],
     "summary": "The wilder sister of Druids Glen, a heathland layout through quarries and gorse with sea views and a reputation for toughness.",
     "about": "Pat Ruddy returned to Druids Glen in 2003 to build a very different course next door. Druids Heath is long and exposed, with gorse, rock and natural quarries framing the holes and the Irish Sea in view from the high ground. It has hosted the Irish PGA Championship and asks for straight driving above all. The 12th is the signature hole.",
     "signature": "12th",
-    "facilities": ["Driving range", "Three-hole short course", "Pro shop", "Clubhouse with bar and food", "Locker rooms"]
+    "facilities": [
+      "Driving range",
+      "Three-hole short course",
+      "Pro shop",
+      "Clubhouse with bar and food",
+      "Locker rooms"
+    ]
   },
   {
     "slug": "k-club-palmer-north",
@@ -173,11 +256,20 @@
     "designer": "Arnold Palmer",
     "opened": "1991",
     "image": "/assets/images/courses/k-club.webp",
-    "images": ["/assets/images/courses/k-club.webp"],
+    "images": [
+      "/assets/images/courses/k-club.webp"
+    ],
     "summary": "Host of the 2006 Ryder Cup and the 2016 and 2023 Irish Opens, Arnold Palmer's parkland along the River Liffey in County Kildare.",
     "about": "The Palmer North Course at The K Club is the most famous parkland course in Ireland. Arnold Palmer laid it out along the River Liffey in 1991, Europe won the 2006 Ryder Cup here, and the Irish Open returned in 2016 and 2023. Water is in play on half the holes, including the par-3 8th, which crosses the river beside a 175-year-old footbridge. The Palmer South course, opened in 2003, is the second course on the estate.",
     "signature": "8th, par 3 across the Liffey",
-    "facilities": ["Driving range and practice academy", "Buggies, trolleys and caddies", "Club hire", "Pro shop", "Clubhouse restaurant and bar", "K Club hotel and spa on site"]
+    "facilities": [
+      "Driving range and practice academy",
+      "Buggies, trolleys and caddies",
+      "Club hire",
+      "Pro shop",
+      "Clubhouse restaurant and bar",
+      "K Club hotel and spa on site"
+    ]
   },
   {
     "slug": "portmarnock-links",
@@ -191,10 +283,966 @@
     "designer": "Bernhard Langer",
     "opened": "1995",
     "image": "/assets/images/courses/portmarnock-links.webp",
-    "images": ["/assets/images/courses/portmarnock-links.webp"],
+    "images": [
+      "/assets/images/courses/portmarnock-links.webp"
+    ],
     "summary": "A true links on the Portmarnock peninsula fifteen minutes from Dublin airport, designed by Bernhard Langer with the hotel on site.",
     "about": "Bernhard Langer's links at Portmarnock runs through the dunes on the Velvet Strand next door to the famous Portmarnock Golf Club. It is a genuine links with firm fairways, sea breezes and deep revetted bunkers, and because the hotel sits beside the first tee it is one of the easiest great courses in Ireland to build a trip around. Dublin airport is fifteen minutes away.",
     "signature": "",
-    "facilities": ["Driving range", "Putting green", "Buggies and trolleys", "Club hire", "Pro shop", "Hotel, spa and restaurants on site"]
+    "facilities": [
+      "Driving range",
+      "Putting green",
+      "Buggies and trolleys",
+      "Club hire",
+      "Pro shop",
+      "Hotel, spa and restaurants on site"
+    ]
+  },
+  {
+    "slug": "old-course",
+    "name": "The Old Course, St Andrews",
+    "country": "scotland",
+    "region": "st-andrews",
+    "style": "Links",
+    "par": 72,
+    "length": "7,305 yds",
+    "slope": "132",
+    "designer": "Nature, Old Tom Morris",
+    "opened": "c.1552",
+    "lat": 56.343653,
+    "lon": -2.8022784,
+    "image": "/assets/images/courses/old-course.webp",
+    "images": [
+      "/assets/images/courses/old-course.webp"
+    ],
+    "summary": "The original. Seven double greens, the Road Hole, Hell Bunker and the Swilcan Bridge on a links that has been played for over 450 years.",
+    "about": "There is no first tee in golf like the Old Course. The course is laid out and back along the shore with seven huge double greens shared between holes, bunkers with names and reputations, and a closing stretch past the Royal and Ancient clubhouse that every golfer has seen on television. It is public land, so tee times go through the daily ballot or advance applications, and we handle both. The Old Course is closed on Sundays, when the town walks the fairways.",
+    "signature": "17th, the Road Hole",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "new-course",
+    "name": "The New Course, St Andrews",
+    "country": "scotland",
+    "region": "st-andrews",
+    "style": "Links",
+    "par": 71,
+    "length": "6,625 yds",
+    "slope": "128",
+    "designer": "Old Tom Morris",
+    "opened": "1895",
+    "lat": 56.345333,
+    "lon": -2.809375,
+    "image": "/assets/images/courses/new-course.webp",
+    "images": [
+      "/assets/images/courses/new-course.webp"
+    ],
+    "summary": "Old Tom Morris's 1895 links next to the Old Course, a purist's favourite that many locals rate the better test.",
+    "about": "The New Course sits between the Old and the Jubilee and runs out and back through the same dunes. It was laid out by Old Tom Morris in 1895 and has barely changed since: narrow, firm fairways, deep bunkers and large greens that reward the running approach. Without the Old Course crowds it is a quieter day on the same turf, and a strong second round in any St Andrews week.",
+    "signature": "9th and 10th, the shared green",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "kingsbarns",
+    "name": "Kingsbarns Golf Links",
+    "country": "scotland",
+    "region": "st-andrews",
+    "style": "Links",
+    "par": 72,
+    "length": "7,224 yds",
+    "slope": "134",
+    "designer": "Kyle Phillips",
+    "opened": "2000",
+    "lat": 56.2986285,
+    "lon": -2.6461672,
+    "image": "/assets/images/courses/kingsbarns.webp",
+    "images": [
+      "/assets/images/courses/kingsbarns.webp"
+    ],
+    "summary": "Modern links on the coast south of St Andrews with the sea on almost every hole. Opened in 2000 and already a classic.",
+    "about": "Kyle Phillips built Kingsbarns on farmland above the North Sea and shaped it so convincingly that most visitors assume it is centuries old. The course drops towards the water on three tiers, the sea is in view from every hole and the par-5 12th runs along the beach. It co-hosts the Alfred Dunhill Links Championship with the Old Course and Carnoustie. Fifteen minutes from St Andrews.",
+    "signature": "12th, par 5 along the shore",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "crail-balcomie",
+    "name": "Crail Golfing Society, Balcomie Links",
+    "country": "scotland",
+    "region": "st-andrews",
+    "style": "Links",
+    "par": 69,
+    "length": "5,861 yds",
+    "slope": "121",
+    "designer": "Old Tom Morris",
+    "opened": "1895",
+    "lat": 56.278245,
+    "lon": -2.597237,
+    "image": "/assets/images/courses/crail-balcomie.webp",
+    "images": [
+      "/assets/images/courses/crail-balcomie.webp"
+    ],
+    "summary": "The seventh-oldest golf club in the world, a short, scenic links on the tip of the East Neuk where every hole has a view of the sea.",
+    "about": "Crail Golfing Society dates from 1786 and the Balcomie Links from 1895, laid out by Old Tom Morris around a rocky headland with the Isle of May out to sea. It is short and friendly on the card but exposed to every wind, and the par 3s along the water are as good as any in Fife. A relaxed, characterful afternoon round after a morning on the St Andrews Links, with the fishing villages of the East Neuk on the way back.",
+    "signature": "14th, par 3 over the shore",
+    "facilities": [
+      "Practice area and putting green",
+      "Trolley and club hire",
+      "Pro shop",
+      "Clubhouse with bar and dining",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "lundin-links",
+    "name": "Lundin Golf Club",
+    "country": "scotland",
+    "region": "st-andrews",
+    "style": "Links",
+    "par": 71,
+    "length": "6,371 yds",
+    "slope": "124",
+    "designer": "James Braid",
+    "opened": "1868",
+    "lat": 56.208518,
+    "lon": -2.966995,
+    "image": "/assets/images/courses/lundin-links.webp",
+    "images": [
+      "/assets/images/courses/lundin-links.webp"
+    ],
+    "summary": "A James Braid links on the Firth of Forth twenty minutes from St Andrews, a regular Open qualifying venue with a railway line running through it.",
+    "about": "Lundin is a classic Fife links that began as a shared course with Leven before James Braid redesigned it in 1909. The front nine runs along Largo Bay, the back nine climbs inland for views over the Forth, and the old railway line that divides the course is in play on several holes. It has hosted Open Final Qualifying many times and is one of the best-value rounds in the region.",
+    "signature": "14th, Perfection, the long par 3",
+    "facilities": [
+      "Practice area and putting green",
+      "Trolley and club hire",
+      "Pro shop",
+      "Clubhouse with bar and dining",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "dumbarnie-links",
+    "name": "Dumbarnie Links",
+    "country": "scotland",
+    "region": "st-andrews",
+    "style": "Links",
+    "par": 72,
+    "length": "6,891 yds",
+    "slope": "131",
+    "designer": "Clive Clark",
+    "opened": "2020",
+    "lat": 56.2101456,
+    "lon": -2.9062907,
+    "image": "/assets/images/courses/dumbarnie-links.webp",
+    "images": [
+      "/assets/images/courses/dumbarnie-links.webp"
+    ],
+    "summary": "The newest links in Fife, built on a private estate above Largo Bay with wide fairways, big views and a welcome designed around visiting golfers.",
+    "about": "Dumbarnie opened in May 2020 on the Balcarres estate between Lundin Links and Elie and immediately hosted the Women's Scottish Open. Clive Clark designed it for enjoyment as much as challenge: generous landing areas, bunkers you can see, the Forth in view from most of the course and a clubhouse set up for visitors rather than members. Thirty minutes from St Andrews and a natural pairing with Kingsbarns.",
+    "signature": "17th, par 5 towards the sea",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "carnoustie",
+    "name": "Carnoustie Golf Links, Championship Course",
+    "country": "scotland",
+    "region": "st-andrews",
+    "style": "Links",
+    "par": 72,
+    "length": "7,402 yds",
+    "slope": "139",
+    "designer": "Allan Robertson, Old Tom Morris, James Braid",
+    "opened": "1842",
+    "lat": 56.495433,
+    "lon": -2.716198,
+    "image": "/assets/images/courses/carnoustie.webp",
+    "images": [
+      "/assets/images/courses/carnoustie.webp"
+    ],
+    "summary": "Across the Tay from St Andrews and the hardest Open venue there is. The Barry Burn finish has decided championships.",
+    "about": "Carnoustie has hosted the Open eight times, most recently in 2018, and has a reputation for being the toughest of all the rota courses. It is long, flat and relentless, with the Barry Burn snaking across the final three holes and the par-3 16th among the hardest in Britain. The club is public, so it is far easier to get on than its reputation suggests. About an hour from St Andrews via the Tay Bridge, and pairs with Montrose for a day in Angus.",
+    "signature": "18th, par 4 over the Barry Burn",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "montrose",
+    "name": "Montrose Golf Links, 1562 Course",
+    "country": "scotland",
+    "region": "st-andrews",
+    "style": "Links",
+    "par": 71,
+    "length": "6,543 yds",
+    "slope": "124",
+    "designer": "Nature, Willie Park Jr, Harry Colt",
+    "opened": "1562",
+    "lat": 56.717037,
+    "lon": -2.450981,
+    "image": "/assets/images/courses/montrose.webp",
+    "images": [
+      "/assets/images/courses/montrose.webp"
+    ],
+    "summary": "The fifth-oldest course in the world, a natural links along the Angus coast where golf has been played since 1562.",
+    "about": "Golf has been played on the Montrose links since at least 1562, and the 1562 Course, formerly the Medal, runs along the dunes north of the town with the sea beside the opening holes. Willie Park Jr and Harry Colt both worked on the layout and it has hosted Open Final Qualifying. It is unpretentious, authentic links golf at a fraction of championship prices, half an hour north of Carnoustie.",
+    "signature": "3rd, par 3 on the shore",
+    "facilities": [
+      "Practice area and putting green",
+      "Trolley and club hire",
+      "Pro shop",
+      "Clubhouse with bar and dining",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "gleneagles-kings",
+    "name": "Gleneagles, King's Course",
+    "country": "scotland",
+    "region": "st-andrews",
+    "style": "Heathland",
+    "par": 71,
+    "length": "6,790 yds",
+    "slope": "134",
+    "designer": "James Braid",
+    "opened": "1919",
+    "lat": 56.274052,
+    "lon": -3.752518,
+    "image": "/assets/images/courses/gleneagles-kings.webp",
+    "images": [
+      "/assets/images/courses/gleneagles-kings.webp"
+    ],
+    "summary": "James Braid's inland masterpiece in Perthshire, with the hotel to match. The 2014 Ryder Cup was played on the neighbouring PGA Centenary.",
+    "about": "The King's Course opened in 1919 and is James Braid's finest inland work: heather, pine and gorse across rolling Perthshire hills, with every hole named and the Grampian mountains behind. Gleneagles has three courses, a five-star hotel, a spa and shooting school, and hosted the 2014 Ryder Cup and 2019 Solheim Cup on the PGA Centenary. An hour from St Andrews or Edinburgh, and the obvious luxury base for a central Scotland trip.",
+    "signature": "13th, Braid's Brawest",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "muirfield",
+    "name": "Muirfield",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Links",
+    "par": 71,
+    "length": "7,245 yds",
+    "slope": "135",
+    "designer": "Old Tom Morris, Harry Colt",
+    "opened": "1891",
+    "lat": 56.042022,
+    "lon": -2.820761,
+    "image": "/assets/images/courses/muirfield.webp",
+    "images": [
+      "/assets/images/courses/muirfield.webp"
+    ],
+    "summary": "The Honourable Company of Edinburgh Golfers' links in East Lothian: two loops, every wind direction, and a visitor day worth planning a trip around.",
+    "about": "Muirfield is the home of the oldest golf club in the world, the Honourable Company of Edinburgh Golfers, founded in 1744, and has hosted sixteen Opens. Old Tom Morris laid it out as two concentric loops of nine, so the wind comes from a different direction on almost every hole, and Harry Colt refined it in the 1920s. Visitors play on Tuesdays and Thursdays and lunch in the clubhouse is part of the experience. Book many months ahead.",
+    "signature": "13th, par 3 to a raised green",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "north-berwick",
+    "name": "North Berwick Golf Club, West Links",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Links",
+    "par": 71,
+    "length": "6,506 yds",
+    "slope": "128",
+    "designer": "Nature, David Strath",
+    "opened": "1832",
+    "lat": 56.058698,
+    "lon": -2.727379,
+    "image": "/assets/images/courses/north-berwick.webp",
+    "images": [
+      "/assets/images/courses/north-berwick.webp"
+    ],
+    "summary": "Quirky, historic and enormous fun, with the original Redan hole and the Bass Rock out to sea.",
+    "about": "The West Links at North Berwick is the second-oldest course in the world still played on its original ground and one of the most copied: the 15th, Redan, is the template for hundreds of par 3s worldwide. Stone walls cross fairways, the beach is in play, and the 16th green has a gully through the middle. With Bass Rock and the Forth as the backdrop it is the most enjoyable round in East Lothian, and the town's hotels are a short walk from the first tee.",
+    "signature": "15th, Redan",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "the-glen",
+    "name": "The Glen Golf Club, North Berwick East Links",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Links",
+    "par": 70,
+    "length": "6,275 yds",
+    "slope": "121",
+    "designer": "James Braid, Ben Sayers",
+    "opened": "1894",
+    "lat": 56.057235,
+    "lon": -2.703436,
+    "image": "/assets/images/courses/the-glen.webp",
+    "images": [
+      "/assets/images/courses/the-glen.webp"
+    ],
+    "summary": "North Berwick's other course, a clifftop links on the east side of town with the best views in East Lothian and a very fair price.",
+    "about": "The Glen sits on the headland east of North Berwick with the Bass Rock directly offshore and views along the coast to Dunbar. Laid out by James Braid and Ben Sayers, it is shorter and friendlier than its famous neighbour but genuinely scenic, and the par-3 13th, played from a clifftop tee down to a green by the sea, is one of the most photographed holes on the coast. A good second round of the day.",
+    "signature": "13th, Sea Hole",
+    "facilities": [
+      "Practice area and putting green",
+      "Trolley and club hire",
+      "Pro shop",
+      "Clubhouse with bar and dining",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "gullane-no1",
+    "name": "Gullane Golf Club, No.1 Course",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Links",
+    "par": 71,
+    "length": "6,583 yds",
+    "slope": "130",
+    "designer": "Willie Park Jr",
+    "opened": "1884",
+    "lat": 56.03367,
+    "lon": -2.837906,
+    "image": "/assets/images/courses/gullane-no1.webp",
+    "images": [
+      "/assets/images/courses/gullane-no1.webp"
+    ],
+    "summary": "The championship course on Gullane Hill, host of the Scottish Open, with views across the Forth from the top of the climb.",
+    "about": "Gullane has three courses on and around the hill above the village and No.1 is the championship test, host of the Scottish Open in 2015 and 2018 and a regular Open qualifying venue. The opening holes climb the hill, the view from the 7th tee takes in Edinburgh, Fife and the Forth bridges, and the back nine runs down to the shore and back up. Firm, fast and beautifully kept. Muirfield is next door.",
+    "signature": "7th, the view from the top",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "archerfield-fidra",
+    "name": "Archerfield Links, Fidra Course",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Links",
+    "par": 72,
+    "length": "7,172 yds",
+    "slope": "135",
+    "designer": "David J Russell",
+    "opened": "2004",
+    "lat": 56.056271,
+    "lon": -2.797909,
+    "image": "/assets/images/courses/archerfield-fidra.webp",
+    "images": [
+      "/assets/images/courses/archerfield-fidra.webp"
+    ],
+    "summary": "A modern links through pine woods and dunes on a private estate between Gullane and North Berwick, with the island of Fidra offshore.",
+    "about": "Archerfield is a private club and resort on the coast at Dirleton with two courses, a lodge hotel and a spa. The Fidra Course runs through mature pine woodland before opening onto duneland along the shore, with the island of Fidra, said to have inspired Treasure Island, out to sea. It has hosted the Scottish Senior Open and is one of the best-conditioned courses in East Lothian. Access for visiting groups is through tour operators like us.",
+    "signature": "18th, downhill to the clubhouse",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "archerfield-dirleton",
+    "name": "Archerfield Links, Dirleton Course",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Links",
+    "par": 72,
+    "length": "7,074 yds",
+    "slope": "133",
+    "designer": "David J Russell",
+    "opened": "2006",
+    "lat": 56.057127,
+    "lon": -2.79467,
+    "image": "/assets/images/courses/archerfield-dirleton.webp",
+    "images": [
+      "/assets/images/courses/archerfield-dirleton.webp"
+    ],
+    "summary": "Archerfield's second course, more open and exposed than the Fidra, with wide fairways and views to the Forth.",
+    "about": "The Dirleton Course opened two years after the Fidra and takes the more open ground on the estate, with fewer trees, broader fairways and the wind more in play. Large greens, run-off areas and sea views on the back nine make it a different proposition to its sister course, and the two together make a proper 36-hole day with the Archerfield clubhouse in between. Stays at the lodges on the estate can be arranged.",
+    "signature": "10th, par 4 towards the sea",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "renaissance-club",
+    "name": "The Renaissance Club",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Links",
+    "par": 71,
+    "length": "7,293 yds",
+    "slope": "137",
+    "designer": "Tom Doak",
+    "opened": "2008",
+    "lat": 56.05318,
+    "lon": -2.800269,
+    "image": "/assets/images/courses/renaissance-club.webp",
+    "images": [
+      "/assets/images/courses/renaissance-club.webp"
+    ],
+    "summary": "Tom Doak's modern links next to Muirfield, home of the Scottish Open since 2019, with the clubhouse views over the Forth to match.",
+    "about": "The Renaissance Club occupies the land immediately west of Muirfield and was designed by Tom Doak, with holes threading through pine and out onto the clifftop above the Forth. It has hosted the Genesis Scottish Open every year since 2019 and is one of the few places in Scotland where visitors can play a current DP World Tour venue. A private club, so group access is arranged through us. The clubhouse terrace and lodges are exceptional.",
+    "signature": "10th, par 3 on the cliff",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "craigielaw",
+    "name": "Craigielaw Golf Club",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Links",
+    "par": 71,
+    "length": "6,601 yds",
+    "slope": "129",
+    "designer": "Donald Steel",
+    "opened": "2001",
+    "lat": 56.007392,
+    "lon": -2.877507,
+    "image": "/assets/images/courses/craigielaw.webp",
+    "images": [
+      "/assets/images/courses/craigielaw.webp"
+    ],
+    "summary": "A modern links at Aberlady with a pot-bunkered, old-fashioned feel, a comfortable lodge on site and views across Aberlady Bay.",
+    "about": "Craigielaw opened in 2001 and was designed by Donald Steel to play like a traditional links: firm turf, revetted bunkers and large undulating greens on open ground beside Aberlady Bay nature reserve. The Craigielaw Lodge, with rooms beside the first tee, makes it a convenient base for an East Lothian week, with Gullane, Muirfield and North Berwick all within ten minutes. Well priced for the quality of the course.",
+    "signature": "18th, par 5 to the clubhouse",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "musselburgh-old",
+    "name": "Musselburgh Old Course",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Links",
+    "par": 34,
+    "length": "2,968 yds (9 holes)",
+    "slope": "",
+    "designer": "Nature",
+    "opened": "c.1672",
+    "lat": 55.9466963,
+    "lon": -3.0366885,
+    "image": "/assets/images/courses/musselburgh-old.webp",
+    "images": [
+      "/assets/images/courses/musselburgh-old.webp"
+    ],
+    "summary": "The oldest golf course in the world still in play, nine holes inside Musselburgh racecourse where six Opens were held.",
+    "about": "Golf was recorded at Musselburgh in 1672 and the nine holes inside the racecourse hosted the Open six times between 1874 and 1889. Today it is a public course, run by the council, where you can hire hickory clubs and play the holes much as the Victorian champions did. Short, flat and historic rather than demanding, it is the ideal half-day warm-up or a round for the history buffs in the group, twenty minutes from Edinburgh.",
+    "signature": "4th, Mrs Forman's",
+    "facilities": [
+      "Hickory club hire",
+      "Trolley hire",
+      "Starter's hut and small shop"
+    ]
+  },
+  {
+    "slug": "royal-musselburgh",
+    "name": "Royal Musselburgh Golf Club",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Parkland",
+    "par": 70,
+    "length": "6,250 yds",
+    "slope": "124",
+    "designer": "James Braid",
+    "opened": "1774",
+    "lat": 55.951891,
+    "lon": -2.99695,
+    "image": "/assets/images/courses/royal-musselburgh.webp",
+    "images": [
+      "/assets/images/courses/royal-musselburgh.webp"
+    ],
+    "summary": "The fifth-oldest club in the world, playing a James Braid parkland course around a 17th-century mansion at Prestonpans.",
+    "about": "Royal Musselburgh Golf Club was founded in 1774 and moved in 1926 to Prestongrange House, a Scottish baronial mansion that is now the clubhouse. James Braid laid out the parkland course in its grounds: mature trees, well-bunkered greens and a gentler test than the links along the coast, with the Forth in view from the higher holes. A useful first or last round of a trip, fifteen minutes from Edinburgh airport.",
+    "signature": "9th, back to the mansion",
+    "facilities": [
+      "Practice area and putting green",
+      "Trolley and club hire",
+      "Pro shop",
+      "Clubhouse with bar and dining",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "royal-burgess",
+    "name": "Royal Burgess Golfing Society",
+    "country": "scotland",
+    "region": "east-lothian",
+    "style": "Parkland",
+    "par": 71,
+    "length": "6,511 yds",
+    "slope": "126",
+    "designer": "Old Tom Morris, James Braid",
+    "opened": "1735",
+    "lat": 55.961813,
+    "lon": -3.305888,
+    "image": "/assets/images/courses/royal-burgess.webp",
+    "images": [
+      "/assets/images/courses/royal-burgess.webp"
+    ],
+    "summary": "The oldest golfing society in the world, founded in 1735, on a mature parkland course in the Edinburgh suburbs ten minutes from the airport.",
+    "about": "The Royal Burgess Golfing Society of Edinburgh claims a founding date of 1735 and has played at Barnton since 1895 on a course laid out by Old Tom Morris and later revised by James Braid. It is a classic tree-lined parkland with fast greens, immaculate conditioning and a clubhouse full of history. Being inside the city, it is the easiest great course to play on an arrival or departure day in Edinburgh.",
+    "signature": "18th, par 4 to the clubhouse",
+    "facilities": [
+      "Practice area and putting green",
+      "Trolley and club hire",
+      "Pro shop",
+      "Clubhouse with bar and dining",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "royal-troon",
+    "name": "Royal Troon Golf Club, Old Course",
+    "country": "scotland",
+    "region": "west-coast-ayrshire",
+    "style": "Links",
+    "par": 71,
+    "length": "7,385 yds",
+    "slope": "137",
+    "designer": "Willie Fernie, James Braid",
+    "opened": "1878",
+    "lat": 55.5327698,
+    "lon": -4.6503557,
+    "image": "/assets/images/courses/royal-troon.webp",
+    "images": [
+      "/assets/images/courses/royal-troon.webp"
+    ],
+    "summary": "Ten-time Open host on the Ayrshire coast, home of the Postage Stamp, the most famous short par 3 in golf.",
+    "about": "Royal Troon hosted the Open for the tenth time in 2024. The course runs out along the beach with the Isle of Arran and Ailsa Craig across the water, turns at the famous Postage Stamp, a 123-yard par 3 to a tiny green ringed by bunkers, and comes home into the prevailing wind through the dunes. Visitors are welcome on Mondays, Tuesdays and Thursdays, and the day includes the Portland Course. Fifteen minutes from Prestwick airport.",
+    "signature": "8th, the Postage Stamp",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "turnberry-ailsa",
+    "name": "Trump Turnberry, Ailsa Course",
+    "country": "scotland",
+    "region": "west-coast-ayrshire",
+    "style": "Links",
+    "par": 71,
+    "length": "7,489 yds",
+    "slope": "139",
+    "designer": "Mackenzie Ross, Martin Ebert",
+    "opened": "1901",
+    "lat": 55.3152984,
+    "lon": -4.8327826,
+    "image": "/assets/images/courses/turnberry-ailsa.webp",
+    "images": [
+      "/assets/images/courses/turnberry-ailsa.webp"
+    ],
+    "summary": "The most beautiful links in Scotland, with the lighthouse, Ailsa Craig and the Duel in the Sun holes along the shore.",
+    "about": "The Ailsa Course has hosted four Opens, including the 1977 Duel in the Sun between Watson and Nicklaus, and was rebuilt by Martin Ebert in 2016 into what many consider the best course in Britain. Holes 4 to 11 run along the clifftop beside the lighthouse with Ailsa Craig offshore, and the par-3 9th now plays across the rocks. The resort hotel on the hill above is the luxury option for the Ayrshire coast, with the King Robert the Bruce course as the second round.",
+    "signature": "9th, par 3 by the lighthouse",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "prestwick",
+    "name": "Prestwick Golf Club",
+    "country": "scotland",
+    "region": "west-coast-ayrshire",
+    "style": "Links",
+    "par": 71,
+    "length": "6,908 yds",
+    "slope": "131",
+    "designer": "Old Tom Morris",
+    "opened": "1851",
+    "lat": 55.501407,
+    "lon": -4.615232,
+    "image": "/assets/images/courses/prestwick.webp",
+    "images": [
+      "/assets/images/courses/prestwick.webp"
+    ],
+    "summary": "Birthplace of the Open Championship in 1860, a wonderfully eccentric links with blind shots, a railway and the Cardinal bunker.",
+    "about": "Prestwick was laid out by Old Tom Morris in 1851, hosted the first Open in 1860 and staged it 24 times in all. The course is a museum of early golf design: the blind par-3 5th over the Himalayas dunes, the vast sleepered Cardinal bunker on the 3rd, the railway wall along the 1st and greens hidden in hollows. It is next door to Prestwick airport and the clubhouse lunch, in jacket and tie, is one of the great golf club traditions.",
+    "signature": "5th, Himalayas",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "western-gailes",
+    "name": "Western Gailes Golf Club",
+    "country": "scotland",
+    "region": "west-coast-ayrshire",
+    "style": "Links",
+    "par": 71,
+    "length": "6,640 yds",
+    "slope": "133",
+    "designer": "Willie Park Jr, Fred Hawtree",
+    "opened": "1897",
+    "lat": 55.58379,
+    "lon": -4.662366,
+    "image": "/assets/images/courses/western-gailes.webp",
+    "images": [
+      "/assets/images/courses/western-gailes.webp"
+    ],
+    "summary": "A natural links squeezed between the railway and the sea, with the Arran hills across the Firth and a reputation for fast, true greens.",
+    "about": "Western Gailes runs on a narrow strip of duneland between the Glasgow to Ayr railway and the shore, so the holes are shaped entirely by the land. It has been used for Open qualifying and the Scottish Amateur for decades, the greens are among the best on the coast, and the clubhouse sits in the middle of the course so both nines start and finish there. A members' club that welcomes visitors on most days, ten minutes from Troon.",
+    "signature": "7th, par 3 among the dunes",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "dundonald-links",
+    "name": "Dundonald Links",
+    "country": "scotland",
+    "region": "west-coast-ayrshire",
+    "style": "Links",
+    "par": 72,
+    "length": "7,100 yds",
+    "slope": "134",
+    "designer": "Kyle Phillips",
+    "opened": "2003",
+    "lat": 55.58395,
+    "lon": -4.6517624,
+    "image": "/assets/images/courses/dundonald-links.webp",
+    "images": [
+      "/assets/images/courses/dundonald-links.webp"
+    ],
+    "summary": "A modern links by the designer of Kingsbarns, host of the Scottish Open and the Women's Scottish Open, with lodges and a new clubhouse on site.",
+    "about": "Dundonald Links opened in 2003 and was redeveloped in 2021 with a new clubhouse, restaurant and 20 lodges beside the course, making it the most complete stay-and-play option on the Ayrshire coast. Kyle Phillips designed a links with wide fairways, burns and deep bunkers that has hosted the Scottish Open and several Women's Scottish Opens. Ten minutes from Prestwick airport and the same distance from Troon.",
+    "signature": "16th, par 5 over the burn",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "loch-lomond",
+    "name": "Loch Lomond Golf Club",
+    "country": "scotland",
+    "region": "west-coast-ayrshire",
+    "style": "Parkland",
+    "par": 71,
+    "length": "7,100 yds",
+    "slope": "138",
+    "designer": "Tom Weiskopf, Jay Morrish",
+    "opened": "1993",
+    "lat": 56.061399,
+    "lon": -4.642239,
+    "image": "/assets/images/courses/loch-lomond.webp",
+    "images": [
+      "/assets/images/courses/loch-lomond.webp"
+    ],
+    "summary": "A private parkland masterpiece on the bonnie banks, host of the Scottish Open for fifteen years, with the Ben Lomond backdrop.",
+    "about": "Loch Lomond is one of the most exclusive clubs in Europe, laid out by Tom Weiskopf and Jay Morrish along the shore of the loch inside the Rossdhu estate. The holes run through ancient woodland and marsh with the water in view and the mountains behind, and the course hosted the Scottish Open from 1996 to 2010. It is strictly private, so access is only possible through a member or an arrangement we make for the group. Forty minutes from Glasgow airport.",
+    "signature": "18th, par 4 along the loch",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "royal-dornoch",
+    "name": "Royal Dornoch Golf Club, Championship Course",
+    "country": "scotland",
+    "region": "highlands-aberdeenshire",
+    "style": "Links",
+    "par": 70,
+    "length": "6,748 yds",
+    "slope": "135",
+    "designer": "Old Tom Morris, John Sutherland, Donald Ross",
+    "opened": "1877",
+    "lat": 57.879296,
+    "lon": -4.02388599999995,
+    "image": "/assets/images/courses/royal-dornoch.webp",
+    "images": [
+      "/assets/images/courses/royal-dornoch.webp"
+    ],
+    "summary": "Far north in the Highlands and worth every mile. Natural links, plateau greens and gorse in flower in May.",
+    "about": "Royal Dornoch is consistently ranked among the top ten courses in the world and is the home course of Donald Ross, who took its plateau greens and natural bunkering to America. The holes run out along the high ground above Dornoch beach and return at sea level, the gorse turns the course yellow in late spring, and in June it is light enough to play until eleven at night. The town is an hour north of Inverness airport and the Struie course makes a good second round.",
+    "signature": "14th, Foxy",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "tain",
+    "name": "Tain Golf Club",
+    "country": "scotland",
+    "region": "highlands-aberdeenshire",
+    "style": "Links",
+    "par": 70,
+    "length": "6,404 yds",
+    "slope": "124",
+    "designer": "Old Tom Morris",
+    "opened": "1890",
+    "lat": 57.81627,
+    "lon": -4.026248,
+    "image": "/assets/images/courses/tain.webp",
+    "images": [
+      "/assets/images/courses/tain.webp"
+    ],
+    "summary": "Old Tom Morris's Highland links on the Dornoch Firth, a classic hidden gem fifteen minutes from Royal Dornoch and a fraction of the price.",
+    "about": "Tain is the oldest course in the Highlands, laid out by Old Tom Morris in 1890 on the links beside the Dornoch Firth and the Glenmorangie distillery. The Tain river winds through the back nine, the fairways are natural and uneven and the greens small, and it is always in good order and quiet. Most groups playing Dornoch add it as the second round of the day, often with a distillery visit on the way back.",
+    "signature": "11th, Alps, the blind par 4",
+    "facilities": [
+      "Practice area and putting green",
+      "Trolley and club hire",
+      "Pro shop",
+      "Clubhouse with bar and dining",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "castle-stuart",
+    "name": "Cabot Highlands, Castle Stuart Course",
+    "country": "scotland",
+    "region": "highlands-aberdeenshire",
+    "style": "Links",
+    "par": 72,
+    "length": "7,009 yds",
+    "slope": "134",
+    "designer": "Gil Hanse, Mark Parsinen",
+    "opened": "2009",
+    "lat": 57.527874,
+    "lon": -4.1057556,
+    "image": "/assets/images/courses/castle-stuart.webp",
+    "images": [
+      "/assets/images/courses/castle-stuart.webp"
+    ],
+    "summary": "Scottish Open venue above the Moray Firth near Inverness, wide fairways and views to the Black Isle and Kessock Bridge.",
+    "about": "Castle Stuart opened in 2009 on two levels of land above the Moray Firth, ten minutes from Inverness airport, and hosted the Scottish Open four times. Gil Hanse and Mark Parsinen built a playable, panoramic links with wide fairways, open green entrances and the firth in view on every hole, and the art deco clubhouse on the hill is a landmark. Now part of Cabot Highlands, with lodges and a second course, Old Petty, on the estate.",
+    "signature": "3rd, par 3 on the shore",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "old-petty",
+    "name": "Cabot Highlands, Old Petty Course",
+    "country": "scotland",
+    "region": "highlands-aberdeenshire",
+    "style": "Links",
+    "par": 72,
+    "length": "7,100 yds",
+    "slope": "",
+    "designer": "Tom Doak",
+    "opened": "2025",
+    "lat": 57.5326195,
+    "lon": -4.0948673,
+    "image": "/assets/images/courses/old-petty.webp",
+    "images": [
+      "/assets/images/courses/old-petty.webp"
+    ],
+    "summary": "Tom Doak's new course at Cabot Highlands, opened in 2025 on the land beside Castle Stuart, instantly one of the most talked-about layouts in Scotland.",
+    "about": "Old Petty is the second course at Cabot Highlands, designed by Tom Doak and opened for play in 2025. It takes the inland ground east of Castle Stuart and the shoreline beyond, with wide corridors, natural contours and a loop that returns to the shared clubhouse. Together with Castle Stuart it makes Inverness a genuine two-course destination, and with Dornoch and Nairn within an hour the Highlands trip now rivals Fife for quality. Early tee sheets fill fast.",
+    "signature": "To be decided by the first visitors",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "royal-aberdeen",
+    "name": "Royal Aberdeen Golf Club, Balgownie Links",
+    "country": "scotland",
+    "region": "highlands-aberdeenshire",
+    "style": "Links",
+    "par": 71,
+    "length": "6,900 yds",
+    "slope": "134",
+    "designer": "Archie & Robert Simpson, James Braid",
+    "opened": "1780",
+    "lat": 57.178566,
+    "lon": -2.086688,
+    "image": "/assets/images/courses/royal-aberdeen.webp",
+    "images": [
+      "/assets/images/courses/royal-aberdeen.webp"
+    ],
+    "summary": "The sixth-oldest club in the world, with a front nine through towering dunes that is as good as any stretch of links golf in Scotland.",
+    "about": "Royal Aberdeen was founded in 1780 and the Balgownie Links hosted the 2014 Scottish Open. The front nine runs north along the shore through enormous dunes with the sea on the right and is widely regarded as one of the finest outward halves anywhere; the back nine returns on higher, more open ground. The club is said to have invented the five-minute rule for lost balls. Fifteen minutes from Aberdeen airport, and Trump International and Cruden Bay are up the coast.",
+    "signature": "8th, par 3 ringed by bunkers",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
+  },
+  {
+    "slug": "trump-aberdeen",
+    "name": "Trump International Golf Links Scotland",
+    "country": "scotland",
+    "region": "highlands-aberdeenshire",
+    "style": "Links",
+    "par": 72,
+    "length": "7,428 yds",
+    "slope": "139",
+    "designer": "Martin Hawtree",
+    "opened": "2012",
+    "lat": 57.2773453,
+    "lon": -2.021139,
+    "image": "/assets/images/courses/trump-aberdeen.webp",
+    "images": [
+      "/assets/images/courses/trump-aberdeen.webp"
+    ],
+    "summary": "A modern links through the biggest dunes in Britain on the Aberdeenshire coast, with a second course, the MacLeod, added in 2025.",
+    "about": "Trump International opened in 2012 at Balmedie, north of Aberdeen, through a dune system that reaches 30 metres high. Martin Hawtree routed the holes through the valleys and onto the ridges, so the scale is unlike anything else in Scotland and the views along the beach stretch for miles. The MacLeod Course, the second eighteen, opened in 2025, and MacLeod House, a baronial mansion, offers boutique accommodation on the estate. Twenty minutes from Aberdeen airport.",
+    "signature": "14th, par 4 from the dune top",
+    "facilities": [
+      "Driving range and short-game area",
+      "Buggies, trolleys and club hire",
+      "Caddies on request",
+      "Pro shop and golf academy",
+      "Hotel, restaurants and spa on site",
+      "Locker rooms"
+    ]
+  },
+  {
+    "slug": "cruden-bay",
+    "name": "Cruden Bay Golf Club",
+    "country": "scotland",
+    "region": "highlands-aberdeenshire",
+    "style": "Links",
+    "par": 70,
+    "length": "6,609 yds",
+    "slope": "130",
+    "designer": "Old Tom Morris, Tom Simpson",
+    "opened": "1899",
+    "lat": 57.4133409,
+    "lon": -1.8637088,
+    "image": "/assets/images/courses/cruden-bay.webp",
+    "images": [
+      "/assets/images/courses/cruden-bay.webp"
+    ],
+    "summary": "One of the great natural links of the world, tumbling through huge dunes above the bay with Slains Castle, the inspiration for Dracula, on the cliff beyond.",
+    "about": "Cruden Bay was laid out by Old Tom Morris in 1899 and reworked by Tom Simpson in 1926 into a course that regularly makes the world top 100 and is loved for its sheer fun: blind shots, a punchbowl green, a dell hole, a bathtub-shaped green and holes that drop from the dune tops to the beach. The clubhouse looks over the whole links and the bay. Forty minutes north of Aberdeen and the perfect pairing with Royal Aberdeen or Trump International.",
+    "signature": "15th, Blin' Dunt, the blind par 3",
+    "facilities": [
+      "Practice ground and putting green",
+      "Trolley and club hire",
+      "Caddies on request",
+      "Pro shop",
+      "Clubhouse with bar and restaurant",
+      "Locker rooms and showers"
+    ]
   }
 ]

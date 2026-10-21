@@ -54,12 +54,12 @@ Overlay files are keyed by the English `slug`. They hold only the translatable f
 
 **Forms**: all forms post to the Formspree endpoint in `site.json` with hidden `_site`, `_subject`, `language`, `package` / `event` fields. The custom form pre-fills from URL params (`?destination=spain&region=sotogrande&course=la-canada`), which is how every "ask about this" button works.
 
-## 4. What exists today (21 Oct 2026)
+## 4. What exists today (22 Oct 2026)
 
 - 6 countries (Scotland, Ireland, Spain live; England, Morocco, UAE as "coming soon" hubs that push to the custom form)
-- 5 regions (St Andrews & Fife, Dublin & Wicklow, Sotogrande & San Roque live; East Lothian and West Coast coming soon)
+- 6 regions: St Andrews, Fife & Angus (incl. Carnoustie, Montrose, Gleneagles), Edinburgh & East Lothian, West Coast & Ayrshire, Highlands & Aberdeenshire, Dublin & Wicklow, Sotogrande & San Roque. The three Scottish regions without packages still show the coming-soon package box.
 - 9 packages: Sotogrande Signature (€800, real), St Andrews Signature (€1,500, real), Dublin Signature (€1,780, real) plus 6 extras built from the other hotels on the old site with **placeholder prices**: Sotogrande Value (Encinar), Sotogrande Luxury (SO/), St Andrews Fairmont, St Andrews Town (Greyfriars), Woodstock House Exclusive, Portmarnock Links & City
-- 11 courses, 9 hotels, 5 tournaments, Top 10 Scotland, custom form, how it works, transfers, FAQs, about, contact, privacy/terms placeholders
+- 44 courses (36 in Scotland: the 33 from Max's Google My Map 'Scotland Essential Courses' plus the St Andrews Links courses), each with a page in three languages, coordinates and a Leaflet/OpenStreetMap map on the country and region pages; 9 hotels, 5 tournaments, Top 10 Scotland, custom form, how it works, transfers, FAQs, about, contact, privacy/terms placeholders
 - 180 pages, sitemap with hreflang, `robots.txt`
 
 ## 5. Open items / to confirm with Max
@@ -69,7 +69,7 @@ Overlay files are keyed by the English `slug`. They hold only the translatable f
 3. Email: header uses info@onegolftravel.com; the old site footer used info@onegolftravel.eu. Confirm one.
 4. Top 10 Scotland list and order.
 5. Remaining packages: 12 more Scotland, 7 Ireland, 5 England, 17 Spain, 5 Morocco, 5 UAE per the brief. Need hotel, courses, price, rounds, nights per package; copy can be written from that.
-6. Course pages for the full lists (Scotland 50 etc.) are deferred by Max.
+6. Course pages: Scotland done from Max's map (36). England/Spain/Ireland/Morocco lists still to come from Max. Course photos: see IMAGE-CREDITS.md, rights to confirm per club before launch.
 7. Legal pages (privacy, terms) are placeholders.
 8. GA4 and Search Console IDs in `site.json`.
 9. Images are pulled from the old Squarespace site (see IMAGE-GUIDE in section 6); some are screenshots and a few are generic. Replace with Max's originals when available. Hotel/course names are used as on the old site; same caveat as Racket Breaks about naming properties before partnerships are signed.

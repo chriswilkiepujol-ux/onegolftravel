@@ -247,7 +247,12 @@
     "flyInto": "Flughäfen",
     "targetNote": "{n} Reisen geplant",
     "allRegions": "Alle Regionen",
-    "filterAll": "Alle"
+    "filterAll": "Alle",
+    "mapEyebrow": "Auf der Karte",
+    "mapTitle": "Wo die Plätze liegen.",
+    "mapSub": "Jede Markierung ist ein Platz, den wir buchen. Anklicken für die Platzseite.",
+    "mapNoscript": "Aktivieren Sie JavaScript, um die Platzkarte zu sehen.",
+    "jumpMap": "Karte"
   },
   "packages": {
     "title": "Golfreisen",

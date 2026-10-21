@@ -247,7 +247,12 @@
     "flyInto": "Aeropuertos",
     "targetNote": "{n} paquetes previstos",
     "allRegions": "Todas las regiones",
-    "filterAll": "Todos"
+    "filterAll": "Todos",
+    "mapEyebrow": "En el mapa",
+    "mapTitle": "Dónde están los campos.",
+    "mapSub": "Cada marcador es un campo que reservamos. Pulsa uno para ver su página.",
+    "mapNoscript": "Activa JavaScript para ver el mapa de campos.",
+    "jumpMap": "Mapa"
   },
   "packages": {
     "title": "Paquetes de golf",

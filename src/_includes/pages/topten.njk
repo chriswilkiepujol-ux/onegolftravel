@@ -10,8 +10,8 @@
 <section class="sec">
   <div class="wrap">
     <ol class="top-ten reveal">
-      {% for c in D.topten %}{% set r = D.regions | findRegion(c.region) %}
-      <li><span class="top-ten-rank">{{ c.rank }}</span><div><h3>{{ c.name }}</h3><div class="eyebrow">{% if r %}<a href="{{ r.url }}">{{ r.name }}</a>{% endif %}</div><p>{{ c.blurb }}</p></div></li>
+      {% for c in D.topten %}{% set r = D.regions | findRegion(c.region) %}{% set cp = D.courses | findCourse(c.id) %}
+      <li><span class="top-ten-rank">{{ c.rank }}</span><div><h3>{% if cp %}<a href="{{ cp.url }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %}</h3><div class="eyebrow">{% if r %}<a href="{{ r.url }}">{{ r.name }}</a>{% endif %}</div><p>{{ c.blurb }}</p>{% if cp %}<a href="{{ cp.url }}" class="link-accent">{{ T.common.viewCourse }}</a>{% endif %}</div></li>
       {% endfor %}
     </ol>
   </div>

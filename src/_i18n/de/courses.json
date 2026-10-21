@@ -3,66 +3,559 @@
     "summary": "Gereifter Parklandplatz zwischen Korkeichen mit Blick aufs Mittelmeer, bekannt für schnelle Grüns und das beste Preis-Leistungs-Verhältnis in Sotogrande.",
     "about": "La Cañada wurde von Dave Thomas entworfen, die zweiten Neun stammen von Robert Trent Jones Sr., und der Platz windet sich über dem Guadiaro-Tal durch alten Baumbestand mit Blick aufs Meer. Es ist der Heimatclub von Sotogrande, mit starker Jugendarbeit und einem der freundlichsten Clubhäuser der Gegend, bekannt für schnelle, ehrliche Grüns und faire Greenfees. Eine gute Auftaktrunde für eine Woche in der Region.",
     "signature": "",
-    "facilities": ["Driving Range mit Rasenabschlägen", "Putting- und Chipping-Grün", "Trolley- und Cartverleih", "Leihschläger", "Pro Shop", "Clubhaus mit Restaurant, Café, Bar und Terrasse", "Spinde und Duschen"]
+    "facilities": [
+      "Driving Range mit Rasenabschlägen",
+      "Putting- und Chipping-Grün",
+      "Trolley- und Cartverleih",
+      "Leihschläger",
+      "Pro Shop",
+      "Clubhaus mit Restaurant, Café, Bar und Terrasse",
+      "Spinde und Duschen"
+    ]
   },
   "hacienda-links": {
     "summary": "Ein Küstenlinks in Alcaidesa mit Löchern an der Klippenkante, breiten Fairways und großen Grüns, Gibraltar füllt auf den zweiten Neun das Panorama.",
     "about": "2021 von Kurtis Bowman neu gedacht, ist La Hacienda Links das, was in Südspanien echtem Linksgolf am nächsten kommt. Der Platz verläuft über den Klippen oberhalb des Strands von Alcaidesa bei San Roque, mit breiten Fairways, großen Grüns und Meerblick an fast jedem Loch, und der Felsen von Gibraltar steht die ganze Runde am Horizont. Der Umbau brachte mehr Länge, bessere Drainage und eine deutlich verbesserte Übungsanlage. Zehn Minuten vom Flughafen Gibraltar.",
     "signature": "",
-    "facilities": ["Driving Range mit über 70 überdachten und Rasenabschlägen", "Putting-Grüns und Kurzspielbereich mit Bunkern", "GPS-Carts", "Leihschläger", "Pro Shop", "Clubhaus und Umkleiden"]
+    "facilities": [
+      "Driving Range mit über 70 überdachten und Rasenabschlägen",
+      "Putting-Grüns und Kurzspielbereich mit Bunkern",
+      "GPS-Carts",
+      "Leihschläger",
+      "Pro Shop",
+      "Clubhaus und Umkleiden"
+    ]
   },
   "hacienda-heathland": {
     "summary": "Der Schwesterplatz des Links in La Hacienda im Landesinneren, ein Heathland-Layout durch Pinien und Korkeichen mit großzügigen Fairways und demselben Meerblick.",
     "about": "Der Heathland-Platz von La Hacienda liegt am Hang oberhalb des Links und stellt eine andere Aufgabe: baumgesäumte Löcher, Höhenunterschiede und große, gut verteidigte Grüns, mit demselben Panorama über die Straße von Gibraltar bis nach Afrika. Zusammen mit dem Links ergibt er einen hervorragenden 36-Loch-Tag, und er ist meist der ruhigere der beiden.",
     "signature": "",
-    "facilities": ["Übungsanlage gemeinsam mit dem Links", "Carts und Trolleys", "Leihschläger", "Pro Shop", "Clubhaus und Restaurant"]
+    "facilities": [
+      "Übungsanlage gemeinsam mit dem Links",
+      "Carts und Trolleys",
+      "Leihschläger",
+      "Pro Shop",
+      "Clubhaus und Restaurant"
+    ]
   },
   "the-alto": {
     "summary": "27 Löcher in den Hügeln von Sotogrande zwischen Seen, Pinien und Korkeichen, Teil des Fünf-Sterne-Resorts SO/ Sotogrande.",
     "about": "The Alto, früher Almenara, wurde von Dave Thomas entworfen und 1998 eröffnet, 2021 dann von Ryder-Cup-Spieler Manuel Piñero als Teil des Resorts SO/ Sotogrande umgebaut. Drei Neun-Loch-Schleifen, Lagos, Pinos und Alcornoques, ergeben einen 18-Loch-Platz voller Abwechslung, mit Wasser auf der Lagos-Schleife und engen, baumgesäumten Fairways auf den anderen. 2025 wurde eine Golfakademie eröffnet. Sieben weitere Spitzenplätze liegen keine zehn Minuten entfernt, darunter Real Sotogrande, Valderrama, San Roque und La Hacienda.",
     "signature": "",
-    "facilities": ["Driving Range mit 27 Abschlägen", "Kurzspielbereiche", "Trolleys und Carts", "Leihschläger", "Pro Shop", "Golfakademie (seit 2025)", "Clubhaus, Restaurants und Spa des SO/ Sotogrande"]
+    "facilities": [
+      "Driving Range mit 27 Abschlägen",
+      "Kurzspielbereiche",
+      "Trolleys und Carts",
+      "Leihschläger",
+      "Pro Shop",
+      "Golfakademie (seit 2025)",
+      "Clubhaus, Restaurants und Spa des SO/ Sotogrande"
+    ]
   },
   "castle-course": {
     "summary": "Der jüngste Platz der St Andrews Links, ein Klippenlayout mit Nordseeblick an jedem Loch und einem Par 3 an der 17, das über den Abgrund gespielt wird.",
     "about": "Der Castle Course wurde 2008 auf den Klippen drei Kilometer südlich von St Andrews eröffnet und ist der siebte Platz der Links-Familie. David McLay Kidd schuf ein dramatisches Layout mit riesigen, welligen Grüns, Blick zurück auf Stadt und Bucht und einer Schlussstrecke entlang der Klippe, darunter die berühmte 17, ein Par 3 über eine Schlucht auf ein Grün am Abgrund.",
     "signature": "17, Par 3 über die Klippenkante",
-    "facilities": ["Kurzspielbereich", "Clubhaus mit Restaurant und Meerblick", "Cartverleih", "Trolley- und Schlägerverleih", "Pro Shop", "Unterricht und Caddies"]
+    "facilities": [
+      "Kurzspielbereich",
+      "Clubhaus mit Restaurant und Meerblick",
+      "Cartverleih",
+      "Trolley- und Schlägerverleih",
+      "Pro Shop",
+      "Unterricht und Caddies"
+    ]
   },
   "eden-course": {
     "summary": "Harry Colts Links von 1914 am Eden-Ästuar, der verzeihendste der St-Andrews-Plätze und ein Favorit für den ersten Tag.",
     "about": "Der Eden verläuft am Ästuar nördlich des Old Course und zeigt überall Harry Colts Handschrift: breite Fairways, subtile Neigungen und gut gebunkerte Grüns, die gute Positionierung mehr belohnen als rohe Länge. Er ist der verzeihendste Platz der St Andrews Links und damit der ideale Auftakt für eine Gruppe mit gemischten Handicaps. Links Academy und Übungszentrum liegen direkt nebenan.",
     "signature": "14, ein kurzes Par 4",
-    "facilities": ["Übungs-Putting-Grün", "Zugang zur St Andrews Links Academy", "Trolley- und Schlägerverleih", "Spinde", "Café"]
+    "facilities": [
+      "Übungs-Putting-Grün",
+      "Zugang zur St Andrews Links Academy",
+      "Trolley- und Schlägerverleih",
+      "Spinde",
+      "Café"
+    ]
   },
   "jubilee-course": {
     "summary": "Die härteste Prüfung in St Andrews, entlang der Dünen am Meer zwischen Old Course und West Sands.",
     "about": "1897 zum diamantenen Thronjubiläum von Königin Victoria eröffnet und ursprünglich für Anfänger und Damen gedacht, wurde der Jubilee von Donald Steel zu dem umgebaut, was allgemein als anspruchsvollster Platz von St Andrews gilt. Er liegt auf der Meerseite der Links, mit exponierten, welligen Fairways und einer langen Heimstrecke gegen den Wind. Bringen Sie alle Schläge mit.",
     "signature": "15, ein enges Par 4 am Meer",
-    "facilities": ["Komplette Links-Übungsanlagen", "Trolley- und Schlägerverleih", "Spinde", "Café und Bar in der Nähe"]
+    "facilities": [
+      "Komplette Links-Übungsanlagen",
+      "Trolley- und Schlägerverleih",
+      "Spinde",
+      "Café und Bar in der Nähe"
+    ]
   },
   "druids-glen": {
     "summary": "Viermaliger Austragungsort der Irish Open in den Hügeln von Wicklow, wegen seiner Blumen, seines Wassers und seiner makellosen Pflege oft das Augusta Europas genannt.",
     "about": "Druids Glen richtete von 1996 bis 1999 die Irish Open aus und ist bis heute einer der bestgepflegten Parklandplätze Irlands. Pat Ruddy und Tom Craddock legten ihn durch ein bewaldetes Tal mit Bächen, Seen und einem berühmten Par 3 mit Inselgrün, und die Bepflanzung rund um die 12 und 13 trägt ihm den Augusta-Vergleich ein. Das Resorthotel liegt auf dem Gelände, Fahrten an Golftagen entfallen.",
     "signature": "13, Par 3 auf ein Inselgrün",
-    "facilities": ["Überdachte Driving Range", "Kurzspielbereich", "Putting-Grün", "Cart- und Elektrotrolley-Verleih", "Premium-Leihschläger", "Clubhaus im Woodstock House aus dem 18. Jahrhundert"]
+    "facilities": [
+      "Überdachte Driving Range",
+      "Kurzspielbereich",
+      "Putting-Grün",
+      "Cart- und Elektrotrolley-Verleih",
+      "Premium-Leihschläger",
+      "Clubhaus im Woodstock House aus dem 18. Jahrhundert"
+    ]
   },
   "druids-heath": {
     "summary": "Die wildere Schwester von Druids Glen, ein Heathland-Layout durch Steinbrüche und Ginster mit Meerblick und dem Ruf, hart zu sein.",
     "about": "Pat Ruddy kehrte 2003 nach Druids Glen zurück, um gleich nebenan einen ganz anderen Platz zu bauen. Druids Heath ist lang und exponiert, Ginster, Fels und natürliche Steinbrüche rahmen die Löcher, und von den Anhöhen sieht man die Irische See. Austragungsort der Irish PGA Championship, verlangt vor allem gerade Abschläge. Die 12 ist das Signature Hole.",
     "signature": "12",
-    "facilities": ["Driving Range", "Drei-Loch-Kurzplatz", "Pro Shop", "Clubhaus mit Bar und Küche", "Umkleiden"]
+    "facilities": [
+      "Driving Range",
+      "Drei-Loch-Kurzplatz",
+      "Pro Shop",
+      "Clubhaus mit Bar und Küche",
+      "Umkleiden"
+    ]
   },
   "k-club-palmer-north": {
     "summary": "Austragungsort des Ryder Cup 2006 und der Irish Open 2016 und 2023, Arnold Palmers Parklandplatz am River Liffey in der Grafschaft Kildare.",
     "about": "Der Palmer North Course des K Club ist der berühmteste Parklandplatz Irlands. Arnold Palmer legte ihn 1991 am River Liffey an, Europa gewann hier 2006 den Ryder Cup, und die Irish Open kehrte 2016 und 2023 zurück. Wasser spielt an der Hälfte der Löcher mit, darunter das Par 3 an der 8, das den Fluss neben einer 175 Jahre alten Fußgängerbrücke quert. Der 2003 eröffnete Palmer South ist der zweite Platz des Anwesens.",
     "signature": "8, Par 3 über den Liffey",
-    "facilities": ["Driving Range und Übungsakademie", "Carts, Trolleys und Caddies", "Leihschläger", "Pro Shop", "Clubhaus-Restaurant und Bar", "Hotel und Spa des K Club auf dem Gelände"]
+    "facilities": [
+      "Driving Range und Übungsakademie",
+      "Carts, Trolleys und Caddies",
+      "Leihschläger",
+      "Pro Shop",
+      "Clubhaus-Restaurant und Bar",
+      "Hotel und Spa des K Club auf dem Gelände"
+    ]
   },
   "portmarnock-links": {
     "summary": "Ein echter Links auf der Halbinsel Portmarnock, fünfzehn Minuten vom Flughafen Dublin, entworfen von Bernhard Langer, mit dem Hotel direkt am Platz.",
     "about": "Bernhard Langers Links in Portmarnock verläuft durch die Dünen am Velvet Strand, direkt neben dem berühmten Portmarnock Golf Club. Ein echter Links mit festen Fairways, Seebrise und tiefen, verschalten Bunkern, und weil das Hotel neben dem ersten Abschlag steht, ist er einer der am einfachsten zu bereisenden großen Plätze Irlands. Der Flughafen Dublin liegt fünfzehn Minuten entfernt.",
     "signature": "",
-    "facilities": ["Driving Range", "Putting-Grün", "Carts und Trolleys", "Leihschläger", "Pro Shop", "Hotel, Spa und Restaurants auf dem Gelände"]
+    "facilities": [
+      "Driving Range",
+      "Putting-Grün",
+      "Carts und Trolleys",
+      "Leihschläger",
+      "Pro Shop",
+      "Hotel, Spa und Restaurants auf dem Gelände"
+    ]
+  },
+  "old-course": {
+    "summary": "Das Original. Sieben Doppelgrüns, das Road Hole, der Hell Bunker und die Swilcan Bridge auf einem Links, der seit über 450 Jahren bespielt wird.",
+    "about": "Es gibt im Golf keinen ersten Abschlag wie den des Old Course. Der Platz führt am Ufer hinaus und zurück, mit sieben riesigen Doppelgrüns, die sich je zwei Löcher teilen, Bunkern mit Namen und Ruf und einer Schlussstrecke am Clubhaus des Royal and Ancient vorbei, die jeder Golfer aus dem Fernsehen kennt. Das Land ist öffentlich, Startzeiten gibt es über die tägliche Verlosung oder Vorabanträge, und wir kümmern uns um beides. Sonntags ist der Old Course geschlossen, dann spaziert die Stadt über die Fairways.",
+    "signature": "17, das Road Hole",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "new-course": {
+    "summary": "Old Tom Morris' Links von 1895 direkt neben dem Old Course, ein Favorit der Puristen, den viele Einheimische für die bessere Prüfung halten.",
+    "about": "Der New Course liegt zwischen Old Course und Jubilee und führt durch dieselben Dünen hinaus und zurück. Old Tom Morris legte ihn 1895 an, und seither hat sich kaum etwas verändert: enge, feste Fairways, tiefe Bunker und große Grüns, die den flachen Annäherungsschlag belohnen. Ohne den Andrang des Old Course ist es ein ruhigerer Tag auf demselben Rasen und eine starke zweite Runde in jeder St-Andrews-Woche.",
+    "signature": "9 und 10, das gemeinsame Grün",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "kingsbarns": {
+    "summary": "Moderner Links an der Küste südlich von St Andrews mit dem Meer an fast jedem Loch. 2000 eröffnet und schon ein Klassiker.",
+    "about": "Kyle Phillips baute Kingsbarns auf Ackerland über der Nordsee und formte es so überzeugend, dass die meisten Besucher es für jahrhundertealt halten. Der Platz fällt in drei Stufen zum Wasser ab, das Meer ist von jedem Loch aus zu sehen, und das Par 5 der 12 verläuft am Strand entlang. Gemeinsam mit dem Old Course und Carnoustie richtet er die Alfred Dunhill Links Championship aus. Fünfzehn Minuten von St Andrews.",
+    "signature": "12, Par 5 am Ufer",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "crail-balcomie": {
+    "summary": "Der siebtälteste Golfclub der Welt, ein kurzer, landschaftlich spektakulärer Links an der Spitze des East Neuk, wo jedes Loch das Meer sieht.",
+    "about": "Die Crail Golfing Society stammt von 1786, der Balcomie Links von 1895, angelegt von Old Tom Morris um eine felsige Landzunge mit der Isle of May draußen im Meer. Auf der Scorekarte kurz und freundlich, aber jedem Wind ausgesetzt, und die Par 3 am Wasser gehören zu den besten in Fife. Eine entspannte, charaktervolle Nachmittagsrunde nach einem Vormittag auf den St Andrews Links, mit den Fischerdörfern des East Neuk auf dem Rückweg.",
+    "signature": "14, Par 3 über das Ufer",
+    "facilities": [
+      "Übungsbereich und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden"
+    ]
+  },
+  "lundin-links": {
+    "summary": "Ein James-Braid-Links am Firth of Forth zwanzig Minuten von St Andrews, regelmäßig Open-Qualifikationsplatz, mit einer Bahnlinie mittendurch.",
+    "about": "Lundin ist ein klassischer Fife-Links, der als gemeinsamer Platz mit Leven begann, bevor James Braid ihn 1909 neu gestaltete. Die ersten Neun laufen an der Largo Bay entlang, die zweiten steigen landeinwärts mit Blick über den Forth, und die alte Bahnlinie, die den Platz teilt, ist an mehreren Löchern im Spiel. Viele Male Austragungsort der Open Final Qualifying und eine der preiswertesten Runden der Region.",
+    "signature": "14, Perfection, das lange Par 3",
+    "facilities": [
+      "Übungsbereich und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden"
+    ]
+  },
+  "dumbarnie-links": {
+    "summary": "Der jüngste Links in Fife, auf einem Privatgut über der Largo Bay gebaut, mit breiten Fairways, großen Aussichten und einem Empfang, der auf Gastgolfer ausgelegt ist.",
+    "about": "Dumbarnie eröffnete im Mai 2020 auf dem Gut Balcarres zwischen Lundin Links und Elie und richtete sofort die Women's Scottish Open aus. Clive Clark hat ihn ebenso für Spaß wie für Anspruch entworfen: großzügige Landezonen, sichtbare Bunker, der Forth fast überall im Blick und ein Clubhaus, das für Gäste statt für Mitglieder gedacht ist. Dreißig Minuten von St Andrews und die natürliche Ergänzung zu Kingsbarns.",
+    "signature": "17, Par 5 Richtung Meer",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "carnoustie": {
+    "summary": "Gegenüber von St Andrews auf der anderen Seite des Tay und der härteste Open-Platz überhaupt. Das Finale am Barry Burn hat Championships entschieden.",
+    "about": "Carnoustie hat die Open achtmal ausgerichtet, zuletzt 2018, und gilt als der härteste aller Rota-Plätze. Lang, flach und unerbittlich, mit dem Barry Burn, der sich über die letzten drei Löcher schlängelt, und dem Par 3 der 16 unter den schwersten in Großbritannien. Der Club ist öffentlich, daher viel leichter zu buchen, als sein Ruf vermuten lässt. Etwa eine Stunde von St Andrews über die Tay Bridge, kombiniert mit Montrose ein Tag in Angus.",
+    "signature": "18, Par 4 über den Barry Burn",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "montrose": {
+    "summary": "Der fünftälteste Platz der Welt, ein natürlicher Links an der Küste von Angus, auf dem seit 1562 Golf gespielt wird.",
+    "about": "Auf den Links von Montrose wird seit mindestens 1562 Golf gespielt, und der 1562 Course, früher der Medal, führt durch die Dünen nördlich der Stadt mit dem Meer neben den ersten Löchern. Willie Park Jr. und Harry Colt haben beide am Layout gearbeitet, und er war Austragungsort der Open Final Qualifying. Unprätentiöses, echtes Linksgolf zu einem Bruchteil der Championship-Preise, eine halbe Stunde nördlich von Carnoustie.",
+    "signature": "3, Par 3 am Ufer",
+    "facilities": [
+      "Übungsbereich und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden"
+    ]
+  },
+  "gleneagles-kings": {
+    "summary": "James Braids Inland-Meisterwerk in Perthshire, mit einem Hotel auf demselben Niveau. Der Ryder Cup 2014 wurde auf dem benachbarten PGA Centenary gespielt.",
+    "about": "Der King's Course eröffnete 1919 und ist James Braids bestes Werk im Landesinneren: Heide, Kiefern und Ginster über die sanften Hügel von Perthshire, jedes Loch mit Namen und die Grampians im Hintergrund. Gleneagles hat drei Plätze, ein Fünf-Sterne-Hotel, ein Spa und eine Schießschule und richtete den Ryder Cup 2014 und den Solheim Cup 2019 auf dem PGA Centenary aus. Eine Stunde von St Andrews oder Edinburgh und die naheliegende Luxusbasis für eine Reise durch Zentralschottland.",
+    "signature": "13, Braid's Brawest",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "muirfield": {
+    "summary": "Der Links der Honourable Company of Edinburgh Golfers in East Lothian: zwei Schleifen, jede Windrichtung und ein Gästetag, der eine ganze Reise wert ist.",
+    "about": "Muirfield ist die Heimat des ältesten Golfclubs der Welt, der 1744 gegründeten Honourable Company of Edinburgh Golfers, und hat sechzehn Opens ausgerichtet. Old Tom Morris legte ihn als zwei konzentrische Neun-Loch-Schleifen an, sodass der Wind an fast jedem Loch aus einer anderen Richtung kommt, Harry Colt verfeinerte ihn in den 1920er Jahren. Gäste spielen dienstags und donnerstags, das Mittagessen im Clubhaus gehört dazu. Viele Monate im Voraus buchen.",
+    "signature": "13, Par 3 auf ein erhöhtes Grün",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "north-berwick": {
+    "summary": "Eigenwillig, historisch und ein Riesenspaß, mit dem originalen Redan-Loch und dem Bass Rock draußen im Meer.",
+    "about": "Der West Links von North Berwick ist der zweitälteste Platz der Welt, der noch auf seinem ursprünglichen Gelände gespielt wird, und einer der meistkopierten: Die 15, Redan, ist die Vorlage für hunderte Par 3 weltweit. Steinmauern queren Fairways, der Strand ist im Spiel, und das Grün der 16 hat eine Senke in der Mitte. Mit Bass Rock und Forth als Kulisse ist es die vergnüglichste Runde in East Lothian, und die Hotels der Stadt liegen einen kurzen Spaziergang vom ersten Abschlag.",
+    "signature": "15, Redan",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "the-glen": {
+    "summary": "North Berwicks anderer Platz, ein Klippenlinks auf der Ostseite der Stadt mit der besten Aussicht in East Lothian und einem sehr fairen Preis.",
+    "about": "The Glen liegt auf der Landzunge östlich von North Berwick, mit dem Bass Rock direkt vor der Küste und Blick bis Dunbar. Von James Braid und Ben Sayers angelegt, ist er kürzer und freundlicher als sein berühmter Nachbar, aber wirklich spektakulär, und das Par 3 der 13, von einem Klippenabschlag hinunter auf ein Grün am Meer, gehört zu den meistfotografierten Löchern der Küste. Eine gute zweite Runde des Tages.",
+    "signature": "13, Sea Hole",
+    "facilities": [
+      "Übungsbereich und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden"
+    ]
+  },
+  "gullane-no1": {
+    "summary": "Der Championship-Platz auf dem Gullane Hill, Austragungsort der Scottish Open, mit Blick über den Forth vom höchsten Punkt des Anstiegs.",
+    "about": "Gullane hat drei Plätze auf und um den Hügel über dem Dorf, und No.1 ist die Championship-Prüfung, 2015 und 2018 Austragungsort der Scottish Open und regelmäßiger Open-Qualifikationsplatz. Die ersten Löcher steigen den Hügel hinauf, der Blick vom Abschlag der 7 reicht über Edinburgh, Fife und die Forth-Brücken, und die zweiten Neun laufen hinunter zum Ufer und wieder hinauf. Fest, schnell und wunderbar gepflegt. Muirfield liegt nebenan.",
+    "signature": "7, der Blick vom Gipfel",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "archerfield-fidra": {
+    "summary": "Ein moderner Links durch Kiefernwald und Dünen auf einem Privatgut zwischen Gullane und North Berwick, mit der Insel Fidra vor der Küste.",
+    "about": "Archerfield ist ein privater Club und Resort an der Küste bei Dirleton mit zwei Plätzen, einem Lodge-Hotel und einem Spa. Der Fidra Course führt durch alten Kiefernwald, bevor er sich zum Dünenland am Ufer öffnet, mit der Insel Fidra draußen, die angeblich die Schatzinsel inspirierte. Austragungsort der Scottish Senior Open und einer der bestgepflegten Plätze in East Lothian. Der Zugang für Gästegruppen läuft über Reiseveranstalter wie uns.",
+    "signature": "18, bergab zum Clubhaus",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "archerfield-dirleton": {
+    "summary": "Archerfields zweiter Platz, offener und exponierter als der Fidra, mit breiten Fairways und Blick auf den Forth.",
+    "about": "Der Dirleton Course eröffnete zwei Jahre nach dem Fidra und nimmt das offenere Gelände des Guts ein, mit weniger Bäumen, breiteren Fairways und mehr Wind im Spiel. Große Grüns, Abflussbereiche und Meerblick auf den zweiten Neun machen ihn zu einer anderen Aufgabe als seinen Schwesterplatz, und zusammen ergeben beide einen echten 36-Loch-Tag mit dem Clubhaus von Archerfield dazwischen. Aufenthalte in den Lodges auf dem Gut lassen sich organisieren.",
+    "signature": "10, Par 4 Richtung Meer",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "renaissance-club": {
+    "summary": "Tom Doaks moderner Links neben Muirfield, seit 2019 Heimat der Scottish Open, mit entsprechendem Clubhausblick über den Forth.",
+    "about": "The Renaissance Club liegt auf dem Gelände direkt westlich von Muirfield und wurde von Tom Doak entworfen, mit Löchern, die durch Kiefern und hinaus auf die Klippe über dem Forth führen. Seit 2019 richtet er jedes Jahr die Genesis Scottish Open aus und ist einer der wenigen Orte in Schottland, an denen Gäste einen aktuellen Platz der DP World Tour spielen können. Ein privater Club, daher organisieren wir den Zugang für Gruppen. Clubhausterrasse und Lodges sind außergewöhnlich.",
+    "signature": "10, Par 3 auf der Klippe",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "craigielaw": {
+    "summary": "Ein moderner Links in Aberlady mit altmodischem Charakter und Topfbunkern, einer komfortablen Lodge vor Ort und Blick über die Aberlady Bay.",
+    "about": "Craigielaw eröffnete 2001 und wurde von Donald Steel so entworfen, dass er wie ein traditioneller Links spielt: fester Rasen, verschalte Bunker und große, wellige Grüns auf offenem Gelände neben dem Naturschutzgebiet Aberlady Bay. Die Craigielaw Lodge mit Zimmern am ersten Abschlag macht ihn zu einer bequemen Basis für eine Woche in East Lothian, Gullane, Muirfield und North Berwick liegen alle keine zehn Minuten entfernt. Fair bepreist für die Qualität des Platzes.",
+    "signature": "18, Par 5 zum Clubhaus",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "musselburgh-old": {
+    "summary": "Der älteste noch bespielte Golfplatz der Welt, neun Löcher innerhalb der Pferderennbahn von Musselburgh, wo sechs Opens stattfanden.",
+    "about": "Golf in Musselburgh ist seit 1672 belegt, und die neun Löcher innerhalb der Rennbahn richteten zwischen 1874 und 1889 sechsmal die Open aus. Heute ist es ein öffentlicher Platz der Gemeinde, auf dem man Hickory-Schläger leihen und die Löcher fast so spielen kann wie die viktorianischen Champions. Kurz, flach und eher historisch als anspruchsvoll, ideal als halbtägige Einspielrunde oder für die Geschichtsinteressierten der Gruppe, zwanzig Minuten von Edinburgh.",
+    "signature": "4, Mrs Forman's",
+    "facilities": [
+      "Verleih von Hickory-Schlägern",
+      "Trolleyverleih",
+      "Starterhütte und kleiner Shop"
+    ]
+  },
+  "royal-musselburgh": {
+    "summary": "Der fünftälteste Club der Welt, der einen James-Braid-Parklandplatz rund um ein Herrenhaus aus dem 17. Jahrhundert in Prestonpans spielt.",
+    "about": "Der Royal Musselburgh Golf Club wurde 1774 gegründet und zog 1926 nach Prestongrange House, ein schottisches Herrenhaus im Baronial-Stil, das heute das Clubhaus ist. James Braid legte den Parklandplatz auf dem Gelände an: alter Baumbestand, gut gebunkerte Grüns und eine sanftere Prüfung als die Links an der Küste, mit dem Forth im Blick von den höheren Löchern. Eine gute erste oder letzte Runde der Reise, fünfzehn Minuten vom Flughafen Edinburgh.",
+    "signature": "9, zurück zum Herrenhaus",
+    "facilities": [
+      "Übungsbereich und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden"
+    ]
+  },
+  "royal-burgess": {
+    "summary": "Die älteste Golfgesellschaft der Welt, gegründet 1735, auf einem gereiften Parklandplatz in den Vororten von Edinburgh, zehn Minuten vom Flughafen.",
+    "about": "Die Royal Burgess Golfing Society of Edinburgh beruft sich auf ein Gründungsjahr 1735 und spielt seit 1895 in Barnton auf einem von Old Tom Morris angelegten und später von James Braid überarbeiteten Platz. Ein klassischer baumgesäumter Parklandplatz mit schnellen Grüns, tadelloser Pflege und einem geschichtsträchtigen Clubhaus. Innerhalb der Stadt gelegen, ist er der am einfachsten erreichbare große Platz für den An- oder Abreisetag in Edinburgh.",
+    "signature": "18, Par 4 zum Clubhaus",
+    "facilities": [
+      "Übungsbereich und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden"
+    ]
+  },
+  "royal-troon": {
+    "summary": "Zehnfacher Open-Austragungsort an der Küste von Ayrshire, Heimat des Postage Stamp, des berühmtesten kurzen Par 3 im Golf.",
+    "about": "Royal Troon richtete 2024 zum zehnten Mal die Open aus. Der Platz läuft am Strand hinaus, mit der Isle of Arran und Ailsa Craig jenseits des Wassers, wendet am berühmten Postage Stamp, einem 112 Meter kurzen Par 3 auf ein winziges, von Bunkern umringtes Grün, und kommt durch die Dünen gegen den vorherrschenden Wind nach Hause. Gäste sind montags, dienstags und donnerstags willkommen, der Tag schließt den Portland Course ein. Fünfzehn Minuten vom Flughafen Prestwick.",
+    "signature": "8, der Postage Stamp",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "turnberry-ailsa": {
+    "summary": "Der schönste Links Schottlands, mit Leuchtturm, Ailsa Craig und den Löchern des Duel in the Sun am Ufer.",
+    "about": "Der Ailsa Course hat vier Opens ausgerichtet, darunter das Duel in the Sun 1977 zwischen Watson und Nicklaus, und wurde 2016 von Martin Ebert zu dem umgebaut, was viele für den besten Platz Großbritanniens halten. Die Löcher 4 bis 11 laufen über die Klippe am Leuchtturm entlang, mit Ailsa Craig vor der Küste, und das Par 3 der 9 spielt jetzt über die Felsen. Das Resorthotel auf dem Hügel ist die Luxusoption der Ayrshire-Küste, der King Robert the Bruce Course die zweite Runde.",
+    "signature": "9, Par 3 am Leuchtturm",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "prestwick": {
+    "summary": "Geburtsort der Open Championship 1860, ein herrlich exzentrischer Links mit Blindschlägen, einer Bahnlinie und dem Cardinal-Bunker.",
+    "about": "Prestwick wurde 1851 von Old Tom Morris angelegt, richtete 1860 die erste Open aus und insgesamt 24 Mal. Der Platz ist ein Museum früher Golfarchitektur: das blinde Par 3 der 5 über die Himalayas-Dünen, der riesige, mit Schwellen verschalte Cardinal-Bunker an der 3, die Bahnmauer entlang der 1 und Grüns, die in Senken versteckt liegen. Er liegt direkt neben dem Flughafen Prestwick, und das Mittagessen im Clubhaus, mit Jackett und Krawatte, ist eine der großen Golfclub-Traditionen.",
+    "signature": "5, Himalayas",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "western-gailes": {
+    "summary": "Ein natürlicher Links, eingezwängt zwischen Bahnlinie und Meer, mit den Hügeln von Arran jenseits des Firth und dem Ruf schneller, ehrlicher Grüns.",
+    "about": "Western Gailes verläuft auf einem schmalen Dünenstreifen zwischen der Bahnlinie Glasgow–Ayr und dem Ufer, die Löcher sind also ganz vom Gelände geformt. Seit Jahrzehnten Open-Qualifikations- und Scottish-Amateur-Platz, die Grüns gehören zu den besten der Küste, und das Clubhaus steht mitten im Platz, sodass beide Neun dort beginnen und enden. Ein Mitgliederclub, der an den meisten Tagen Gäste empfängt, zehn Minuten von Troon.",
+    "signature": "7, Par 3 zwischen den Dünen",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "dundonald-links": {
+    "summary": "Ein moderner Links vom Architekten von Kingsbarns, Austragungsort der Scottish Open und der Women's Scottish Open, mit Lodges und neuem Clubhaus vor Ort.",
+    "about": "Dundonald Links eröffnete 2003 und wurde 2021 mit neuem Clubhaus, Restaurant und 20 Lodges am Platz ausgebaut, die vollständigste Stay-and-Play-Option an der Küste von Ayrshire. Kyle Phillips entwarf einen Links mit breiten Fairways, Bächen und tiefen Bunkern, der die Scottish Open und mehrere Women's Scottish Opens ausgerichtet hat. Zehn Minuten vom Flughafen Prestwick und ebenso weit von Troon.",
+    "signature": "16, Par 5 über den Bach",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "loch-lomond": {
+    "summary": "Ein privates Parkland-Meisterwerk an den Ufern des Loch Lomond, fünfzehn Jahre lang Heimat der Scottish Open, mit dem Ben Lomond als Kulisse.",
+    "about": "Loch Lomond ist einer der exklusivsten Clubs Europas, von Tom Weiskopf und Jay Morrish am Ufer des Sees auf dem Gut Rossdhu angelegt. Die Löcher führen durch alten Wald und Marsch, mit dem Wasser im Blick und den Bergen dahinter, und der Platz richtete von 1996 bis 2010 die Scottish Open aus. Er ist streng privat, Zugang gibt es nur über ein Mitglied oder eine Vereinbarung, die wir für die Gruppe treffen. Vierzig Minuten vom Flughafen Glasgow.",
+    "signature": "18, Par 4 am See entlang",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "royal-dornoch": {
+    "summary": "Hoch im Norden in den Highlands und jeden Kilometer wert. Natürlicher Links, Plateaugrüns und blühender Ginster im Mai.",
+    "about": "Royal Dornoch steht regelmäßig unter den zehn besten Plätzen der Welt und ist der Heimatplatz von Donald Ross, der seine Plateaugrüns und natürlichen Bunker nach Amerika brachte. Die Löcher laufen auf dem hohen Gelände über dem Strand von Dornoch hinaus und auf Meereshöhe zurück, im späten Frühjahr färbt der Ginster den Platz gelb, und im Juni ist es hell genug, um bis elf Uhr nachts zu spielen. Die Stadt liegt eine Stunde nördlich des Flughafens Inverness, der Struie Course ist eine gute zweite Runde.",
+    "signature": "14, Foxy",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "tain": {
+    "summary": "Old Tom Morris' Highland-Links am Dornoch Firth, ein klassischer Geheimtipp fünfzehn Minuten von Royal Dornoch und zu einem Bruchteil des Preises.",
+    "about": "Tain ist der älteste Platz der Highlands, 1890 von Old Tom Morris auf den Links am Dornoch Firth neben der Glenmorangie-Brennerei angelegt. Der Fluss Tain schlängelt sich durch die zweiten Neun, die Fairways sind natürlich und uneben, die Grüns klein, und der Platz ist immer in gutem Zustand und ruhig. Die meisten Gruppen, die Dornoch spielen, hängen ihn als zweite Runde des Tages an, oft mit Brennereibesuch auf dem Rückweg.",
+    "signature": "11, Alps, das blinde Par 4",
+    "facilities": [
+      "Übungsbereich und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden"
+    ]
+  },
+  "castle-stuart": {
+    "summary": "Scottish-Open-Platz über dem Moray Firth bei Inverness, breite Fairways und Blick auf die Black Isle und die Kessock Bridge.",
+    "about": "Castle Stuart eröffnete 2009 auf zwei Geländestufen über dem Moray Firth, zehn Minuten vom Flughafen Inverness, und richtete viermal die Scottish Open aus. Gil Hanse und Mark Parsinen bauten einen spielbaren, panoramareichen Links mit breiten Fairways, offenen Grüneingängen und dem Firth an jedem Loch im Blick, und das Art-déco-Clubhaus auf dem Hügel ist ein Wahrzeichen. Heute Teil von Cabot Highlands, mit Lodges und einem zweiten Platz, Old Petty, auf dem Gut.",
+    "signature": "3, Par 3 am Ufer",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "old-petty": {
+    "summary": "Tom Doaks neuer Platz in Cabot Highlands, 2025 auf dem Gelände neben Castle Stuart eröffnet und sofort eines der meistdiskutierten Layouts Schottlands.",
+    "about": "Old Petty ist der zweite Platz von Cabot Highlands, von Tom Doak entworfen und 2025 für das Spiel freigegeben. Er nimmt das Binnenland östlich von Castle Stuart und die Küste dahinter ein, mit breiten Korridoren, natürlichen Konturen und einer Schleife zurück zum gemeinsamen Clubhaus. Zusammen mit Castle Stuart macht er Inverness zu einem echten Zwei-Plätze-Ziel, und mit Dornoch und Nairn in unter einer Stunde kann die Highlands-Reise jetzt qualitativ mit Fife mithalten. Die ersten Startlisten füllen sich schnell.",
+    "signature": "Das entscheiden die ersten Besucher",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "royal-aberdeen": {
+    "summary": "Der sechstälteste Club der Welt, mit ersten Neun durch gewaltige Dünen, die mit jeder Linksstrecke Schottlands mithalten.",
+    "about": "Royal Aberdeen wurde 1780 gegründet, und der Balgownie Links richtete 2014 die Scottish Open aus. Die ersten Neun laufen nordwärts am Ufer durch enorme Dünen mit dem Meer zur Rechten und gelten als eine der besten Hinrunden überhaupt; die zweiten Neun kehren auf höherem, offenerem Gelände zurück. Der Club soll die Fünf-Minuten-Regel für verlorene Bälle erfunden haben. Fünfzehn Minuten vom Flughafen Aberdeen, Trump International und Cruden Bay liegen die Küste hinauf.",
+    "signature": "8, Par 3 von Bunkern umringt",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
+  },
+  "trump-aberdeen": {
+    "summary": "Ein moderner Links durch die größten Dünen Großbritanniens an der Küste von Aberdeenshire, 2025 um einen zweiten Platz, den MacLeod, ergänzt.",
+    "about": "Trump International eröffnete 2012 in Balmedie nördlich von Aberdeen in einem Dünensystem von bis zu 30 Metern Höhe. Martin Hawtree führte die Löcher durch die Täler und auf die Kämme, die Dimension ist mit nichts in Schottland vergleichbar, und der Blick über den Strand reicht kilometerweit. Der MacLeod Course, die zweiten Achtzehn, eröffnete 2025, und MacLeod House, ein Herrenhaus im Baronial-Stil, bietet Boutique-Unterkünfte auf dem Gut. Zwanzig Minuten vom Flughafen Aberdeen.",
+    "signature": "14, Par 4 vom Dünenkamm",
+    "facilities": [
+      "Driving Range und Kurzspielbereich",
+      "Carts, Trolleys und Leihschläger",
+      "Caddies auf Anfrage",
+      "Pro Shop und Golfakademie",
+      "Hotel, Restaurants und Spa vor Ort",
+      "Umkleiden"
+    ]
+  },
+  "cruden-bay": {
+    "summary": "Einer der großen natürlichen Linksplätze der Welt, der durch riesige Dünen über der Bucht stürzt, mit Slains Castle, der Inspiration für Dracula, auf der Klippe dahinter.",
+    "about": "Cruden Bay wurde 1899 von Old Tom Morris angelegt und 1926 von Tom Simpson zu einem Platz umgebaut, der regelmäßig in den Top 100 der Welt steht und für seinen puren Spaß geliebt wird: Blindschläge, ein Punchbowl-Grün, ein Dell-Loch, ein badewannenförmiges Grün und Löcher, die von den Dünenkämmen zum Strand abfallen. Das Clubhaus überblickt den ganzen Links und die Bucht. Vierzig Minuten nördlich von Aberdeen und die perfekte Ergänzung zu Royal Aberdeen oder Trump International.",
+    "signature": "15, Blin' Dunt, das blinde Par 3",
+    "facilities": [
+      "Übungsanlage und Putting-Grün",
+      "Trolley- und Schlägerverleih",
+      "Caddies auf Anfrage",
+      "Pro Shop",
+      "Clubhaus mit Bar und Restaurant",
+      "Umkleiden und Duschen"
+    ]
   }
 }

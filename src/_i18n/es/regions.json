@@ -1,17 +1,43 @@
 {
   "st-andrews": {
     "slug": "st-andrews",
-    "name": "St Andrews y Fife",
+    "name": "St Andrews, Fife y Angus",
     "lede": "La cuna del golf, con más de 50 campos a una hora del Old Course y un pueblo que lleva 600 años recibiendo golfistas.",
     "intro": [
       "Una escapada de golf a St Andrews funciona con o sin el Old Course. Nuestros paquetes pueden incluir una hora de salida garantizada en el Old Course, o acompañamos a vuestro grupo en el sorteo, que se abre cada agosto para la temporada siguiente. En cualquier caso, el resto de campos de St Andrews Links, el Castle, el Jubilee, el Eden y el New, son de primera categoría por sí mismos, y nuestra opción Golf Ilimitado garantiza una salida diaria pase lo que pase en el sorteo.",
-      "Más allá de los Links están Kingsbarns, Crail y los pueblos pesqueros del East Neuk, Carnoustie al otro lado del Tay y los dos campos de campeonato del Fairmont en los acantilados al sur del pueblo. Volad a Edimburgo, Glasgow, Dundee o Aberdeen; St Andrews está a unos 75 minutos del aeropuerto de Edimburgo."
+      "Más allá de los Links están Kingsbarns, Crail, Lundin y el nuevo Dumbarnie por la costa de Fife, Carnoustie y Montrose al otro lado del Tay, en Angus, y Gleneagles a una hora tierra adentro, en Perthshire. Volad a Edimburgo, Glasgow, Dundee o Aberdeen; St Andrews está a unos 75 minutos del aeropuerto de Edimburgo."
     ],
-    "stats": [["75 min", "Desde el aeropuerto de Edimburgo"], ["50+", "Campos a una hora"], ["7", "Campos de St Andrews Links"], ["Abr–Oct", "Temporada alta"]],
+    "stats": [
+      [
+        "75 min",
+        "Desde el aeropuerto de Edimburgo"
+      ],
+      [
+        "15",
+        "Campos que reservamos aquí"
+      ],
+      [
+        "7",
+        "Campos de St Andrews Links"
+      ],
+      [
+        "Abr–Oct",
+        "Temporada alta"
+      ]
+    ],
     "faqs": [
-      ["¿Cómo funciona el sorteo del Old Course?", "Dos días antes de jugar, los nombres entran en un sorteo diario para las salidas del día siguiente. También conseguimos horas garantizadas en el Old Course mediante las solicitudes anticipadas, que se abren cada agosto, o a través de nuestros cupos profesionales. Dinos qué importancia tiene el Old Course y montamos el paquete en consecuencia."],
-      ["¿Se puede ir andando por St Andrews?", "Sí. Los hoteles del centro, como el Greyfriars, están a pocos minutos a pie del Links Clubhouse y del primer tee del Old Course. Drumoig y el Fairmont están a un corto trayecto en coche, y añadimos traslados o coche de alquiler según haga falta."],
-      ["¿Qué es la opción Golf Ilimitado?", "Una hora de salida diaria garantizada en los campos de St Andrews Links distintos del Old Course, para que vuestro grupo juegue todos los días pase lo que pase en el sorteo. Está incluida en nuestro paquete St Andrews Signature."]
+      [
+        "¿Cómo funciona el sorteo del Old Course?",
+        "Dos días antes de jugar, los nombres entran en un sorteo diario para las salidas del día siguiente. También conseguimos horas garantizadas en el Old Course mediante las solicitudes anticipadas, que se abren cada agosto, o a través de nuestros cupos profesionales. Dinos qué importancia tiene el Old Course y montamos el paquete en consecuencia."
+      ],
+      [
+        "¿Se puede ir andando por St Andrews?",
+        "Sí. Los hoteles del centro, como el Greyfriars, están a pocos minutos a pie del Links Clubhouse y del primer tee del Old Course. Drumoig y el Fairmont están a un corto trayecto en coche, y añadimos traslados o coche de alquiler según haga falta."
+      ],
+      [
+        "¿Qué es la opción Golf Ilimitado?",
+        "Una hora de salida diaria garantizada en los campos de St Andrews Links distintos del Old Course, para que vuestro grupo juegue todos los días pase lo que pase en el sorteo. Está incluida en nuestro paquete St Andrews Signature."
+      ]
     ]
   },
   "east-lothian": {
@@ -20,11 +46,31 @@
     "lede": "La Golf Coast de Escocia: Muirfield, North Berwick, Gullane y Dunbar a lo largo de cincuenta kilómetros de costa, a cuarenta minutos de Edimburgo.",
     "intro": [
       "East Lothian es el gran golf más cómodo de Escocia. Veintidós campos se alinean en la costa al este de Edimburgo, incluidos Muirfield, North Berwick, los tres campos de Gullane, Archerfield y Renaissance, sede del Scottish Open. Alojaos en North Berwick o Gullane y casi todos están a menos de quince minutos.",
-      "Nuestros paquetes de East Lothian se están cerrando. Ya organizamos viajes bajo petición: dinos tus fechas y qué campos son los importantes para vuestro grupo."
+      "Reservamos diez campos aquí, desde Muirfield, North Berwick y Gullane No.1 hasta los modernos Renaissance Club y Archerfield, con el Old Course de Musselburgh por la historia y Royal Burgess en la ciudad para el día de llegada. Nuestros primeros paquetes de East Lothian se están cerrando; ya montamos viajes aquí bajo petición."
     ],
-    "stats": [["40 min", "Desde el aeropuerto de Edimburgo"], ["22", "Campos en la costa"], ["50 km", "De costa de links"], ["Abr–Oct", "Temporada alta"]],
+    "stats": [
+      [
+        "40 min",
+        "Desde el aeropuerto de Edimburgo"
+      ],
+      [
+        "22",
+        "Campos en la costa"
+      ],
+      [
+        "50 km",
+        "De costa de links"
+      ],
+      [
+        "Abr–Oct",
+        "Temporada alta"
+      ]
+    ],
     "faqs": [
-      ["¿Podéis conseguir Muirfield?", "Muirfield admite visitantes los martes y jueves y se llena con mucha antelación. Con margen suficiente solemos poder organizarlo para un grupo; dinos tus fechas lo antes posible."]
+      [
+        "¿Podéis conseguir Muirfield?",
+        "Muirfield admite visitantes los martes y jueves y se llena con mucha antelación. Con margen suficiente solemos poder organizarlo para un grupo; dinos tus fechas lo antes posible."
+      ]
     ]
   },
   "west-coast-ayrshire": {
@@ -33,11 +79,31 @@
     "lede": "Links del Open en Troon, Turnberry y Prestwick, con Loch Lomond y los aeropuertos de Glasgow a menos de una hora.",
     "intro": [
       "Ayrshire ha acogido más Opens que ninguna otra región después de St Andrews. Royal Troon, el Ailsa de Turnberry y Prestwick, donde se jugó el primer Open en 1860, se alinean junto al Firth of Clyde, con Western Gailes, Dundonald y Kilmarnock Barassie al lado.",
-      "Nuestros paquetes de la costa oeste se están cerrando. Ya organizamos viajes bajo petición: mándanos tus fechas y los campos de tu lista."
+      "Reservamos seis campos en la costa y el lago: Royal Troon, Turnberry, Prestwick, Western Gailes y Dundonald junto al Firth of Clyde, y Loch Lomond mediante acuerdo especial. Nuestros paquetes de la costa oeste se están cerrando; ya montamos viajes aquí bajo petición."
     ],
-    "stats": [["45 min", "Desde el aeropuerto de Glasgow"], ["15 min", "Desde el aeropuerto de Prestwick"], ["3", "Sedes del Open"], ["Abr–Oct", "Temporada alta"]],
+    "stats": [
+      [
+        "45 min",
+        "Desde el aeropuerto de Glasgow"
+      ],
+      [
+        "15 min",
+        "Desde el aeropuerto de Prestwick"
+      ],
+      [
+        "3",
+        "Sedes del Open"
+      ],
+      [
+        "Abr–Oct",
+        "Temporada alta"
+      ]
+    ],
     "faqs": [
-      ["¿Dónde nos alojamos en Ayrshire?", "Troon es la base más cómoda para la mayoría de los campos; el hotel de Turnberry es la opción de lujo para grupos que juegan el Ailsa. Ayr y Prestwick tienen hoteles de buen precio cerca de los campos."]
+      [
+        "¿Dónde nos alojamos en Ayrshire?",
+        "Troon es la base más cómoda para la mayoría de los campos; el hotel de Turnberry es la opción de lujo para grupos que juegan el Ailsa. Ayr y Prestwick tienen hoteles de buen precio cerca de los campos."
+      ]
     ]
   },
   "dublin-wicklow": {
@@ -48,11 +114,37 @@
       "Dublín es la base natural para un viaje de golf a Irlanda. Druids Glen y Druids Heath están en las colinas de Wicklow, a cuarenta minutos al sur de la ciudad; The K Club, en Kildare, acogió la Ryder Cup de 2006; y Portmarnock y The Island ofrecen links auténticos en la costa, al norte del aeropuerto.",
       "Nuestros paquetes se basan en resorts con el golf en el propio recinto, así que no hay desplazamientos diarios salvo que los queráis. Se vuela a Dublín desde casi toda Europa y el Reino Unido; la mayoría de los grupos lleva conductor privado toda la semana."
     ],
-    "stats": [["40 min", "Desde el aeropuerto de Dublín"], ["3", "Sedes del Irish Open"], ["1", "Sede de la Ryder Cup"], ["May–Oct", "Temporada alta"]],
+    "stats": [
+      [
+        "40 min",
+        "Desde el aeropuerto de Dublín"
+      ],
+      [
+        "3",
+        "Sedes del Irish Open"
+      ],
+      [
+        "1",
+        "Sede de la Ryder Cup"
+      ],
+      [
+        "May–Oct",
+        "Temporada alta"
+      ]
+    ],
     "faqs": [
-      ["¿Qué campos entran en los paquetes de Dublín?", "Druids Glen, Druids Heath, The K Club Palmer North y Wicklow Golf Club en el paquete Signature, con Portmarnock Links, Powerscourt y The Island disponibles en nuestros otros viajes a Dublín o como cambio."],
-      ["¿Dublín funciona para un grupo mixto?", "Muy bien. Los que no juegan tienen la ciudad, los jardines de Powerscourt, Glendalough y la costa de Wicklow, y todos los resorts que usamos tienen spa. Montamos un itinerario doble para que todos coincidáis en la cena."],
-      ["¿A qué distancia está Wicklow de Dublín?", "Druids Glen está a unos 40 minutos del aeropuerto de Dublín y a 35 del centro. The K Club está a 40 minutos al oeste de la ciudad, Portmarnock a 15 del aeropuerto."]
+      [
+        "¿Qué campos entran en los paquetes de Dublín?",
+        "Druids Glen, Druids Heath, The K Club Palmer North y Wicklow Golf Club en el paquete Signature, con Portmarnock Links, Powerscourt y The Island disponibles en nuestros otros viajes a Dublín o como cambio."
+      ],
+      [
+        "¿Dublín funciona para un grupo mixto?",
+        "Muy bien. Los que no juegan tienen la ciudad, los jardines de Powerscourt, Glendalough y la costa de Wicklow, y todos los resorts que usamos tienen spa. Montamos un itinerario doble para que todos coincidáis en la cena."
+      ],
+      [
+        "¿A qué distancia está Wicklow de Dublín?",
+        "Druids Glen está a unos 40 minutos del aeropuerto de Dublín y a 35 del centro. The K Club está a 40 minutos al oeste de la ciudad, Portmarnock a 15 del aeropuerto."
+      ]
     ]
   },
   "sotogrande": {
@@ -63,11 +155,78 @@
       "Sotogrande es el golf español en su mejor versión. La urbanización se trazó alrededor del Real Club de Golf Sotogrande de Robert Trent Jones Sr. en los años sesenta y después llegó Valderrama, sede de la Ryder Cup de 1997. Hoy hay nueve campos de 18 hoyos en unos seis kilómetros: La Cañada, The Alto en SO/ Sotogrande, San Roque Club, La Reserva y los dos campos de La Hacienda, en la costa de Alcaidesa.",
       "Además, es nuestra casa. Vivimos aquí, jugamos estos campos cada semana y nuestra relación con los clubes nos permite conseguir accesos que a un visitante le cuesta mucho conseguir. El aeropuerto de Gibraltar está a diez minutos del primer tee de La Hacienda; Málaga, a una hora por la costa."
     ],
-    "stats": [["10 min", "Desde el aeropuerto de Gibraltar"], ["60 min", "Desde el aeropuerto de Málaga"], ["9", "Campos en 6 km"], ["Oct–May", "Temporada alta"]],
+    "stats": [
+      [
+        "10 min",
+        "Desde el aeropuerto de Gibraltar"
+      ],
+      [
+        "60 min",
+        "Desde el aeropuerto de Málaga"
+      ],
+      [
+        "9",
+        "Campos en 6 km"
+      ],
+      [
+        "Oct–May",
+        "Temporada alta"
+      ]
+    ],
     "faqs": [
-      ["¿Qué campos entran en el paquete Sotogrande Signature?", "La Cañada, The Alto, Hacienda Links y Hacienda Heathland en cuatro rondas, con Valderrama, Real Sotogrande, San Roque y La Reserva disponibles como mejora o en nuestros otros paquetes de Sotogrande."],
-      ["¿Gibraltar o Málaga?", "Gibraltar si hay vuelo directo desde vuestro aeropuerto: está a diez minutos de La Hacienda y a veinte de Sotogrande. Málaga tiene muchos más vuelos y está a una hora en traslado privado."],
-      ["¿Qué tiempo hace en invierno?", "Suave. De noviembre a febrero son normales los 16 a 20 grados de día, por eso la temporada va de octubre a mayo. En verano hace calor, pero se juega muy bien con salidas tempranas."]
+      [
+        "¿Qué campos entran en el paquete Sotogrande Signature?",
+        "La Cañada, The Alto, Hacienda Links y Hacienda Heathland en cuatro rondas, con Valderrama, Real Sotogrande, San Roque y La Reserva disponibles como mejora o en nuestros otros paquetes de Sotogrande."
+      ],
+      [
+        "¿Gibraltar o Málaga?",
+        "Gibraltar si hay vuelo directo desde vuestro aeropuerto: está a diez minutos de La Hacienda y a veinte de Sotogrande. Málaga tiene muchos más vuelos y está a una hora en traslado privado."
+      ],
+      [
+        "¿Qué tiempo hace en invierno?",
+        "Suave. De noviembre a febrero son normales los 16 a 20 grados de día, por eso la temporada va de octubre a mayo. En verano hace calor, pero se juega muy bien con salidas tempranas."
+      ]
+    ]
+  },
+  "highlands-aberdeenshire": {
+    "slug": "highlands-aberdeenshire",
+    "name": "Highlands y Aberdeenshire",
+    "lede": "Royal Dornoch, Cruden Bay, Castle Stuart y las dunas más grandes de Gran Bretaña, en la parte de Escocia donde el golf es de primera y el primer tee nunca está lleno.",
+    "intro": [
+      "El norte de Escocia es adonde van los golfistas serios una vez hecho St Andrews. Royal Dornoch está en casi todos los top 10 mundiales, Cruden Bay y Royal Aberdeen son dos de los grandes links naturales, y la costa de Inverness ha ganado dos campos modernos en Cabot Highlands, Castle Stuart y el nuevo Old Petty de Tom Doak. Las dunas de Trump International son las más grandes del país.",
+      "Funciona con dos bases. Inverness para Dornoch, Tain, Castle Stuart y Old Petty, todos a menos de una hora del aeropuerto. Aberdeen para Royal Aberdeen, Trump y Cruden Bay, todos a menos de cuarenta minutos. Los grupos más golfistas hacen las dos en una semana, con las destilerías de whisky de Speyside en el camino."
+    ],
+    "stats": [
+      [
+        "60 min",
+        "Dornoch desde el aeropuerto de Inverness"
+      ],
+      [
+        "7",
+        "Campos que reservamos aquí"
+      ],
+      [
+        "30 m",
+        "Altura de las dunas en Balmedie"
+      ],
+      [
+        "May–Sep",
+        "Temporada alta"
+      ]
+    ],
+    "faqs": [
+      [
+        "¿Inverness o Aberdeen?",
+        "Inverness para Royal Dornoch, Tain y los dos campos de Cabot Highlands; Aberdeen para Royal Aberdeen, Trump International y Cruden Bay. Entre las dos hay unas dos horas y media por Speyside, así que una semana con dos bases es muy factible."
+      ],
+      [
+        "¿Cuánto duran los días?",
+        "En junio en las Highlands hay luz hasta casi medianoche, así que 36 hoyos al día son realistas y las salidas después de las seis de la tarde suelen ser las más baratas y tranquilas."
+      ],
+      [
+        "¿Es difícil reservar Royal Dornoch?",
+        "Los visitantes son bienvenidos casi todos los días, pero la hoja de salidas de verano se llena con muchos meses de antelación. Dinos tus fechas pronto y montamos la semana alrededor de la salida en Dornoch."
+      ]
     ]
   }
 }
