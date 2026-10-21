@@ -32,3 +32,11 @@ All course photos were pulled from public web pages for the TEST site. Before la
 | loch-lomond | https://framerusercontent.com/images/KS9ZOT3T5KFaRxyiheWYZYjG8.jpg | https://www.lochlomond.com/ | club site photo (og:image), permission to confirm |
 | royal-dornoch | https://royaldornoch.com/wp-content/uploads/2023/11/5th_0809-2048x1365.jpg | https://royaldornoch.com/ | club site photo, permission to confirm |
 | tain | https://tain-golfclub.co.uk/wp-content/uploads/2026/06/TainGC_20260501185437_0086_D-1536x1022.jpg | https://www.tain-golfclub.co.uk/ | club site photo, permission to confirm |
+| trump-aberdeen | placeholder pattern | club site behind Cloudflare | NEEDS PHOTO from Max / club press pack |
+
+## Batch 2
+| castle-stuart | https://cabot.com/uploads/2025/11/010_CABOT_HIGHLANDS_Photo_Jacob_Sjoman_62A1762_V1-copy-scaled-1-1920x1280.jpg | https://cabot.com/highlands/golf/castle-stuart/ | club site photo (Jacob Sjoman for Cabot), permission to confirm |
+| old-petty | https://cabot.com/uploads/2025/11/JHP_8545-scaled-1-1920x1020.jpg | https://cabot.com/highlands/golf/old-petty/ | club site photo, permission to confirm |
+| royal-aberdeen | https://clubv1.blob.core.windows.net/clubsite-media/191/82967175bf00.jpg | https://www.royalaberdeengolf.com/ | club site photo, permission to confirm |
+| cruden-bay | https://crudenbaygolfclub.co.uk/wp-content/uploads/2021/09/cruden-bay-become-the-course.jpg | https://www.crudenbaygolfclub.co.uk/ | club site photo, permission to confirm |
+| trump-aberdeen | NONE |
