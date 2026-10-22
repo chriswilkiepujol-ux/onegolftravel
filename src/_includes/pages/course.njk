@@ -17,10 +17,10 @@
 <section class="sec stats-band">
   <div class="wrap stats-row reveal">
     <div><div class="num">{{ course.par }}</div><div class="lab">{{ T.common.par }}</div></div>
-    <div><div class="num">{{ course.length }}</div><div class="lab">{{ T.common.length }}</div></div>
+    {% if course.length %}<div><div class="num">{{ course.length }}</div><div class="lab">{{ T.common.length }}</div></div>{% endif %}
     {% if course.slope %}<div><div class="num">{{ course.slope }}</div><div class="lab">{{ T.common.slope }}</div></div>{% endif %}
     <div><div class="num num-sm">{{ course.opened }}</div><div class="lab">{{ T.common.opened }}</div></div>
-    <div><div class="num num-sm">{{ course.designer }}</div><div class="lab">{{ T.common.designer }}</div></div>
+    {% if course.designer %}<div><div class="num num-sm">{{ course.designer }}</div><div class="lab">{{ T.common.designer }}</div></div>{% endif %}
   </div>
 </section>
 

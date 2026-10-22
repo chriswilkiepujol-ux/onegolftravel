@@ -115,8 +115,8 @@
     "region": "st-andrews",
     "style": "Clifftop links",
     "par": 71,
-    "length": "6,759 yds",
-    "slope": "135",
+    "length": "6,749 yds (Black)",
+    "slope": "146",
     "designer": "David McLay Kidd",
     "opened": "2008",
     "image": "/assets/images/courses/castle-course.webp",
@@ -133,7 +133,8 @@
       "Trolley and club hire",
       "Pro shop",
       "Coaching and caddie services"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "eden-course",
@@ -142,8 +143,8 @@
     "region": "st-andrews",
     "style": "Links",
     "par": 70,
-    "length": "6,250 yds",
-    "slope": "120",
+    "length": "6,140 yds (Black)",
+    "slope": "126",
     "designer": "Harry Colt",
     "opened": "1914",
     "image": "/assets/images/courses/eden-course.webp",
@@ -161,7 +162,8 @@
       "Café"
     ],
     "lat": 56.3497216,
-    "lon": -2.8165694
+    "lon": -2.8165694,
+    "verified": "2026-10-22"
   },
   {
     "slug": "jubilee-course",
@@ -170,9 +172,9 @@
     "region": "st-andrews",
     "style": "Links",
     "par": 72,
-    "length": "6,742 yds",
-    "slope": "130–135",
-    "designer": "John Angus, redesigned by Donald Steel",
+    "length": "6,614 yds (Black)",
+    "slope": "134",
+    "designer": "Donald Steel (1988 redesign)",
     "opened": "1897",
     "image": "/assets/images/courses/jubilee-course.webp",
     "images": [
@@ -188,7 +190,8 @@
       "Café and bar nearby"
     ],
     "lat": 56.3446112,
-    "lon": -2.8094964
+    "lon": -2.8094964,
+    "verified": "2026-10-22"
   },
   {
     "slug": "druids-glen",
@@ -305,9 +308,9 @@
     "region": "st-andrews",
     "style": "Links",
     "par": 72,
-    "length": "7,305 yds",
+    "length": "6,721 yds (Black)",
     "slope": "132",
-    "designer": "Nature, Old Tom Morris",
+    "designer": "Shaped by nature; Old Tom Morris, Keeper of the Green from 1865",
     "opened": "c.1552",
     "lat": 56.343653,
     "lon": -2.8022784,
@@ -325,7 +328,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "new-course",
@@ -334,8 +338,8 @@
     "region": "st-andrews",
     "style": "Links",
     "par": 71,
-    "length": "6,625 yds",
-    "slope": "128",
+    "length": "6,625 yds (Black)",
+    "slope": "127",
     "designer": "Old Tom Morris",
     "opened": "1895",
     "lat": 56.345333,
@@ -354,7 +358,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "kingsbarns",
@@ -363,8 +368,8 @@
     "region": "st-andrews",
     "style": "Links",
     "par": 72,
-    "length": "7,224 yds",
-    "slope": "134",
+    "length": "7,226 yds (Black)",
+    "slope": "141",
     "designer": "Kyle Phillips",
     "opened": "2000",
     "lat": 56.2986285,
@@ -383,7 +388,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "crail-balcomie",
@@ -392,8 +398,8 @@
     "region": "st-andrews",
     "style": "Links",
     "par": 69,
-    "length": "5,861 yds",
-    "slope": "121",
+    "length": "5,861 yds (back tees)",
+    "slope": "",
     "designer": "Old Tom Morris",
     "opened": "1895",
     "lat": 56.278245,
@@ -411,7 +417,8 @@
       "Pro shop",
       "Clubhouse with bar and dining",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "lundin-links",
@@ -420,8 +427,8 @@
     "region": "st-andrews",
     "style": "Links",
     "par": 71,
-    "length": "6,371 yds",
-    "slope": "124",
+    "length": "6,371 yds (medal)",
+    "slope": "132",
     "designer": "James Braid",
     "opened": "1868",
     "lat": 56.208518,
@@ -439,7 +446,8 @@
       "Pro shop",
       "Clubhouse with bar and dining",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "dumbarnie-links",
@@ -448,8 +456,8 @@
     "region": "st-andrews",
     "style": "Links",
     "par": 72,
-    "length": "6,891 yds",
-    "slope": "131",
+    "length": "6,940 yds (Black); 7,620 tournament",
+    "slope": "130",
     "designer": "Clive Clark",
     "opened": "2020",
     "lat": 56.2101456,
@@ -468,7 +476,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "carnoustie",
@@ -477,10 +486,10 @@
     "region": "st-andrews",
     "style": "Links",
     "par": 72,
-    "length": "7,402 yds",
+    "length": "6,945 yds (White); 7,402 Open set-up",
     "slope": "139",
     "designer": "Allan Robertson, Old Tom Morris, James Braid",
-    "opened": "1842",
+    "opened": "c.1839",
     "lat": 56.495433,
     "lon": -2.716198,
     "image": "/assets/images/courses/carnoustie.webp",
@@ -497,7 +506,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "montrose",
@@ -506,9 +516,9 @@
     "region": "st-andrews",
     "style": "Links",
     "par": 71,
-    "length": "6,543 yds",
-    "slope": "124",
-    "designer": "Nature, Willie Park Jr, Harry Colt",
+    "length": "6,585 yds",
+    "slope": "",
+    "designer": "Harry Colt (1913 layout)",
     "opened": "1562",
     "lat": 56.717037,
     "lon": -2.450981,
@@ -525,7 +535,8 @@
       "Pro shop",
       "Clubhouse with bar and dining",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "gleneagles-kings",
@@ -534,8 +545,8 @@
     "region": "st-andrews",
     "style": "Heathland",
     "par": 71,
-    "length": "6,790 yds",
-    "slope": "134",
+    "length": "6,788 yds (Blue)",
+    "slope": "",
     "designer": "James Braid",
     "opened": "1919",
     "lat": 56.274052,
@@ -554,7 +565,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "muirfield",
@@ -563,8 +575,8 @@
     "region": "east-lothian",
     "style": "Links",
     "par": 71,
-    "length": "7,245 yds",
-    "slope": "135",
+    "length": "7,245 yds (White)",
+    "slope": "142",
     "designer": "Old Tom Morris, Harry Colt",
     "opened": "1891",
     "lat": 56.042022,
@@ -583,7 +595,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "north-berwick",
@@ -592,9 +605,9 @@
     "region": "east-lothian",
     "style": "Links",
     "par": 71,
-    "length": "6,506 yds",
-    "slope": "128",
-    "designer": "Nature, David Strath",
+    "length": "6,497 yds (White)",
+    "slope": "",
+    "designer": "Evolved 1832–1895; Ben Sayers (1932)",
     "opened": "1832",
     "lat": 56.058698,
     "lon": -2.727379,
@@ -612,7 +625,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "the-glen",
@@ -621,8 +635,8 @@
     "region": "east-lothian",
     "style": "Links",
     "par": 70,
-    "length": "6,275 yds",
-    "slope": "121",
+    "length": "6,275 yds (White)",
+    "slope": "124",
     "designer": "James Braid, Ben Sayers",
     "opened": "1894",
     "lat": 56.057235,
@@ -640,7 +654,8 @@
       "Pro shop",
       "Clubhouse with bar and dining",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "gullane-no1",
@@ -649,9 +664,9 @@
     "region": "east-lothian",
     "style": "Links",
     "par": 71,
-    "length": "6,583 yds",
-    "slope": "130",
-    "designer": "Willie Park Jr",
+    "length": "6,873 yds (Blue)",
+    "slope": "127",
+    "designer": "Unknown; club records lost",
     "opened": "1884",
     "lat": 56.03367,
     "lon": -2.837906,
@@ -669,7 +684,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "archerfield-fidra",
@@ -678,8 +694,8 @@
     "region": "east-lothian",
     "style": "Links",
     "par": 72,
-    "length": "7,172 yds",
-    "slope": "135",
+    "length": "6,942 yds (Black)",
+    "slope": "",
     "designer": "David J Russell",
     "opened": "2004",
     "lat": 56.056271,
@@ -698,7 +714,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "archerfield-dirleton",
@@ -707,10 +724,10 @@
     "region": "east-lothian",
     "style": "Links",
     "par": 72,
-    "length": "7,074 yds",
-    "slope": "133",
+    "length": "6,946 yds (Black)",
+    "slope": "",
     "designer": "David J Russell",
-    "opened": "2006",
+    "opened": "",
     "lat": 56.057127,
     "lon": -2.79467,
     "image": "/assets/images/courses/archerfield-dirleton.webp",
@@ -727,7 +744,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "renaissance-club",
@@ -735,9 +753,9 @@
     "country": "scotland",
     "region": "east-lothian",
     "style": "Links",
-    "par": 71,
-    "length": "7,293 yds",
-    "slope": "137",
+    "par": 72,
+    "length": "7,161 yds (Red)",
+    "slope": "",
     "designer": "Tom Doak",
     "opened": "2008",
     "lat": 56.05318,
@@ -756,7 +774,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "craigielaw",
@@ -765,9 +784,9 @@
     "region": "east-lothian",
     "style": "Links",
     "par": 71,
-    "length": "6,601 yds",
+    "length": "6,601 yds (White)",
     "slope": "129",
-    "designer": "Donald Steel",
+    "designer": "Donald Steel & Co",
     "opened": "2001",
     "lat": 56.007392,
     "lon": -2.877507,
@@ -785,7 +804,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "musselburgh-old",
@@ -794,9 +814,9 @@
     "region": "east-lothian",
     "style": "Links",
     "par": 34,
-    "length": "2,968 yds (9 holes)",
+    "length": "2,968 yds (9 holes, White)",
     "slope": "",
-    "designer": "Nature",
+    "designer": "",
     "opened": "c.1672",
     "lat": 55.9466963,
     "lon": -3.0366885,
@@ -811,7 +831,8 @@
       "Hickory club hire",
       "Trolley hire",
       "Starter's hut and small shop"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "royal-musselburgh",
@@ -820,10 +841,10 @@
     "region": "east-lothian",
     "style": "Parkland",
     "par": 70,
-    "length": "6,250 yds",
-    "slope": "124",
+    "length": "6,254 yds (White)",
+    "slope": "",
     "designer": "James Braid",
-    "opened": "1774",
+    "opened": "1774 (course 1926)",
     "lat": 55.951891,
     "lon": -2.99695,
     "image": "/assets/images/courses/royal-musselburgh.webp",
@@ -839,7 +860,8 @@
       "Pro shop",
       "Clubhouse with bar and dining",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "royal-burgess",
@@ -848,10 +870,10 @@
     "region": "east-lothian",
     "style": "Parkland",
     "par": 71,
-    "length": "6,511 yds",
+    "length": "6,531 yds (Red)",
     "slope": "126",
-    "designer": "Old Tom Morris, James Braid",
-    "opened": "1735",
+    "designer": "Willie Park Jr, James Braid",
+    "opened": "1735 (Barnton 1895)",
     "lat": 55.961813,
     "lon": -3.305888,
     "image": "/assets/images/courses/royal-burgess.webp",
@@ -867,7 +889,8 @@
       "Pro shop",
       "Clubhouse with bar and dining",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "royal-troon",
@@ -876,8 +899,8 @@
     "region": "west-coast-ayrshire",
     "style": "Links",
     "par": 71,
-    "length": "7,385 yds",
-    "slope": "137",
+    "length": "7,208 yds (club tees); 7,385 Open set-up",
+    "slope": "",
     "designer": "Willie Fernie, James Braid",
     "opened": "1878",
     "lat": 55.5327698,
@@ -896,7 +919,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "turnberry-ailsa",
@@ -905,9 +929,9 @@
     "region": "west-coast-ayrshire",
     "style": "Links",
     "par": 71,
-    "length": "7,489 yds",
-    "slope": "139",
-    "designer": "Mackenzie Ross, Martin Ebert",
+    "length": "",
+    "slope": "",
+    "designer": "Willie Fernie, Mackenzie Ross, Martin Ebert",
     "opened": "1901",
     "lat": 55.3152984,
     "lon": -4.8327826,
@@ -925,7 +949,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "prestwick",
@@ -934,8 +959,8 @@
     "region": "west-coast-ayrshire",
     "style": "Links",
     "par": 71,
-    "length": "6,908 yds",
-    "slope": "131",
+    "length": "6,908 yds (Championship)",
+    "slope": "145",
     "designer": "Old Tom Morris",
     "opened": "1851",
     "lat": 55.501407,
@@ -954,7 +979,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "western-gailes",
@@ -963,9 +989,9 @@
     "region": "west-coast-ayrshire",
     "style": "Links",
     "par": 71,
-    "length": "6,640 yds",
-    "slope": "133",
-    "designer": "Willie Park Jr, Fred Hawtree",
+    "length": "7,000+ yds (championship, per club)",
+    "slope": "",
+    "designer": "F. Morris (1897), Fred Hawtree",
     "opened": "1897",
     "lat": 55.58379,
     "lon": -4.662366,
@@ -983,7 +1009,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "dundonald-links",
@@ -992,10 +1019,10 @@
     "region": "west-coast-ayrshire",
     "style": "Links",
     "par": 72,
-    "length": "7,100 yds",
-    "slope": "134",
-    "designer": "Kyle Phillips",
-    "opened": "2003",
+    "length": "7,100 yds (Championship)",
+    "slope": "",
+    "designer": "Kyle Phillips (Willie Fernie original, 1911)",
+    "opened": "2003 (current course)",
     "lat": 55.58395,
     "lon": -4.6517624,
     "image": "/assets/images/courses/dundonald-links.webp",
@@ -1012,7 +1039,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "loch-lomond",
@@ -1021,9 +1049,9 @@
     "region": "west-coast-ayrshire",
     "style": "Parkland",
     "par": 71,
-    "length": "7,100 yds",
-    "slope": "138",
-    "designer": "Tom Weiskopf, Jay Morrish",
+    "length": "",
+    "slope": "",
+    "designer": "Tom Weiskopf",
     "opened": "1993",
     "lat": 56.061399,
     "lon": -4.642239,
@@ -1041,7 +1069,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "royal-dornoch",
@@ -1050,8 +1079,8 @@
     "region": "highlands-aberdeenshire",
     "style": "Links",
     "par": 70,
-    "length": "6,748 yds",
-    "slope": "135",
+    "length": "6,799 yds",
+    "slope": "",
     "designer": "Old Tom Morris, John Sutherland, Donald Ross",
     "opened": "1877",
     "lat": 57.879296,
@@ -1070,7 +1099,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "tain",
@@ -1080,7 +1110,7 @@
     "style": "Links",
     "par": 70,
     "length": "6,404 yds",
-    "slope": "124",
+    "slope": "",
     "designer": "Old Tom Morris",
     "opened": "1890",
     "lat": 57.81627,
@@ -1098,7 +1128,8 @@
       "Pro shop",
       "Clubhouse with bar and dining",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "castle-stuart",
@@ -1107,8 +1138,8 @@
     "region": "highlands-aberdeenshire",
     "style": "Links",
     "par": 72,
-    "length": "7,009 yds",
-    "slope": "134",
+    "length": "7,009 yds (Black)",
+    "slope": "",
     "designer": "Gil Hanse, Mark Parsinen",
     "opened": "2009",
     "lat": 57.527874,
@@ -1127,7 +1158,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "old-petty",
@@ -1135,11 +1167,11 @@
     "country": "scotland",
     "region": "highlands-aberdeenshire",
     "style": "Links",
-    "par": 72,
-    "length": "7,100 yds",
+    "par": 71,
+    "length": "7,080 yds (Black)",
     "slope": "",
     "designer": "Tom Doak",
-    "opened": "2025",
+    "opened": "2025 (preview); opens May 2026",
     "lat": 57.5326195,
     "lon": -4.0948673,
     "image": "/assets/images/courses/old-petty.webp",
@@ -1147,7 +1179,7 @@
       "/assets/images/courses/old-petty.webp"
     ],
     "summary": "Tom Doak's new course at Cabot Highlands, opened in 2025 on the land beside Castle Stuart, instantly one of the most talked-about layouts in Scotland.",
-    "about": "Old Petty is the second course at Cabot Highlands, designed by Tom Doak and opened for play in 2025. It takes the inland ground east of Castle Stuart and the shoreline beyond, with wide corridors, natural contours and a loop that returns to the shared clubhouse. Together with Castle Stuart it makes Inverness a genuine two-course destination, and with Dornoch and Nairn within an hour the Highlands trip now rivals Fife for quality. Early tee sheets fill fast.",
+    "about": "Old Petty is the second course at Cabot Highlands, designed by Tom Doak, in preview play since 2025 with its official opening in May 2026. It takes the inland ground east of Castle Stuart and the shoreline beyond, with wide corridors, natural contours and a loop that returns to the shared clubhouse. Together with Castle Stuart it makes Inverness a genuine two-course destination, and with Dornoch and Nairn within an hour the Highlands trip now rivals Fife for quality. Early tee sheets fill fast.",
     "signature": "To be decided by the first visitors",
     "facilities": [
       "Driving range and short-game area",
@@ -1156,7 +1188,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "royal-aberdeen",
@@ -1165,10 +1198,10 @@
     "region": "highlands-aberdeenshire",
     "style": "Links",
     "par": 71,
-    "length": "6,900 yds",
-    "slope": "134",
+    "length": "6,918 yds (Blue)",
+    "slope": "144",
     "designer": "Archie & Robert Simpson, James Braid",
-    "opened": "1780",
+    "opened": "1780 (Balgownie 1888)",
     "lat": 57.178566,
     "lon": -2.086688,
     "image": "/assets/images/courses/royal-aberdeen.webp",
@@ -1185,7 +1218,8 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "trump-aberdeen",
@@ -1194,8 +1228,8 @@
     "region": "highlands-aberdeenshire",
     "style": "Links",
     "par": 72,
-    "length": "7,428 yds",
-    "slope": "139",
+    "length": "7,428 yds (unverified)",
+    "slope": "",
     "designer": "Martin Hawtree",
     "opened": "2012",
     "lat": 57.2773453,
@@ -1214,7 +1248,8 @@
       "Pro shop and golf academy",
       "Hotel, restaurants and spa on site",
       "Locker rooms"
-    ]
+    ],
+    "verified": "2026-10-22"
   },
   {
     "slug": "cruden-bay",
@@ -1222,10 +1257,10 @@
     "country": "scotland",
     "region": "highlands-aberdeenshire",
     "style": "Links",
-    "par": 70,
-    "length": "6,609 yds",
-    "slope": "130",
-    "designer": "Old Tom Morris, Tom Simpson",
+    "par": 73,
+    "length": "6,634 yds (Black)",
+    "slope": "137",
+    "designer": "Old Tom Morris & Archie Simpson; Tom Simpson & Herbert Fowler (1926)",
     "opened": "1899",
     "lat": 57.4133409,
     "lon": -1.8637088,
@@ -1234,7 +1269,7 @@
       "/assets/images/courses/cruden-bay.webp"
     ],
     "summary": "One of the great natural links of the world, tumbling through huge dunes above the bay with Slains Castle, the inspiration for Dracula, on the cliff beyond.",
-    "about": "Cruden Bay was laid out by Old Tom Morris in 1899 and reworked by Tom Simpson in 1926 into a course that regularly makes the world top 100 and is loved for its sheer fun: blind shots, a punchbowl green, a dell hole, a bathtub-shaped green and holes that drop from the dune tops to the beach. The clubhouse looks over the whole links and the bay. Forty minutes north of Aberdeen and the perfect pairing with Royal Aberdeen or Trump International.",
+    "about": "Cruden Bay was laid out by Old Tom Morris and Archie Simpson in 1899 and reworked by Tom Simpson and Herbert Fowler in 1926 into a course that regularly makes the world top 100 and is loved for its sheer fun: blind shots, a punchbowl green, a dell hole, a bathtub-shaped green and holes that drop from the dune tops to the beach. The clubhouse looks over the whole links and the bay. Forty minutes north of Aberdeen and the perfect pairing with Royal Aberdeen or Trump International.",
     "signature": "15th, Blin' Dunt, the blind par 3",
     "facilities": [
       "Practice ground and putting green",
@@ -1243,6 +1278,7 @@
       "Pro shop",
       "Clubhouse with bar and restaurant",
       "Locker rooms and showers"
-    ]
+    ],
+    "verified": "2026-10-22"
   }
 ]
