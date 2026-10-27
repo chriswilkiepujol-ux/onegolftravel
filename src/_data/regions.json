@@ -630,5 +630,169 @@
         "Yes. Golf El Rompido and Islantilla, in Huelva, are around an hour and a half from Seville city centre by road and 100 to 105 minutes from the airport, which makes a split stay of a few nights in the city and a few on the coast realistic."
       ]
     ]
+  },
+  {
+    "slug": "cornwall",
+    "country": "england",
+    "name": "Cornwall",
+    "code": "CWL",
+    "status": "live",
+    "featured": false,
+    "image": "/assets/images/courses/trevose.webp",
+    "images": [
+      "/assets/images/courses/trevose.webp",
+      "/assets/images/courses/st-enodoc.webp",
+      "/assets/images/courses/perranporth.webp",
+      "/assets/images/hotels/carlyon-bay-hotel.webp"
+    ],
+    "lede": "Atlantic links and clifftop courses around Cornwall's coast, from Bude to the Lizard, with Newquay airport and the Penzance rail line as the usual gateways.",
+    "intro": [
+      "Cornwall's golf is built on its coastline. On the north shore, St Enodoc, Trevose and Perranporth run through dunes above the Atlantic, while Bude and West Cornwall at Lelant add older, quieter links at either end. Mullion sits on the cliffs of the Lizard, Carlyon Bay looks over St Austell Bay, and Tehidy Park offers sheltered parkland inland. Wind decides how hard each one plays, so a flexible group does best.",
+      "Most visitors fly to Newquay, about half an hour by road from Trevose and Perranporth, or take the train from London Paddington to Penzance. Exeter and Bristol suit a longer road trip along the coast. Spring to autumn is the peak season, though several clubs here say they play well through the winter. Handicap rules differ from club to club, so check before you book."
+    ],
+    "stats": [
+      [
+        "25 min",
+        "Newquay airport to Perranporth"
+      ],
+      [
+        "9",
+        "Courses we cover here"
+      ],
+      [
+        "2",
+        "Courses at St Enodoc"
+      ],
+      [
+        "Apr–Oct",
+        "Peak season"
+      ]
+    ],
+    "faqs": [
+      [
+        "Which airport is best for a Cornwall golf break?",
+        "Newquay is closest to the north coast courses, roughly 25 to 30 minutes by road from Perranporth and Trevose. Exeter is around two hours from the north coast and worth checking if flights are cheaper there. By rail, London Paddington to Penzance takes five to six hours, and the St Ives branch line runs beside West Cornwall at Lelant."
+      ],
+      [
+        "Do I need a handicap certificate to play?",
+        "It depends on the club. Trevose requires handicap certificates, and St Enodoc's Church Course limits handicap index to 21.4 for men and 22.7 for ladies. Tehidy Park asks for no certificate for general visitor play, and St Enodoc's Holywell course has no handicap limit. Carry proof of your handicap to be safe."
+      ],
+      [
+        "How far ahead should I book tee times?",
+        "Book as early as you can for May to October. At St Enodoc, selected tee times are released to visitors only 48 hours ahead, and Mullion releases many morning times three days before, so leave some flexibility in your plan and call the club if your preferred slot is not showing."
+      ],
+      [
+        "Can I play two courses in one day?",
+        "Yes at St Enodoc: day tickets pair the short Holywell course with the Church Course and must be played on the same day. Trevose also has three courses on one estate, the Championship Course, the nine-hole Headland Course and a Short Course."
+      ]
+    ]
+  },
+  {
+    "slug": "north-devon-somerset",
+    "country": "england",
+    "name": "North Devon & Somerset",
+    "code": "NDS",
+    "status": "live",
+    "featured": false,
+    "image": "/assets/images/courses/saunton-west.webp",
+    "images": [
+      "/assets/images/courses/saunton-west.webp",
+      "/assets/images/courses/burnham-berrow.webp",
+      "/assets/images/courses/minehead-west-somerset.webp",
+      "/assets/images/hotels/saunton-sands-hotel.webp"
+    ],
+    "lede": "Links golf on the Bristol Channel and Atlantic coasts: two Saunton courses, England's oldest club at Westward Ho!, and Somerset's dune and seaside links.",
+    "intro": [
+      "North Devon holds three of the course names a links golfer comes for. Saunton has two 18-hole links, the East and West, in the dunes of Braunton Burrows. Further along Bideford Bay, Royal North Devon at Westward Ho! calls itself the oldest golf course in England, laid out by Old Tom Morris in 1864.",
+      "Across the border in Somerset, Burnham & Berrow offers big dunes on the Bristol Channel and Minehead & West Somerset, founded in 1882, runs along the edge of Exmoor. Exeter is the usual airport for Devon, Bristol for Somerset. Spring to autumn is the peak season, though several clubs offer winter rates."
+    ],
+    "stats": [
+      [
+        "75 min",
+        "From Exeter airport to Saunton"
+      ],
+      [
+        "5",
+        "Courses we cover here"
+      ],
+      [
+        "1864",
+        "Royal North Devon laid out"
+      ],
+      [
+        "Spring–autumn",
+        "Peak season"
+      ]
+    ],
+    "faqs": [
+      [
+        "Which airport should I use?",
+        "For Saunton and Royal North Devon, Exeter is the usual choice, roughly 75 minutes by road to Saunton. For Burnham & Berrow, Bristol is nearer, about an hour. Minehead is around 90 minutes from Bristol. Allow extra time in summer, as the A and B roads in this part of England can be slow."
+      ],
+      [
+        "Do I need a handicap certificate?",
+        "It depends on the club. Saunton does not ask for certificates but expects a reasonable standard. Burnham & Berrow's Championship Course has a Handicap Index limit of 22 for men and 30 for women, with certificates required, while its nine-hole Channel Course has no limit. Minehead asks for a reasonable standard. Check the current rules when booking."
+      ],
+      [
+        "How far apart are the courses?",
+        "Saunton and Royal North Devon are roughly 30 minutes apart by road, so both fit in one break from a base in Braunton or Bideford. Minehead is around 90 minutes from Saunton and Burnham & Berrow a little further on, so a Somerset leg works best as a separate stay or a change of base."
+      ]
+    ]
+  },
+  {
+    "slug": "south-devon-dorset",
+    "country": "england",
+    "name": "South Devon & Dorset",
+    "code": "SDD",
+    "status": "live",
+    "featured": false,
+    "image": "/assets/images/courses/parkstone.webp",
+    "images": [
+      "/assets/images/courses/thurlestone.webp",
+      "/assets/images/courses/ferndown.webp",
+      "/assets/images/courses/isle-of-purbeck.webp",
+      "/assets/images/hotels/thurlestone-hotel.webp"
+    ],
+    "lede": "Clifftop golf above Bigbury Bay and Torbay, Dartmoor parkland, and the heathland courses of Poole, Broadstone, Ferndown and Purbeck, all on the English south coast.",
+    "intro": [
+      "South Devon and Dorset give you two quite different golf trips. On the Devon side the South Hams coast has Thurlestone and Bigbury above the bay, Churston over Torbay, Dartmouth in rolling farmland and Bovey Castle on the edge of Dartmoor. Exeter is the nearest main airport, and most of these courses sit roughly an hour to an hour and a quarter from it by road.",
+      "Dorset is heathland country. Parkstone, Broadstone, Ferndown and the Isle of Purbeck are four of England's best-regarded heath courses, built among pines, heather and gorse around Poole Harbour and Bournemouth. Visitor access is more controlled there, with handicap certificates and set days, so plan early. Allow around two hours by road between Exeter and Poole, which is why most groups choose one side."
+    ],
+    "stats": [
+      [
+        "1 hr 15",
+        "From Exeter airport to the South Hams"
+      ],
+      [
+        "25 min",
+        "From Bournemouth Airport to Broadstone and Ferndown"
+      ],
+      [
+        "8",
+        "Courses we cover here"
+      ],
+      [
+        "Apr–Oct",
+        "Peak season"
+      ]
+    ],
+    "faqs": [
+      [
+        "Which airport should we fly into?",
+        "For Devon, Exeter is closest, and a hire car is the easiest way to reach Thurlestone, Bigbury or Dartmoor. For Dorset, Bournemouth Airport is the nearest, with Southampton and Exeter as alternatives. London to Poole by train takes roughly two hours from Waterloo, while Totnes is under three hours from Paddington."
+      ],
+      [
+        "Do we need a handicap certificate?",
+        "Plan on it. Broadstone requires a current handicap certificate, Ferndown asks to see one on arrival, Parkstone wants a WHS Handicap Index and membership of an affiliated club, and Isle of Purbeck describes its Purbeck Course as one for players with a handicap. Thurlestone prefers one but welcomes competent golfers."
+      ],
+      [
+        "When can visitors play the Dorset heathland courses?",
+        "Access differs by club. From 2026 Ferndown's Old Course takes visitors April to October only, on Tuesdays, Thursday afternoons and Friday middays, never at weekends. Parkstone offers limited weekday and late weekend times from April to October and closes to visitors in January and February 2027. Book as far ahead as you can."
+      ],
+      [
+        "When is the best time to go?",
+        "Spring to autumn is peak season on both coasts, and the heathland clubs concentrate their visitor times there. Winter golf is possible: Dartmouth says it uses no temporary greens, Churston reports play on 365 days a year, and Thurlestone's drainage keeps it in play. Expect wind on the coast."
+      ]
+    ]
   }
 ]

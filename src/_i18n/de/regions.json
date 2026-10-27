@@ -498,5 +498,136 @@
         "Ja. Golf El Rompido und Islantilla in Huelva sind vom Zentrum Sevillas rund anderthalb Stunden im Auto entfernt, vom Flughafen 100 bis 105 Minuten. Ein geteilter Aufenthalt mit einigen Nächten in der Stadt und einigen an der Küste ist deshalb gut machbar."
       ]
     ]
+  },
+  "cornwall": {
+    "slug": "cornwall",
+    "name": "Cornwall",
+    "lede": "Atlantik-Links und Klippenplätze rund um Cornwalls Küste, von Bude bis zur Lizard-Halbinsel, mit dem Flughafen Newquay und der Bahnlinie nach Penzance als üblichen Zugängen.",
+    "intro": [
+      "Cornwalls Golf lebt von der Küste. An der Nordküste ziehen sich St Enodoc, Trevose und Perranporth durch Dünen über dem Atlantik, an den Enden ergänzen Bude und West Cornwall in Lelant ältere, ruhigere Links. Mullion thront auf den Klippen der Lizard-Halbinsel, Carlyon Bay blickt über die St Austell Bay, und Tehidy Park bietet geschütztes Parkland im Landesinneren. Der Wind bestimmt, wie schwer jeder Platz ausfällt, daher lohnt ein flexibler Reiseplan.",
+      "Die meisten Gäste fliegen nach Newquay, rund eine halbe Stunde per Auto von Trevose und Perranporth entfernt, oder fahren mit dem Zug von London Paddington nach Penzance. Exeter und Bristol passen zu einer längeren Autotour entlang der Küste. Hauptsaison ist von Frühling bis Herbst, mehrere Clubs betonen jedoch, auch im Winter bespielbar zu sein. Die Handicap-Regeln unterscheiden sich je nach Club; vor der Buchung also kurz prüfen."
+    ],
+    "stats": [
+      [
+        "25 Min.",
+        "Flughafen Newquay bis Perranporth"
+      ],
+      [
+        "9",
+        "Plätze, die wir hier abdecken"
+      ],
+      [
+        "2",
+        "Plätze in St Enodoc"
+      ],
+      [
+        "Apr–Okt",
+        "Hochsaison"
+      ]
+    ],
+    "faqs": [
+      [
+        "Welcher Flughafen eignet sich für eine Golfreise nach Cornwall?",
+        "Newquay liegt den Plätzen an der Nordküste am nächsten: Nach Perranporth und Trevose sind es etwa 25 bis 30 Minuten mit dem Auto. Von Exeter braucht man rund zwei Stunden an die Nordküste; ein Blick lohnt, wenn die Flüge dort günstiger sind. Mit der Bahn dauert London Paddington nach Penzance fünf bis sechs Stunden, die Strecke nach St Ives führt direkt an West Cornwall in Lelant vorbei."
+      ],
+      [
+        "Brauche ich einen Handicap-Nachweis?",
+        "Das hängt vom Club ab. Trevose verlangt Handicap-Nachweise, und der Church Course in St Enodoc begrenzt das Handicap auf 21,4 (Herren) bzw. 22,7 (Damen). Tehidy Park fragt im allgemeinen Gästespiel nicht danach, und der Holywell Course in St Enodoc hat keine Grenze. Am besten haben Sie Ihren Nachweis immer dabei."
+      ],
+      [
+        "Wie früh sollte ich Startzeiten buchen?",
+        "Für Mai bis Oktober so früh wie möglich. In St Enodoc werden ausgewählte Startzeiten erst 48 Stunden vorher für Gäste freigegeben, und Mullion öffnet viele Vormittagszeiten drei Tage vorher. Planen Sie deshalb etwas Spielraum ein und rufen Sie im Club an, falls Ihre Wunschzeit nicht angezeigt wird."
+      ],
+      [
+        "Kann ich an einem Tag zwei Plätze spielen?",
+        "In St Enodoc ja: Das Tagesticket kombiniert den kurzen Holywell Course mit dem Church Course und muss am selben Tag gespielt werden. Trevose bietet drei Plätze auf einer Anlage: Championship Course, neun Löcher Headland und einen Short Course."
+      ]
+    ]
+  },
+  "north-devon-somerset": {
+    "slug": "nord-devon-somerset",
+    "name": "Nord-Devon & Somerset",
+    "lede": "Links-Golf zwischen Atlantik und Bristolkanal: zwei Saunton-Plätze, der nach eigener Angabe älteste Club Englands in Westward Ho! und die Küstenlinks von Somerset.",
+    "intro": [
+      "Im Nordwesten von Devon liegen gleich drei Namen, derentwegen Links-Fans nach Südwestengland reisen. Saunton hat zwei 18-Loch-Plätze, East und West, in den Dünen von Braunton Burrows. Weiter westlich an der Bideford Bay beansprucht Royal North Devon in Westward Ho! den Titel des ältesten Golfplatzes Englands, angelegt 1864 von Old Tom Morris.",
+      "Jenseits der Grenze in Somerset folgen Burnham & Berrow mit hohen Dünen am Bristolkanal und Minehead & West Somerset, gegründet 1882, am Rand des Exmoor. Nach Devon fliegt man meist nach Exeter, nach Somerset nach Bristol. Hauptsaison ist Frühjahr bis Herbst, mehrere Clubs bieten aber Winterpreise."
+    ],
+    "stats": [
+      [
+        "75 Min.",
+        "Ab Flughafen Exeter bis Saunton"
+      ],
+      [
+        "5",
+        "Plätze im Programm"
+      ],
+      [
+        "1864",
+        "Royal North Devon angelegt"
+      ],
+      [
+        "Frühjahr–Herbst",
+        "Hauptsaison"
+      ]
+    ],
+    "faqs": [
+      [
+        "Welcher Flughafen ist der richtige?",
+        "Für Saunton und Royal North Devon bietet sich Exeter an, rund 75 Minuten Fahrt bis Saunton. Zu Burnham & Berrow ist es ab Bristol näher, etwa eine Stunde. Minehead liegt ab Bristol bei rund 90 Minuten. Im Sommer sollten Sie Puffer einplanen, denn die Landstraßen sind oft langsam."
+      ],
+      [
+        "Brauche ich einen Handicap-Nachweis?",
+        "Das hängt vom Club ab. Saunton verlangt keinen Nachweis, erwartet aber ein ordentliches Spielniveau. Auf dem Championship Course von Burnham & Berrow gilt ein Handicap-Index-Limit von 22 (Herren) und 30 (Damen), Nachweis erforderlich; der 9-Loch-Platz Channel Course hat kein Limit. In Minehead genügt ein ordentliches Niveau. Prüfen Sie die aktuellen Regeln bei der Buchung."
+      ],
+      [
+        "Wie weit liegen die Plätze auseinander?",
+        "Saunton und Royal North Devon trennen etwa 30 Minuten Fahrt, beide lassen sich also von Braunton oder Bideford aus in einer Reise spielen. Minehead liegt rund 90 Minuten von Saunton entfernt, Burnham & Berrow noch ein Stück weiter. Somerset planen Sie deshalb am besten als eigenen Aufenthalt oder mit einem Hotelwechsel."
+      ]
+    ]
+  },
+  "south-devon-dorset": {
+    "slug": "south-devon-dorset",
+    "name": "South Devon & Dorset",
+    "lede": "Küstengolf über der Bigbury Bay und der Torbay, Parkland am Dartmoor und die Heideplätze von Poole, Broadstone, Ferndown und Purbeck an der englischen Südküste.",
+    "intro": [
+      "Südengland bietet hier zwei ganz verschiedene Golfreisen. In Devon liegen an der Küste der South Hams Thurlestone und Bigbury über der Bucht, Churston mit Blick auf die Torbay, Dartmouth im welligen Ackerland und Bovey Castle am Rand des Dartmoor. Der nächste größere Flughafen ist Exeter; die meisten Plätze erreichen Sie von dort in rund einer bis eineinviertel Stunden mit dem Auto.",
+      "Dorset ist Heideland. Parkstone, Broadstone, Ferndown und die Isle of Purbeck gehören zu den angesehensten Heideplätzen Englands, zwischen Kiefern, Heidekraut und Ginster rund um den Hafen von Poole und Bournemouth. Hier wird der Gastzugang strenger gehandhabt, mit Handicap-Nachweis und festen Spieltagen, planen Sie daher früh. Zwischen Exeter und Poole liegen etwa zwei Stunden Fahrt, weshalb die meisten Gruppen sich für eine Seite entscheiden."
+    ],
+    "stats": [
+      [
+        "1 Std. 15",
+        "Vom Flughafen Exeter in die South Hams"
+      ],
+      [
+        "25 Min.",
+        "Vom Flughafen Bournemouth nach Broadstone und Ferndown"
+      ],
+      [
+        "8",
+        "Plätze, die wir hier abdecken"
+      ],
+      [
+        "Apr–Okt",
+        "Hochsaison"
+      ]
+    ],
+    "faqs": [
+      [
+        "Welchen Flughafen sollten wir wählen?",
+        "Für Devon ist Exeter am nächsten; mit dem Mietwagen kommen Sie am einfachsten nach Thurlestone, Bigbury oder ins Dartmoor. Für Dorset bietet sich Bournemouth an, alternativ Southampton oder Exeter. Mit der Bahn dauert London Waterloo bis Poole rund zwei Stunden, Paddington bis Totnes unter drei Stunden."
+      ],
+      [
+        "Brauchen wir einen Handicap-Nachweis?",
+        "Rechnen Sie damit. Broadstone verlangt ein gültiges Handicap-Zertifikat, Ferndown lässt es sich bei der Ankunft zeigen, Parkstone fordert einen WHS-Handicap-Index und die Mitgliedschaft in einem angeschlossenen Club, und die Isle of Purbeck beschreibt den Purbeck Course als Platz für Spieler mit Handicap. Thurlestone bevorzugt einen Nachweis, nimmt aber auch kompetente Spieler auf."
+      ],
+      [
+        "Wann können Gäste die Heideplätze in Dorset spielen?",
+        "Das regelt jeder Club anders. Ferndowns Old Course nimmt ab 2026 Gäste nur von April bis Oktober, dienstags, donnerstags nachmittags und freitags mittags, nie am Wochenende. Parkstone bietet von April bis Oktober begrenzte Zeiten unter der Woche und spät am Wochenende und ist im Januar und Februar 2027 für Gäste geschlossen. Buchen Sie so früh wie möglich."
+      ],
+      [
+        "Wann ist die beste Reisezeit?",
+        "Frühling bis Herbst ist an beiden Küsten Hochsaison, und die Heideclubs bündeln ihre Gastzeiten genau dort. Auch im Winter lässt sich spielen: Dartmouth nennt keine Wintergrüns, Churston spricht von 365 Spieltagen, und Thurlestone entwässert gut. An der Küste sollten Sie mit Wind rechnen."
+      ]
+    ]
   }
 }

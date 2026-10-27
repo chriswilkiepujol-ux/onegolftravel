@@ -498,5 +498,136 @@
         "Sí. Golf El Rompido e Islantilla, en Huelva, quedan a hora y media del centro de Sevilla por carretera y a entre 100 y 105 minutos del aeropuerto; un viaje partido, unas noches en la ciudad y otras en la costa, es muy factible."
       ]
     ]
+  },
+  "cornwall": {
+    "slug": "cornualles",
+    "name": "Cornualles",
+    "lede": "Links atlánticos y campos de acantilado a lo largo de la costa de Cornualles, de Bude a Lizard, con el aeropuerto de Newquay y el tren a Penzance como puertas de entrada.",
+    "intro": [
+      "El golf de Cornualles se juega mirando al mar. En la costa norte, St Enodoc, Trevose y Perranporth se abren paso entre dunas sobre el Atlántico, y en los extremos están Bude y West Cornwall, en Lelant, dos links más antiguos y tranquilos. Mullion se asoma a los acantilados de Lizard, Carlyon Bay domina la bahía de St Austell y Tehidy Park ofrece un parkland resguardado tierra adentro. El viento marca la dificultad de cada uno, así que conviene ir con el plan abierto.",
+      "Lo habitual es volar a Newquay, a unos treinta minutos en coche de Trevose y Perranporth, o llegar en tren desde Londres Paddington hasta Penzance. Exeter y Bristol encajan si prefieres hacer ruta por carretera. La temporada alta va de primavera a otoño, aunque varios clubes aseguran que se juega bien en invierno. Cada club pide cosas distintas en cuanto a hándicap, así que mejor comprobarlo antes de reservar."
+    ],
+    "stats": [
+      [
+        "25 min",
+        "Del aeropuerto de Newquay a Perranporth"
+      ],
+      [
+        "9",
+        "Campos que cubrimos aquí"
+      ],
+      [
+        "2",
+        "Campos en St Enodoc"
+      ],
+      [
+        "Abr–Oct",
+        "Temporada alta"
+      ]
+    ],
+    "faqs": [
+      [
+        "¿Qué aeropuerto conviene para un viaje de golf a Cornualles?",
+        "Newquay es el más cercano a los campos de la costa norte: entre 25 y 30 minutos en coche hasta Perranporth o Trevose. Exeter queda a unas dos horas de esa costa y merece una mirada si los vuelos salen mejor de precio. En tren, de Londres Paddington a Penzance hay entre cinco y seis horas, y la línea de St Ives pasa junto a West Cornwall, en Lelant."
+      ],
+      [
+        "¿Necesito certificado de hándicap para jugar?",
+        "Depende del club. Trevose exige certificado de hándicap, y el Church Course de St Enodoc limita el hándicap a 21,4 en caballeros y 22,7 en señoras. Tehidy Park no pide certificado para el juego general de visitantes y el Holywell de St Enodoc no tiene límite. Lo más prudente es llevar siempre tu acreditación de hándicap."
+      ],
+      [
+        "¿Con cuánta antelación hay que reservar la salida?",
+        "Cuanto antes, si vais entre mayo y octubre. En St Enodoc algunas horas se abren a los visitantes solo 48 horas antes, y Mullion libera muchas de las de mañana tres días antes, así que dejad algo de margen en el plan y llamad al club si no veis la hora que queréis."
+      ],
+      [
+        "¿Se pueden jugar dos campos en un mismo día?",
+        "Sí, en St Enodoc: el ticket de día combina el Holywell, el campo corto, con el Church Course y ha de jugarse el mismo día. Trevose, por su parte, reúne tres campos en una misma finca: el Championship, el Headland de nueve hoyos y un campo corto."
+      ]
+    ]
+  },
+  "north-devon-somerset": {
+    "slug": "norte-devon-somerset",
+    "name": "Norte de Devon y Somerset",
+    "lede": "Links entre el Atlántico y el canal de Bristol: los dos campos de Saunton, el club más antiguo de Inglaterra en Westward Ho! y los links de dunas y costa de Somerset.",
+    "intro": [
+      "Si vas al suroeste de Inglaterra a jugar links, el norte de Devon es parada obligada. Saunton tiene dos campos de 18 hoyos, East y West, entre las dunas de Braunton Burrows. Más al oeste, en la bahía de Bideford, Royal North Devon se presenta como el campo de golf más antiguo de Inglaterra, obra de Old Tom Morris en 1864.",
+      "Al otro lado del límite, en Somerset, Burnham & Berrow ofrece grandes dunas sobre el canal de Bristol y Minehead & West Somerset, fundado en 1882, bordea Exmoor. Para Devon se vuela a Exeter y para Somerset a Bristol. La temporada alta va de primavera a otoño, aunque varios clubes tienen tarifas de invierno."
+    ],
+    "stats": [
+      [
+        "75 min",
+        "Desde el aeropuerto de Exeter a Saunton"
+      ],
+      [
+        "5",
+        "Campos que reservamos aquí"
+      ],
+      [
+        "1864",
+        "Año de Royal North Devon"
+      ],
+      [
+        "Primavera–otoño",
+        "Temporada alta"
+      ]
+    ],
+    "faqs": [
+      [
+        "¿Qué aeropuerto me conviene?",
+        "Para Saunton y Royal North Devon, Exeter, a unos 75 minutos por carretera de Saunton. Para Burnham & Berrow, Bristol está más cerca, a cosa de una hora. Minehead queda a unos 90 minutos de Bristol. En verano conviene sumar margen: las carreteras comarcales de la zona suelen ir lentas."
+      ],
+      [
+        "¿Hace falta certificado de hándicap?",
+        "Depende del club. En Saunton no lo piden, pero esperan un nivel razonable. El Championship de Burnham & Berrow limita el índice a 22 para hombres y 30 para mujeres y exige certificado; su Channel Course, de nueve hoyos, no tiene límite. En Minehead basta un nivel razonable. Confirma las condiciones vigentes al reservar."
+      ],
+      [
+        "¿A qué distancia están los campos?",
+        "Saunton y Royal North Devon están a unos 30 minutos en coche, así que caben en una misma escapada con base en Braunton o Bideford. Minehead queda a unos 90 minutos de Saunton y Burnham & Berrow algo más allá. Lo más cómodo es dedicar a Somerset una estancia aparte o cambiar de alojamiento a mitad del viaje."
+      ]
+    ]
+  },
+  "south-devon-dorset": {
+    "slug": "sur-de-devon-y-dorset",
+    "name": "Sur de Devon y Dorset",
+    "lede": "Golf de acantilado sobre la bahía de Bigbury y Torbay, parkland en Dartmoor y los brezales de Poole, Broadstone, Ferndown y Purbeck, en la costa sur de Inglaterra.",
+    "intro": [
+      "El sur de Devon y Dorset da para dos viajes de golf distintos. En Devon, la costa de las South Hams reúne Thurlestone y Bigbury sobre la bahía, Churston con vistas a Torbay, Dartmouth entre colinas de labranza y Bovey Castle en el borde de Dartmoor. El aeropuerto principal más cercano es Exeter, y la mayoría de estos campos queda a entre una hora y una hora y cuarto en coche.",
+      "Dorset es tierra de brezal. Parkstone, Broadstone, Ferndown y la Isle of Purbeck figuran entre los mejores campos de heath de Inglaterra, con pinos, brezo y retama alrededor del puerto de Poole y Bournemouth. El acceso de visitantes es más restringido: certificado de hándicap y días concretos, así que reserva con antelación. Entre Exeter y Poole hay unas dos horas por carretera, por eso casi todos los grupos eligen un solo lado."
+    ],
+    "stats": [
+      [
+        "1 h 15",
+        "Desde el aeropuerto de Exeter hasta las South Hams"
+      ],
+      [
+        "25 min",
+        "Del aeropuerto de Bournemouth a Broadstone y Ferndown"
+      ],
+      [
+        "8",
+        "Campos que cubrimos aquí"
+      ],
+      [
+        "Abr–Oct",
+        "Temporada alta"
+      ]
+    ],
+    "faqs": [
+      [
+        "¿A qué aeropuerto conviene volar?",
+        "Para Devon, Exeter es el más cercano y un coche de alquiler es la forma más cómoda de llegar a Thurlestone, Bigbury o Dartmoor. Para Dorset, el de Bournemouth; Southampton y Exeter son alternativas. De Londres a Poole en tren se tarda unas dos horas desde Waterloo, y a Totnes menos de tres desde Paddington."
+      ],
+      [
+        "¿Hace falta certificado de hándicap?",
+        "Cuenta con ello. Broadstone exige certificado vigente, Ferndown lo pide al llegar, Parkstone quiere índice de hándicap WHS y pertenecer a un club afiliado, y la Isle of Purbeck presenta su Purbeck Course como campo para jugadores con hándicap. Thurlestone lo prefiere, pero acepta a jugadores con nivel suficiente."
+      ],
+      [
+        "¿Cuándo pueden jugar visitantes en los brezales de Dorset?",
+        "Depende del club. Desde 2026, el Old Course de Ferndown recibe visitantes de abril a octubre, los martes, los jueves por la tarde y los viernes a mediodía, nunca en fin de semana. Parkstone ofrece pocas horas entre semana y a última hora del fin de semana de abril a octubre, y cierra a visitantes en enero y febrero de 2027. Reserva con la máxima antelación."
+      ],
+      [
+        "¿Cuál es la mejor época?",
+        "De primavera a otoño es temporada alta en ambas costas, y los clubes de brezal concentran ahí sus horas para visitantes. En invierno se puede jugar: Dartmouth dice no usar greenes temporales, Churston asegura abrir los 365 días y el drenaje de Thurlestone lo mantiene en juego. En la costa, cuenta con viento."
+      ]
+    ]
   }
 }

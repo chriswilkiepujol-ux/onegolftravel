@@ -73,23 +73,31 @@
     "code": "ENG",
     "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "order": 3,
-    "status": "coming-soon",
+    "status": "live",
     "targets": {
       "packages": 5,
       "courses": 20
     },
-    "image": "/assets/images/countries/england.webp",
-    "hero": "/assets/images/countries/england.webp",
-    "airports": "London Heathrow, Gatwick, Manchester, Liverpool",
-    "lede": "Open Championship links in the north-west, the heathland classics of Surrey and Berkshire, and easy access from every major airport.",
+    "image": "/assets/images/courses/st-enodoc.webp",
+    "hero": "/assets/images/courses/st-enodoc.webp",
+    "airports": "Exeter, Newquay, Bristol, Bournemouth",
+    "lede": "England's South West golf coast: St Enodoc and Trevose in Cornwall, Saunton and Royal North Devon, and the Dorset heathland, with more of England to follow.",
     "intro": [
-      "England packs an enormous amount of golf into a small space. The Lancashire coast alone has Royal Birkdale, Royal Lytham and Hillside within a short drive of each other, while Surrey's heathland courses around Sunningdale and Wentworth are twenty minutes from Heathrow.",
-      "We are building our first England packages now. In the meantime we are booking England trips on request, so tell us your dates and the courses on your list and we will put a proposal together."
+      "We are starting England in the South West. Cornwall, Devon, Somerset and Dorset hold a run of links, clifftop and heathland courses within a few hours of Exeter, Newquay and Bournemouth airports. Royal North Devon at Westward Ho! opened in 1864 and Saunton has two big dunes courses, while Parkstone, Broadstone and Ferndown are the heathland names around Poole and Bournemouth.",
+      "The rest of England follows. Until then we plan trips on request: tell us your dates and the courses on your list and we will put a proposal together."
     ],
     "faqs": [
       [
-        "Which part of England should we play?",
-        "For links golf, the north-west coast between Liverpool and Blackpool. For heathland and easy London access, Surrey and Berkshire. For a mix of both with coastal scenery, Kent and the south-east."
+        "Which airport should we fly into?",
+        "Exeter suits north and south Devon and Somerset, Newquay is the closest for Cornwall's north coast, and Bournemouth is the one for Dorset. Bristol is a useful alternative with more routes, and the train from London Paddington reaches Cornwall and Devon."
+      ],
+      [
+        "Do these courses take visitors?",
+        "Most do, but many ask for proof of handicap and keep some weekend and members' times closed to visitors. Tell us your dates early and we will check each club."
+      ],
+      [
+        "Can we play more than one coast in a week?",
+        "Yes. Saunton and Royal North Devon are close together on the north Devon coast, Cornwall's north coast is a further drive west, and Dorset sits to the east. A seven-night trip usually covers two of the three."
       ]
     ]
   },

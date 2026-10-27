@@ -1344,5 +1344,296 @@
       "Casa club con bar y restaurante",
       "Tienda de golf"
     ]
+  },
+  "st-enodoc": {
+    "summary": "El Church Course de St Enodoc, obra de James Braid: un par 69 entre dunas junto al estuario del Camel que, aunque corto de metraje, se complica en cuanto sopla el viento.",
+    "about": "St Enodoc ocupa un paisaje de dunas altas a orillas del estuario del Camel, en Rock, con Padstow enfrente y el Atlántico al norte. James Braid trazó los 18 hoyos en 1907 y el recorrido se retocó en 1922 y de nuevo tras el traslado de la casa club en 1937. Son 6.557 yardas desde las salidas azules, poco para los estándares actuales, pero el récord del campo es solo 65 golpes y el viento casi nunca da tregua. Antes de reservar, ojo con el hándicap: el club fija un máximo de 21,4 para caballeros y 22,7 para señoras en este campo. Algunas horas de salida se liberan 48 horas antes y el buggy solo se alquila con certificado médico. El club tiene además otro campo de 18 hoyos, el Holywell.",
+    "signature": "",
+    "facilities": [
+      "Tienda de golf",
+      "Casa club",
+      "Caddies bajo reserva",
+      "Buggy solo con certificado médico",
+      "Reserva de salida online para visitantes",
+      "Segundo campo de 18 hoyos (Holywell)"
+    ]
+  },
+  "st-enodoc-holywell": {
+    "summary": "El segundo campo de St Enodoc, más relajado: 18 hoyos cortos, nueve par 3 y nueve par 4, sin límite de hándicap y con la misma hierba de links que el Church.",
+    "about": "Holywell es el campo pequeño de St Enodoc, al norte de la casa club, en terrenos donde se juega desde hace más de 130 años. Empezó siendo un recorrido de nueve hoyos que reabrió en 1967 y se amplió a 18 en 1982, cuando el club compró más terreno. Hoy tiene nueve par 3 y nueve par 4, 4.082 yardas en total y par 63. Según el club, aquí no hay restricción de hándicap, así que encaja bien con grupos de nivel mixto, juniors o con quien quiera calentar antes de jugar el Church Course. Existen tickets de día que combinan ambos campos y también una semana de rondas ilimitadas en el Holywell.",
+    "signature": "",
+    "facilities": [
+      "Tienda de golf",
+      "Casa club",
+      "Caddies bajo reserva",
+      "Buggy solo con certificado médico",
+      "Reserva de salida online para visitantes",
+      "Ticket de día combinado con el Church Course"
+    ]
+  },
+  "trevose": {
+    "summary": "El Championship Course de Trevose, de Harry Colt (1925), sobre la bahía de Constantine: un par 72 de links con dunas y mar en la ida y un regreso más interior, donde manda el viento.",
+    "about": "La familia Gammon es propietaria de Trevose desde 1941 y su Championship Course, obra de Harry Colt, se inauguró en 1925 en el promontorio que domina la bahía de Constantine. La ida recorre dunas y costa; la vuelta se adentra en el interior antes de regresar a la casa club. Aquí el rival es el viento, y por el campo pasó en 2019 el Farmfoods European Legends Links Championship. Desde las salidas negras suma 6.948 yardas con par 72. Hay que presentar el certificado de hándicap, se exige vestimenta correcta y no se admiten tacos metálicos. La finca cuenta además con el Headland, un nueve hoyos de Peter Alliss abierto en 1993, y un campo corto.",
+    "signature": "",
+    "facilities": [
+      "Campo de prácticas",
+      "Golf Performance Centre",
+      "Tienda y alquiler de material",
+      "Restaurante Constantine",
+      "Pádel y tenis",
+      "Gimnasio",
+      "Alojamiento en el propio complejo"
+    ]
+  },
+  "perranporth": {
+    "summary": "El links de James Braid sobre los acantilados de Perranporth: par 72 y 6.720 yardas desde las salidas azules, abierto a visitantes los siete días de la semana.",
+    "about": "El club de Perranporth se fundó en 1927 y el campo, trazado por James Braid, conserva un aire natural y sin artificios. Discurre en lo alto del acantilado, entre dunas, con el Atlántico y la costa a la vista casi todo el recorrido. Es un par 72 de 6.720 yardas desde las barras azules, aunque aquí pesa más el terreno y el tiempo que la distancia. Los visitantes pueden jugar cualquier día de la semana, reservando la salida por internet, y el club alquila buggies y palos, estos últimos con reserva previa. Si quieres jugar con alguien que conozca el campo, se pueden contratar caddies. Además hay lodges y caravanas dentro del club.",
+    "signature": "",
+    "facilities": [
+      "Alquiler de buggies y carros",
+      "Alquiler de palos (con reserva previa)",
+      "Caddies bajo reserva",
+      "Casa club con bar y restaurante",
+      "Profesional residente",
+      "Lodges y caravanas en el propio club"
+    ]
+  },
+  "west-cornwall": {
+    "summary": "El campo más antiguo que se conserva en Cornualles, fundado en 1889 en Lelant: un links par 69 sobre la bahía de St Ives y el estuario de Hayle, con el tren pegado a las calles.",
+    "about": "West Cornwall, en Lelant, domina la bahía de St Ives y el estuario de Hayle, y la línea de ferrocarril de St Ives corre junto al campo. El club se fundó en 1889 y se presenta como el campo más antiguo de Cornualles; es la casa de 'Long' Jim Barnes y de los internacionales de Walker Cup Philip Rowe y Harry Hall. Con 5.847 yardas desde las barras blancas y par 69 es corto, pero las dunas, los greenes elevados y el tramo conocido como el Triángulo piden cabeza. En el campo se exige calzado de tacos blandos, polo con cuello, calcetines y nada de vaqueros ni chándal. Las sociedades deben llevar el certificado de hándicap.",
+    "signature": "El Triángulo, una secuencia de hoyos difíciles que arranca en el par 3 del 5, es donde según el club se estropean muchas tarjetas.",
+    "facilities": [
+      "Tienda de golf",
+      "Clases individuales y en grupo",
+      "Alquiler de palos",
+      "Restaurante",
+      "Bar",
+      "Torneos de sociedades y empresas"
+    ]
+  },
+  "bude-north-cornwall": {
+    "summary": "Un links clásico junto al mar en Burn View, a pocos minutos del centro de Bude: par 70, 6.015 yardas, greenes con ondulaciones y una historia que arranca en 1891.",
+    "about": "Bude and North Cornwall es un links costero pegado al pueblo, con vistas al mar y al campo y greenes ondulados que exigen precisión. Se juega al golf aquí desde 1891. El club cree que el trazado original fue casi seguro de Tom Dunn, aunque no hay prueba definitiva, y Harry Vardon lo visitó en 1905, 1907 y 1909: en la última rebajó el récord del campo a 65. Desde las salidas más largas son 6.015 yardas con par 70 y slope 124. Los visitantes reservan por internet, y en la tienda se alquilan buggies y carros. La casa club tiene bar y restaurante.",
+    "signature": "",
+    "facilities": [
+      "Tienda de golf",
+      "Alquiler de buggies y carros",
+      "Bar y restaurante",
+      "Sociedades y grupos",
+      "Reserva de salida online para visitantes"
+    ]
+  },
+  "mullion": {
+    "summary": "Un campo de acantilado en la península de Lizard, fundado en 1895 y, según el club, el más meridional del país: par 70, 6.053 yardas, con calas y juncales a la vista.",
+    "about": "Mullion se asienta sobre los acantilados de la península de Lizard y presume de ser el campo más al sur de Inglaterra, con calas de arena y carrizales protegidos como telón de fondo. El club nació tras una reunión pública en Helston en 1895, y hoy los terrenos pertenecen al National Trust. Conan Doyle, A. A. Milne y A. P. Herbert fueron jugadores habituales. Desde las salidas blancas son 6.053 yardas, par 70 y slope 123, con bastantes desniveles. El club asegura que rara vez cierra por mal tiempo. Las salidas de tarde (desde la 1) se reservan online con mucha antelación; las de mañana se abren tres días antes. Se pide vestimenta cuidada pero informal y calzado de golf.",
+    "signature": "",
+    "facilities": [
+      "Tienda de golf",
+      "Clases",
+      "Bar y restaurante",
+      "Alquiler de buggies y carros",
+      "Sociedades y grupos",
+      "Reserva de salida online para visitantes"
+    ]
+  },
+  "tehidy-park": {
+    "summary": "Un campo de parkland protegido, de 1922, en la antigua finca Basset junto a Camborne: par 71, 6.261 yardas, tres lagos y sin exigir certificado de hándicap a los visitantes.",
+    "about": "Tehidy Park es la opción de interior en el oeste de Cornualles: un parkland resguardado, entre robles y hayas, bajo la antigua finca Basset. Se inauguró en 1922 con el asesoramiento de Jim Barnes, campeón de grandes nacido en Cornualles; tras la guerra C.K. Cotton lo remodeló y alargó, y en 1998 se añadieron tres lagos. Desde las barras blancas son 6.261 yardas con par 71. El 5 es un par 3 de 193 yardas sobre el agua y el 8, un par 4 de 443, es el hoyo de handicap 1. Los visitantes juegan los siete días; fines de semana y festivos hay salidas desde las 13:00, y no piden certificado de hándicap para el juego general de visitantes.",
+    "signature": "El 5, un par 3 de 193 yardas, obliga a un carry completo sobre un lago, sin zona de escape.",
+    "facilities": [
+      "Tienda de golf",
+      "Campo de prácticas",
+      "Putting green",
+      "Restaurante Cygnets y bar",
+      "Alquiler de buggies y carros",
+      "Simulador de golf y clases"
+    ]
+  },
+  "carlyon-bay": {
+    "summary": "Un par 72 de campeonato sobre la bahía de St Austell: diez hoyos al borde del acantilado y después parkland, con juego sin green fee para los huéspedes del hotel vecino.",
+    "about": "El campo de campeonato de Carlyon Bay se diseñó en 1912 y se asienta sobre los acantilados de la bahía de St Austell. El propio club lo define como un campo de dos mitades: los diez primeros hoyos discurren a lo largo del borde del acantilado y luego el trazado se mete en terreno de parkland. Es un par 72, y cuenta con un campo de aproximación de nueve hoyos, una zona de prácticas de seis acres y dos putting greens. El 1, Carlyon, es un par 4 de 371 yardas junto al acantilado y el 2, Tregrehan, llega a 449. Los clientes del Carlyon Bay Hotel juegan sin green fee; socios y visitantes también pueden reservar. Hay clases con profesionales PGA y alquiler de material.",
+    "signature": "Los diez primeros hoyos siguen el borde del acantilado, a partir del par 4 de 371 yardas del 1, Carlyon.",
+    "facilities": [
+      "Tienda de golf",
+      "Casa club",
+      "Campo de aproximación de nueve hoyos",
+      "Zona de prácticas de seis acres",
+      "Dos putting greens",
+      "Clases con profesionales PGA",
+      "Estudio con simulador TrackMan"
+    ]
+  },
+  "saunton-east": {
+    "summary": "El East de Saunton, obra de Herbert Fowler en los años veinte, es un links de par 71 entre dunas que acogió el English Amateur; los visitantes no necesitan certificado de hándicap.",
+    "about": "Saunton tiene dos campos de links y el East es el más antiguo. Herbert Fowler lo trazó en los años veinte sobre Braunton Burrows, el mayor sistema de dunas de Inglaterra, y allí se jugó el English Amateur de 1937 y, en 2024, los Senior Amateur del R&A. Aquí manda el viento del Atlántico y el césped firme: el par 3 del hoyo 5 mide apenas 115 yardas desde blancas, pero hay que saber leerlo. Los visitantes entran, en general, a partir de las 9:00 y con reserva previa. El club no pide certificado de hándicap, aunque sí un nivel razonable de juego, vestimenta de golf cuidada y tacos blandos.",
+    "signature": "",
+    "facilities": [
+      "Dos greens de putt de práctica",
+      "Zona de juego corto",
+      "Campo de prácticas cubierto para hierros (con fichas)",
+      "Campo de prácticas largo",
+      "Tienda con alquiler de palos y buggies",
+      "Club con bar y restauración"
+    ]
+  },
+  "saunton-west": {
+    "summary": "El West de Saunton, de Herbert Fowler y rediseñado por Frank Pennink, es el segundo links del club: par 71 donde cuenta más colocar la bola desde el tee que pegar largo.",
+    "about": "En 1935 el club volvió a llamar a Herbert Fowler para un segundo campo, que años después rediseñó Frank Pennink y que reabrió en 1974. Comparte dunas y césped firme con el East, pero tiene personalidad propia: según el club no hay un solo hoyo flojo y lo que se premia es la estrategia, no la distancia. Los greens, con mucho movimiento, son su mejor defensa, así que conviene decidirse por la línea y ejecutarla. Acogió, junto al East, los Senior Amateur del R&A de 2024. Salidas para visitantes desde las 9:00, con reserva; vestimenta de golf y tacos blandos.",
+    "signature": "",
+    "facilities": [
+      "Dos greens de putt de práctica",
+      "Zona de juego corto",
+      "Campo de prácticas cubierto para hierros (con fichas)",
+      "Campo de prácticas largo",
+      "Tienda con alquiler de palos y buggies",
+      "Club con bar y restauración"
+    ]
+  },
+  "royal-north-devon": {
+    "summary": "Westward Ho!, que el club presenta como el campo de golf más antiguo de Inglaterra: un links de Old Tom Morris de 1864 sobre los terrenos comunales de Northam Burrows, par 72.",
+    "about": "Old Tom Morris diseñó este campo en 1864 y el propio club se define como el más antiguo de Inglaterra; el título de Royal llegó en 1867. Se juega sobre unas 170 acres de Northam Burrows, tierra comunal junto a la bahía de Bideford, y la filosofía es dejarlo lo más natural posible, con calles y greens firmes y rápidos. Ha recibido dos veces el British Amateur. Dentro del club hay museo de golf y paneles de honor que merecen media hora. Ojo con el buggy: solo se concede por motivos médicos. Para jugar, nada de camisetas ni mangas cortadas para hombres.",
+    "signature": "",
+    "facilities": [
+      "Restaurante y bar en el club",
+      "Museo de golf y paneles de honor",
+      "Tienda y clases con profesional PGA",
+      "Putting green de 18 hoyos",
+      "Zonas de chip y pitch",
+      "Campo corto Taylor de 9 hoyos"
+    ]
+  },
+  "burnham-berrow": {
+    "summary": "Un links de Somerset entre grandes dunas junto al canal de Bristol, fundado en 1890, sede de la Open Final Qualifying de 2024 y con un Channel Course de nueve hoyos.",
+    "about": "El club se fundó en 1890 y los primeros nueve hoyos se abrieron en 1891. El trazado actual debe mucho al informe de Harry Colt de 1913; en los años veinte se consultó a Alister MacKenzie y desde 2013 MacKenzie & Ebert llevan un plan director de mejoras. La primera vuelta bordea dunas y costa hacia el norte, y luego el campo gira tierra adentro y regresa por Berrow. En 2024 fue sede de la Open Final Qualifying. Atención al hándicap: índice máximo de 22 para hombres y 30 para mujeres, con certificado obligatorio. El Channel Course, de nueve hoyos, no tiene límite.",
+    "signature": "",
+    "facilities": [
+      "Campo de prácticas",
+      "Dos zonas de juego corto con búnkeres de práctica",
+      "Putting green amplio",
+      "Tienda y clases con profesionales PGA",
+      "Restaurante del club desde las 8:00",
+      "Alquiler de buggies",
+      "Alojamiento en la Dormy House"
+    ]
+  },
+  "minehead-west-somerset": {
+    "summary": "El club de golf más antiguo de Somerset, fundado en 1882 y todavía sobre su terreno original: un links costero frente a las colinas de Brendon, abierto todo el año.",
+    "about": "Minehead & West Somerset nació en 1882 y, según el club, sigue jugándose sobre el terreno original, entre el canal de Bristol y las colinas de Brendon, a las puertas de Exmoor. En la tarjeta blanca se abre y se cierra con un par 3. El club habla de calles firmes, buenos greens y una mezcla de hoyos de links puro con alguno más suave tierra adentro; la segunda vuelta es la más expuesta al viento. Se puede jugar todo el año, las salidas se reservan online con pago íntegro y basta un nivel razonable. Junto al borde del campo pasa el tren de vapor de West Somerset.",
+    "signature": "",
+    "facilities": [
+      "Tienda con fitting y taller de reparación",
+      "Alquiler de palos, buggies y carros",
+      "Bar y restaurante 19th",
+      "Reserva online de salidas para visitantes",
+      "Lista de alojamientos locales para estancias de golf"
+    ]
+  },
+  "dartmouth": {
+    "summary": "Un par 72 ondulado de estilo parkland en las South Hams: 7.147 yardas desde atrás, agua en juego y un nueve hoyos más al lado para completar la jornada.",
+    "about": "Jeremy Pern diseñó el campo de campeonato de Dartmouth en 1992 sobre 225 acres de campiña ondulada, con muchos obstáculos de agua. Desde las barras Gold son 7.147 yardas, par 72 y slope 140, pero con cuatro salidas distintas se ajusta a casi cualquier hándicap. El club presume de no usar greenes temporales en todo el año, algo que se agradece si viajas en invierno. Las horas de salida son imprescindibles y se reservan con siete días de antelación. Pertenece al hotel The Dartmouth Hotel, Golf & Spa, y junto al campo grande hay un nueve hoyos para una vuelta extra.",
+    "signature": "",
+    "facilities": [
+      "Zona de prácticas con redes",
+      "Putting green",
+      "Tienda de golf",
+      "Alquiler de buggies y carros",
+      "Clases con profesores PGA",
+      "Restaurante y bar del hotel",
+      "Segundo campo de nueve hoyos"
+    ]
+  },
+  "thurlestone": {
+    "summary": "Un Colt a medio camino entre links y acantilado sobre la bahía de Bigbury: par 71, 6.175 yardas y vistas a la isla de Burgh.",
+    "about": "El club nació en 1897 con nueve hoyos, pasó a dieciocho en 1912 y Harry Colt rediseñó el recorrido en 1928. Discurre por lo alto de los acantilados de la bahía de Bigbury, con vistas a Burgh Island y a la roca de Thurlestone, y alterna terreno de aire links con hoyos muy expuestos al mar. Desde barras blancas mide 6.175 yardas, par 71 y slope 126. Según el club, el drenaje natural permite jugar en invierno sin greenes temporales. Se pide traer certificado de hándicap si es posible, aunque aceptan a jugadores con nivel suficiente. En el campo, polo con cuello; nada de vaqueros, chándales ni ropa de playa.",
+    "signature": "",
+    "facilities": [
+      "Tienda profesional con equipo PGA",
+      "Alquiler de buggies, carros y palos",
+      "Fitting con TrackMan",
+      "Simulador de golf interior",
+      "Vestuarios con duchas",
+      "Salón, bar y restaurante",
+      "Terraza sobre el hoyo 1"
+    ]
+  },
+  "bigbury": {
+    "summary": "Un par 70 costero y acogedor sobre el estuario del Avon y Burgh Island, con calles anchas, greenes rápidos y una brisa marina que condiciona los palos.",
+    "about": "Abrió en 1923 y desde sus calles se ve el estuario del Avon, el páramo y la isla de Burgh. J.H. Taylor y Fred Hawtree ampliaron los nueve hoyos originales hasta dieciocho. Desde barras blancas son 6.011 yardas, par 70 y slope 127: corto para lo que hoy se estila, pero el club advierte de calles anchas, greenes veloces y un viento de mar que complica la elección de palo. El tee del 1 es el punto más alto y frío del campo. Los viernes los visitantes pueden apuntarse al «circus», un stableford informal de los socios. Vestimenta smart casual, sin vaqueros en el campo, y solo ocho buggies: reserva con tiempo.",
+    "signature": "",
+    "facilities": [
+      "Putting green",
+      "Zona de chipping",
+      "Campo de prácticas de largo completo",
+      "Tienda de golf",
+      "Alquiler de buggies, carros y palos",
+      "Salón del club con vistas al mar",
+      "Vestuarios y aparcamiento amplio"
+    ]
+  },
+  "bovey-castle": {
+    "summary": "El campo de Abercromby en Dartmoor, abierto en 1930, serpentea junto al río Bovey bajo un hotel de cinco estrellas; par 70 desde barras blancas.",
+    "about": "J.F. Abercromby proyectó este campo, inaugurado en 1930 en el borde del Parque Nacional de Dartmoor. El río Bovey cruza los primeros hoyos y, junto con árboles y búnkeres, castiga cualquier hierro largo mal ejecutado. Desde barras blancas mide 6.143 yardas, par 70. El calentamiento está muy bien resuelto: campo de prácticas de hierba con cuatro puestos cubiertos y calefactados, zona de juego corto, putting green y academia. Se admiten bermudas con calcetines deportivos, pero no vaqueros, chándales ni zapatillas de entrenamiento, y los perros no pueden entrar al campo. El hotel vende paquetes de golf con alojamiento.",
+    "signature": "El 3 se juega a un green sobre un promontorio natural en los jardines del castillo, casi rodeado de agua; el club aconseja apuntar a la mitad derecha.",
+    "facilities": [
+      "Campo de prácticas de hierba con cuatro puestos cubiertos y calefactados",
+      "Zona de juego corto",
+      "Putting green",
+      "Alquiler de buggies y carros",
+      "Servicio de caddie",
+      "Tienda y alquiler de palos",
+      "Vestuarios y clases con profesores PGA"
+    ]
+  },
+  "isle-of-purbeck": {
+    "summary": "Brezal protegido sobre la bahía de Poole: par 70, 6.295 yardas y un tee del 5 con una de las mejores vistas del golf británico.",
+    "about": "El Purbeck Course se extiende por una reserva natural declarada Sitio de Especial Interés Científico, donde retama, brezo y ciervos conviven con las calles. El club se fundó en 1892. Desde barras blancas son 6.295 yardas, par 70 y slope 128, con vistas al puerto de Poole, a Brownsea Island y a Bournemouth. El propio club lo presenta como un campo para jugadores con experiencia y hándicap, con greenes secos y firmes, de unos 9 a 9,5 pies en el stimpmeter. Hay que llevar polo con cuello por dentro del pantalón, bermudas de corte sastre y nada de vaqueros. El Dene, de nueve hoyos, es más informal.",
+    "signature": "El 5, Agglestone, es un par 4 de 404 yardas desde barras blancas, con el tee sobre un túmulo de la Edad del Bronce de más de 3.000 años; el club lo cuenta entre las mejores vistas del golf británico.",
+    "facilities": [
+      "Tienda de golf",
+      "Estudio de golf indoor StrikeZone",
+      "Alquiler de buggies y carros",
+      "Alquiler de palos para el Dene",
+      "Bar y restaurante en la casa club",
+      "Segundo campo de nueve hoyos (Dene)"
+    ]
+  },
+  "parkstone": {
+    "summary": "Brezal con pinos sobre el puerto de Poole, trazado por Willie Park Jr en 1909 y retocado por James Braid: par 72 y 6.298 yardas.",
+    "about": "Parkstone ocupa el valle de Luscombe, entre pinos maduros, brezo y vistas del puerto de Poole y Brownsea Island. Lo trazó Willie Park Jr en 1909 y, tras comprar más terreno en 1932, James Braid creó seis hoyos nuevos y rehízo otros. Reg Whitcombe, campeón del Open de 1938, fue profesional del club. Desde las barras de atrás son 6.298 yardas, par 72 y slope 139. Los visitantes deben ser socios de un club federado y tener índice de hándicap WHS. Las horas son escasas: entre semana a media mañana (no los martes) y por la tarde, y los fines de semana a partir de las 14:30, de abril a octubre. En enero y febrero de 2027 no admite visitantes.",
+    "signature": "",
+    "facilities": [
+      "Dos putting greens de prácticas",
+      "Estudio de swing cubierto",
+      "Tienda profesional",
+      "Vestuarios con duchas",
+      "Bar y salón con terrazas",
+      "Servicio de comida en el campo"
+    ]
+  },
+  "ferndown": {
+    "summary": "El Old Course de Harold Hilton en Ferndown: brezal llano y cómodo de andar entre pinos y brezo, par 71 y 6.529 yardas, abierto a visitantes en días fijos.",
+    "about": "Harold Hilton firmó el Old Course de Ferndown, inaugurado en 1913: un recorrido de brezal prácticamente llano, fácil de hacer a pie, entre pinos, abetos y brezo. Desde las barras Black son 6.529 yardas, par 71 y slope 130. Conviene organizar bien la visita: desde la temporada 2026 solo admite visitantes de abril a octubre, los martes desde las 10:00, los jueves por la tarde desde las 13:30 y los viernes de 10:00 a 14:00; fines de semana, nada. Lleva tu certificado de hándicap y llega con un cuarto de hora de margen. Al lado está el Alliss, un nueve hoyos más corto, y entre ambos suman 27. El campo de prácticas tiene 15 puestos y 250 yardas.",
+    "signature": "",
+    "facilities": [
+      "Campo de prácticas de 15 puestos y 250 yardas",
+      "Red de prácticas",
+      "Dos putting greens",
+      "Zona de juego corto",
+      "Alquiler de buggies y carros",
+      "Tienda profesional",
+      "Restaurante de la casa club"
+    ]
+  },
+  "broadstone": {
+    "summary": "Brezal de Dorset iniciado por Tom Dunn en 1898 y rehecho por Harry Colt desde 1914: par 70, 6.393 yardas, con brezo, pinos y un arroyo en juego.",
+    "about": "Broadstone nació por encargo de Lord Wimborne y Tom Dunn trazó el primer recorrido en 1898. A partir de 1914 Harry Colt lo transformó en un brezal puro, con hoyos nuevos desde el actual tee del 5 hasta el green del 16; su obra se cerró en 1922 con el par 3 del 6. Bernard Darwin lo llamó el «Gleneagles del sur». Desde barras blancas son 6.393 yardas, par 70 y slope 139. Todo visitante debe pertenecer a un club reconocido y llevar certificado de hándicap en vigor. Los County Cards se aceptan los martes y jueves por la tarde en verano. En campo y casa club rige el código de vestimenta del club.",
+    "signature": "El par 3 del 6, último retoque de Colt en 1922, mide 161 yardas desde barras blancas.",
+    "facilities": [
+      "Tienda profesional y fitting a medida",
+      "Alquiler de buggies y carros",
+      "Bar, salón y restaurante «19th»",
+      "Clases con profesores PGA",
+      "Jornadas para sociedades y empresas"
+    ]
   }
 }

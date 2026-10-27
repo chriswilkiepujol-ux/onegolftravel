@@ -638,5 +638,97 @@
       "Beach club with summer shuttle",
       "Golf clubhouse 50 metres from the hotel"
     ]
+  },
+  {
+    "slug": "carlyon-bay-hotel",
+    "name": "Carlyon Bay Hotel",
+    "country": "england",
+    "region": "cornwall",
+    "stars": 4,
+    "image": "/assets/images/hotels/carlyon-bay-hotel.webp",
+    "images": [
+      "/assets/images/hotels/carlyon-bay-hotel.webp",
+      "/assets/images/hotels/carlyon-bay-hotel-2.webp",
+      "/assets/images/hotels/carlyon-bay-hotel-3.webp"
+    ],
+    "location": "Carlyon Bay, St Austell, Cornwall",
+    "about": "The Carlyon Bay Hotel is a four-star, family-run property built in 1925 above St Austell Bay, with 86 rooms in 250 acres of grounds. Golf is the main draw: the 18-hole championship course is complimentary for hotel guests, backed by a nine-hole approach course and a TrackMan simulator studio. Non-golfers can use the spa, the indoor and outdoor heated pools and the tennis courts, and the Bay View Restaurant holds AA rosettes.",
+    "facilities": [
+      "18-hole championship golf course (complimentary for guests)",
+      "Nine-hole approach course",
+      "TrackMan golf studio",
+      "Spa with indoor and outdoor heated pools",
+      "Tennis courts",
+      "Bay View Restaurant"
+    ]
+  },
+  {
+    "slug": "saunton-sands-hotel",
+    "name": "Saunton Sands Hotel",
+    "country": "england",
+    "region": "north-devon-somerset",
+    "stars": 4,
+    "image": "/assets/images/hotels/saunton-sands-hotel.webp",
+    "images": [
+      "/assets/images/hotels/saunton-sands-hotel.webp",
+      "/assets/images/hotels/saunton-sands-hotel-2.webp",
+      "/assets/images/hotels/saunton-sands-hotel-3.webp"
+    ],
+    "location": "Saunton, Braunton, Devon",
+    "about": "A four-star clifftop hotel above Saunton Sands, listed by Saunton Golf Club among the places to stay within a mile of its clubhouse. The hotel also points guests towards Royal North Devon at Westward Ho!. After golf there is a spa with thermal suite, indoor and outdoor pools and a two AA Rosette restaurant, which suits mixed groups where not everyone plays.",
+    "facilities": [
+      "Source Spa with thermal suite",
+      "Indoor and heated outdoor pools",
+      "Gym and tennis court",
+      "Two AA Rosette restaurant",
+      "Direct access to Saunton Sands beach",
+      "Group golf breaks on request"
+    ]
+  },
+  {
+    "slug": "thurlestone-hotel",
+    "name": "Thurlestone Hotel",
+    "country": "england",
+    "region": "south-devon-dorset",
+    "stars": 4,
+    "image": "/assets/images/hotels/thurlestone-hotel.webp",
+    "images": [
+      "/assets/images/hotels/thurlestone-hotel.webp",
+      "/assets/images/hotels/thurlestone-hotel-2.webp",
+      "/assets/images/hotels/thurlestone-hotel-3.webp"
+    ],
+    "location": "Thurlestone, Kingsbridge, Devon",
+    "about": "A family-run seaside hotel in the village that gives Thurlestone Golf Club its name. Residents can play the hotel's own nine-hole par-3 course free of charge, and its golf page points guests to Thurlestone, Bigbury and Dartmouth, each of which asks for a handicap certificate or a letter from your home professional. After the round there is a spa, a heated outdoor pool and the Trevilder restaurant with two AA Rosettes. A sensible base for a mixed party in which not everyone plays golf.",
+    "facilities": [
+      "Nine-hole par-3 course in the grounds",
+      "Voyage Spa",
+      "Trevilder restaurant, 2 AA Rosettes",
+      "Heated outdoor pool",
+      "Tennis courts",
+      "Sea-view rooms and family suites"
+    ]
+  },
+  {
+    "slug": "bovey-castle-hotel",
+    "name": "Bovey Castle",
+    "country": "england",
+    "region": "south-devon-dorset",
+    "stars": 5,
+    "image": "/assets/images/hotels/bovey-castle-hotel.webp",
+    "images": [
+      "/assets/images/hotels/bovey-castle-hotel.webp",
+      "/assets/images/hotels/bovey-castle-hotel-2.webp",
+      "/assets/images/hotels/bovey-castle-hotel-3.webp"
+    ],
+    "location": "North Bovey, Dartmoor National Park, Devon",
+    "about": "A five-star country house on its own 275-acre Dartmoor estate, with the Abercromby golf course on the doorstep, a heated and covered driving range and a golf academy. Golf breaks are sold as hotel stays or, for bigger parties, in private estate lodges. Elan Spa, the Great Western Grill and Smith's Brasserie fill the evenings. It suits couples and groups who want one base for golf, spa and moorland walks rather than a different course every day.",
+    "facilities": [
+      "18-hole course on the estate",
+      "Heated, covered driving range",
+      "Golf academy",
+      "Elan Spa",
+      "Great Western Grill and Smith's Brasserie",
+      "Private estate lodges"
+    ]
   }
 ]

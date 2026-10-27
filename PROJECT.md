@@ -2,7 +2,7 @@
 
 Living project doc. **If you're a future Claude session picking this up cold: read this file first, in full, before touching anything.**
 
-**Last updated:** 27 October 2026, Spain course/hotel/region build added (see section 4).
+**Last updated:** 27 October 2026, Spain and England (South West) builds added; country order Spain, Scotland, England, Ireland, Morocco, UAE (sections 8 and 9).
 
 ## 1. What this project is
 
@@ -92,3 +92,11 @@ Built from Max's Google My Map "SPAIN GOLF TRAVEL" (214 pins: ~110 clubs, 56 hot
 - Held back: Higuerón Marbella (course), Gran Meliá Don Pepe, Higuerón Curio, Atalaya Park, Iberostar Royal Andalus, Elba Costa Ballena (see audit file).
 - No new Spain packages yet: regions show the "coming soon" package box.
 - Corrections made to the earlier Spain records: La Cañada par 71, Valderrama par 71, The Alto 18 holes par 71, Hacienda courses = La Hacienda Links Golf Resort (formerly Alcaidesa), Gibraltar airport ~15 min.
+
+## 9. England South West and country order (27 Oct 2026)
+
+- Country priority/nav order (`countries.json > order`): Spain, Scotland, England, Ireland, Morocco, UAE. Max and Chris want to promote the three semi-finished countries first.
+- **Ireland is "coming-soon"**: its regions, packages, courses and hotels stay in the JSON but are NOT published. `src/_data/loc.js` filters out everything belonging to a coming-soon country. Set `status: "live"` in `countries.json` to publish them again once all the courses etc. are ready.
+- England is live for the South West only: regions cornwall, north-devon-somerset, south-devon-dorset (22 courses, 5 hotels incl. Saunton Sands, Carlyon Bay, Thurlestone, Bovey Castle). Courses were chosen by us (no Max map). Audit: `COURSE-DATA-AUDIT-ENGLAND.md`, images: `IMAGE-CREDITS-ENGLAND.md`.
+- Held back / to do: St Mellion (Nicklaus + second course, hotel), Churston GC (no image), The Priory Wareham (stars). Rest of England (heathland, links north-west) not started.
+- Max is expected to send a document with his packages; build packages from it (hotel, courses, nights 5 or 7, price).

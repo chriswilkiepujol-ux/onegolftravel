@@ -338,5 +338,53 @@
       "Beach club con lanzadera en verano",
       "Casa club de golf a 50 metros del hotel"
     ]
+  },
+  "carlyon-bay-hotel": {
+    "location": "Carlyon Bay, St Austell, Cornualles",
+    "about": "El Carlyon Bay Hotel, de cuatro estrellas y gestión familiar, abrió sus puertas en 1925 sobre la bahía de St Austell y tiene 86 habitaciones en 250 acres de jardines. Para el golfista lo mejor es que el campo de campeonato de 18 hoyos es gratuito para los huéspedes, con un campo de aproximación de nueve hoyos y un estudio con simulador TrackMan. Quien no juega dispone de spa, piscinas climatizadas interior y exterior y pistas de tenis, y el restaurante Bay View cuenta con rosetas AA.",
+    "facilities": [
+      "Campo de campeonato de 18 hoyos (gratis para huéspedes)",
+      "Campo de aproximación de nueve hoyos",
+      "Estudio de golf con TrackMan",
+      "Spa con piscinas climatizadas interior y exterior",
+      "Pistas de tenis",
+      "Restaurante Bay View"
+    ]
+  },
+  "saunton-sands-hotel": {
+    "location": "Saunton, Braunton, Devon",
+    "about": "Hotel de cuatro estrellas sobre el acantilado de Saunton Sands, que el propio Saunton Golf Club incluye entre los alojamientos a menos de una milla de su casa club. El hotel recomienda además Royal North Devon, en Westward Ho!. Para después de jugar hay spa con circuito térmico, piscinas cubierta y exterior y un restaurante con dos rosetas AA: buena base para grupos en los que no todos juegan.",
+    "facilities": [
+      "Spa Source con circuito térmico",
+      "Piscina cubierta y piscina exterior climatizada",
+      "Gimnasio y pista de tenis",
+      "Restaurante con dos rosetas AA",
+      "Acceso directo a la playa de Saunton Sands",
+      "Grupos de golf bajo petición"
+    ]
+  },
+  "thurlestone-hotel": {
+    "location": "Thurlestone, Kingsbridge, Devon",
+    "about": "Hotel familiar frente al mar, en el mismo pueblo que da nombre al Thurlestone Golf Club. Los huéspedes juegan gratis el par 3 de nueve hoyos del propio hotel, y su página de golf remite a Thurlestone, Bigbury y Dartmouth, que piden certificado de hándicap o una carta de tu profesional. Después de jugar tienes spa, piscina exterior climatizada y el restaurante Trevilder, con dos rosetas AA. Buena base para un grupo en el que no todos juegan al golf.",
+    "facilities": [
+      "Campo par 3 de nueve hoyos en los jardines",
+      "Spa Voyage",
+      "Restaurante Trevilder, 2 rosetas AA",
+      "Piscina exterior climatizada",
+      "Pistas de tenis",
+      "Habitaciones con vistas al mar y suites familiares"
+    ]
+  },
+  "bovey-castle-hotel": {
+    "location": "North Bovey, Parque Nacional de Dartmoor, Devon",
+    "about": "Casa señorial de cinco estrellas en una finca propia de 275 acres en Dartmoor, con el campo de Abercromby a pie de puerta, driving range cubierto y calefactado y academia de golf. Los paquetes de golf se contratan como estancia en el hotel o, para grupos grandes, en lodges privados dentro de la finca. De noche, Elan Spa, el Great Western Grill y la Smith's Brasserie. Va bien para parejas y grupos que prefieren una sola base con golf, spa y paseos por el páramo antes que cambiar de campo cada día.",
+    "facilities": [
+      "Campo de 18 hoyos en la finca",
+      "Driving range cubierto y calefactado",
+      "Academia de golf",
+      "Elan Spa",
+      "Great Western Grill y Smith's Brasserie",
+      "Lodges privados en la finca"
+    ]
   }
 }

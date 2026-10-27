@@ -3083,5 +3083,670 @@
       "Golf shop"
     ],
     "verified": "2026-10-27"
+  },
+  {
+    "slug": "st-enodoc",
+    "name": "St Enodoc Golf Club (Church Course)",
+    "country": "england",
+    "region": "cornwall",
+    "style": "Links",
+    "par": 69,
+    "length": "6,557 yds (Blue)",
+    "slope": "128",
+    "designer": "James Braid",
+    "opened": "1907",
+    "lat": 50.553341,
+    "lon": -4.923544,
+    "image": "/assets/images/courses/st-enodoc.webp",
+    "images": [
+      "/assets/images/courses/st-enodoc.webp"
+    ],
+    "summary": "James Braid's Church Course at St Enodoc: a par 69 links in the dunes beside the Camel estuary, short on paper but rarely easy once the wind gets up.",
+    "about": "St Enodoc sits in high dunes beside the Camel estuary at Rock, with Padstow across the water and the Atlantic to the north. James Braid laid out the full 18 holes in 1907 and the layout was revised in 1922 and again after the clubhouse moved in 1937. At 6,557 yards from the Blue tees it is short by modern standards, yet the course record is only 65 and the wind seldom leaves you alone. Visitors should note the maximum handicap index of 21.4 for men and 22.7 for ladies, that selected tee times are released 48 hours ahead, and that buggies are rented only against a medical certificate.",
+    "signature": "",
+    "facilities": [
+      "Pro shop",
+      "Clubhouse",
+      "Caddies by arrangement",
+      "Buggies (medical certificate only)",
+      "Online visitor tee booking",
+      "Second 18-hole course (Holywell)"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "st-enodoc-holywell",
+    "name": "St Enodoc Golf Club (Holywell Course)",
+    "country": "england",
+    "region": "cornwall",
+    "style": "Links",
+    "par": 63,
+    "length": "4,082 yds (White)",
+    "slope": "",
+    "designer": "",
+    "opened": "1982",
+    "lat": 50.5545,
+    "lon": -4.924,
+    "image": "/assets/images/courses/st-enodoc-holywell.webp",
+    "images": [
+      "/assets/images/courses/st-enodoc-holywell.webp"
+    ],
+    "summary": "St Enodoc's relaxed second course: 18 short holes, nine par 3s and nine par 4s, with no handicap limit and links turf to match the Church Course.",
+    "about": "Holywell is the shorter sibling at St Enodoc, played over land north of the clubhouse where holes have existed for more than 130 years. A nine-hole layout reopened in 1967 and grew to a full 18 in 1982 when more land was bought. Today the card is nine par 3s and nine par 4s, 4,082 yards and par 63. The club states there are no handicap restrictions here, so it suits mixed-ability groups, juniors, or anyone wanting a warm-up round before tackling the Church Course. Combined day tickets pair Holywell with the Church Course, and a week of unlimited Holywell rounds is also offered.",
+    "signature": "",
+    "facilities": [
+      "Pro shop",
+      "Clubhouse",
+      "Caddies by arrangement",
+      "Buggies (medical certificate only)",
+      "Online visitor tee booking",
+      "Day tickets with the Church Course"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "trevose",
+    "name": "Trevose Golf & Country Club (Championship Course)",
+    "country": "england",
+    "region": "cornwall",
+    "style": "Links",
+    "par": 72,
+    "length": "6,948 yds (Black)",
+    "slope": "",
+    "designer": "Harry Colt",
+    "opened": "1925",
+    "lat": 50.537288,
+    "lon": -5.015853,
+    "image": "/assets/images/courses/trevose.webp",
+    "images": [
+      "/assets/images/courses/trevose.webp"
+    ],
+    "summary": "Harry Colt's 1925 Championship Course above Constantine Bay: a par 72 links, dunes and sea views on the front nine, a more inland back nine, and wind as the main defence.",
+    "about": "Trevose has been in the Gammon family since 1941, and its Championship Course dates from 1925, a Harry Colt design on the headland above Constantine Bay. The front nine hugs the dunes and the coast, while the back nine moves inland before returning to the clubhouse. The wind is the real test, and the course hosted the 2019 Farmfoods European Legends Links Championship. From the Black tees it measures 6,948 yards at par 72. Handicap certificates are required, a respectable standard of dress is expected and metal spikes are not allowed. The estate also has the nine-hole Headland Course, designed by Peter Alliss and opened in 1993.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Golf Performance Centre",
+      "Green fees, equipment hire and shop",
+      "Constantine restaurant",
+      "Padel and tennis",
+      "Gym and fitness studio",
+      "On-site accommodation"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "perranporth",
+    "name": "Perranporth Golf Club",
+    "country": "england",
+    "region": "cornwall",
+    "style": "Links",
+    "par": 72,
+    "length": "6,720 yds (Blue)",
+    "slope": "",
+    "designer": "James Braid",
+    "opened": "1927",
+    "lat": 50.351703,
+    "lon": -5.144307,
+    "image": "/assets/images/courses/perranporth.webp",
+    "images": [
+      "/assets/images/courses/perranporth.webp"
+    ],
+    "summary": "James Braid's clifftop links above Perranporth's long beach: par 72, 6,720 yards from the Blue tees, open to visitors seven days a week.",
+    "about": "Perranporth was established in 1927 and the course, laid out by James Braid, still feels natural and unfussy. It runs high along the clifftop among the dunes, with the Atlantic and the coastline in view almost throughout. The Championship course is par 72 and measures 6,720 yards from the Blue tees, although its length matters less than the terrain and the weather. Visitors are welcome every day of the week, and the club offers online tee-time booking, buggy hire and club hire in advance. Caddies can be arranged for those who want local knowledge. There are also lodges and caravans on site if you want to stay beside the course.",
+    "signature": "",
+    "facilities": [
+      "Buggy and trolley hire",
+      "Club hire (advance reservation)",
+      "Caddies by arrangement",
+      "Clubhouse with bar and restaurant",
+      "Resident professional",
+      "On-site lodges and caravans"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "west-cornwall",
+    "name": "West Cornwall Golf Club",
+    "country": "england",
+    "region": "cornwall",
+    "style": "Links",
+    "par": 69,
+    "length": "5,847 yds (White)",
+    "slope": "125",
+    "designer": "",
+    "opened": "1889",
+    "lat": 50.190133,
+    "lon": -5.440645,
+    "image": "/assets/images/courses/west-cornwall.webp",
+    "images": [
+      "/assets/images/courses/west-cornwall.webp"
+    ],
+    "summary": "Cornwall's oldest surviving course, founded in 1889 at Lelant: a par 69 links above St Ives Bay and the Hayle estuary, with the railway alongside.",
+    "about": "West Cornwall at Lelant looks over St Ives Bay and the Hayle estuary, and the St Ives branch railway runs beside the course. Founded in 1889, the club calls itself the oldest existing course in Cornwall, and it is the home club of 'Long' Jim Barnes and of Walker Cup players Philip Rowe and Harry Hall. The card is short, 5,847 yards from the White tees at par 69, but dunes, raised greens and the stretch known as the Triangle ask for careful play. On the course the club requires soft spikes only, collared shirts, socks and no denim or tracksuits. Societies are expected to bring a handicap certificate.",
+    "signature": "The Triangle, a run of testing holes that begins at the par-3 5th, is where the club says many cards come to grief.",
+    "facilities": [
+      "Pro shop",
+      "One-to-one and group coaching",
+      "Club hire",
+      "Restaurant",
+      "Bar",
+      "Society and corporate golf days"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "bude-north-cornwall",
+    "name": "Bude & North Cornwall Golf Club",
+    "country": "england",
+    "region": "cornwall",
+    "style": "Links",
+    "par": 70,
+    "length": "6,015 yds (60 tees)",
+    "slope": "124",
+    "designer": "Tom Dunn (probable)",
+    "opened": "1891",
+    "lat": 50.832348,
+    "lon": -4.545411,
+    "image": "/assets/images/courses/bude-north-cornwall.webp",
+    "images": [
+      "/assets/images/courses/bude-north-cornwall.webp"
+    ],
+    "summary": "A classic seaside links on Burn View, minutes from Bude town centre: par 70, 6,015 yards, undulating greens and a history going back to 1891.",
+    "about": "Bude and North Cornwall is a seaside links beside the town, with views to the coast and across the countryside and greens that are undulating and testing. Golf has been played here since 1891. The club believes the original layout was almost certainly by Tom Dunn, though the evidence is not conclusive, and Harry Vardon visited in 1905, 1907 and 1909, cutting the course record to 65 on the last trip. From the longest tees it measures 6,015 yards at par 70, slope 124. Visitors book online, and buggies and trolleys can be hired from the pro shop. There is a bar and restaurant in the clubhouse.",
+    "signature": "",
+    "facilities": [
+      "Pro shop",
+      "Buggy and trolley hire",
+      "Bar and restaurant",
+      "Societies and groups",
+      "Online visitor tee booking"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "mullion",
+    "name": "Mullion Golf Club",
+    "country": "england",
+    "region": "cornwall",
+    "style": "Clifftop",
+    "par": 70,
+    "length": "6,053 yds (White)",
+    "slope": "123",
+    "designer": "",
+    "opened": "1895",
+    "lat": 50.045602,
+    "lon": -5.249682,
+    "image": "/assets/images/courses/mullion.webp",
+    "images": [
+      "/assets/images/courses/mullion.webp"
+    ],
+    "summary": "A clifftop course on the Lizard, formed in 1895 and the most southerly in the country by the club's own account: par 70, 6,053 yards, with coves and reed beds in view.",
+    "about": "Mullion sits on the cliffs of the Lizard peninsula and describes itself as the country's most southerly course, framed by sandy coves and protected reed beds. The club was formed after a public meeting in Helston in 1895, and the land is now owned by the National Trust. From the White tees it plays 6,053 yards at par 70, slope 123, with plenty of elevation change. The club says it is rarely closed by weather. Online tee times after 1pm can be booked well in advance; earlier ones are released three days before. Smart casual dress and golf shoes are expected.",
+    "signature": "",
+    "facilities": [
+      "Pro shop",
+      "Tuition",
+      "Bar and catering",
+      "Buggy and trolley hire",
+      "Societies and groups",
+      "Online visitor tee booking"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "tehidy-park",
+    "name": "Tehidy Park Golf Club",
+    "country": "england",
+    "region": "cornwall",
+    "style": "Parkland",
+    "par": 71,
+    "length": "6,261 yds (White)",
+    "slope": "",
+    "designer": "Jim Barnes (original), C.K. Cotton (post-war)",
+    "opened": "1922",
+    "lat": 50.245351,
+    "lon": -5.293752,
+    "image": "/assets/images/courses/tehidy-park.webp",
+    "images": [
+      "/assets/images/courses/tehidy-park.webp"
+    ],
+    "summary": "A sheltered parkland course of 1922 on the old Basset estate near Camborne: par 71, 6,261 yards, three lakes, and no handicap certificate needed for visitors.",
+    "about": "Tehidy Park is the inland option in west Cornwall, a sheltered parkland of oak and beech below the old Basset estate. It opened in 1922 with Cornish-born major champion Jim Barnes advising on the layout; C.K. Cotton reworked and lengthened it after the war and three lakes were added in 1998. From the white tees it measures 6,261 yards at par 71. The 5th is a 193-yard par 3 over water, and the 8th, a 443-yard par 4, is stroke index one. Visitors play seven days a week, with weekend and bank holiday tee times from 1pm, and no handicap certificate is required for general visitor play.",
+    "signature": "The 5th, a 193-yard par 3, calls for a full carry over a lake with no bail-out.",
+    "facilities": [
+      "Pro shop",
+      "Practice ground",
+      "Putting green",
+      "Cygnets Restaurant and bar",
+      "Buggy and trolley hire",
+      "Golf simulator and lessons"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "carlyon-bay",
+    "name": "Carlyon Bay Golf Club",
+    "country": "england",
+    "region": "cornwall",
+    "style": "Clifftop",
+    "par": 72,
+    "length": "",
+    "slope": "",
+    "designer": "",
+    "opened": "1912",
+    "lat": 50.339685,
+    "lon": -4.717581,
+    "image": "/assets/images/courses/carlyon-bay.webp",
+    "images": [
+      "/assets/images/courses/carlyon-bay.webp"
+    ],
+    "summary": "A par 72 championship course above St Austell Bay: ten holes along the cliff edge, then parkland, with free play for guests of the neighbouring Carlyon Bay Hotel.",
+    "about": "Carlyon Bay's championship course was designed in 1912 and sits on the cliffs above St Austell Bay. The club calls it a course of two halves: the opening ten holes run right along the clifftop, then the layout winds into parkland for the back stretch. It is a par 72, supported by a nine-hole approach course, a six-acre practice area and two putting greens. The 1st, Carlyon, is a 371-yard par 4 along the cliff, and the 2nd, Tregrehan, stretches to 449 yards. Guests staying at the Carlyon Bay Hotel play without a green fee, and members and visitors can also book. PGA professionals offer tuition and equipment hire.",
+    "signature": "The first ten holes follow the cliff edge, opening with the 371-yard par 4 1st, Carlyon.",
+    "facilities": [
+      "Golf shop",
+      "Clubhouse",
+      "Nine-hole approach course",
+      "Six-acre practice area",
+      "Two putting greens",
+      "PGA professional tuition",
+      "TrackMan simulator studio"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "saunton-east",
+    "name": "Saunton Golf Club, East Course",
+    "region": "north-devon-somerset",
+    "style": "Links",
+    "par": 71,
+    "length": "6,741 yds (Blue)",
+    "slope": "134",
+    "designer": "Herbert Fowler",
+    "opened": "1920s",
+    "lat": 51.11743,
+    "lon": -4.21419,
+    "image": "/assets/images/courses/saunton-east.webp",
+    "images": [
+      "/assets/images/courses/saunton-east.webp"
+    ],
+    "summary": "Herbert Fowler's 1920s links across the dunes of Braunton Burrows, a par 71 that has staged the English Amateur and the R&A Senior Amateurs, open to visitors without a handicap certificate.",
+    "about": "The East is the older and more famous of Saunton's two links, laid out by Herbert Fowler in the 1920s through Braunton Burrows, the largest dune system in England. It hosted the 1937 English Amateur and, in 2024, the R&A Men's and Women's Senior Amateur Championships. Expect firm turf, wind off the Atlantic and a front nine that includes a very short par 3 at the 5th. Visitors are generally accepted after 9am by prior arrangement; the club does not ask for handicap certificates but expects a reasonable standard, smart golf dress and soft spikes only.",
+    "signature": "",
+    "facilities": [
+      "Two practice putting greens",
+      "Short game practice area",
+      "Covered range for iron play (tokens)",
+      "Long practice ground",
+      "Pro shop with club and buggy hire",
+      "Clubhouse bar and catering"
+    ],
+    "country": "england",
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "saunton-west",
+    "name": "Saunton Golf Club, West Course",
+    "region": "north-devon-somerset",
+    "style": "Links",
+    "par": 71,
+    "length": "6,596 yds (Blue)",
+    "slope": "131",
+    "designer": "Herbert Fowler & Frank Pennink",
+    "opened": "1930s",
+    "lat": 51.11743,
+    "lon": -4.21419,
+    "image": "/assets/images/courses/saunton-west.webp",
+    "images": [
+      "/assets/images/courses/saunton-west.webp"
+    ],
+    "summary": "Saunton's second links, designed by Herbert Fowler in the 1930s and redesigned by Frank Pennink, a par 71 that rewards accurate tee shots and bold putting on its contoured greens.",
+    "about": "Fowler was asked back in 1935 to design a second course at Saunton, and Frank Pennink later redesigned it, with the West reopening in 1974. It shares the dunes and firm turf of the East but plays with its own character: the club calls it a course with no weak holes, where placement off the tee matters more than length. The greens are the defence, so commit to your line. Like the East, it welcomed the 2024 R&A Senior Amateurs. Visitors are accepted from 9am by arrangement; smart golf dress and soft spikes are required.",
+    "signature": "",
+    "facilities": [
+      "Two practice putting greens",
+      "Short game practice area",
+      "Covered range for iron play (tokens)",
+      "Long practice ground",
+      "Pro shop with club and buggy hire",
+      "Clubhouse bar and catering"
+    ],
+    "country": "england",
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "royal-north-devon",
+    "name": "Royal North Devon Golf Club",
+    "region": "north-devon-somerset",
+    "style": "Links",
+    "par": 72,
+    "length": "7,085 yds (Championship)",
+    "slope": "",
+    "designer": "Old Tom Morris",
+    "opened": "1864",
+    "lat": 51.043254,
+    "lon": -4.22883,
+    "image": "/assets/images/courses/royal-north-devon.webp",
+    "images": [
+      "/assets/images/courses/royal-north-devon.webp"
+    ],
+    "summary": "Westward Ho!, which the club describes as the oldest golf course in England: an Old Tom Morris links of 1864 on the common land of Northam Burrows, par 72.",
+    "about": "Royal North Devon at Westward Ho! was laid out by Old Tom Morris in 1864 and the club presents it as the oldest golf course in England. The Royal title followed in 1867. The links runs over 170 acres of Northam Burrows, common land, and the club says it has changed little, kept natural with firm, fast fairways and greens. It has staged the British Amateur twice. Inside, the clubhouse holds a golf museum and honours boards. Buggies are very limited (medical exemption only). Dress rules apply, with no T-shirts or sleeveless tops for men on the course.",
+    "signature": "",
+    "facilities": [
+      "Clubhouse restaurant and bar",
+      "Golf museum and honours boards",
+      "Pro shop and PGA coaching",
+      "18-hole putting green",
+      "Chipping and pitching areas",
+      "Taylor's 9-hole short course"
+    ],
+    "country": "england",
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "burnham-berrow",
+    "name": "Burnham & Berrow Golf Club",
+    "region": "north-devon-somerset",
+    "style": "Links",
+    "par": 71,
+    "length": "7,023 yds (Burnham Blacks)",
+    "slope": "132",
+    "designer": "Charles Gibson, with later work by Harry Colt and MacKenzie & Ebert",
+    "opened": "1891",
+    "lat": 51.263195,
+    "lon": -3.013671,
+    "image": "/assets/images/courses/burnham-berrow.webp",
+    "images": [
+      "/assets/images/courses/burnham-berrow.webp"
+    ],
+    "summary": "A Somerset links among big dunes beside the Bristol Channel, founded in 1890, host of The Open Final Qualifying in 2024 and paired with a nine-hole Channel Course.",
+    "about": "Burnham & Berrow was founded in 1890 and the first nine holes opened in 1891. Today's shape owes much to Harry Colt's 1913 report, with Alister MacKenzie consulted in the 1920s and a MacKenzie & Ebert masterplan under way since 2013. The first nine run north beside the dunes and coast, then the course turns inland and back through Berrow. It hosted The Open Final Qualifying in 2024. Note the entry limit: Handicap Index 22 for men and 30 for women, with certificates required. The 9-hole Channel Course has no limit. Smart golf dress is expected.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Two short game areas with practice bunkers",
+      "Large putting green",
+      "Pro shop and PGA tuition",
+      "Clubhouse dining from 8am",
+      "Buggy hire",
+      "Dormy House accommodation"
+    ],
+    "country": "england",
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "minehead-west-somerset",
+    "name": "Minehead & West Somerset Golf Club",
+    "region": "north-devon-somerset",
+    "style": "Links",
+    "par": 71,
+    "length": "6,201 yds (White)",
+    "slope": "",
+    "designer": "",
+    "opened": "1882",
+    "lat": 51.208129,
+    "lon": -3.455621,
+    "image": "/assets/images/courses/minehead-west-somerset.webp",
+    "images": [
+      "/assets/images/courses/minehead-west-somerset.webp"
+    ],
+    "summary": "Somerset's oldest golf club, founded in 1882 and still on its original ground, a coastal links looking to the Brendon Hills and open for play all year.",
+    "about": "Founded in 1882, Minehead & West Somerset is the county's oldest golf club and says it still plays over its original ground, between the Bristol Channel and the Brendon Hills on the edge of Exmoor. The White card opens and closes with a par 3, and the club describes firm fairways, good greens and a mix of true links holes with a few gentler inland ones. The back nine is the more exposed. It is playable all year, tee times are booked online with payment in full, and visitors need only a reasonable standard of play. The steam trains of the West Somerset Railway pass the boundary.",
+    "signature": "",
+    "facilities": [
+      "Pro shop with fitting and repairs",
+      "Club, buggy and trolley hire",
+      "19th Bar and Restaurant",
+      "Online visitor tee-time booking",
+      "Local stay-and-play accommodation list"
+    ],
+    "country": "england",
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "dartmouth",
+    "name": "Dartmouth Golf & Spa, Championship Course",
+    "country": "england",
+    "region": "south-devon-dorset",
+    "style": "Parkland",
+    "par": 72,
+    "length": "7,147 yds (Gold)",
+    "slope": "140",
+    "designer": "Jeremy Pern",
+    "opened": "1992",
+    "lat": 50.357411,
+    "lon": -3.665639,
+    "image": "/assets/images/courses/dartmouth.webp",
+    "images": [
+      "/assets/images/courses/dartmouth.webp"
+    ],
+    "summary": "An undulating 18-hole parkland test in the South Hams, reaching 7,147 yards from the back tees, with water in play and a nine-hole second course alongside.",
+    "about": "Jeremy Pern laid out the Championship Course in 1992 across 225 acres of rolling South Hams farmland, using the folds of the land and a good deal of water. From the Gold tees it measures 7,147 yards at par 72 (slope 140), though four sets of tees keep it playable for most handicaps. The club says it runs without temporary greens all year, which is handy for a winter trip. Tee times are essential and open seven days ahead. It belongs to The Dartmouth Hotel, Golf & Spa, and a nine-hole course next door makes an easy extra loop.",
+    "signature": "",
+    "facilities": [
+      "Practice area and driving nets",
+      "Putting green",
+      "Golf shop",
+      "Buggy and trolley hire",
+      "PGA tuition",
+      "Hotel restaurant and bar",
+      "Second nine-hole course"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "thurlestone",
+    "name": "Thurlestone Golf Club",
+    "country": "england",
+    "region": "south-devon-dorset",
+    "style": "Clifftop",
+    "par": 71,
+    "length": "6,175 yds (White)",
+    "slope": "126",
+    "designer": "Harry Colt",
+    "opened": "1897",
+    "lat": 50.265902,
+    "lon": -3.86187,
+    "image": "/assets/images/courses/thurlestone.webp",
+    "images": [
+      "/assets/images/courses/thurlestone.webp"
+    ],
+    "summary": "A Harry Colt course that blends links-style turf with clifftop holes above Bigbury Bay, par 71 over 6,175 yards, with views to Burgh Island.",
+    "about": "Thurlestone began as nine holes in 1897, became an 18-hole course in 1912 and was remodelled by Harry Colt in 1928. It follows the cliffs above Bigbury Bay, with views over Burgh Island and Thurlestone Rock, and mixes links-like ground with exposed clifftop holes. From the white tees it plays 6,175 yards, par 71, slope 126. Natural drainage means winter play without temporary greens, according to the club. Visitors are asked to bring a handicap certificate if they can, though competent golfers are welcome. Collared shirts are required on the course, and denim, tracksuits and beachwear are not allowed.",
+    "signature": "",
+    "facilities": [
+      "Professional shop with PGA team",
+      "Buggy, trolley and club hire",
+      "TrackMan custom fitting",
+      "Indoor simulator hire",
+      "Locker rooms with showers",
+      "Lounge, bar and restaurant",
+      "Terrace overlooking the 1st hole"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "bigbury",
+    "name": "Bigbury Golf Club",
+    "country": "england",
+    "region": "south-devon-dorset",
+    "style": "Coastal",
+    "par": 70,
+    "length": "6,011 yds (White)",
+    "slope": "127",
+    "designer": "J.H. Taylor & Fred Hawtree",
+    "opened": "1923",
+    "lat": 50.290328,
+    "lon": -3.875989,
+    "image": "/assets/images/courses/bigbury.webp",
+    "images": [
+      "/assets/images/courses/bigbury.webp"
+    ],
+    "summary": "A friendly coastal par 70 above the Avon estuary and Burgh Island, with wide fairways, fast greens and sea breezes that decide club choice.",
+    "about": "Bigbury opened in 1923 and looks across the Avon estuary and the moors to Burgh Island. J.H. Taylor and Fred Hawtree extended the original nine to eighteen holes. The white tees measure 6,011 yards at par 70 (slope 127), short by modern standards, yet the club points to wide fairways, quick greens and a sea wind that complicates club selection. The 1st tee is the highest and coldest point of the course. Visitors can join the Friday circus, a turn-up Stableford run by members. Dress is smart casual, with no denim on the course, and there are only eight buggies, so book ahead.",
+    "signature": "",
+    "facilities": [
+      "Putting green",
+      "Chipping zone",
+      "Full-length practice ground",
+      "Golf shop",
+      "Buggy, trolley and club hire",
+      "Clubhouse lounge with sea views",
+      "Locker rooms and large car park"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "bovey-castle",
+    "name": "Bovey Castle Golf Course",
+    "country": "england",
+    "region": "south-devon-dorset",
+    "style": "Parkland",
+    "par": 70,
+    "length": "6,143 yds (White)",
+    "slope": "",
+    "designer": "J.F. Abercromby",
+    "opened": "1930",
+    "lat": 50.646121,
+    "lon": -3.795618,
+    "image": "/assets/images/courses/bovey-castle.webp",
+    "images": [
+      "/assets/images/courses/bovey-castle.webp"
+    ],
+    "summary": "J.F. Abercromby's Dartmoor parkland course, opened in 1930, weaving past the River Bovey beneath a five-star hotel; par 70 from the white tees.",
+    "about": "Bovey Castle's course was designed by J.F. Abercromby and opened in 1930 on the edge of Dartmoor National Park. The River Bovey runs through the early holes, and its banks, along with trees and bunkers, punish loose approach play. From the white tees it measures 6,143 yards at par 70. Warm-up is first rate: a grass range with four heated, covered bays, a short-game area and a putting green, plus a golf academy. Shorts are fine with sports socks, but denim, tracksuits and training shoes are not allowed, and dogs may not go on the course. Golf and stay breaks are sold through the hotel.",
+    "signature": "The 3rd plays to a green on a natural promontory in the castle gardens, almost surrounded by water; the club's advice is to aim for the right half.",
+    "facilities": [
+      "Grass driving range with four heated covered bays",
+      "Short-game practice area",
+      "Putting green",
+      "Buggy and push trolley hire",
+      "Caddie service",
+      "Golf shop and club hire",
+      "Changing rooms and PGA lessons"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "isle-of-purbeck",
+    "name": "Isle of Purbeck Golf Club, Purbeck Course",
+    "country": "england",
+    "region": "south-devon-dorset",
+    "style": "Heathland",
+    "par": 70,
+    "length": "6,295 yds (White)",
+    "slope": "128",
+    "designer": "",
+    "opened": "1892",
+    "lat": 50.636701,
+    "lon": -1.982661,
+    "image": "/assets/images/courses/isle-of-purbeck.webp",
+    "images": [
+      "/assets/images/courses/isle-of-purbeck.webp"
+    ],
+    "summary": "Heathland on a Site of Special Scientific Interest above Poole Harbour: par 70, 6,295 yards and a 5th tee with one of the great views in British golf.",
+    "about": "The Purbeck Course lies inside a nature reserve classed as a Site of Special Scientific Interest, where gorse, heather and deer share the land with the fairways. The club dates from 1892. From the white tees the course measures 6,295 yards at par 70 (slope 128), with views over Poole Harbour, Brownsea Island and Bournemouth. The club describes it as a course for experienced players with a handicap, with firm, dry greens at roughly 9ft to 9ft 6in on the stimpmeter. Shirts need a collar and must be tucked in, shorts must be tailored, and denim is banned. The nine-hole Dene Course alongside is more relaxed.",
+    "signature": "The 5th, Agglestone, is a 404-yard par 4 from the white tees played from a tee on a Bronze Age burial ground over 3,000 years old, a spot the club rates among the finest views in British golf.",
+    "facilities": [
+      "Golf shop",
+      "StrikeZone indoor golf studio",
+      "Buggy and trolley hire",
+      "Club hire for the Dene Course",
+      "Clubhouse bar and restaurant",
+      "Second nine-hole course (Dene)"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "parkstone",
+    "name": "Parkstone Golf Club",
+    "country": "england",
+    "region": "south-devon-dorset",
+    "style": "Heathland",
+    "par": 72,
+    "length": "6,298 yds (Tee 63)",
+    "slope": "139",
+    "designer": "Willie Park Jr & James Braid",
+    "opened": "1909",
+    "lat": 50.709148,
+    "lon": -1.932907,
+    "image": "/assets/images/courses/parkstone.webp",
+    "images": [
+      "/assets/images/courses/parkstone.webp"
+    ],
+    "summary": "Pine-lined heathland above Poole Harbour, laid out by Willie Park Jr in 1909 and reworked by James Braid: par 72, 6,298 yards.",
+    "about": "Parkstone occupies the Luscombe Valley, with mature pines, heather and views over Poole Harbour to Brownsea Island. Willie Park Jr laid it out in 1909, and after the club bought extra land in 1932 James Braid created six new holes and reshaped others. Reg Whitcombe, the 1938 Open champion, was once its professional. The back tees measure 6,298 yards at par 72 (slope 139). Visitors must belong to an affiliated club and hold a WHS Handicap Index. Times are limited: weekday late mornings (not Tuesdays) and afternoons, and weekends after 2.30pm, April to October. The club's 2027 list shows no visitors in January and February.",
+    "signature": "",
+    "facilities": [
+      "Two practice putting greens",
+      "Indoor swing studio",
+      "Professional shop",
+      "Locker rooms with showers",
+      "Bar and lounge with terraces",
+      "On-course food facility"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "ferndown",
+    "name": "Ferndown Golf Club, Old Course",
+    "country": "england",
+    "region": "south-devon-dorset",
+    "style": "Heathland",
+    "par": 71,
+    "length": "6,529 yds (Black)",
+    "slope": "130",
+    "designer": "Harold Hilton",
+    "opened": "1913",
+    "lat": 50.799458,
+    "lon": -1.876277,
+    "image": "/assets/images/courses/ferndown.webp",
+    "images": [
+      "/assets/images/courses/ferndown.webp"
+    ],
+    "summary": "Harold Hilton's Old Course at Ferndown: level, easily walked heathland among pines and heather, par 71 over 6,529 yards, open to visitors on set days.",
+    "about": "Harold Hilton designed Ferndown's Old Course, which opened in 1913: a level, easily walked heathland round framed by pines, firs and heather. From the Black tees it plays 6,529 yards at par 71 (slope 130). Visitor access is tight. From the 2026 season, outsiders are welcome April to October only, on Tuesdays from 10am, Thursday afternoons from 1.30pm and Fridays between 10am and 2pm, with no weekends. Bring your handicap certificate and arrive at least 15 minutes early. A shorter nine-hole Alliss Course sits alongside, making 27 holes in all, and the practice range is a 15-bay, 250-yard stretch.",
+    "signature": "",
+    "facilities": [
+      "15-bay, 250-yard practice range",
+      "Practice net",
+      "Two putting greens",
+      "Short-game area",
+      "Buggy and trolley hire",
+      "Professional shop",
+      "Clubhouse dining"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "broadstone",
+    "name": "Broadstone Golf Club",
+    "country": "england",
+    "region": "south-devon-dorset",
+    "style": "Heathland",
+    "par": 70,
+    "length": "6,393 yds (White)",
+    "slope": "139",
+    "designer": "Tom Dunn & Harry Colt",
+    "opened": "1898",
+    "lat": 50.772915,
+    "lon": -1.993583,
+    "image": "/assets/images/courses/broadstone.webp",
+    "images": [
+      "/assets/images/courses/broadstone.webp"
+    ],
+    "summary": "Dorset heathland begun by Tom Dunn in 1898 and redesigned by Harry Colt from 1914: par 70, 6,393 yards, with heather, pines and a stream in play.",
+    "about": "Lord Wimborne commissioned Broadstone, and Tom Dunn laid out the first course in 1898. From 1914 Harry Colt redesigned it as pure heathland, running new holes from the present 5th tee to the 16th green, and his work was finished in 1922 with the par-3 6th. Bernard Darwin called it the Gleneagles of the South. From the white tees it plays 6,393 yards at par 70 (slope 139). All visitors must belong to a recognised golf club and hold a current handicap certificate. County cards are accepted on summer Tuesday and Thursday afternoons. The club's own dress code applies on the course and in the clubhouse.",
+    "signature": "The par-3 6th, the last piece of Colt's redesign in 1922, measures 161 yards from the white tees.",
+    "facilities": [
+      "Professional shop and custom fitting",
+      "Buggy and trolley hire",
+      "19th bar, lounge and restaurant",
+      "Lessons with PGA professionals",
+      "Society and corporate days"
+    ],
+    "verified": "2026-10-27"
   }
 ]

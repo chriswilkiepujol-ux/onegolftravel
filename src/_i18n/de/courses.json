@@ -1344,5 +1344,296 @@
       "Clubhaus mit Bar und Restaurant",
       "Golfshop"
     ]
+  },
+  "st-enodoc": {
+    "summary": "Der Church Course von St Enodoc, entworfen von James Braid: ein Par-69-Links in den Dünen am Camel-Ästuar, auf dem Karte kurz, bei Wind aber alles andere als harmlos.",
+    "about": "St Enodoc liegt in hohen Dünen am Camel-Ästuar bei Rock; gegenüber sieht man Padstow, im Norden den Atlantik. James Braid legte 1907 die vollen 18 Löcher an, 1922 und nach dem Umzug des Clubhauses 1937 wurde nachgebessert. Von den blauen Abschlägen misst der Platz 6.557 Yards, heute eher wenig, doch der Platzrekord liegt bei nur 65 Schlägen, und der Wind lässt selten locker. Wichtig für die Planung: Der Club begrenzt das Handicap auf 21,4 (Herren) bzw. 22,7 (Damen), ausgewählte Startzeiten werden erst 48 Stunden vorher freigegeben, und einen Buggy gibt es nur gegen ärztliches Attest. Der zweite 18-Loch-Platz des Clubs heißt Holywell.",
+    "signature": "",
+    "facilities": [
+      "Pro Shop",
+      "Clubhaus",
+      "Caddies nach Absprache",
+      "Buggy nur mit ärztlichem Attest",
+      "Online-Startzeitbuchung für Gäste",
+      "Zweiter 18-Loch-Platz (Holywell)"
+    ]
+  },
+  "st-enodoc-holywell": {
+    "summary": "St Enodocs entspannter Zweitplatz: 18 kurze Löcher mit neun Par 3 und neun Par 4, ohne Handicap-Grenze und mit demselben Links-Rasen wie der Church Course.",
+    "about": "Der Holywell Course ist der kleinere Platz von St Enodoc und liegt nördlich des Clubhauses, wo schon seit über 130 Jahren gespielt wird. Aus einer Neun-Loch-Anlage, die 1967 wieder eröffnet wurde, entstand 1982 durch Landzukauf ein voller 18-Loch-Platz. Heute besteht die Karte aus neun Par 3 und neun Par 4, zusammen 4.082 Yards und Par 63. Laut Club gibt es hier keine Handicap-Beschränkung; das passt für gemischte Gruppen, Jugendliche oder als lockere Einspielrunde vor dem Church Course. Es gibt Tagestickets, die beide Plätze kombinieren, sowie eine Woche mit unbegrenzten Holywell-Runden.",
+    "signature": "",
+    "facilities": [
+      "Pro Shop",
+      "Clubhaus",
+      "Caddies nach Absprache",
+      "Buggy nur mit ärztlichem Attest",
+      "Online-Startzeitbuchung für Gäste",
+      "Tagesticket in Kombination mit dem Church Course"
+    ]
+  },
+  "trevose": {
+    "summary": "Harry Colts Championship Course von 1925 über der Constantine Bay: ein Par-72-Links mit Dünen und Meerblick auf den ersten neun Löchern, einem eher binnenländischen Rückweg und dem Wind als Hauptgegner.",
+    "about": "Seit 1941 gehört Trevose der Familie Gammon; der Championship Course wurde 1925 nach Plänen von Harry Colt auf der Landzunge über der Constantine Bay eröffnet. Die Front Nine verläuft zwischen Dünen und Küste, die Back Nine führt landeinwärts und kehrt zum Clubhaus zurück. Den eigentlichen Test liefert der Wind; 2019 war der Platz Schauplatz der Farmfoods European Legends Links Championship. Von den schwarzen Abschlägen sind es 6.948 Yards, Par 72. Ein Handicap-Nachweis ist Pflicht, angemessene Kleidung wird erwartet, Metallspikes sind nicht erlaubt. Zur Anlage gehören außerdem der Neun-Loch-Platz Headland von Peter Alliss (eröffnet 1993) und ein Short Course.",
+    "signature": "",
+    "facilities": [
+      "Driving Range",
+      "Golf Performance Centre",
+      "Shop und Leihausrüstung",
+      "Restaurant Constantine",
+      "Padel und Tennis",
+      "Fitnessstudio",
+      "Übernachtung auf der Anlage"
+    ]
+  },
+  "perranporth": {
+    "summary": "James Braids Links hoch über dem Strand von Perranporth: Par 72, 6.720 Yards von den blauen Abschlägen, an sieben Tagen pro Woche für Gäste geöffnet.",
+    "about": "Der Club wurde 1927 gegründet, und der Platz von James Braid wirkt bis heute natürlich und unspektakulär im besten Sinne. Er verläuft hoch oben auf der Klippe zwischen Dünen, fast durchgehend mit Blick auf Atlantik und Küste. Von den blauen Abschlägen ist er 6.720 Yards lang (Par 72); wichtiger als die Länge sind Gelände und Wetter. Gäste sind täglich willkommen und buchen online ihre Startzeit; Buggys und Leihschläger (Letztere nur mit Vorreservierung) stehen bereit. Wer sich ortskundige Begleitung wünscht, kann einen Caddie anfragen. Auf dem Gelände gibt es zudem Lodges und Caravans zum Übernachten.",
+    "signature": "",
+    "facilities": [
+      "Buggy- und Trolley-Verleih",
+      "Leihschläger (Vorreservierung)",
+      "Caddies nach Absprache",
+      "Clubhaus mit Bar und Restaurant",
+      "Club-Pro vor Ort",
+      "Lodges und Caravans auf dem Gelände"
+    ]
+  },
+  "west-cornwall": {
+    "summary": "Der älteste erhaltene Platz Cornwalls, 1889 in Lelant gegründet: ein Par-69-Links über der St Ives Bay und dem Hayle-Ästuar, mit der Bahnstrecke gleich nebenan.",
+    "about": "West Cornwall in Lelant blickt auf die St Ives Bay und das Hayle-Ästuar, direkt am Platz verläuft die Bahnlinie nach St Ives. Der Club wurde 1889 gegründet und bezeichnet sich als ältesten bestehenden Platz Cornwalls; hier sind 'Long' Jim Barnes sowie die Walker-Cup-Spieler Philip Rowe und Harry Hall zu Hause. Mit 5.847 Yards von den weißen Abschlägen und Par 69 ist er kurz, doch Dünen, erhöhte Grüns und die als Triangle bekannte Passage verlangen Konzentration. Auf dem Platz sind Softspikes, Kragenhemd und Socken Pflicht, Jeans und Trainingsanzüge sind tabu. Gesellschaften sollten Handicap-Nachweise mitbringen.",
+    "signature": "Das Triangle, eine knifflige Lochfolge ab dem Par 3 an der 5, ist laut Club die Stelle, an der viele Scorekarten ruiniert werden.",
+    "facilities": [
+      "Pro Shop",
+      "Einzel- und Gruppentraining",
+      "Leihschläger",
+      "Restaurant",
+      "Bar",
+      "Turniere für Gesellschaften und Firmen"
+    ]
+  },
+  "bude-north-cornwall": {
+    "summary": "Ein klassischer Küsten-Links am Burn View, wenige Minuten vom Zentrum von Bude: Par 70, 6.015 Yards, welliges Grün und Golftradition seit 1891.",
+    "about": "Der Platz in Bude liegt direkt am Ort und bietet Blicke auf Küste und Hinterland sowie wellige, anspruchsvolle Grüns. Gespielt wird hier seit 1891. Nach Ansicht des Clubs stammt das ursprüngliche Layout fast sicher von Tom Dunn, belegt ist das aber nicht; Harry Vardon besuchte den Platz 1905, 1907 und 1909 und senkte dabei den Platzrekord auf 65. Von den längsten Abschlägen sind es 6.015 Yards bei Par 70 und Slope 124. Gäste buchen online, im Pro Shop werden Buggys und Trolleys vermietet. Im Clubhaus gibt es Bar und Restaurant.",
+    "signature": "",
+    "facilities": [
+      "Pro Shop",
+      "Buggy- und Trolley-Verleih",
+      "Bar und Restaurant",
+      "Gruppen und Gesellschaften",
+      "Online-Startzeitbuchung für Gäste"
+    ]
+  },
+  "mullion": {
+    "summary": "Ein Klippenplatz auf der Lizard-Halbinsel, 1895 gegründet und nach Clubangaben der südlichste des Landes: Par 70, 6.053 Yards, mit Buchten und Schilfflächen im Blick.",
+    "about": "Mullion liegt auf den Klippen der Lizard-Halbinsel und nennt sich den südlichsten Platz des Landes, umrahmt von Sandbuchten und geschütztem Schilf. Gegründet wurde der Club 1895 nach einer öffentlichen Versammlung in Helston; das Land gehört heute dem National Trust. Conan Doyle, A. A. Milne und A. P. Herbert gehörten zu den Stammgästen. Von den weißen Abschlägen sind es 6.053 Yards, Par 70, Slope 123, mit spürbaren Höhenunterschieden. Laut Club fällt der Platz selten wetterbedingt aus. Startzeiten ab 13 Uhr lassen sich online lange im Voraus buchen, frühere werden drei Tage vorher freigegeben. Erwartet werden gepflegt-lässige Kleidung und Golfschuhe.",
+    "signature": "",
+    "facilities": [
+      "Pro Shop",
+      "Golfunterricht",
+      "Bar und Gastronomie",
+      "Buggy- und Trolley-Verleih",
+      "Gruppen und Gesellschaften",
+      "Online-Startzeitbuchung für Gäste"
+    ]
+  },
+  "tehidy-park": {
+    "summary": "Ein geschützter Parkland-Platz von 1922 auf dem alten Basset-Anwesen bei Camborne: Par 71, 6.261 Yards, drei Seen und für Gäste kein Handicap-Nachweis nötig.",
+    "about": "Tehidy Park ist die Binnenland-Variante im Westen Cornwalls: ein windgeschützter Parklandplatz zwischen Eichen und Buchen unterhalb des alten Basset-Anwesens. Er wurde 1922 eröffnet; der aus Cornwall stammende Major-Sieger Jim Barnes beriet bei der Anlage, nach dem Krieg überarbeitete und verlängerte C.K. Cotton den Kurs, 1998 kamen drei Seen hinzu. Von den weißen Abschlägen misst er 6.261 Yards (Par 71). Die 5 ist ein Par 3 über 193 Yards mit Wasserüberquerung, die 8, ein Par 4 über 443 Yards, ist das schwerste Loch (Vorgabe 1). Gäste spielen an sieben Tagen; am Wochenende und an Feiertagen gibt es Startzeiten ab 13 Uhr, einen Handicap-Nachweis verlangt der Club im allgemeinen Gästespiel nicht.",
+    "signature": "Die 5, ein Par 3 über 193 Yards, verlangt einen vollen Carry über einen See, ohne Ausweichmöglichkeit.",
+    "facilities": [
+      "Pro Shop",
+      "Übungsgelände",
+      "Putting Green",
+      "Restaurant Cygnets mit Bar",
+      "Buggy- und Trolley-Verleih",
+      "Golfsimulator und Unterricht"
+    ]
+  },
+  "carlyon-bay": {
+    "summary": "Ein Par-72-Championshipplatz über der St Austell Bay: zehn Löcher direkt an der Klippenkante, danach Parkland, für Gäste des benachbarten Carlyon Bay Hotel ohne Greenfee.",
+    "about": "Der Championshipplatz von Carlyon Bay wurde 1912 entworfen und liegt auf den Klippen über der St Austell Bay. Der Club beschreibt ihn als Platz zweier Hälften: Die ersten zehn Löcher folgen der Klippenkante, danach windet sich die Bahn durch Parkland. Par 72; dazu gehören ein Neun-Loch-Approach-Course, ein sechs Acres großes Übungsgelände und zwei Putting Greens. Die 1, Carlyon, ist ein Par 4 über 371 Yards direkt an der Klippe, die 2, Tregrehan, misst 449 Yards. Hotelgäste des Carlyon Bay Hotel spielen ohne Greenfee; Mitglieder und Besucher können ebenfalls buchen. PGA-Professionals bieten Unterricht und Leihausrüstung.",
+    "signature": "Die ersten zehn Löcher folgen der Klippenkante, eröffnet vom Par 4 über 371 Yards, der 1, Carlyon.",
+    "facilities": [
+      "Pro Shop",
+      "Clubhaus",
+      "Neun-Loch-Approach-Course",
+      "Übungsgelände (sechs Acres)",
+      "Zwei Putting Greens",
+      "Unterricht durch PGA-Professionals",
+      "TrackMan-Simulatorstudio"
+    ]
+  },
+  "saunton-east": {
+    "summary": "Herbert Fowlers Links-Klassiker aus den 1920er-Jahren auf Braunton Burrows: Par 71, Austragungsort der English Amateur, für Gäste ohne Handicap-Nachweis spielbar.",
+    "about": "Der East Course ist der ältere der beiden Saunton-Plätze. Herbert Fowler legte ihn in den 1920er-Jahren durch die Dünen von Braunton Burrows, dem größten Dünengebiet Englands. 1937 fand hier die English Amateur statt, 2024 die Senior Amateur Championships des R&A. Wer kommt, sollte mit festem Boden und Atlantikwind rechnen. Gäste starten in der Regel ab 9 Uhr nach vorheriger Reservierung. Einen Handicap-Nachweis verlangt der Club nicht, wohl aber ein ordentliches Spielniveau, gepflegte Golfkleidung und Softspikes. Pünktlichkeit am ersten Tee versteht sich von selbst.",
+    "signature": "",
+    "facilities": [
+      "Zwei Übungsputtinggrüns",
+      "Kurzspielbereich",
+      "Überdachte Range für Eisenschläge (gegen Token)",
+      "Lange Übungswiese",
+      "Proshop mit Schläger- und Buggyverleih",
+      "Clubhaus mit Bar und Gastronomie"
+    ]
+  },
+  "saunton-west": {
+    "summary": "Der zweite Links-Platz in Saunton: Par 71 nach Herbert Fowler, später von Frank Pennink umgebaut, mit welligen Grüns und Betonung auf präzisen Abschlägen.",
+    "about": "1935 holte der Club Herbert Fowler für einen zweiten Platz zurück; Frank Pennink gestaltete ihn später um, 1974 wurde der West Course wieder eröffnet. Er teilt Dünen und festen Boden mit dem East, hat aber eigenes Profil. Der Club spricht von einem Platz ohne schwaches Loch, bei dem es weniger auf Länge als auf die richtige Linie ankommt. Die stark modellierten Grüns sind die eigentliche Verteidigung. 2024 war der West gemeinsam mit dem East Schauplatz der R&A Senior Amateur Championships. Gäste starten ab 9 Uhr nach Reservierung, Softspikes sind Pflicht.",
+    "signature": "",
+    "facilities": [
+      "Zwei Übungsputtinggrüns",
+      "Kurzspielbereich",
+      "Überdachte Range für Eisenschläge (gegen Token)",
+      "Lange Übungswiese",
+      "Proshop mit Schläger- und Buggyverleih",
+      "Clubhaus mit Bar und Gastronomie"
+    ]
+  },
+  "royal-north-devon": {
+    "summary": "Westward Ho!, nach Eigenangabe des Clubs Englands ältester Golfplatz: ein Links von Old Tom Morris aus dem Jahr 1864 auf dem Gemeindeland Northam Burrows, Par 72.",
+    "about": "Old Tom Morris legte den Platz 1864 an; der Club bezeichnet ihn als den ältesten Golfplatz Englands, den Titel Royal gab es ab 1867. Gespielt wird auf rund 170 Acres im Gemeindeland Northam Burrows, bewusst naturbelassen mit festen, schnellen Fairways und Grüns. Zweimal war die British Amateur hier zu Gast. Im Clubhaus lohnen Golfmuseum und Ehrentafeln den Besuch nach der Runde. Buggys sind kaum verfügbar und nur bei ärztlicher Ausnahme erlaubt. Kleiderordnung beachten: Auf dem Platz sind T-Shirts und ärmellose Shirts für Herren tabu.",
+    "signature": "",
+    "facilities": [
+      "Clubrestaurant und Bar",
+      "Golfmuseum und Ehrentafeln",
+      "Proshop und PGA-Training",
+      "18-Loch-Puttinggrün",
+      "Chip- und Pitchbereiche",
+      "Taylor-Kurzplatz mit 9 Löchern"
+    ]
+  },
+  "burnham-berrow": {
+    "summary": "Links-Platz in Somerset zwischen hohen Dünen am Bristolkanal, 1890 gegründet, 2024 Gastgeber der Open Final Qualifying, dazu der 9-Loch-Platz Channel Course.",
+    "about": "Der Club wurde 1890 gegründet, die ersten neun Löcher eröffnete man 1891. Die heutige Linienführung geht wesentlich auf Harry Colts Gutachten von 1913 zurück, in den 1920ern wurde Alister MacKenzie hinzugezogen, seit 2013 läuft ein Masterplan von MacKenzie & Ebert. Die erste Neun führt an Dünen und Küste nach Norden, dann geht es landeinwärts und durch Berrow zurück. 2024 fand hier die Open Final Qualifying statt. Wichtig für die Planung: Handicap-Index maximal 22 (Herren) bzw. 30 (Damen), Nachweis erforderlich. Der 9-Loch-Platz Channel Course kennt kein Limit.",
+    "signature": "",
+    "facilities": [
+      "Driving Range",
+      "Zwei Kurzspielbereiche mit Übungsbunkern",
+      "Großes Puttinggrün",
+      "Proshop und PGA-Training",
+      "Clubrestaurant ab 8 Uhr",
+      "Buggyverleih",
+      "Übernachtung im Dormy House"
+    ]
+  },
+  "minehead-west-somerset": {
+    "summary": "Somersets ältester Golfclub, 1882 gegründet und noch auf dem ursprünglichen Gelände: ein Küsten-Links mit Blick auf die Brendon Hills, das ganze Jahr bespielbar.",
+    "about": "Minehead & West Somerset wurde 1882 gegründet und spielt nach eigener Aussage noch immer auf dem ursprünglichen Gelände, zwischen Bristolkanal und Brendon Hills am Rand des Exmoor. Auf der weißen Karte beginnt und endet die Runde mit einem Par 3. Der Club nennt feste Fairways, gute Grüns und eine Mischung aus echten Links-Löchern und einigen sanfteren im Landesinneren; die zweite Neun ist windexponierter. Gespielt wird ganzjährig, Startzeiten buchen Gäste online mit Vorauszahlung, verlangt wird ein ordentliches Spielniveau. Am Platzrand verkehrt die Dampfbahn der West Somerset Railway.",
+    "signature": "",
+    "facilities": [
+      "Proshop mit Fitting und Reparaturwerkstatt",
+      "Verleih von Schlägern, Buggys und Trolleys",
+      "19th Bar und Restaurant",
+      "Online-Buchung für Gäste",
+      "Liste lokaler Unterkünfte für Golfreisen"
+    ]
+  },
+  "dartmouth": {
+    "summary": "Welliges Parkland-Par-72 in den South Hams mit 7.147 Yards von den hinteren Abschlägen, viel Wasser im Spiel und einem zusätzlichen Neunlochplatz nebenan.",
+    "about": "Entworfen hat den Championship Course 1992 Jeremy Pern, auf 225 Acres hügeligem Farmland der South Hams, mit zahlreichen Wasserhindernissen. Von den Gold-Abschlägen misst er 7.147 Yards bei Par 72 und Slope 140; vier Abschlagsvarianten halten ihn für fast jedes Handicap spielbar. Laut Club bleibt er das ganze Jahr ohne Wintergrüns bespielbar, ein Vorteil für Reisen in der Nebensaison. Startzeiten sind Pflicht und lassen sich sieben Tage im Voraus buchen. Der Platz gehört zum Hotel The Dartmouth Hotel, Golf & Spa; ein Neunlochplatz ergänzt das Angebot.",
+    "signature": "",
+    "facilities": [
+      "Übungsbereich mit Abschlagnetzen",
+      "Putting-Grün",
+      "Golfshop",
+      "Verleih von Buggys und Trolleys",
+      "Unterricht mit PGA-Professionals",
+      "Hotelrestaurant und Bar",
+      "Zweiter Neunlochplatz"
+    ]
+  },
+  "thurlestone": {
+    "summary": "Ein Colt-Platz zwischen Links und Steilküste über der Bigbury Bay: Par 71, 6.175 Yards und Blick auf Burgh Island.",
+    "about": "1897 entstanden zunächst neun Löcher, 1912 folgte der 18-Loch-Platz, und Harry Colt überarbeitete die Anlage 1928. Die Bahnen verlaufen oberhalb der Klippen der Bigbury Bay mit Blick auf Burgh Island und den Thurlestone Rock; linksartiger Boden wechselt mit exponierten Küstenlöchern. Von den weißen Abschlägen sind es 6.175 Yards, Par 71, Slope 126. Dank natürlicher Drainage wird laut Club im Winter ohne Wintergrüns gespielt. Gäste sollten möglichst ein Handicap-Zertifikat mitbringen, willkommen sind aber alle kompetenten Spieler. Auf dem Platz gilt Kragenpflicht, Jeans, Trainingsanzüge und Strandkleidung sind tabu.",
+    "signature": "",
+    "facilities": [
+      "Proshop mit PGA-Team",
+      "Verleih von Buggys, Trolleys und Schlägern",
+      "Custom Fitting mit TrackMan",
+      "Indoor-Simulator",
+      "Umkleiden mit Duschen",
+      "Lounge, Bar und Restaurant",
+      "Terrasse mit Blick auf Loch 1"
+    ]
+  },
+  "bigbury": {
+    "summary": "Freundlicher Küstenplatz, Par 70, über der Avon-Mündung und Burgh Island: breite Fairways, schnelle Grüns und Seewind, der die Schlägerwahl bestimmt.",
+    "about": "Seit 1923 liegt der Platz über der Mündung des Avon mit Blick auf Moor und Burgh Island. J.H. Taylor und Fred Hawtree erweiterten die ursprünglichen neun Löcher auf achtzehn. Von den weißen Abschlägen misst er 6.011 Yards bei Par 70 und Slope 127, nach heutigen Maßstäben kurz, doch der Club verweist auf breite Fairways, flotte Grüns und Seewind, der die Schlägerwahl erschwert. Der erste Abschlag ist der höchste und kälteste Punkt. Freitags dürfen Gäste beim Zirkel mitspielen, einem Stableford der Mitglieder. Dresscode smart casual, keine Jeans auf dem Platz; nur acht Buggys, also rechtzeitig reservieren.",
+    "signature": "",
+    "facilities": [
+      "Putting-Grün",
+      "Chipping-Zone",
+      "Übungsgelände in voller Länge",
+      "Golfshop",
+      "Verleih von Buggys, Trolleys und Schlägern",
+      "Clubhaus-Lounge mit Meerblick",
+      "Umkleiden und großer Parkplatz"
+    ]
+  },
+  "bovey-castle": {
+    "summary": "J.F. Abercrombys Parkland-Platz am Dartmoor, 1930 eröffnet, schlängelt sich am River Bovey entlang unter einem Fünf-Sterne-Hotel; Par 70 von den weißen Abschlägen.",
+    "about": "J.F. Abercromby entwarf den Platz, der 1930 am Rand des Dartmoor-Nationalparks eröffnet wurde. Der River Bovey begleitet die ersten Löcher; Ufer, Bäume und Bunker bestrafen unsaubere Annäherungen. Von den weißen Abschlägen sind es 6.143 Yards, Par 70. Eingespielt wird in bester Umgebung: Rasenrange mit vier beheizten, überdachten Abschlägen, Kurzspielbereich, Putting-Grün und Golfakademie. Shorts sind mit Sportsocken erlaubt, Jeans, Trainingsanzüge und Trainingsschuhe nicht, Hunde dürfen nicht auf den Platz. Golf-Arrangements mit Übernachtung bucht man über das Hotel.",
+    "signature": "Loch 3 führt zu einem Grün auf einer natürlichen Landzunge im Schlossgarten, fast ganz von Wasser umgeben; der Club rät, die rechte Grünhälfte anzuspielen.",
+    "facilities": [
+      "Rasen-Range mit vier beheizten, überdachten Abschlägen",
+      "Kurzspielbereich",
+      "Putting-Grün",
+      "Verleih von Buggys und Handtrolleys",
+      "Caddie-Service",
+      "Golfshop und Schlägerverleih",
+      "Umkleiden und PGA-Unterricht"
+    ]
+  },
+  "isle-of-purbeck": {
+    "summary": "Heidekurs in einem Schutzgebiet über dem Hafen von Poole: Par 70, 6.295 Yards und ein Abschlag an Loch 5 mit einer der besten Aussichten des britischen Golfs.",
+    "about": "Der Purbeck Course liegt in einem Naturschutzgebiet mit dem Status Site of Special Scientific Interest; Ginster, Heidekraut und Rotwild teilen sich das Gelände mit den Fairways. Der Club besteht seit 1892. Von den weißen Abschlägen misst der Platz 6.295 Yards bei Par 70 und Slope 128, mit Blick auf den Hafen von Poole, Brownsea Island und Bournemouth. Der Club versteht ihn als Platz für erfahrene Spieler mit Handicap; die Grüns sind trocken und fest, rund 9 bis 9,5 Fuß auf dem Stimpmeter. Polos mit Kragen gehören in die Hose, Shorts müssen geschnitten sein, Jeans sind nicht erlaubt. Der Neunlochplatz Dene ist legerer.",
+    "signature": "Loch 5, Agglestone, ein Par 4 über 404 Yards von Weiß, wird von einem Abschlag auf einem über 3.000 Jahre alten bronzezeitlichen Grabhügel gespielt; der Club zählt die Aussicht zu den schönsten im britischen Golf.",
+    "facilities": [
+      "Golfshop",
+      "Indoor-Golfstudio StrikeZone",
+      "Verleih von Buggys und Trolleys",
+      "Schlägerverleih für den Dene Course",
+      "Clubhaus mit Bar und Restaurant",
+      "Zweiter Neunlochplatz (Dene)"
+    ]
+  },
+  "parkstone": {
+    "summary": "Kiefernbestandene Heide über dem Hafen von Poole, 1909 von Willie Park Jr angelegt und von James Braid überarbeitet: Par 72, 6.298 Yards.",
+    "about": "Parkstone liegt im Luscombe Valley, zwischen altem Kiefernbestand, Heide und Ausblicken auf den Hafen von Poole und Brownsea Island. Willie Park Jr legte den Kurs 1909 an; nachdem der Club 1932 weiteres Land gekauft hatte, schuf James Braid sechs neue Löcher und veränderte andere. Reg Whitcombe, Open-Sieger 1938, war hier Clubprofessional. Von den hinteren Abschlägen sind es 6.298 Yards, Par 72, Slope 139. Gäste müssen Mitglied eines angeschlossenen Clubs sein und einen WHS-Handicap-Index vorweisen. Die Zeiten sind knapp: werktags spät vormittags (nicht dienstags) und nachmittags, an Wochenenden nach 14.30 Uhr, April bis Oktober. Januar und Februar 2027 sind für Gäste gesperrt.",
+    "signature": "",
+    "facilities": [
+      "Zwei Übungs-Putting-Grüns",
+      "Überdachtes Swing-Studio",
+      "Professional-Shop",
+      "Umkleiden mit Duschen",
+      "Bar und Lounge mit Terrassen",
+      "Verpflegung am Platz"
+    ]
+  },
+  "ferndown": {
+    "summary": "Harold Hiltons Old Course in Ferndown: flache, gut zu Fuß spielbare Heide zwischen Kiefern und Heidekraut, Par 71, 6.529 Yards, Gäste nur an festen Tagen.",
+    "about": "Der Old Course in Ferndown stammt von Harold Hilton und wurde 1913 eröffnet: Heidegolf auf nahezu ebenem Gelände, gut zu Fuß zu spielen, gesäumt von Kiefern, Tannen und Heidekraut. Von den Black-Abschlägen sind es 6.529 Yards, Par 71, Slope 130. Der Gastzugang ist eng begrenzt: Ab der Saison 2026 empfängt der Club Gäste nur von April bis Oktober, dienstags ab 10 Uhr, donnerstags ab 13.30 Uhr und freitags zwischen 10 und 14 Uhr, nie am Wochenende. Handicap-Nachweis mitbringen und mindestens 15 Minuten vorher da sein. Nebenan liegt der kürzere Neunlochplatz Alliss, zusammen ergibt das 27 Löcher; die Range bietet 15 Abschläge auf 250 Yards.",
+    "signature": "",
+    "facilities": [
+      "Range mit 15 Abschlägen über 250 Yards",
+      "Übungsnetz",
+      "Zwei Putting-Grüns",
+      "Kurzspielbereich",
+      "Verleih von Buggys und Trolleys",
+      "Proshop",
+      "Clubhaus-Gastronomie"
+    ]
+  },
+  "broadstone": {
+    "summary": "Heidekurs in Dorset, 1898 von Tom Dunn begonnen und ab 1914 von Harry Colt umgebaut: Par 70, 6.393 Yards, mit Heidekraut, Kiefern und einem Bachlauf im Spiel.",
+    "about": "Lord Wimborne gab Broadstone in Auftrag, und Tom Dunn legte 1898 den ersten Kurs an. Ab 1914 gestaltete Harry Colt ihn zum reinen Heideplatz um, mit neuen Bahnen vom heutigen 5. Abschlag bis zum 16. Grün; sein Werk endete 1922 mit dem Par 3 an Loch 6. Bernard Darwin nannte den Platz das Gleneagles des Südens. Von den weißen Abschlägen sind es 6.393 Yards, Par 70, Slope 139. Alle Gäste müssen Mitglied eines anerkannten Golfclubs sein und ein gültiges Handicap-Zertifikat besitzen. County Cards gelten im Sommer dienstags und donnerstags nachmittags. Auf dem Platz und im Clubhaus gilt die clubeigene Kleiderordnung.",
+    "signature": "Das Par 3 an Loch 6, Colts letzter Baustein von 1922, misst von den weißen Abschlägen 161 Yards.",
+    "facilities": [
+      "Proshop mit Custom Fitting",
+      "Verleih von Buggys und Trolleys",
+      "19th Bar, Lounge und Restaurant",
+      "Unterricht mit PGA-Professionals",
+      "Gesellschafts- und Firmenturniere"
+    ]
   }
 }
