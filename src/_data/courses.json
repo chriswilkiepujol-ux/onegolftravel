@@ -1,31 +1,33 @@
 [
   {
     "slug": "la-canada",
-    "name": "La Cañada Golf Club",
+    "name": "Club de Golf La Cañada",
     "country": "spain",
     "region": "sotogrande",
     "style": "Parkland",
-    "par": 72,
-    "length": "5,973 m",
-    "slope": "",
+    "par": 71,
+    "length": "5,866 m (White)",
+    "slope": "133",
     "designer": "Dave Thomas & Robert Trent Jones Sr",
-    "opened": "1991",
+    "opened": "1982",
+    "lat": 36.294531,
+    "lon": -5.30731200000002,
     "image": "/assets/images/courses/la-canada.webp",
     "images": [
       "/assets/images/courses/la-canada.webp"
     ],
-    "summary": "Mature parkland winding through cork oaks with Mediterranean views, famous for quick greens and the best value in Sotogrande.",
-    "about": "La Cañada was designed by Dave Thomas, with the back nine by Robert Trent Jones Sr, and it winds through mature trees above the Guadiaro valley with views to the sea. It is the local club of Sotogrande, home to a strong junior programme and one of the friendliest clubhouses in the area, and it is known for fast, true greens and sensible green fees. A good opening round for a week in the region.",
-    "signature": "",
+    "summary": "A hilly, tree-lined par 71 above the Guadiaro valley, open to visitors every day, with a 250-metre practice ground and Gibraltar views.",
+    "about": "La Cañada opened in 1982 as the first public course on the Costa del Sol and is still one of the friendliest places to play in the area. Dave Thomas designed the current front nine and Robert Trent Jones Sr the nine that now closes the round, so two styles share one par 71 of 5,866 metres from the white tees. Slopes are gentle, the greens are well kept and the trees are mostly native species. The practice ground is 250 metres long, and the clubhouse terrace looks over the Guadiaro river.",
+    "signature": "The 17th is a 145-metre par 3 across a lake, the hole that features in most photographs of the club.",
     "facilities": [
-      "Driving range with grass tees",
-      "Putting and chipping greens",
-      "Trolley and buggy hire",
-      "Club rental",
+      "Driving range with more than 40 bays",
+      "Short-game practice areas",
+      "Electric buggy hire",
       "Pro shop",
-      "Clubhouse with restaurant, café, bar and terrace",
-      "Lockers and showers"
-    ]
+      "PGA golf school",
+      "Clubhouse restaurant with terrace"
+    ],
+    "verified": "2026-10-27"
   },
   {
     "slug": "hacienda-links",
@@ -34,25 +36,29 @@
     "region": "sotogrande",
     "style": "Links",
     "par": 72,
-    "length": "6,373 m",
-    "slope": "123 (white tees)",
+    "length": "5,895 m (White)",
+    "slope": "133",
     "designer": "Peter Alliss & Clive Clark, redesigned by Kurtis Bowman",
-    "opened": "1992, redesigned 2021",
+    "opened": "1992, redesigned 2022",
+    "lat": 36.2471564,
+    "lon": -5.32278580000002,
     "image": "/assets/images/courses/hacienda-links.webp",
     "images": [
       "/assets/images/courses/hacienda-links.webp"
     ],
-    "summary": "A coastal links at Alcaidesa with cliff-edge holes, wide fairways and big greens, and Gibraltar filling the view on the back nine.",
-    "about": "Reimagined by Kurtis Bowman in 2021, La Hacienda Links is the closest thing to true links golf in southern Spain. The layout runs along the cliffs above the Alcaidesa beach near San Roque with wide fairways, large greens and sea views on almost every hole, and the Rock of Gibraltar sits on the horizon the whole way round. The redesign added length, better drainage and a much-improved practice ground. Ten minutes from Gibraltar airport.",
+    "summary": "The Costa del Sol's only links-style course, redesigned by Kurtis Bowman, with the sea, Gibraltar and the African coast in view.",
+    "about": "Called Alcaidesa until the resort was rebranded as La Hacienda, the Links was created in 1992 by Peter Alliss and Clive Clark and rebuilt by Kurtis Bowman, reopening in 2022. Fairways fall towards the Mediterranean along almost two kilometres of coast, with wind, wide landing areas and one of Spain's largest double greens. The par 72 is 5,895 metres from the white tees. It won Best Golf Course in Spain at the 2023 World Golf Awards, and the Calma halfway house sits between the ninth and tenth holes.",
     "signature": "",
     "facilities": [
-      "Driving range with over 70 covered and grass tees",
-      "Putting greens and short-game area with bunkers",
-      "GPS buggies",
-      "Club hire",
+      "72-bay driving range, 36 covered",
+      "TrackMan on the range",
+      "Two putting greens and chipping areas",
+      "GPS buggies and bag drop",
+      "TaylorMade club rental",
       "Pro shop",
-      "Clubhouse and changing rooms"
-    ]
+      "Clubhouse restaurant and Calma halfway house"
+    ],
+    "verified": "2026-10-27"
   },
   {
     "slug": "hacienda-heathland",
@@ -61,52 +67,59 @@
     "region": "sotogrande",
     "style": "Heathland",
     "par": 72,
-    "length": "6,300 m",
-    "slope": "",
+    "length": "6,415 m (White)",
+    "slope": "134",
     "designer": "Dave Thomas",
     "opened": "2007",
+    "lat": 36.2481842,
+    "lon": -5.325923,
     "image": "/assets/images/courses/hacienda-heathland.webp",
     "images": [
       "/assets/images/courses/hacienda-heathland.webp"
     ],
-    "summary": "The inland sister of the Links at La Hacienda, a heathland-style layout through pine and cork oak with generous fairways and the same sea views.",
-    "about": "The Heathland course at La Hacienda sits on the hillside above the Links and offers a different test: tree-lined holes, elevation changes and large, well-protected greens, with the same panoramic views over the Strait towards Gibraltar and Africa. Played together with the Links it makes an excellent 36-hole day, and it tends to be the quieter of the two.",
+    "summary": "Dave Thomas's inland par 72 at La Hacienda, with hilltop plateaus, lake-filled valleys and sea views, home to a women's professional event.",
+    "about": "The Heathland is the second 18 at La Hacienda, drawn by Dave Thomas in 2007 and refreshed since. It climbs through hills where plateau holes look out over the Mediterranean and valley holes bring lakes close to narrow landing areas, so it asks for more club selection than the Links next door. The par 72 measures 6,415 metres from the white tees. It hosts the Santander Spanish Women's Professional Championship, shares practice facilities with the Links and is known for its sunsets.",
     "signature": "",
     "facilities": [
-      "Shared practice facilities with the Links",
-      "Buggies and trolleys",
-      "Club hire",
-      "Pro shop",
-      "Clubhouse and restaurant"
-    ]
+      "72-bay driving range, 36 covered",
+      "TrackMan on the range",
+      "Putting greens and chipping areas",
+      "GPS buggies and bag drop",
+      "TaylorMade club rental",
+      "Golf academy",
+      "Pro shop and restaurant"
+    ],
+    "verified": "2026-10-27"
   },
   {
     "slug": "the-alto",
-    "name": "The Alto at SO/ Sotogrande",
+    "name": "The Alto Club",
     "country": "spain",
     "region": "sotogrande",
     "style": "Parkland",
-    "par": 72,
-    "length": "6,837 m",
-    "slope": "130 (white tees)",
+    "par": 71,
+    "length": "5,903 m (G.O.A.T.)",
+    "slope": "127",
     "designer": "Dave Thomas, remodelled by Manuel Piñero",
-    "opened": "1998, remodelled 2021",
+    "opened": "",
+    "lat": 36.275341,
+    "lon": -5.35166270000002,
     "image": "/assets/images/courses/the-alto.webp",
     "images": [
       "/assets/images/courses/the-alto.webp"
     ],
-    "summary": "27 holes in the hills of Sotogrande set among lakes, pines and cork oaks, part of the five-star SO/ Sotogrande resort.",
-    "about": "The Alto, formerly Almenara, was designed by Dave Thomas and opened in 1998, then remodelled in 2021 by Ryder Cup player Manuel Piñero as part of the SO/ Sotogrande resort. Three nine-hole loops, Lagos, Pinos and Alcornoques, combine into an 18-hole course of real variety with water on the Lagos holes and tight tree-lined fairways on the others. A golf academy opened in 2025. Seven other top courses are within ten minutes, including Real Sotogrande, Valderrama, San Roque and La Hacienda.",
+    "summary": "Pine-lined hillside golf with lakes beside the five-star SO/ Sotogrande, formerly Almenara, with a Suzann Pettersen academy and a nine-hole par-3 course.",
+    "about": "The Alto Club is the course long known as Almenara, set high on the Sotogrande hillside next to the Los Alcornocales natural park. Dave Thomas designed it and Manuel Piñero later refined it. The 18 holes, Pinos and Lagos, play to a par 71 of 5,903 metres from the longest tee, with pines, elevation change and water working on most holes. Tees are named after animals, from Deer to G.O.A.T. The former Alcornoques nine has become the par-3 course and academy, led by Suzann Pettersen, and the SO/ Sotogrande hotel is next door.",
     "signature": "",
     "facilities": [
-      "27-bay driving range",
-      "Short-game areas",
-      "Trolleys and buggies",
-      "Club rental",
-      "Pro shop",
-      "Golf academy (opened 2025)",
-      "SO/ Sotogrande clubhouse, restaurants and spa"
-    ]
+      "Toptracer driving range",
+      "Golf academy led by Suzann Pettersen",
+      "Nine-hole par-3 course",
+      "Practice putting green with sea views",
+      "Pro shop and locker room",
+      "SoCiety clubhouse restaurant"
+    ],
+    "verified": "2026-10-27"
   },
   {
     "slug": "castle-course",
@@ -1280,5 +1293,1795 @@
       "Locker rooms and showers"
     ],
     "verified": "2026-10-22"
+  },
+  {
+    "slug": "real-club-valderrama",
+    "name": "Real Club Valderrama",
+    "country": "spain",
+    "region": "sotogrande",
+    "style": "Parkland",
+    "par": 71,
+    "length": "6,392 m (Black)",
+    "slope": "150",
+    "designer": "Robert Trent Jones Sr",
+    "opened": "1974",
+    "lat": 36.2830864,
+    "lon": -5.3273717,
+    "image": "/assets/images/courses/real-club-valderrama.webp",
+    "images": [
+      "/assets/images/courses/real-club-valderrama.webp"
+    ],
+    "summary": "Cork-oak parkland that hosted the 1997 Ryder Cup, a par 71 where narrow targets and tidy angles matter more than raw length.",
+    "about": "Valderrama opened in 1974 as Las Aves and took its present name when Jaime Ortiz-Patiño bought it in the mid-1980s and set about refining the Robert Trent Jones Sr layout. It staged the 1997 Ryder Cup, the first held outside the British Isles, plus the Volvo Masters and two World Golf Championships events. Expect cork oaks, small elevated greens and a par 71 that rewards placement. Visitors play at set times, a forecaddie is compulsory, and the club asks that you book ahead.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting green and chipping greens",
+      "Buggy and electric trolley hire",
+      "Forecaddie (compulsory) and caddie service",
+      "Callaway club rental",
+      "Spike Bar for visiting golfers",
+      "Pro shop"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "real-club-sotogrande",
+    "name": "Real Club de Golf Sotogrande",
+    "country": "spain",
+    "region": "sotogrande",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,492 m (Black)",
+    "slope": "142",
+    "designer": "Robert Trent Jones Sr",
+    "opened": "1964",
+    "lat": 36.2754545,
+    "lon": -5.2852275,
+    "image": "/assets/images/courses/real-club-sotogrande.webp",
+    "images": [
+      "/assets/images/courses/real-club-sotogrande.webp"
+    ],
+    "summary": "Robert Trent Jones Sr's first European course, laid out 150 metres from the Mediterranean among cork oaks, pines and palms.",
+    "about": "Opened in 1964 as the heart of the Sotogrande estate, this was Trent Jones's first course in Europe and still the club's calling card. The par 72 runs 6,492 metres from the back tees, with wide fairways, elevated greens and around a hundred bunkers, 69 of them guarding the putting surfaces. Cork oaks, pines and palms give each hole its own character, and the sea is only 150 metres away. The club also has a separate short course and has held the Real title since 1994.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Pitching and putting greens",
+      "Buggy and trolley hire",
+      "Club rental",
+      "Caddie service",
+      "Pro shop and lessons",
+      "Clubhouse with restaurant"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "san-roque-old",
+    "name": "San Roque Old Course",
+    "country": "spain",
+    "region": "sotogrande",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,311 m (White)",
+    "slope": "133",
+    "designer": "Dave Thomas (bunkers redesigned by Seve Ballesteros)",
+    "opened": "1990",
+    "lat": 36.2661618,
+    "lon": -5.3368449,
+    "image": "/assets/images/courses/san-roque-old.webp",
+    "images": [
+      "/assets/images/courses/san-roque-old.webp"
+    ],
+    "summary": "Dave Thomas's championship course in the Sierra Bermeja foothills, host of the 2005 Spanish Open and reopened after a 2021 renovation.",
+    "about": "The Old Course at The San Roque Club sits in the foothills of the Sierra Bermeja, among cork oak woodland that once belonged to the Domecq sherry family. Dave Thomas laid it out in 1990 and Seve Ballesteros later reworked the bunkering. It staged the Spanish Open in 2005 and the European Tour Qualifying School finals from 1993 to 2007. The par 72 measures 6,311 metres from the white tees, long and wide with trees on one side of the property and water on the other. The course reopened in June 2021 after renovation.",
+    "signature": "",
+    "facilities": [
+      "Driving range with Toptracer",
+      "Golf academy with PGA professionals",
+      "Pro shop",
+      "Restaurant, bar and terrace",
+      "Golf shop open to visitors",
+      "Online tee-time booking"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "san-roque-new",
+    "name": "San Roque Golf & Resort (New Course)",
+    "country": "spain",
+    "region": "sotogrande",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,079 m (White)",
+    "slope": "132",
+    "designer": "Perry Dye & Seve Ballesteros",
+    "opened": "",
+    "lat": 36.2660759,
+    "lon": -5.3338526,
+    "image": "/assets/images/courses/san-roque-new.webp",
+    "images": [
+      "/assets/images/courses/san-roque-new.webp"
+    ],
+    "summary": "Perry Dye's railway-sleeper layout beside the sea and a protected nature reserve, now run as San Roque Golf & Resort, separate from the Old Course.",
+    "about": "Formerly the New Course of The San Roque Club, this 18-hole layout now trades as San Roque Golf & Resort, with its own entrance on the N-340. Perry Dye drew it with input from Seve Ballesteros, and its look is unmistakable: deep bunkers, big greens and railway-sleeper revetments, set beside the sea and a protected natural area. It has staged the Spanish Open and several European Tour Qualifying School finals. The par 72 measures 6,079 metres from the white tees. Buggies, trolleys and rental clubs are available on site.",
+    "signature": "",
+    "facilities": [
+      "Buggy hire",
+      "Manual and electric trolleys",
+      "Club rental",
+      "Snack bar",
+      "Pro shop",
+      "Free parking"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "la-reserva",
+    "name": "La Reserva Club",
+    "country": "spain",
+    "region": "sotogrande",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,721 m (Tee 67)",
+    "slope": "",
+    "designer": "Cabell B. Robinson",
+    "opened": "2003",
+    "lat": 36.294753,
+    "lon": -5.32126199999993,
+    "image": "/assets/images/courses/la-reserva.webp",
+    "images": [
+      "/assets/images/courses/la-reserva.webp"
+    ],
+    "summary": "Cabell Robinson's hillside course above Sotogrande, with sweeping fairways, big greens, water features and views to the Mediterranean.",
+    "about": "La Reserva was drawn by American architect Cabell Robinson and opened in 2003, making it the newest of Sotogrande's big-name courses. It is cut into a hillside, so the round is full of elevation, with wide fairways, large rolling greens and water that comes into play at key moments. The club's scorecard lists five tees from 5,104 to 6,721 metres on a par 72, which suits mixed groups. Manuel Piñero leads the golf academy, and the club has hosted professional events including the Aramco Team Series.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Pitching and putting greens",
+      "Buggy hire",
+      "Club hire",
+      "Golf academy led by Manuel Piñero",
+      "Pro shop",
+      "Clubhouse restaurant"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "estepona-golf",
+    "name": "Estepona Golf",
+    "country": "spain",
+    "region": "estepona-casares",
+    "style": "Hillside",
+    "par": 72,
+    "length": "5,706 m (White)",
+    "slope": "120 (White, men)",
+    "designer": "José Luis López Sánchez",
+    "opened": "1989",
+    "lat": 36.411091,
+    "lon": -5.210838,
+    "image": "/assets/images/courses/estepona-golf.webp",
+    "images": [
+      "/assets/images/courses/estepona-golf.webp"
+    ],
+    "summary": "A friendly par 72 between the Sierra Bermeja and the Mediterranean, with big greens and a signature par 3 at the 14th.",
+    "about": "Estepona Golf has been open since 1989 on a hillside between the Sierra Bermeja and the sea, about 13 minutes from Estepona and 25 from Marbella by the club's own reckoning. José Luis López Sánchez laid out a par 72 that forgives a loose drive but wants real touch on large greens, and the breeze swings between mountain and coast to keep club selection honest. At 5,706 metres from the white tees it is compact, which suits mixed groups and anyone who likes a round finished in good time. The clubhouse restaurant welcomes non-players, and the course is open every day of the year.",
+    "signature": "The par-3 14th, 187 metres is the hole the club chooses as its signature.",
+    "facilities": [
+      "Buggy, trolley and club hire",
+      "Pro shop",
+      "Clubhouse restaurant open to non-players",
+      "Open 365 days a year",
+      "Weddings and corporate events"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "la-duquesa",
+    "name": "Duquesa Golf Club",
+    "country": "spain",
+    "region": "estepona-casares",
+    "style": "Coastal",
+    "par": 72,
+    "length": "",
+    "slope": "",
+    "designer": "Robert Trent Jones",
+    "opened": "1986",
+    "lat": 36.35722,
+    "lon": -5.239199,
+    "image": "/assets/images/courses/la-duquesa.webp",
+    "images": [
+      "/assets/images/courses/la-duquesa.webp"
+    ],
+    "summary": "A Robert Trent Jones course above the sea at San Luis de Sabinillas, now with a boutique hotel at the club and a 17th the club likes to show off.",
+    "about": "Duquesa Golf Club, known to most visitors as La Duquesa, has been open since 1986 at San Luis de Sabinillas in the municipality of Manilva, where the Mediterranean breeze is rarely far from the fairways. The 18 holes are by Robert Trent Jones, and the club names the 17th as its favourite. The club now has a boutique hotel with suites, a restaurant and a fitness area, so the venue works for a stay-and-play as well as a single round. The club puts itself 45 minutes from Málaga airport and 20 from Gibraltar. The club was announcing course improvements when we checked, so confirm conditions when booking.",
+    "signature": "The club names the 17th as its favourite hole.",
+    "facilities": [
+      "Driving range",
+      "Practice bunker",
+      "Putting green",
+      "Golf academy",
+      "Restaurant",
+      "Boutique hotel with suites",
+      "Fitness area"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "dona-julia",
+    "name": "Doña Julia Golf Club",
+    "country": "spain",
+    "region": "estepona-casares",
+    "style": "Hillside",
+    "par": 71,
+    "length": "6,021 m (White)",
+    "slope": "132 (White, men)",
+    "designer": "Antonio Garrido",
+    "opened": "",
+    "lat": 36.378859,
+    "lon": -5.223103,
+    "image": "/assets/images/courses/dona-julia.webp",
+    "images": [
+      "/assets/images/courses/dona-julia.webp"
+    ],
+    "summary": "Antonio Garrido's par 71 in Casares, with sea, Sierra Bermeja and Serranía de Ronda in view and a shared buggy included in the green fee.",
+    "about": "Doña Julia lies in the municipality of Casares, right against the Manilva boundary, with the Sierra Bermeja and Serranía de Ronda in sight from almost everywhere. The par 71 was designed by Antonio Garrido and measures 6,021 metres from the white tees, with a 612-metre par 5 at the 8th as the long-hitters' hole. The club sits beside the A-7 at kilometre 146, about 18 km from Sotogrande and 35 from Gibraltar by its own figures, and the green fee includes a shared buggy, which suits groups who like to play at a relaxed pace.",
+    "signature": "",
+    "facilities": [
+      "Shared buggy included in the green fee",
+      "Clubhouse",
+      "Restaurant",
+      "Pro shop",
+      "Society and tournament bookings"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "valle-romano",
+    "name": "Valle Romano Golf",
+    "country": "spain",
+    "region": "estepona-casares",
+    "style": "Hillside",
+    "par": 71,
+    "length": "6,214 m (White)",
+    "slope": "132 (White, men)",
+    "designer": "Cabell B. Robinson",
+    "opened": "2010",
+    "lat": 36.431253,
+    "lon": -5.195192,
+    "image": "/assets/images/courses/valle-romano.webp",
+    "images": [
+      "/assets/images/courses/valle-romano.webp"
+    ],
+    "summary": "Cabell Robinson's par 71 above Estepona, built to USGA standards with several tee boxes per hole and views to the sea, Gibraltar and Africa.",
+    "about": "Valle Romano opened in 2010 on 60 hectares above Estepona, a Cabell B. Robinson design built to USGA standards with Tifsport turf and about five tee boxes per hole, so the 6,214 metres from the white tees can be stretched or shortened to suit the group. The views run to the sea, Gibraltar and the coast of North Africa. The course has hosted Challenge Tour events in 2018 and 2019 and a second stage of European Tour Qualifying School in 2013, yet it remains an easy course to book for visitors. A driving range, academy and clubhouse are on site, and the Ona apartments sit alongside.",
+    "signature": "The green at the 13th covers almost 1,000 square metres, one of the largest on the course.",
+    "facilities": [
+      "Driving range with 20 bays, 10 of them covered",
+      "Putting green of 600 square metres",
+      "Chipping area with practice bunker",
+      "Golf academy",
+      "Pro shop and restaurant in the clubhouse",
+      "Locker rooms with sauna",
+      "Buggy and trolley hire"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "finca-cortesin",
+    "name": "Finca Cortesín Golf",
+    "country": "spain",
+    "region": "estepona-casares",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,736 m (back tees)",
+    "slope": "",
+    "designer": "Cabell B. Robinson",
+    "opened": "",
+    "lat": 36.397856,
+    "lon": -5.223216,
+    "image": "/assets/images/courses/finca-cortesin.webp",
+    "images": [
+      "/assets/images/courses/finca-cortesin.webp"
+    ],
+    "summary": "Cabell Robinson's championship course at Finca Cortesín, host of the 2023 Solheim Cup, with a buggy and range balls included and a Nicklaus Academy on site.",
+    "about": "Finca Cortesín is a par 72 that Cabell B. Robinson laid across an estate near Casares. The club's hole guide adds up to 6,736 metres from the back tees, with the 226-metre par 3 at the 6th and a closing par 5 of 519 metres at the 18th. The course hosted the Volvo World Match Play in 2009, 2011 and 2012 and the 2023 Solheim Cup, and it is GEO Certified for sustainability. Green fees include a buggy with GPS and range balls, and the Nicklaus Academy offers coaching. A strong choice for a golfer who wants one big-occasion round in the week.",
+    "signature": "",
+    "facilities": [
+      "Complimentary buggy with GPS",
+      "Driving range with complimentary range balls",
+      "Nicklaus Academy",
+      "Clubhouse with dining",
+      "Rental clubs (TaylorMade and Honma)",
+      "Electric and manual trolleys",
+      "Bag drop and refreshments during the round"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "azata-golf",
+    "name": "Azata Golf",
+    "country": "spain",
+    "region": "estepona-casares",
+    "style": "Hillside",
+    "par": 71,
+    "length": "5,703 m (back tees)",
+    "slope": "",
+    "designer": "Stirling & Martin",
+    "opened": "2021",
+    "lat": 36.422295,
+    "lon": -5.201844,
+    "image": "/assets/images/courses/azata-golf.webp",
+    "images": [
+      "/assets/images/courses/azata-golf.webp"
+    ],
+    "summary": "A modern Stirling & Martin par 71 west of Estepona, with a stream beside five holes, water in play and a buggy included in every green fee.",
+    "about": "Azata is a modern course on this stretch of coast, designed by Stirling & Martin and opened for play at the turn of 2021. The Arroyo Vaquero stream runs beside holes three to seven, and at 5,703 metres from the back tees the course is short but technical, with water in play rewarding placement over power. A buggy is included in every green fee, and the club has a driving range, a putting green, a golf simulator and a restaurant.",
+    "signature": "The 15th is a short par 3 of 119 metres from the back tees, with a lake guarding the left side of the green.",
+    "facilities": [
+      "Buggy included in all green fees",
+      "Driving range",
+      "Putting green and approach area",
+      "Golf simulator",
+      "Pro shop",
+      "Restaurant",
+      "Clubhouse with lockers and changing rooms"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "santa-clara-marbella",
+    "name": "Santa Clara Golf Marbella",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 71,
+    "length": "5,922 m (White)",
+    "slope": "",
+    "designer": "Enrique Canales Busquets",
+    "opened": "",
+    "lat": 36.5083962,
+    "lon": -4.8165478,
+    "image": "/assets/images/courses/santa-clara-marbella.webp",
+    "images": [
+      "/assets/images/courses/santa-clara-marbella.webp"
+    ],
+    "summary": "Santa Clara Golf Marbella is a par 71 designed by Enrique Canales, set between the centre of Marbella and the sea, with a natural-grass range and cava on arrival.",
+    "about": "Santa Clara sits just seven minutes from the centre of Marbella and five from the beach, which makes it one of the easiest rounds on the coast to fit around a day out. Enrique Canales Busquets designed the par 71, which plays 5,922 metres from the white tees. At under 6,000 metres it is a manageable length for mixed-ability groups and returning visitors. The club opens every day of the year from 8:00, offers a welcome cava to arriving golfers, and runs a natural-grass range, covered practice area and Kayena restaurant.",
+    "signature": "",
+    "facilities": [
+      "Natural-grass driving range",
+      "Putting greens and covered practice area",
+      "Practice bunkers",
+      "Pro shop",
+      "Buggy, trolley and club hire",
+      "Kayena restaurant",
+      "Locker rooms"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "rio-real",
+    "name": "Río Real Golf Marbella",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,051 m (Tee 61)",
+    "slope": "139 (Tee 61, men)",
+    "designer": "Javier Arana",
+    "opened": "1965",
+    "lat": 36.5122303,
+    "lon": -4.8445416,
+    "image": "/assets/images/courses/rio-real.webp",
+    "images": [
+      "/assets/images/courses/rio-real.webp"
+    ],
+    "summary": "Javier Arana's par 72 beside the Río Real, one of the coast's oldest courses, running down towards the sea with a golf hotel on site.",
+    "about": "Río Real opened in 1965 to a Javier Arana design, which makes it one of the longest-serving courses in Marbella. The fairways follow the Río Real river down towards the sea, and from the Tee 61 markers the par 72 measures 6,051 metres with a men's slope of 139, so there is real golf in it for good players. The club has a golf academy, pro shop and buggy bar, and a four-star boutique hotel with 30 rooms stands on the property, which suits groups who want to stay on the course.",
+    "signature": "",
+    "facilities": [
+      "Buggy and club hire",
+      "Electric and manual trolleys",
+      "Buggy bar",
+      "Pro shop",
+      "Golf academy",
+      "Locker rooms",
+      "Parking"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "cabopino",
+    "name": "Cabopino Golf Marbella",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Woodland",
+    "par": 71,
+    "length": "5,193 m (Yellow)",
+    "slope": "",
+    "designer": "Juan Ligués Creus",
+    "opened": "2001",
+    "lat": 36.4939952,
+    "lon": -4.7403275,
+    "image": "/assets/images/courses/cabopino.webp",
+    "images": [
+      "/assets/images/courses/cabopino.webp"
+    ],
+    "summary": "A compact par 71 at Cabopino with sea views from the 10th, water on the 13th and 15th, and a golf academy and driving range on site.",
+    "about": "Cabopino is a short par 71 laid out by Juan Ligués Creus and opened in 2001. From the yellow tees it plays 5,193 metres, with thirteen par 4s, two par 5s and three par 3s. The hole to remember is the 14th, a 456-metre par 5 and the longest on the card. The 10th looks out to sea and the 13th and 15th are par 3s over lakes. It is an easy round to fit into a Marbella day, and the Cabopino Golf Academy, driving range and 600 square metre putting green are all on site.",
+    "signature": "The 14th, a par 5 of 456 metres, is the longest hole on the course.",
+    "facilities": [
+      "Driving range",
+      "Putting green of 600 square metres",
+      "Cabopino Golf Academy",
+      "Electric buggies and trolleys",
+      "Pro shop",
+      "Restaurant and cafeteria",
+      "Locker rooms and showers"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "santa-maria-marbella",
+    "name": "Santa María Golf Club Marbella",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Woodland",
+    "par": 72,
+    "length": "6,015 m (White)",
+    "slope": "136 (White, men)",
+    "designer": "Antonio García Garrido (first nine) and the club's technical team (second nine)",
+    "opened": "1996",
+    "lat": 36.4998806,
+    "lon": -4.7676386,
+    "image": "/assets/images/courses/santa-maria-marbella.webp",
+    "images": [
+      "/assets/images/courses/santa-maria-marbella.webp"
+    ],
+    "summary": "A par 72 in Elviria, Marbella, with a 19th-century clubhouse, lakes in play on five holes and a slope of 136 from the white tees.",
+    "about": "Santa María lies in Elviria on the eastern side of Marbella, with a 19th-century clubhouse as its centrepiece. The course was built in two phases: Antonio García Garrido laid out the first nine and the club's own technical team the second, with the full 18 completed in 1996. It plays 6,015 metres from the white tees to a par of 72 and a men's slope of 136, and lakes come into play on the 1st, 3rd, 8th, 9th and 11th. Allow around 4 hours 30 minutes, and note the two tennis courts, sauna and H19 restaurant.",
+    "signature": "",
+    "facilities": [
+      "Buggy and club hire",
+      "Pro shop",
+      "H19 restaurant",
+      "Changing rooms with sauna",
+      "Two tennis courts",
+      "Historic clubhouse"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "los-naranjos",
+    "name": "Los Naranjos Golf Club",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,564 m (Black)",
+    "slope": "133",
+    "designer": "Robert Trent Jones Sr",
+    "opened": "1977",
+    "lat": 36.509946,
+    "lon": -4.979789,
+    "image": "/assets/images/courses/los-naranjos.webp",
+    "images": [
+      "/assets/images/courses/los-naranjos.webp"
+    ],
+    "summary": "Robert Trent Jones Sr's second Nueva Andalucía course: a roomy parkland layout with wide fairways, big greens and a par 5 finish played towards the clubhouse.",
+    "about": "Opened in 1977 on gently rolling land just north of Las Brisas, Los Naranjos is a classic Trent Jones test. Fairways are wide, greens are large and softly contoured, and the water and bunkers reward picking the right line rather than hitting the ball furthest. The club has staged the Spanish PGA Championship (1989) and the Women's Spanish Open (2021). Four tee sets run from 5,054 to 6,564 metres, so mixed groups can all enjoy the same round. It is a shareholders' club that also welcomes visiting golfers.",
+    "signature": "The closing par 5, 525 metres from the black tees, plays back towards the clubhouse.",
+    "facilities": [
+      "Pro shop with buggy, trolley and club hire",
+      "Putting green and chipping area with practice bunker",
+      "Golf academy",
+      "Restaurant with its own wine cellar",
+      "Clubhouse",
+      "Padel courts"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "real-club-las-brisas",
+    "name": "Real Club de Golf Las Brisas",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,464 m (tee 65)",
+    "slope": "149",
+    "designer": "Robert Trent Jones Sr, reconstructed by Kyle Phillips",
+    "opened": "1968",
+    "lat": 36.5104102,
+    "lon": -4.9699474,
+    "image": "/assets/images/courses/real-club-las-brisas.webp",
+    "images": [
+      "/assets/images/courses/real-club-las-brisas.webp"
+    ],
+    "summary": "Marbella's original Trent Jones course, rebuilt by Kyle Phillips in 2015 and still a private members' club among the botanical-garden trees of Nueva Andalucía.",
+    "about": "Founded in 1968 as Club de Golf Nueva Andalucía, Las Brisas was the first Robert Trent Jones Sr design in the Marbella area and is now one of the most exclusive clubs on the coast. Kyle Phillips reconstructed it in 2015, keeping the water-lined routing and raised, well-bunkered greens that make it a precise test; the club lists a slope of 149 from the back tees. Gerald Huggan's landscaping fills the course with trees from every continent. Las Brisas is a private members' club, so visiting play depends on a member's invitation.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Golf academy",
+      "Clubhouse with restaurant",
+      "On-course chiringuito",
+      "Marshalled pace of play"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "real-guadalmina-north",
+    "name": "Real Guadalmina North",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 72,
+    "length": "5,600 m (tee 56)",
+    "slope": "131",
+    "designer": "Folco Nardi",
+    "opened": "",
+    "lat": 36.4708342,
+    "lon": -5.0072629,
+    "image": "/assets/images/courses/real-guadalmina-north.webp",
+    "images": [
+      "/assets/images/courses/real-guadalmina-north.webp"
+    ],
+    "summary": "The shorter, flatter sister of Guadalmina's South Course: a walkable parkland course where a stream and the housing walls decide how aggressive you can be.",
+    "about": "Folco Nardi, an Italian cavalry colonel who also worked as the club's greenkeeper, designed the North Course, and it plays very differently from the South. Fairways are wider, the land is almost flat and the par 4s run mostly between 300 and 350 metres, so a loose tee shot can often be recovered. The Arroyo del Chopo stream comes into play on five holes, and the real hazard is the wall line of the neighbouring houses. Both nines start and finish near the clubhouse, which makes nine-hole rounds easy to arrange.",
+    "signature": "",
+    "facilities": [
+      "Covered driving range",
+      "Chipping and putting greens",
+      "Nine-hole par-3 pitch and putt",
+      "Golf school",
+      "Buggy hire",
+      "Caddie master"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "real-guadalmina-south",
+    "name": "Real Guadalmina South",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,082 m (tee 61)",
+    "slope": "137",
+    "designer": "Javier Arana, renovated by Stirling & Martin",
+    "opened": "1959",
+    "lat": 36.480226,
+    "lon": -5.0056108,
+    "image": "/assets/images/courses/real-guadalmina-south.webp",
+    "images": [
+      "/assets/images/courses/real-guadalmina-south.webp"
+    ],
+    "summary": "Javier Arana's 1959 original beside the Mediterranean, renovated in 2002: tree-lined and tight, with a par 3 at the 17th as in all of Arana's courses.",
+    "about": "The South Course is the oldest on the Costa del Sol's Guadalmina estate and the harder of the two. Javier Arana laid it out in two stages, in 1959 and 1965, and Stirling & Martin renovated it in 2002, enlarging the greens and adding water while keeping Arana's character. Narrow, tree-lined fairways demand a straight tee shot, because a second shot from the wrong side is awkward. True to an Arana trademark, the 17th is a par 3. The club hosted two Ladies European Tour events, in 2017 and 2020.",
+    "signature": "",
+    "facilities": [
+      "Covered driving range",
+      "Chipping and putting greens",
+      "Nine-hole par-3 pitch and putt",
+      "Golf school",
+      "Buggy hire",
+      "Caddie master"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "alferini-villa-padierna",
+    "name": "Alferini Golf, Villa Padierna",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Mountain",
+    "par": 73,
+    "length": "6,648 m (back tees)",
+    "slope": "137",
+    "designer": "Cristóbal Guerrero",
+    "opened": "2007",
+    "lat": 36.475747,
+    "lon": -5.0534909,
+    "image": "/assets/images/courses/alferini-villa-padierna.webp",
+    "images": [
+      "/assets/images/courses/alferini-villa-padierna.webp"
+    ],
+    "summary": "The longest and toughest of Villa Padierna's three courses: a par 73 of 6,648 metres through quiet Benahavís hills, best played by buggy.",
+    "about": "Alferini opened in 2007 as the second course at Villa Padierna and is the one the resort gives to stronger players. At 6,648 metres from the back tees and a par of 73, it uses the natural slopes, lakes and streams of the hills above Marbella and feels remote and calm. The club suggests about five hours for a round and recommends a buggy. It staged the Andalucía Costa del Sol Open de España in 2022. Handicap limits are 24 for men and 32 for women, waived if you play with a PGA professional.",
+    "signature": "",
+    "facilities": [
+      "Driving range with 17 outdoor bays, free on the day of play",
+      "Short-game practice area",
+      "PGA golf academy",
+      "Pro shop",
+      "Clubhouse",
+      "On-course buggy bar"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "flamingos-villa-padierna",
+    "name": "Flamingos Golf, Villa Padierna",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 71,
+    "length": "5,714 m",
+    "slope": "141 (White)",
+    "designer": "Antonio García",
+    "opened": "2001",
+    "lat": 36.4750972,
+    "lon": -5.0529411,
+    "image": "/assets/images/courses/flamingos-villa-padierna.webp",
+    "images": [
+      "/assets/images/courses/flamingos-villa-padierna.webp"
+    ],
+    "summary": "Villa Padierna's original course, a par 71 with undulating greens and sea views that has hosted both the European Senior Tour and the Ladies European Tour.",
+    "about": "Opened in 2001, Flamingos is the centrepiece of Villa Padierna and its most played course. It is a shorter par 71 of 5,714 metres, but undulating greens and sea views keep it interesting, and the slope for the white tees is a stiff 141. It hosted the European Senior Tour in 2002, 2003 and 2004 and the Ladies European Tour in 2010. Tee times run every ten minutes and a round takes about four and a half hours. The handicap limit is 28 for men and 36 for women.",
+    "signature": "",
+    "facilities": [
+      "Driving range with 17 outdoor bays, free on the day of play",
+      "Short-game practice area",
+      "PGA golf academy",
+      "Pro shop",
+      "Clubhouse",
+      "On-course buggy bar"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "el-paraiso",
+    "name": "El Paraíso Golf Club",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 71,
+    "length": "5,835 m (back tees)",
+    "slope": "129",
+    "designer": "Gary Player",
+    "opened": "1973",
+    "lat": 36.476586,
+    "lon": -5.034811,
+    "image": "/assets/images/courses/el-paraiso.webp",
+    "images": [
+      "/assets/images/courses/el-paraiso.webp"
+    ],
+    "summary": "A Gary Player design from 1973 in the Paraíso valley, with palm-lined fairways, streams and a tough par-5 15th, sitting between La Concha mountain and the sea.",
+    "about": "El Paraíso opened in 1973 as a Gary Player original. It lies between La Concha mountain and the Mediterranean, on the Marbella to Estepona road, and the compact 5,835 metres from the back tees hide more climb and more water than the scorecard suggests. Palm-lined fairways, meandering streams and seven recently rebuilt greens keep it varied. The club is member-owned but open daily to green-fee players, and its terrace restaurant looks over the course. A friendly, unpretentious round.",
+    "signature": "The 15th is a dogleg-left par 5 with fairway bunkers, a lake and a two-tiered green.",
+    "facilities": [
+      "Driving range",
+      "Pro shop",
+      "Buggy, electric trolley and manual trolley hire",
+      "Terrace restaurant overlooking the course",
+      "Lockers and changing rooms with showers",
+      "Junior academy"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "atalaya-old",
+    "name": "Atalaya Old Course",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 72,
+    "length": "",
+    "slope": "137 (tee 64)",
+    "designer": "Bernhard von Limburger",
+    "opened": "1968",
+    "lat": 36.4813444,
+    "lon": -5.0176215,
+    "image": "/assets/images/courses/atalaya-old.webp",
+    "images": [
+      "/assets/images/courses/atalaya-old.webp"
+    ],
+    "summary": "Bernhard von Limburger's 1968 original at Atalaya: wide, shaded fairways, raised greens and views of La Concha and the sea, in one of the coast's oldest clubs.",
+    "about": "Atalaya opened in 1968 as a golf club first and a property development second, and the Old Course remains its heart. Bernhard von Limburger, whose only Spanish design this is, set wide fairways between mature trees and flowering shrubs, and finished them with raised, subtly contoured bentgrass greens that make club selection interesting. It is a good walking course with views of La Concha and the Mediterranean, plus lakes with resident swans. The 10th tee sits on the roof of a small café that doubles as a halfway house.",
+    "signature": "",
+    "facilities": [
+      "Golf academy with full practice facilities",
+      "Short-game practice area",
+      "Café and terrace at the 10th tee",
+      "Pro shop",
+      "Buggy, trolley and club hire",
+      "Restaurant"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "atalaya-new",
+    "name": "Atalaya New Course",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 71,
+    "length": "5,085 m (Yellow)",
+    "slope": "122",
+    "designer": "Paul Krings",
+    "opened": "1990",
+    "lat": 36.4810605,
+    "lon": -5.0161048,
+    "image": "/assets/images/courses/atalaya-new.webp",
+    "images": [
+      "/assets/images/courses/atalaya-new.webp"
+    ],
+    "summary": "A hillside par 71 above the Old Course, designed by Paul Krings in 1990: shorter than its sibling, but with elevation changes, a lake on the 4th and sea views.",
+    "about": "Paul Krings, the German architect behind Schloss Maxlrain, laid out the New Course in 1990 on the hills above the Old Course. It rewards accuracy off the tee more than length, with sloping fairways and greens that call for careful club selection. A cork-oak, olive and carob wood fills the middle of the course, there is a lake at the 4th, and views reach the Mediterranean and Gibraltar. It is walkable despite a few climbs, though a buggy is wise in summer. Bermuda greens turn brownish and dormant from November to April.",
+    "signature": "",
+    "facilities": [
+      "Golf academy beside the first tee",
+      "Short-game practice area",
+      "Café at the Old Course 10th tee",
+      "Pro shop",
+      "Buggy, trolley and club hire",
+      "Restaurant"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "los-arqueros",
+    "name": "Los Arqueros Golf & Country Club",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Mountain",
+    "par": 71,
+    "length": "5,700 m",
+    "slope": "137 (White)",
+    "designer": "Severiano Ballesteros",
+    "opened": "1991",
+    "lat": 36.5136169,
+    "lon": -5.0152731,
+    "image": "/assets/images/courses/los-arqueros.webp",
+    "images": [
+      "/assets/images/courses/los-arqueros.webp"
+    ],
+    "summary": "Seve Ballesteros's first course on the Costa del Sol: a compact par 71 in the hills above Benahavís with Mediterranean views and a famously testing stretch at 6 to 8.",
+    "about": "Opened in 1991, Los Arqueros was the first course Seve Ballesteros designed on the Costa del Sol. It follows the contours of the Benahavís hills, so expect elevated tees, water, some narrow fairways and split-level greens. At roughly 5,700 metres it is short, and the club's advice is to trade distance for accuracy and collect birdie chances. Holes 6 to 8 form the club's own 'Amen Corner', and the 12th and 13th play from high tees with the Mediterranean in the distance. The club has a full practice area and a country-club side with padel, tennis and bowling.",
+    "signature": "The 13th is a par 5 from an elevated tee that asks for both accuracy and distance, with the 12th, a tight par 4, the other signature hole.",
+    "facilities": [
+      "Driving range",
+      "Putting and chipping greens with practice bunkers",
+      "Golf and sport shop",
+      "Buggy hire",
+      "Restaurant La View",
+      "Padel, tennis and bowling"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "la-quinta",
+    "name": "La Quinta Golf & Country Club",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": "",
+    "length": "3 x 9 holes: 2,690 / 2,673 / 3,167 yds",
+    "slope": "",
+    "designer": "Manuel Piñero",
+    "opened": "",
+    "lat": 36.512381,
+    "lon": -4.9947731,
+    "image": "/assets/images/courses/la-quinta.webp",
+    "images": [
+      "/assets/images/courses/la-quinta.webp"
+    ],
+    "summary": "Twenty-seven holes in the Golf Valley, designed by Ryder Cup player Manuel Piñero: three nine-hole loops that you combine into 18, next to The Westin La Quinta.",
+    "about": "La Quinta is a 27-hole layout in Marbella's Golf Valley between sea and mountains, designed by the three-time world champion and Ryder Cup player Manuel Piñero. The loops are San Pedro (par 35, open with wide fairways), Ronda (par 35, narrower with testing greens) and Guadaiza (par 36, the most technical). Players who book a tee time online can combine any of the three. Irrigation uses only regenerated water. It suits mixed-ability groups, and it sits beside The Westin La Quinta, which makes it handy for resort stays.",
+    "signature": "",
+    "facilities": [
+      "Buggy hire",
+      "Buggy bar on the course",
+      "Pro shop",
+      "Clubhouse",
+      "Restaurant"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "marbella-club-golf",
+    "name": "Marbella Club Golf Resort",
+    "country": "spain",
+    "region": "marbella",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,121 m (White)",
+    "slope": "",
+    "designer": "Dave Thomas",
+    "opened": "",
+    "lat": 36.4959051,
+    "lon": -5.0603921,
+    "image": "/assets/images/courses/marbella-club-golf.webp",
+    "images": [
+      "/assets/images/courses/marbella-club-golf.webp"
+    ],
+    "summary": "Dave Thomas's Benahavís course for the Marbella Club group: a par 72 with water features, limited play and 30-minute tee intervals for an unhurried round.",
+    "about": "Dave Thomas, a former Ryder Cup player whose work includes the Belfry and PGA National, designed this course for the Marbella Club in the Benahavís hills. The 18 holes measure 6,121 metres from the white tees on the scorecard, with lakes, waterfalls and demanding bunkers that make you choose your approach. Play is deliberately limited, with about 30 minutes between tee times, and the club collects your bag and puts it on your buggy. The thatched clubhouse overlooks the lake at the first. A separate nine-hole par-36 course, El Higueral, sits nearby.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Pro shop",
+      "Buggies with ice box and ball washer",
+      "Club rental and golf lessons",
+      "Changing rooms and lockers",
+      "Clubhouse with bar and restaurant"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "la-cala-europa",
+    "name": "La Cala Resort Campo Europa",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "River valley",
+    "par": 71,
+    "length": "6,014 m",
+    "slope": "",
+    "designer": "Cabell B. Robinson",
+    "opened": "2005",
+    "lat": 36.541822,
+    "lon": -4.72226799999999,
+    "image": "/assets/images/courses/la-cala-europa.webp",
+    "images": [
+      "/assets/images/courses/la-cala-europa.webp"
+    ],
+    "summary": "The friendliest of La Cala's three courses: wider fairways, gentler ground and the Ojén river crossing eight holes, now chosen for the 2026 Ladies European Tour finale.",
+    "about": "Europa is the youngest of the three Cabell Robinson courses at La Cala and the one that asks for the least climbing. Fairways are generous, the ground is flatter than on America or Asia and the greens are a touch larger, yet the Ojén river is in play on eight holes, with a main bridge and four smaller crossings, so careless approaches are punished. Accurate iron play matters more than power. A good first choice for mixed-ability groups, and the venue for the Ladies European Tour's season finale in late November 2026, when the course is closed to resort guests from 20 to 30 November.",
+    "signature": "The 14th is a par 3 stretched to the maximum 233 metres, with water guarding the green.",
+    "facilities": [
+      "Driving range at the Golf Hub",
+      "Golf academy with swing analysis",
+      "9-hole par 3 short course",
+      "Pro shop and club fitting workshop",
+      "Club hire (men's and ladies' sets)",
+      "Clubhouse restaurant",
+      "Spa, pool and 4-star hotel on site"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "la-cala-america",
+    "name": "La Cala Resort Campo America",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Hillside",
+    "par": 72,
+    "length": "6,009 m",
+    "slope": "",
+    "designer": "Cabell B. Robinson",
+    "opened": "",
+    "lat": 36.5420229,
+    "lon": -4.72001,
+    "image": "/assets/images/courses/la-cala-america.webp",
+    "images": [
+      "/assets/images/courses/la-cala-america.webp"
+    ],
+    "summary": "Formerly the North Course: a hilly, open layout with sea and Sierra de Ojén views, five par 5s and a first hole that drops away from the tee.",
+    "about": "America, once known as the North Course, climbs and falls through the hills above La Cala de Mijas. The fairways are wide and fairly bunker-light, so the driving is forgiving, but the tilted ground, steep brush-covered banks and small raised greens make approach shots the real test. It has five par 5s and water that comes into play at the 9th and 16th. Views reach over the Sierra de Ojén to the Mediterranean, and the course has appeared in Spanish and continental Top 100 lists. Good for confident ball-strikers who like a hilly routing and a few long holes.",
+    "signature": "The 1st tees off from height to a fairway far below, a memorable opening shot.",
+    "facilities": [
+      "Driving range at the Golf Hub",
+      "Golf academy with swing analysis",
+      "9-hole par 3 short course",
+      "Pro shop and club fitting workshop",
+      "Club hire (men's and ladies' sets)",
+      "Clubhouse restaurant",
+      "Spa, pool and 4-star hotel on site"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "la-cala-asia",
+    "name": "La Cala Resort Campo Asia",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Hillside",
+    "par": 72,
+    "length": "5,925 m",
+    "slope": "",
+    "designer": "Cabell B. Robinson",
+    "opened": "",
+    "lat": 36.5421602,
+    "lon": -4.7222886,
+    "image": "/assets/images/courses/la-cala-asia.webp",
+    "images": [
+      "/assets/images/courses/la-cala-asia.webp"
+    ],
+    "summary": "La Cala's original course, formerly the South: narrow, compact and strategic, with four par 5s and Bermuda greens since 2019.",
+    "about": "Asia is the oldest of La Cala's courses and the one that rewards thinking over hitting. Formerly the South Course, it is narrower and more compact than its neighbours, with four par 5s and approach shots that matter more than distance off the tee. It was the first of the three to be re-laid with Bermuda grass greens, in 2019, a trial the resort then extended to the other two. Lakes guard a couple of greens and the par 3 11th plays steeply down toward views of the Sierra de Mijas and the coast. Suits low and mid handicappers who enjoy placement golf.",
+    "signature": "The 11th is a steep downhill par 3 with views to the Sierra de Mijas and the coast.",
+    "facilities": [
+      "Driving range at the Golf Hub",
+      "Golf academy with swing analysis",
+      "9-hole par 3 short course",
+      "Pro shop and club fitting workshop",
+      "Club hire (men's and ladies' sets)",
+      "Clubhouse restaurant",
+      "Spa, pool and 4-star hotel on site"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "mijas-los-lagos",
+    "name": "Mijas Golf Los Lagos",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,536 m (White)",
+    "slope": "126",
+    "designer": "Robert Trent Jones Sr",
+    "opened": "1976",
+    "lat": 36.550445,
+    "lon": -4.6677979,
+    "image": "/assets/images/courses/mijas-los-lagos.webp",
+    "images": [
+      "/assets/images/courses/mijas-los-lagos.webp"
+    ],
+    "summary": "Robert Trent Jones Sr's 1976 original at Mijas Golf, fully rebuilt in 2012: wide, flat fairways, big greens and nine lakes in play on eleven holes.",
+    "about": "Los Lagos is the longer and more championship-minded of the two courses at Mijas Golf. Robert Trent Jones Sr laid it out in 1976 and it was rebuilt from the ground up in 2012, with new USGA-spec greens, new drainage and cart paths that keep buggies running all year. The ground is gentle and the fairways wide, but nine lakes affect eleven holes and the sand is well placed, so the water decides most scores. Extended tee boxes let the course be set up to suit almost any handicap, which is why it has been a Costa del Sol staple for decades.",
+    "signature": "",
+    "facilities": [
+      "Driving range with Trackman screens, covered bays",
+      "Putting green and renovated chipping green with bunker",
+      "Buggies, electric trolleys and hand trolleys",
+      "Rental clubs",
+      "Pro shop",
+      "Restaurant with terrace and snack bar",
+      "Golf academy"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "mijas-los-olivos",
+    "name": "Mijas Golf Los Olivos",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Parkland",
+    "par": 71,
+    "length": "5,875 m (White)",
+    "slope": "124",
+    "designer": "Robert Trent Jones Sr (remodelled by Cabell B. Robinson, 2000-01)",
+    "opened": "1984",
+    "lat": 36.550445,
+    "lon": -4.6677979,
+    "image": "/assets/images/courses/mijas-los-olivos.webp",
+    "images": [
+      "/assets/images/courses/mijas-los-olivos.webp"
+    ],
+    "summary": "The shorter, tighter sister course at Mijas Golf: olive trees lining narrow fairways, small sloping greens and a par 71 card that rewards accuracy.",
+    "about": "Los Olivos is the second course at Mijas Golf, opened in 1984 and remodelled in 2000-01 by Cabell Robinson, a Trent Jones protégé. It is shorter than Los Lagos, with far less water, but makes up for it with olive, casuarina and fig trees pinching the fairways and with small, raised, sloping greens. The par is 71, with an opening nine of 34. Straight driving counts for more than distance here, so it suits mid and higher handicappers who keep the ball in play and anyone who wants a quicker round alongside Los Lagos.",
+    "signature": "",
+    "facilities": [
+      "Driving range with Trackman screens, covered bays",
+      "Putting green and renovated chipping green with bunker",
+      "Buggies, electric trolleys and hand trolleys",
+      "Rental clubs",
+      "Pro shop",
+      "Restaurant with terrace and snack bar",
+      "Golf academy"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "chaparral",
+    "name": "Chaparral Golf Club",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,000 m",
+    "slope": "",
+    "designer": "Pepe Gancedo",
+    "opened": "",
+    "lat": 36.5132918,
+    "lon": -4.66138760000001,
+    "image": "/assets/images/courses/chaparral.webp",
+    "images": [
+      "/assets/images/courses/chaparral.webp"
+    ],
+    "summary": "A Pepe Gancedo design through tall Canary pines close to the sea, with an unusual card of six par 3s, six par 4s and six par 5s.",
+    "about": "Chaparral sits among stately Canary Island pines just a few hundred metres from the coast, with glimpses of the sea from several holes. It is the work of Pepe Gancedo, who also came back to give it a second life after the club reopened in 2006. The routing is unusual: six par 3s, six par 4s and six par 5s, which brings plenty of variety to club selection. Bunkers and buggy paths have been refurbished since 2019. It sits in the Mijas golf valley, a few minutes off the N-340.",
+    "signature": "",
+    "facilities": [
+      "Pro shop",
+      "Changing rooms",
+      "Covered parking",
+      "Padel and tennis courts",
+      "Gym and indoor pool"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "miraflores",
+    "name": "Miraflores Golf Club",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Valley parkland",
+    "par": 71,
+    "length": "5,148 m (Yellow)",
+    "slope": "",
+    "designer": "Falco Nardi",
+    "opened": "1990",
+    "lat": 36.50194,
+    "lon": -4.704454,
+    "image": "/assets/images/courses/miraflores.webp",
+    "images": [
+      "/assets/images/courses/miraflores.webp"
+    ],
+    "summary": "A compact par 71 in the Riviera del Sol valley, flatter than it first appears, with a members' club feel and regular early-bird, twilight and winter green-fee deals.",
+    "about": "Miraflores was opened in April 1990 and takes its character from the valley it sits in: a par 71 of 5,148 metres from the yellow tees that looks hilly from the clubhouse but plays on far gentler ground. Falco Nardi finished the redesign of an earlier layout before his death, and the club has since been owned and run by its members. It is short, social and good value, with early-bird, twilight and winter deals, and a Toptracer range at the Sports Village on the second hole. Best for relaxed rounds, mixed groups and anyone who wants Riviera del Sol rather than a championship test.",
+    "signature": "",
+    "facilities": [
+      "Toptracer driving range at Miraflores Sports Village",
+      "Golf academy and lessons",
+      "Practice clubs and club rental at the range",
+      "Pro shop",
+      "Bobby Jones restaurant and Spikes bar"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "calanova",
+    "name": "Calanova Golf Club",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Hillside",
+    "par": 72,
+    "length": "5,866 m (White)",
+    "slope": "136",
+    "designer": "Julián García",
+    "opened": "2006",
+    "lat": 36.514137,
+    "lon": -4.71178299999997,
+    "image": "/assets/images/courses/calanova.webp",
+    "images": [
+      "/assets/images/courses/calanova.webp"
+    ],
+    "summary": "A hillside par 72 above La Cala de Mijas, five minutes from the sea, with sweeping views, a slope of 136 and a buggy always included in the green fee.",
+    "about": "Calanova opened in February 2006 in the foothills behind La Cala de Mijas, built to USGA specifications for tees, bunkers, drainage and greens. At 5,866 metres from the white tees it is not long, but the slope of 136 is a fair warning: the ground rolls, the greens are well guarded and six of the holes, 11 to 16, sit on the far side of the AP-7. The sea is only five minutes away and views run from the coast to the mountains. Because a buggy is part of every green fee, rounds are comfortable even on the climbs. Good value for mid handicappers who like some drama.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Buggy included in the green fee",
+      "Clubhouse restaurant",
+      "Pro shop",
+      "Changing rooms with lockers",
+      "Putting green"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "lauro",
+    "name": "Lauro Golf Resort",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Parkland",
+    "par": 72,
+    "length": "",
+    "slope": "",
+    "designer": "Folco Nardi (holes 1-18) and Mariano Benítez (holes 19-27)",
+    "opened": "1992",
+    "lat": 36.651329,
+    "lon": -4.6307769,
+    "image": "/assets/images/courses/lauro.webp",
+    "images": [
+      "/assets/images/courses/lauro.webp"
+    ],
+    "summary": "Twenty-seven holes around centuries-old holm oaks and fourteen lakes in the Guadalhorce valley, playable in three par 72 combinations of nine plus nine.",
+    "about": "Lauro is a 27-hole venue in Alhaurín de la Torre, set out around old holm oaks and fourteen lakes, with a clubhouse in the Cortijo El Paredón farmhouse. The three nines, A, B and C, combine into three 18-hole rounds, and every combination is a par 72. The first eighteen were designed by Folco Nardi to be technical rather than punishing, and Mariano Benítez added holes 19 to 27 in the same spirit. The terrain is moderately flat and can be walked, with two holes at the foot of the mountain looking over the Guadalhorce valley and out to the Mediterranean. A calm choice inland from the coast.",
+    "signature": "",
+    "facilities": [
+      "27 holes in three nine-hole loops",
+      "Clubhouse in the Cortijo El Paredón farmhouse",
+      "Restaurant with patio",
+      "Changing rooms and shop",
+      "Golf school",
+      "Padel club and lawn bowls"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "alhaurin",
+    "name": "Alhaurín Golf",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Hillside",
+    "par": 72,
+    "length": "6,045 m",
+    "slope": "",
+    "designer": "Severiano Ballesteros",
+    "opened": "",
+    "lat": 36.60857,
+    "lon": -4.7044659,
+    "image": "/assets/images/courses/alhaurin.webp",
+    "images": [
+      "/assets/images/courses/alhaurin.webp"
+    ],
+    "summary": "Seve Ballesteros's own design on uneven ground in the hills of Alhaurín el Grande, with views to the Sierra de Mijas and a 9-hole par 3 course beside the range.",
+    "about": "Alhaurín Golf is a Severiano Ballesteros design, built on uneven ground that gives it plenty of personality: five par 3s, five par 5s and eight par 4s over 18 holes, with views to the Sierra de Mijas and the Mediterranean. From the back tees it measures 6,045 metres. The land is wilder than most Costa del Sol courses and the change between manicured fairways and mountain scrub is part of the appeal. Beside the range there is also a 9-hole par 3 course that can be played with two flags and two tees as 18 different holes. About 25 minutes from Málaga airport.",
+    "signature": "",
+    "facilities": [
+      "Driving range with 60 bays, 300 m long",
+      "Chipping green with practice bunker",
+      "Putting green with 18 flags",
+      "9-hole par 3 course",
+      "Pro shop",
+      "Clubhouse restaurant",
+      "Golf school"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "santana",
+    "name": "Santana Golf",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,207 m (Blue)",
+    "slope": "",
+    "designer": "Cabell B. Robinson",
+    "opened": "",
+    "lat": 36.545168,
+    "lon": -4.693061,
+    "image": "/assets/images/courses/santana.webp",
+    "images": [
+      "/assets/images/courses/santana.webp"
+    ],
+    "summary": "A walkable Cabell Robinson parkland laid out on a former avocado plantation, with fruit trees, marble-sand bunkers and a 602-metre par 5 at the 8th.",
+    "about": "Santana was routed through a former avocado plantation, and the fruit trees, eucalyptus, olives and a 500-year-old cork oak at the 5th are still part of the scenery. Cabell Robinson kept the ground level and the fairways wide, so the course is easy to walk, then used water and crushed-marble bunkers to make the golf demanding. Each hole has two championship tees and two for general play. The 8th is a par 5 of 602 metres, which the club calls the longest on the Costa del Sol, and the 18th finishes beside a lake. Warm up on the putting green: no driving range is advertised.",
+    "signature": "The 8th is a 602-metre par 5, billed by the club as the longest on the Costa del Sol.",
+    "facilities": [
+      "Putting green, free to use",
+      "Pro shop",
+      "La Cabaña restaurant",
+      "Buggies and starters",
+      "Caddie master",
+      "Clubhouse"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "torrequebrada",
+    "name": "Golf Torrequebrada",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Parkland",
+    "par": 72,
+    "length": "5,842 m (White)",
+    "slope": "139",
+    "designer": "José 'Pepe' Gancedo",
+    "opened": "1976",
+    "lat": 36.5886002,
+    "lon": -4.5517703,
+    "image": "/assets/images/courses/torrequebrada.webp",
+    "images": [
+      "/assets/images/courses/torrequebrada.webp"
+    ],
+    "summary": "Pepe Gancedo's 1976 course between sea and mountains in Benalmádena, host of the 1979 Spanish Open, 20 minutes from Málaga airport.",
+    "about": "Torrequebrada opened in 1976 and is one of the Costa del Sol's veteran courses, designed by Pepe Gancedo with greens inspired by modern American style. It hosted the 53rd Spanish Open in 1979, won by Dale Hayes, and the course record of 62 was set by David Law in 2015. Over a hundred species of tree give it a subtropical feel, there are lakes and well-placed bunkers, and views take in the Mediterranean and the 771-metre Calamorro mountain. At 5,842 metres from the white tees, slope 139, it is shorter than it feels. Handy for a round between the airport and your hotel.",
+    "signature": "The 7th is a par 4 with open Mediterranean views and a lake to carry on the approach.",
+    "facilities": [
+      "Driving range",
+      "Buggies, with a Buggy Bar on the course",
+      "Halfway house at the 11th",
+      "Bar-restaurant with sea-view terrace",
+      "Pro shop",
+      "Changing rooms with lockers"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "real-guadalhorce",
+    "name": "Real Guadalhorce Club de Golf",
+    "country": "spain",
+    "region": "mijas-malaga",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,202 m",
+    "slope": "",
+    "designer": "Kosti Kuronen (redesigned by Miguel Ángel Jiménez)",
+    "opened": "",
+    "lat": 36.6995932,
+    "lon": -4.5300756,
+    "image": "/assets/images/courses/real-guadalhorce.webp",
+    "images": [
+      "/assets/images/courses/real-guadalhorce.webp"
+    ],
+    "summary": "A long par 72 beside the Guadalhorce river near Málaga, redesigned by Miguel Ángel Jiménez in 2007 and granted its royal title in 2017.",
+    "about": "Real Guadalhorce lies on flat ground by the Guadalhorce river, close to Málaga, on land whose history goes back to the 16th-century Cortijo Colmenares. Kosti Kuronen drew the original layout and Miguel Ángel Jiménez reworked it in 2007, giving a long 6,202-metre par 72 with two clearly different halves. Water and the river corridor shape the holes, and the 'Real' title was granted in 2017. The club also has a 9-hole par 3 course with two lakes, ideal for a warm-up or a family round, and a restaurant run by the Córdoba firm Bodegas Campos. A short drive from Málaga and its airport.",
+    "signature": "",
+    "facilities": [
+      "9-hole par 3 course with pitch and putt option",
+      "Restaurant with terrace",
+      "Pro shop",
+      "Caddie master",
+      "Buggy hire (book in advance)",
+      "Kids club"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "sancti-petri-hills",
+    "name": "Sancti Petri Hills Golf",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Pine parkland",
+    "par": 68,
+    "length": "4,767 m (White)",
+    "slope": "120",
+    "designer": "Manuel Piñero",
+    "opened": "2006",
+    "lat": 36.342861,
+    "lon": -6.147818,
+    "image": "/assets/images/courses/sancti-petri-hills.webp",
+    "images": [
+      "/assets/images/courses/sancti-petri-hills.webp"
+    ],
+    "summary": "A compact par 68 threaded through stone pines and lakes above La Barrosa beach, open every day of the year.",
+    "about": "Manuel Piñero, winner of the 1976 World Cup of golf, designed this par 68 on the Lomas de Sancti Petri hillside. At 4,767 metres from the white tees it is short by modern standards, so the game is about placement: stone pines squeeze the fairways, lakes guard several greens and the breeze from La Barrosa changes the club choice from one day to the next. It suits mixed groups and anyone who wants a relaxed round close to the beach hotels. The course is irrigated with recycled water and opens daily from eight until seven.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting green",
+      "Golf academy with federated professionals",
+      "Buggy, trolley and club hire",
+      "Pro shop",
+      "Clubhouse with restaurant and terrace",
+      "Free parking"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "real-novo-sancti-petri",
+    "name": "Real Novo Sancti Petri, Mar y Pinos (Course A)",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Coastal",
+    "par": 72,
+    "length": "6,455 m (Black)",
+    "slope": "139",
+    "designer": "Severiano Ballesteros",
+    "opened": "1990",
+    "lat": 36.3509302,
+    "lon": -6.1663603,
+    "image": "/assets/images/courses/real-novo-sancti-petri.webp",
+    "images": [
+      "/assets/images/courses/real-novo-sancti-petri.webp"
+    ],
+    "summary": "Course A at Real Novo Sancti Petri, designed by Severiano Ballesteros: the sea on the way out, pine woodland on the way home, five sets of tees.",
+    "about": "Mar y Pinos is Course A at Real Novo Sancti Petri, the 36-hole club in Chiclana that Severiano Ballesteros designed and that dates from 1990. It plays to par 72 and 6,455 metres from the black tees, with white, yellow, blue and red sets so a mixed group can start together. The Atlantic shows itself early in the round, then pine woodland takes over. The slope is 139 from the back: firm, but fair for a sound handicap. Because the club also has the Centro course, it is a natural base for two days of golf at Novo Sancti Petri.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting and chipping greens",
+      "Buggy, trolley and club hire",
+      "Pro shop",
+      "Golf academy with private and group lessons",
+      "Clubhouse with restaurants and snack bar"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "real-novo-sancti-petri-centro",
+    "name": "Real Novo Sancti Petri, Centro (Course B)",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,071 m (Black)",
+    "slope": "140",
+    "designer": "Severiano Ballesteros",
+    "opened": "1990",
+    "lat": 36.3509302,
+    "lon": -6.1663603,
+    "image": "/assets/images/courses/real-novo-sancti-petri-centro.webp",
+    "images": [
+      "/assets/images/courses/real-novo-sancti-petri-centro.webp"
+    ],
+    "summary": "The second 18 at Real Novo Sancti Petri: about 380 metres shorter than Mar y Pinos from the back tees, yet rated a point tougher.",
+    "about": "Course B at Real Novo Sancti Petri is another Severiano Ballesteros layout, measuring 6,071 metres from the black tees at par 72, with a slope of 140, one point higher than the sea-and-pines course. From the white tees it drops to 5,846 metres, a sensible length for most visitors. Federation records also rate a combined Mar plus Centro routing, so a group staying several days can vary its rounds. Playing Centro and Mar y Pinos on consecutive days is the obvious plan for a golf break on this stretch of the Costa de la Luz.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting and chipping greens",
+      "Buggy, trolley and club hire",
+      "Pro shop",
+      "Golf academy with private and group lessons",
+      "Clubhouse with restaurants and snack bar"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "la-estancia",
+    "name": "La Estancia Golf",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,390 m (White)",
+    "slope": "129",
+    "designer": "Alan Rijks",
+    "opened": "2009",
+    "lat": 36.362152,
+    "lon": -6.137183,
+    "image": "/assets/images/courses/la-estancia.webp",
+    "images": [
+      "/assets/images/courses/la-estancia.webp"
+    ],
+    "summary": "A broad, gently rolling par 72 on 82 hectares of farmland near La Barrosa, with no houses on the course and lakes, streams and birdlife for company.",
+    "about": "La Estancia opened in 2009 in Chiclana, 2.7 kilometres from La Barrosa beach, on 82 hectares of open countryside between 14 and 28 metres above sea level. Alan Rijks laid out wide, rolling fairways and large, moving greens, and with no housing anywhere on the property the course feels unusually calm for this coast. Lakes and streams come into play, more than 25 bird species live on the site, and the east and west winds make every round different. It is a pleasant walk, buggies are available, and 6,390 metres from the white tees (slope 129) suits all levels.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting green and pitching area",
+      "Buggy and club hire",
+      "Pro shop",
+      "Clubhouse",
+      "Golf academy"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "costa-ballena",
+    "name": "Costa Ballena Ocean Golf Club",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Coastal",
+    "par": 72,
+    "length": "6,318 m (White)",
+    "slope": "133",
+    "designer": "José María Olazábal",
+    "opened": "1997",
+    "lat": 36.6807929,
+    "lon": -6.4084598,
+    "image": "/assets/images/courses/costa-ballena.webp",
+    "images": [
+      "/assets/images/courses/costa-ballena.webp"
+    ],
+    "summary": "Olazábal's 27 holes on flat Atlantic farmland: three nine-hole loops of palms, olives and figs, plus a huge practice ground beside the beach.",
+    "about": "José María Olazábal designed Costa Ballena, which the club says was built in 1995 and opened for play in 1997. Three nine-hole loops, Olivos, Palmeras and Ficus, combine into different 18-hole routings; the par 72 is Olivos plus Palmeras, at 6,318 metres from the white tees with a slope of 133. The land is flat farmland with gentle undulations, a few holes run beside the Atlantic, and bunkers and lakes are placed with care. There is also a nine-hole par-3 course, an academy and a beachside range, and the club has been a European Qualifying School venue since 2005. This is a 27-hole venue.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting and pitching greens",
+      "Nine-hole par-3 course",
+      "Golf academy",
+      "Buggy, trolley and club hire",
+      "Clubhouse with restaurant, gym and sauna"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "sherry-golf-jerez",
+    "name": "Sherry Golf Jerez",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,572 m (Black)",
+    "slope": "132",
+    "designer": "Stirling & Martin",
+    "opened": "2004",
+    "lat": 36.660019,
+    "lon": -6.15509,
+    "image": "/assets/images/courses/sherry-golf-jerez.webp",
+    "images": [
+      "/assets/images/courses/sherry-golf-jerez.webp"
+    ],
+    "summary": "A championship par 72 by Stirling & Martin on the edge of Jerez, host of the Copa del Rey three times and a practice ground that takes 50 players.",
+    "about": "Sherry Golf Jerez opened in 2004, designed by Stirling & Martin, and plays to par 72 at 6,572 metres from the black tees (slope 132). It is a proper test for low handicappers yet comfortable for everyone else from the forward tees. The club has staged the Spanish Copa del Rey in 2006, 2015 and 2022, and the Copa de la Reina in 2007 and 2011, so the greens and bunkering are used to scrutiny. The practice range is over 250 metres long and takes 50 players at once. Jerez, its sherry bodegas and the airport are close.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting and chipping areas",
+      "Buggy and club hire",
+      "Pro shop",
+      "Clubhouse with restaurant",
+      "Golf academy"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "montecastillo",
+    "name": "Barceló Montecastillo Golf",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,411 m (White)",
+    "slope": "132",
+    "designer": "Jack Nicklaus",
+    "opened": "1991",
+    "lat": 36.7024201,
+    "lon": -6.0382642,
+    "image": "/assets/images/courses/montecastillo.webp",
+    "images": [
+      "/assets/images/courses/montecastillo.webp"
+    ],
+    "summary": "Jack Nicklaus's 1991 par 72 beside the Jerez circuit, long-time home of the Volvo Masters and part of a five-star resort with its own villas.",
+    "about": "Jack Nicklaus designed Montecastillo, which has been open since 1991 and sits next to the Circuito de Jerez. It is a par 72 of 6,411 metres from the white tees with a slope of 132. The Volvo Masters was played here for five consecutive years, so the course is used to professional fields, yet it is fair for ordinary handicaps if you pick the right tees. The Barceló resort around it has 124 rooms and 38 villas, which makes it easy to build a golf break around one address. Jerez airport is roughly ten minutes away.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting green",
+      "Caddies on request",
+      "Buggy and club hire",
+      "Pro shop",
+      "Clubhouse with restaurant",
+      "Resort spa"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "montenmedio",
+    "name": "Montenmedio Golf & Country Club",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,260 m (White)",
+    "slope": "135",
+    "designer": "Alejandro Maldonado",
+    "opened": "1996",
+    "lat": 36.235671,
+    "lon": -5.910184,
+    "image": "/assets/images/courses/montenmedio.webp",
+    "images": [
+      "/assets/images/courses/montenmedio.webp"
+    ],
+    "summary": "A quiet par 72 above Vejer de la Frontera with no buildings on the course and views to the Barbate marshes and, on clear days, Africa.",
+    "about": "Montenmedio, on the N-340 outside Vejer de la Frontera, was designed by Alejandro Maldonado and has been open since 1996. It plays to par 72 and 6,260 metres from the white tees, with a slope of 135. No buildings stand on the course, and the elevated holes look across to Vejer, Medina and Benalup, over the Barbate marshes and towards Cabo Espartel in Morocco. The estate is now run under the name Dehesa Montenmedio. A federation licence is required, there is a dress code, and buggies are limited to two players.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting green",
+      "Buggy hire",
+      "Restaurant El Ibis",
+      "Pro shop",
+      "Hotel reception and clubhouse"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "fairplay",
+    "name": "Fairplay Golf & Spa Resort",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Parkland",
+    "par": 73,
+    "length": "6,072 m (White)",
+    "slope": "133",
+    "designer": "Paul Rolin",
+    "opened": "",
+    "lat": 36.3354818,
+    "lon": -5.8187642,
+    "image": "/assets/images/courses/fairplay.webp",
+    "images": [
+      "/assets/images/courses/fairplay.webp"
+    ],
+    "summary": "A par 73 in the countryside of Benalup-Casas Viejas, with water on the front nine and wide views over the La Janda valley from the back.",
+    "about": "Fairplay is in Benalup-Casas Viejas, inland from Conil, not on the coast. Baron Paul Rolin designed this par 73, which measures 6,072 metres from the white tees at slope 133. Water comes into play on the front nine, while the back nine climbs onto elevated tees with views across the La Janda valley. The resort has its own five-star hotel, spa and golf academy, plus a practice area with three short holes and a fleet of more than thirty buggies, so a whole group can stay on site and play at an easy pace.",
+    "signature": "",
+    "facilities": [
+      "Practice area with three short holes",
+      "Driving range",
+      "Golf academy",
+      "Fleet of over 30 buggies",
+      "Restaurant Hoyo 19",
+      "Five-star resort with spa"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "arcos-gardens",
+    "name": "Arcos Golf (Arcos Gardens)",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,738 m (Gold)",
+    "slope": "137",
+    "designer": "Landmark Spain",
+    "opened": "2006",
+    "lat": 36.7261388,
+    "lon": -5.7625449,
+    "image": "/assets/images/courses/arcos-gardens.webp",
+    "images": [
+      "/assets/images/courses/arcos-gardens.webp"
+    ],
+    "summary": "Landmark Spain's long 2006 par 72 about four kilometres from Arcos de la Frontera, with five sets of tees and a gold tee of 6,738 metres.",
+    "about": "Arcos Golf, part of the Arcos Gardens development, lies about four kilometres from Arcos de la Frontera, one of Andalucía's white hill towns. Designed by Landmark Spain (Chris Cole and Jeff Potts) and opened in 2006, it is a par 72 of 6,738 metres from the gold tees at slope 137. From the white tees it measures 6,279 metres, slope 131, which suits most visitors better. Green fees are paid in advance and booking is required. It makes a good change from the coast for anyone based around Jerez.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting green",
+      "Buggy and club hire",
+      "Pro shop",
+      "Clubhouse with restaurant"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "villanueva-golf",
+    "name": "Villanueva Golf & Croquet",
+    "country": "spain",
+    "region": "cadiz-sancti-petri",
+    "style": "Parkland",
+    "par": 71,
+    "length": "6,071 m (White)",
+    "slope": "125",
+    "designer": "Aymerich Consulting",
+    "opened": "2005",
+    "lat": 36.5053122,
+    "lon": -6.1397283,
+    "image": "/assets/images/courses/villanueva-golf.webp",
+    "images": [
+      "/assets/images/courses/villanueva-golf.webp"
+    ],
+    "summary": "A par 71 in Puerto Real, ten minutes from Cádiz, open to visitors with online booking and a long fifth hole beside a lake.",
+    "about": "Villanueva Golf & Croquet is a full 18-hole course in Puerto Real, around ten minutes from Cádiz, and visitors can book online. Aymerich Consulting designed it and it opened in 2005. It plays to par 71 and 6,071 metres from the white tees at slope 125, so it is accessible without being a pushover. The fifth, the longest par 5 and stroke index 1, runs beside a lake on the right for about 300 metres and a stream cuts across the fairway roughly 320 metres out. The croquet lawns are a nice extra for non-golfers.",
+    "signature": "The 5th, a par 5 and stroke index 1: a lake runs down the right for about 300 m and a stream crosses the fairway about 320 m from the tee.",
+    "facilities": [
+      "Driving range",
+      "Putting green",
+      "Buggy and club hire",
+      "Pro shop",
+      "Clubhouse with restaurant",
+      "Croquet lawns"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "isla-canela",
+    "name": "Isla Canela Old Course",
+    "country": "spain",
+    "region": "huelva",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,240 m (Black)",
+    "slope": "142",
+    "designer": "Juan Catarineu",
+    "opened": "1992",
+    "lat": 37.1951102,
+    "lon": -7.3927011,
+    "image": "/assets/images/courses/isla-canela.webp",
+    "images": [
+      "/assets/images/courses/isla-canela.webp"
+    ],
+    "summary": "A flat, walkable parkland course by the tidal creeks of Ayamonte, with water in play, strategic bunkers and quick greens, open to non-members.",
+    "about": "Isla Canela's original course was designed by Juan Catarineu, with the first nine holes opening in 1992. It crosses completely flat ground beside the tidal creeks and marshes of Ayamonte, so it is an easy walk, but water in play, strategic bunkers and rather narrow fairways make the tee shot matter. The greens are generous, quick and gently sloped. The clubhouse is within 50 metres of where the round starts and finishes, and a four-star boutique hotel sits between the 17th and 18th holes. The Portuguese border is close, which makes this a natural first or last stop on an Algarve combination.",
+    "signature": "",
+    "facilities": [
+      "Driving range with covered artificial-turf bays and a natural grass area",
+      "Putting green",
+      "Short-game practice area",
+      "Buggy and trolley hire, manual and electric",
+      "Golf shop",
+      "Clubhouse with restaurant and snack bar",
+      "Golf school with Trackman"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "isla-canela-links",
+    "name": "Isla Canela Links",
+    "country": "spain",
+    "region": "huelva",
+    "style": "Links",
+    "par": 72,
+    "length": "6,540 m (Black)",
+    "slope": "127",
+    "designer": "",
+    "opened": "",
+    "lat": 37.2595955,
+    "lon": -7.4211836,
+    "image": "/assets/images/courses/isla-canela-links.webp",
+    "images": [
+      "/assets/images/courses/isla-canela-links.webp"
+    ],
+    "summary": "A flat, windswept links-style course on the Guadiana estuary, with wide firm fairways, big bunkers and views towards the Portuguese Algarve.",
+    "about": "Isla Canela acquired this course in 2019 and has since redesigned it. It follows the left bank of the Guadiana towards the river mouth, on flat ground that is easy to walk, with views across to the Portuguese Algarve. Fairways are firm and undulating, the bunkers broad and the greens large and quick, so the wind decides most afternoons and a low, controlled ball pays. The back tees measure 6,540 metres on the scorecard. The club calls it the only links-style course in Huelva province, and it features on the Alps Tour and DP World Tour qualifying calendars. Anyone can book, whether or not they stay at the hotel.",
+    "signature": "",
+    "facilities": [
+      "Driving range with more than 15 artificial-turf bays",
+      "Putting green",
+      "Short-game area with practice bunkers",
+      "Buggies and electric trolleys",
+      "Clubhouse with panoramic restaurant, café and terraces",
+      "Golf shop",
+      "Changing rooms and club storage"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "el-rompido",
+    "name": "Golf El Rompido, Campo Sur",
+    "country": "spain",
+    "region": "huelva",
+    "style": "Coastal",
+    "par": 72,
+    "length": "6,058 m (Tee 61)",
+    "slope": "133",
+    "designer": "Álvaro Arana",
+    "opened": "2003",
+    "lat": 37.2251318,
+    "lon": -7.1348889,
+    "image": "/assets/images/courses/el-rompido.webp",
+    "images": [
+      "/assets/images/courses/el-rompido.webp"
+    ],
+    "summary": "A flat pine-and-marsh course in the Piedras river reserve, easy to walk, with generous greens and the clubhouse beside the first tee.",
+    "about": "The South course was the first of El Rompido's two layouts, designed by Álvaro Arana and opened in October 2003. It circles the clubhouse and plays as two nines of quite different character, where pines, olive trees and salt marsh take turns, all inside the Marismas del Río Piedras reserve. The ground is flat enough to walk comfortably, and the club says some of its large greens rank among the quickest in Andalucía. Five tee sets, from 6,058 metres down to 4,210, suit a mixed group. The clubhouse terraces look out over the course, the river and the Atlantic. The North course is a six-minute walk away.",
+    "signature": "",
+    "facilities": [
+      "Driving range with 20 bays, 275 metres long",
+      "Putting green with 18 flags",
+      "Chipping green and practice bunkers",
+      "Buggy and trolley hire",
+      "Club hire",
+      "Clubhouse with restaurant and terraces",
+      "Pro shop and golf academy"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "el-rompido-norte",
+    "name": "Golf El Rompido, Campo Norte",
+    "country": "spain",
+    "region": "huelva",
+    "style": "Coastal",
+    "par": 72,
+    "length": "6,055 m (Tee 61)",
+    "slope": "131",
+    "designer": "Álvaro Arana",
+    "opened": "2006",
+    "lat": 37.2314794,
+    "lon": -7.14234,
+    "image": "/assets/images/courses/el-rompido-norte.webp",
+    "images": [
+      "/assets/images/courses/el-rompido-norte.webp"
+    ],
+    "summary": "Opened in 2006 in the middle of the Río Piedras marshes, a modern, strategic layout that the club says made Top 100 Golf Courses' Spain list in 2026.",
+    "about": "The North course opened in June 2006 and shares its Álvaro Arana pedigree with the South. Set in the Marismas del Río Piedras and Flecha de El Rompido reserves, it asks for power and precision in equal measure, and its medium-sized greens suit most handicaps. The club reports that Top 100 Golf Courses placed it among Spain's best hundred in 2026. From the back tees it measures 6,055 metres, almost level with the South, though the club describes it as the more strategic and modern of the two. It has its own practice area, and the clubhouse is a six-minute walk away.",
+    "signature": "",
+    "facilities": [
+      "Practice area with an 80-metre wedging range",
+      "Putting green with 18 flags",
+      "Chipping and bunker practice",
+      "Buggy and trolley hire",
+      "Club hire",
+      "Clubhouse and restaurant at the South course, six minutes on foot",
+      "Pro shop and golf academy"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "islantilla",
+    "name": "Islantilla Golf Resort",
+    "country": "spain",
+    "region": "huelva",
+    "style": "Resort",
+    "par": 72,
+    "length": "6,165 m (Green + Blue)",
+    "slope": "125",
+    "designer": "",
+    "opened": "1992",
+    "lat": 37.2147556,
+    "lon": -7.2298139,
+    "image": "/assets/images/courses/islantilla.webp",
+    "images": [
+      "/assets/images/courses/islantilla.webp"
+    ],
+    "summary": "Twenty-seven holes in three loops of nine, with lakes, gentle slopes and sea views, and a clubhouse 50 metres from the DoubleTree hotel.",
+    "about": "Islantilla opened in 1992 as three nines, Blue, Yellow and Green, which pair up into three par-72 rounds. Blue is the stiffest test, Yellow sits in the middle with views of the sea, and Green is the most forgiving, so a group of mixed handicaps can choose its day. The longest pairing, Green and Blue, measures 6,165 metres from the back tees. The club says it hosted a European Tour event, the Tour España Masters, in 1995, and that Leadingcourses lists the resort among Europe's top 100. The colonial-style clubhouse stands 50 metres from the hotel, and the golf academy teaches in five languages, German among them.",
+    "signature": "",
+    "facilities": [
+      "Driving range with more than 60 bays",
+      "Two putting greens, a pitching area and three practice bunkers",
+      "Clubhouse with bar-restaurant and terraces",
+      "Changing rooms with lockers",
+      "Golf shop",
+      "Buggy, electric trolley and club hire",
+      "SV Golf Academy, lessons in five languages"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "real-club-pineda",
+    "name": "Real Club Pineda de Sevilla",
+    "country": "spain",
+    "region": "seville",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,180 m (Black)",
+    "slope": "140",
+    "designer": "",
+    "opened": "1992",
+    "lat": 37.3511559,
+    "lon": -5.9536458,
+    "image": "/assets/images/courses/real-club-pineda.webp",
+    "images": [
+      "/assets/images/courses/real-club-pineda.webp"
+    ],
+    "summary": "A private multi-sport club founded in 1940 south of Seville, with a par-72 course among pines and palms. It publishes a non-member green fee, but access should be confirmed.",
+    "about": "Real Club Pineda is a private multi-sport club, founded in 1940 around horse riding, and golf is one of eleven sports on its 80 hectares. The course began as nine holes and was extended to eighteen in 1992. It lies on flat ground with mature trees, pines and palms, and from the black tees measures 6,180 metres at par 72 with a slope of 140. Be aware that this is a members' club, not a resort course. The club publishes a non-member green fee, but we would confirm access before building a trip around it. Its website notes works on the second nine; all eighteen holes are shown as open.",
+    "signature": "",
+    "facilities": [
+      "Putting green",
+      "Chipping green",
+      "Buggy and electric trolley hire",
+      "Club hire",
+      "Technique centre with Trackman and putting analysis",
+      "Clubhouse and Restaurante Hoyo 16",
+      "Golf academy"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "real-club-sevilla-golf",
+    "name": "Real Club Sevilla Golf",
+    "country": "spain",
+    "region": "seville",
+    "style": "Parkland",
+    "par": 72,
+    "length": "6,529 m (Tee 65)",
+    "slope": "140",
+    "designer": "José María Olazábal (Integral Golf Design)",
+    "opened": "1992",
+    "lat": 37.3518126,
+    "lon": -5.9198279,
+    "image": "/assets/images/courses/real-club-sevilla-golf.webp",
+    "images": [
+      "/assets/images/courses/real-club-sevilla-golf.webp"
+    ],
+    "summary": "José María Olazábal's par-72 layout with nine lakes and about 90 bunkers, host of the 2004 World Cup and three Open de España editions, with published public rates.",
+    "about": "Designed by José María Olazábal with Integral Golf Design and opened in 1992, Real Club Sevilla Golf is the city's championship venue. It staged the 2004 World Cup of golf and the Open de España in 2008, 2010 and 2012. The par-72 layout stretches to 6,529 metres from the back tees (slope 140) across 61 hectares, with wide Bermuda fairways, undulating Agrostis greens, nine lakes and some 90 bunkers. Unlike several Seville clubs it publishes public green fees, with high and low seasons, and hand trolleys are free. Until 2016 it was Real Club de Golf de Sevilla.",
+    "signature": "",
+    "facilities": [
+      "Driving range with grass and artificial-turf tee lines",
+      "Two putting greens",
+      "Chipping green",
+      "Buggies, electric trolleys and hand trolleys",
+      "Club hire",
+      "Clubhouse of more than 2,000 square metres",
+      "Caddie on request"
+    ],
+    "verified": "2026-10-27"
+  },
+  {
+    "slug": "zaudin",
+    "name": "Club Zaudín Golf",
+    "country": "spain",
+    "region": "seville",
+    "style": "Parkland",
+    "par": 71,
+    "length": "",
+    "slope": "",
+    "designer": "Gary Player",
+    "opened": "1992",
+    "lat": 37.3636343,
+    "lon": -6.0569549,
+    "image": "/assets/images/courses/zaudin.webp",
+    "images": [
+      "/assets/images/courses/zaudin.webp",
+      "/assets/images/courses/zaudin-2.webp"
+    ],
+    "summary": "Gary Player's par-71 parkland in Tomares, west of Seville, among olive, orange and palm trees; mainly a members' club that is also listed with visitor green fees.",
+    "about": "Club Zaudín Golf is a Gary Player design in Tomares, a short drive west of Seville, opened in 1992. The par-71 parkland runs over gently rolling ground among olive, orange and palm trees, with generous fairways, large undulating greens, two lakes and more than 70 bunkers, and water comes into play on the closing holes. It is mainly a members' club, although the Andalucía tourist board lists visitor green fees and a booking route, so we confirm availability before quoting. A driving range, a pitch and putt and a full set of racket and swimming facilities make it a relaxed place to spend a half-day.",
+    "signature": "",
+    "facilities": [
+      "Driving range",
+      "Putting and chipping greens",
+      "Pitch and putt",
+      "Buggy and electric trolley hire",
+      "Club rental",
+      "Clubhouse with bar and restaurant",
+      "Golf shop"
+    ],
+    "verified": "2026-10-27"
   }
 ]

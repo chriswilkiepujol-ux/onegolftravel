@@ -153,11 +153,11 @@
     "lede": "Nueve campos de 18 hoyos en seis kilómetros, Valderrama y Real Sotogrande entre ellos, y el Peñón de Gibraltar en el horizonte.",
     "intro": [
       "Sotogrande es el golf español en su mejor versión. La urbanización se trazó alrededor del Real Club de Golf Sotogrande de Robert Trent Jones Sr. en los años sesenta y después llegó Valderrama, sede de la Ryder Cup de 1997. Hoy hay nueve campos de 18 hoyos en unos seis kilómetros: La Cañada, The Alto en SO/ Sotogrande, San Roque Club, La Reserva y los dos campos de La Hacienda, en la costa de Alcaidesa.",
-      "Además, es nuestra casa. Vivimos aquí, jugamos estos campos cada semana y nuestra relación con los clubes nos permite conseguir accesos que a un visitante le cuesta mucho conseguir. El aeropuerto de Gibraltar está a diez minutos del primer tee de La Hacienda; Málaga, a una hora por la costa."
+      "Además, es nuestra casa. Vivimos en la zona y conocemos bien estos campos: dinos qué quieres jugar y vemos qué se puede arreglar. El aeropuerto de Gibraltar está a unos quince minutos del primer tee de La Hacienda; Málaga, a una hora por la costa."
     ],
     "stats": [
       [
-        "10 min",
+        "15 min",
         "Desde el aeropuerto de Gibraltar"
       ],
       [
@@ -180,7 +180,7 @@
       ],
       [
         "¿Gibraltar o Málaga?",
-        "Gibraltar si hay vuelo directo desde vuestro aeropuerto: está a diez minutos de La Hacienda y a veinte de Sotogrande. Málaga tiene muchos más vuelos y está a una hora en traslado privado."
+        "Gibraltar si hay vuelo directo desde vuestro aeropuerto: está a unos quince minutos de La Hacienda y algo más de Sotogrande. Málaga tiene muchos más vuelos y está a una hora en traslado privado."
       ],
       [
         "¿Qué tiempo hace en invierno?",
@@ -226,6 +226,276 @@
       [
         "¿Es difícil reservar Royal Dornoch?",
         "Los visitantes son bienvenidos casi todos los días, pero la hoja de salidas de verano se llena con muchos meses de antelación. Dinos tus fechas pronto y montamos la semana alrededor de la salida en Dornoch."
+      ]
+    ]
+  },
+  "estepona-casares": {
+    "slug": "estepona-casares",
+    "name": "Estepona y Casares",
+    "lede": "Campos de ladera y de parque entre Manilva y Estepona, desde una sede de la Solheim Cup hasta rondas compactas para familias, a una hora del aeropuerto de Málaga.",
+    "intro": [
+      "Al oeste de Marbella la Costa del Sol se vuelve más tranquila y más rural. El casco blanco de Estepona se asoma al mar, la Sierra Bermeja se levanta tierra adentro sobre colinas suaves y seis campos aprovechan ese relieve, desde Estepona Golf, abierto en 1989, hasta Azata, más reciente y construido junto a un arroyo.",
+      "La oferta es variada. Finca Cortesín, sede de la Solheim Cup 2023, y Valle Romano comparten diseñador, Cabell B. Robinson, mientras que Doña Julia y La Duquesa, ya en el límite con Manilva, ofrecen vistas al mar y un ritmo más pausado. En muchos casos el green fee incluye buggy, algo muy práctico con tanta cuesta."
+    ],
+    "stats": [
+      [
+        "1 h",
+        "Desde el aeropuerto de Málaga"
+      ],
+      [
+        "40 min",
+        "Desde el aeropuerto de Gibraltar"
+      ],
+      [
+        "6",
+        "Campos que cubrimos aquí"
+      ],
+      [
+        "2",
+        "Diseños de Cabell B. Robinson"
+      ]
+    ],
+    "faqs": [
+      [
+        "¿Qué aeropuertos quedan más cerca de los campos de Estepona y Casares?",
+        "El principal es Málaga, a unos 96 km de Doña Julia según el propio club, así que cuenta con una hora por carretera. Gibraltar queda a unos 35 km y Jerez a 134 km. Lo normal es alquilar coche, porque los campos están en laderas distintas y el transporte público entre ellos es limitado."
+      ],
+      [
+        "¿El buggy va incluido en el green fee?",
+        "Depende del club. Azata lo incluye en todas sus tarifas, Doña Julia incluye buggy compartido y Finca Cortesín ofrece buggy con GPS sin coste. Revisa siempre la tarifa que te presenten, porque las condiciones cambian según la temporada y algunos clubes tienen una tarifa más barata para ir a pie."
+      ],
+      [
+        "¿Puedo alojarme dentro del campo?",
+        "Sí, en varios casos. Ona Valle Romano tiene apartamentos y áticos sobre el campo de Valle Romano, Finca Cortesín cuenta con su propio hotel de lujo junto al campo y La Duquesa dispone de un hotel boutique con suites en el club. En todos basta un paseo corto hasta el tee del 1."
+      ],
+      [
+        "¿Cuál es la temporada alta?",
+        "Las tarifas de los clubes marcan una temporada alta de mediados de febrero a mediados de mayo y de mediados de septiembre a mediados de noviembre. Estepona Golf, por ejemplo, la sitúa del 15 de febrero al 17 de mayo y del 17 de septiembre al 16 de noviembre, y Doña Julia publica ventanas parecidas. Reserva con tiempo en esas fechas, sobre todo en Finca Cortesín y Valle Romano."
+      ]
+    ]
+  },
+  "marbella": {
+    "slug": "marbella",
+    "name": "Marbella y Benahavís",
+    "lede": "De Los Arqueros, el primer Seve de la zona, a Los Naranjos de Trent Jones: 16 campos entre la costa de Marbella y las colinas de Benahavís, cerca del aeropuerto de Málaga.",
+    "intro": [
+      "El golf de Marbella se reparte por la franja de colinas y valles que va de la Milla de Oro a Benahavís. Aquí puedes jugar el Trent Jones de Los Naranjos, el Arana de Guadalmina Sur junto al mar, los dos Atalaya, Flamingos y Alferini en Villa Padierna y el primer diseño de Seve en la Costa del Sol, Los Arqueros. Hay desde parkland corto y cómodo de andar hasta recorridos largos de ladera, y un grupo con hándicaps muy distintos encuentra su sitio.",
+      "No todos los nombres míticos admiten visitantes. El Real Club de Golf Las Brisas es un club privado de socios; muchos otros pertenecen a sus socios pero venden green fees, y lo mejor es mezclar ambos tipos. Casi todos fijan un hándicap máximo: 28 para caballeros y 36 para señoras en Atalaya y Flamingos, y algo menos, 24 y 32, en Alferini. Se vuela a Málaga y desde allí son más o menos entre 40 y 50 minutos por carretera."
+    ],
+    "stats": [
+      [
+        "40–50 min",
+        "Desde el aeropuerto de Málaga"
+      ],
+      [
+        "16",
+        "Campos que cubrimos aquí"
+      ],
+      [
+        "3",
+        "Clubes con 36 hoyos o más"
+      ],
+      [
+        "Primavera y otoño",
+        "Temporadas altas de green fee en varios clubes"
+      ]
+    ],
+    "faqs": [
+      [
+        "¿A qué aeropuerto conviene volar para jugar en Marbella?",
+        "Al de Málaga-Costa del Sol. El Barceló Marbella, en Guadalmina, indica unos 40 minutos por carretera desde el aeropuerto, y las colinas de Benahavís quedan algo más lejos. Organiza el traslado según la hora de salida y no según el vuelo, y pregúntanos por conductor o coche de alquiler si el grupo se reparte entre hoteles."
+      ],
+      [
+        "¿Se puede jugar en todos los campos como visitante?",
+        "No. El Real Club de Golf Las Brisas es privado y solo se juega con invitación de un socio. En Los Naranjos, El Paraíso, Atalaya, Los Arqueros y Villa Padierna se admiten visitantes, normalmente con hándicap máximo. En Atalaya y Flamingos es 28 para caballeros y 36 para señoras; en Alferini, 24 y 32, salvo que juegues con un profesional de la PGA."
+      ],
+      [
+        "¿Cuándo ir y qué conviene reservar con antelación?",
+        "Los campos abren todo el año y varios tienen tarifas por temporada. Atalaya y Los Arqueros cobran más en primavera y de mediados de septiembre a noviembre, y menos en verano. Reserva pronto en esas fechas y mira los días de mantenimiento que publica cada club, porque algún campo cierra unos días."
+      ]
+    ]
+  },
+  "mijas-malaga": {
+    "slug": "mijas-malaga",
+    "name": "Mijas y Málaga",
+    "lede": "Trece campos entre las colinas de Mijas y el valle del Guadalhorce, desde los tres de La Cala hasta Torrequebrada, todos a un trayecto corto del aeropuerto de Málaga.",
+    "intro": [
+      "Mijas y las laderas que tiene detrás reúnen la mayor concentración de golf de este tramo de la Costa del Sol. Solo La Cala Resort tiene tres campos de 18 hoyos de Cabell Robinson, Mijas Golf suma Los Lagos y Los Olivos de Robert Trent Jones Sr., y Chaparral, Miraflores, Calanova y Santana están a un paso. Muchos quedan a pocos minutos entre sí, lo que permite una semana de rondas distintas desde un único hotel.",
+      "Más lejos aparecen Alhaurín Golf, con diseño de Severiano Ballesteros, los 27 hoyos de Lauro, el largo Real Guadalhorce junto al río y Torrequebrada, en Benalmádena, sede del Open de España de 1979. La mayoría queda a entre 20 y 35 minutos en coche del aeropuerto de Málaga, de modo que el grupo puede aterrizar, dejar las maletas y jugar esa misma tarde."
+    ],
+    "stats": [
+      [
+        "30 min",
+        "Desde el aeropuerto de Málaga"
+      ],
+      [
+        "13",
+        "Campos que cubrimos aquí"
+      ],
+      [
+        "3",
+        "Campos en La Cala Resort"
+      ],
+      [
+        "Oct–May",
+        "Temporada alta"
+      ]
+    ],
+    "faqs": [
+      [
+        "¿A qué aeropuerto volamos?",
+        "Al de Málaga. Torrequebrada queda a unos 20 minutos según el propio club, Alhaurín Golf a unos 25 y La Cala Resort a unos 30. La mayoría de los demás campos de la zona entran en esa horquilla, así que los traslados de llegada y salida son cortos."
+      ],
+      [
+        "¿Se puede jugar en La Cala a finales de noviembre?",
+        "Solo cambia el campo Europa: acoge el Andalucía Costa del Sol Open de España del Ladies European Tour del 26 al 29 de noviembre de 2026 y estará reservado para el torneo del 20 al 30. America y Asia siguen abiertos a los clientes, así que conviene ajustar las fechas de noviembre."
+      ],
+      [
+        "¿El buggy va incluido en el green fee?",
+        "Depende del club. Calanova lo incluye en todos sus green fees. Mijas Golf ofrece buggies, carros eléctricos y carros manuales, y Lauro se puede recorrer a pie. Cuéntanos cómo le gusta jugar a tu grupo y lo comprobamos campo por campo antes de reservar."
+      ],
+      [
+        "¿Hay campo de prácticas en todos?",
+        "En todos no. La Cala, Mijas Golf, Alhaurín, Miraflores, Calanova y Torrequebrada lo tienen; Santana anuncia putting green, no campo de prácticas. Si el calentamiento es importante para vosotros, incluimos una sesión de range en el plan del día."
+      ]
+    ]
+  },
+  "cadiz-sancti-petri": {
+    "slug": "cadiz-sancti-petri",
+    "name": "Cádiz, Sancti Petri y Jerez",
+    "lede": "Playas atlánticas, pinares y tierra de jerez: once campos entre Cádiz, Jerez y Vejer, casi todos a menos de una hora del aeropuerto de Jerez.",
+    "intro": [
+      "La Costa de la Luz se juega distinto a la Costa del Sol. Los campos de Sancti Petri y La Barrosa se reparten entre pinos piñoneros y fincas, y es la brisa del Atlántico la que hace el trabajo que en otros sitios hacen los bunkers. Solo el Real Novo Sancti Petri ofrece 36 hoyos de Severiano Ballesteros, y Sancti Petri Hills y La Estancia quedan a pocos minutos.",
+      "Tierra adentro hay más donde elegir. Sherry Golf Jerez y Montecastillo tienen pedigrí de circuito profesional, Montenmedio y Fairplay miran hacia La Janda y Arcos Golf está junto a un pueblo blanco. Costa Ballena suma 27 hoyos frente al océano. Y los hoteles van del resort de playa al cinco estrellas montado alrededor de un campo de Nicklaus."
+    ],
+    "stats": [
+      [
+        "58 min",
+        "Del aeropuerto de Jerez a Sancti Petri Hills"
+      ],
+      [
+        "11",
+        "Campos que cubrimos aquí"
+      ],
+      [
+        "36",
+        "Hoyos en el Real Novo Sancti Petri"
+      ],
+      [
+        "27",
+        "Hoyos en Costa Ballena"
+      ]
+    ],
+    "faqs": [
+      [
+        "¿A qué aeropuerto me conviene volar?",
+        "Al de Jerez, que es el más cercano para casi todos estos campos: el club indica unos 58 minutos (64 km) hasta Sancti Petri Hills, y Montecastillo queda a unos diez minutos de la terminal. La alternativa es Sevilla, a una hora y 40 minutos aproximadamente de Sancti Petri Hills, con más conexiones."
+      ],
+      [
+        "¿Piden hándicap o licencia federativa?",
+        "Consúltalo con cada club antes de reservar. Montenmedio exige licencia federativa y control de vestimenta, y otros campos pueden pedir justificante de hándicap. Lleva tu carné o un certificado del club e indica tu hándicap al pedir los tee times para que os coloquen bien en el grupo."
+      ],
+      [
+        "¿Cuánto cuesta una vuelta?",
+        "Depende de la temporada y del campo. Como referencia, Sancti Petri Hills publica para 2026 un green fee de 18 hoyos de 78 € en temporada baja, 86 € en media y 94 € en alta, con buggy a 30 o 35 €. Confirma siempre la tarifa vigente directamente con el club."
+      ],
+      [
+        "¿Puedo alojarme en primera línea de playa y jugar?",
+        "Sí. El Royal Hideaway Sancti Petri está en La Barrosa, cerca de los campos de Novo Sancti Petri; el Iberostar Waves Royal Andalus ofrece shuttle gratuito al golf según disponibilidad; y el Elba Costa Ballena queda a unos 800 metros del Costa Ballena Ocean Golf Club, también con shuttle previa reserva."
+      ],
+      [
+        "¿En qué época se puede jugar?",
+        "Los campos abren todo el año. Sancti Petri Hills, por ejemplo, abre cada día de 8:00 a 19:00. En invierno hay menos luz y el viento atlántico puede apretar, así que conviene madrugar, y en primavera y otoño interesa reservar con tiempo."
+      ]
+    ]
+  },
+  "huelva": {
+    "slug": "huelva",
+    "name": "Huelva y Costa de la Luz",
+    "lede": "Golf de marisma, pinar y estuario en la Costa de la Luz: cinco campos y 99 hoyos, desde Isla Canela, en la frontera con Portugal, hasta El Rompido e Islantilla.",
+    "intro": [
+      "Huelva es el rincón tranquilo del mapa golfístico andaluz. Entre la frontera portuguesa y el estuario del Piedras, los campos que cubrimos se reparten entre marismas, pinares y playas larguísimas y casi vacías, muy lejos del ambiente de la Costa del Sol. Isla Canela tiene dos recorridos, el Old Course, de tipo parkland, y el Links; El Rompido ofrece otros dos, obra de Álvaro Arana, e Islantilla suma 27 hoyos.",
+      "Combina muy bien con el Algarve oriental. Faro es el aeropuerto internacional más cercano a Isla Canela, a unos 75 minutos por carretera; para El Rompido e Islantilla cuenta con entre 90 y 105 minutos desde Faro o desde Sevilla. Como base, el Meliá Atlántico en Isla Canela, el Precise Resort El Rompido, a pocos minutos andando de sus campos, o el DoubleTree de Islantilla, a 50 metros de su casa club."
+    ],
+    "stats": [
+      [
+        "75 min",
+        "Del aeropuerto de Faro a Isla Canela"
+      ],
+      [
+        "5",
+        "Campos que reservamos aquí"
+      ],
+      [
+        "99",
+        "Hoyos entre todos ellos"
+      ],
+      [
+        "30 min",
+        "De El Rompido a Islantilla por carretera"
+      ]
+    ],
+    "faqs": [
+      [
+        "¿A qué aeropuerto me conviene volar?",
+        "A Faro, al otro lado de la frontera, si vas a Isla Canela: unos 75 minutos por carretera. Para El Rompido e Islantilla, Faro y Sevilla andan igualados, entre 90 y 105 minutos, así que decide según qué vuelos te salgan mejor desde tu ciudad. En ambos casos podemos organizar un traslado privado."
+      ],
+      [
+        "¿Se puede combinar Huelva con el Algarve?",
+        "Sin problema. Isla Canela está pegada a Portugal y el club presenta el Isla Canela Links como el primer campo de España tras cruzar desde el Algarve, con acceso por la A-22 en el lado portugués y la A-49 en España. Mucha gente juega unas rondas a cada lado de la frontera."
+      ],
+      [
+        "¿Son campos cómodos para ir andando?",
+        "En general sí. Los clubes describen como totalmente llanos el Old Course y el Links de Isla Canela, el Sur de El Rompido también es llano, e Islantilla tiene pendientes suaves. En todos hay buggies y carros, así que un grupo con distinto estado físico puede jugar junto."
+      ],
+      [
+        "¿A qué distancia están unos de otros?",
+        "Los dos campos de El Rompido están a seis minutos andando entre sí, e Islantilla queda a unos 30 minutos de El Rompido por carretera. Isla Canela está más al oeste, a unos 30 minutos de Islantilla y 40 de El Rompido, por lo que lo habitual es alojarse en dos sitios o elegir una zona y exprimirla."
+      ]
+    ]
+  },
+  "seville": {
+    "slug": "sevilla",
+    "name": "Sevilla",
+    "lede": "Tres clubes a menos de media hora del aeropuerto, entre ellos el Real Club Sevilla Golf de Olazábal, sede del Open de España en 2008, 2010 y 2012.",
+    "intro": [
+      "Sevilla es la única gran ciudad de nuestro mapa de golf en España, así que la ronda se completa con tapas, el Alcázar y flamenco a un trayecto corto en taxi. Los tres campos que cubrimos están a unos treinta minutos del aeropuerto como mucho: el Real Club Sevilla Golf, que acogió tres veces el Open de España; el Real Club Pineda, histórico club deportivo privado al sur del centro; y el Club Zaudín, en Tomares, diseño de Gary Player.",
+      "Lo que hay que planificar es el acceso. El Real Club Sevilla Golf publica tarifas públicas, mientras que Pineda y Zaudín son clubes de socios, así que confirmamos las salidas con ellos antes de dar precio. En julio y agosto Sevilla aprieta de verdad y la tabla de tarifas de Sevilla Golf trata esos meses como temporada baja; primavera y principios de otoño son la mejor ventana. El Rompido, en Huelva, queda a hora y media del centro."
+    ],
+    "stats": [
+      [
+        "15-30 min",
+        "Desde el aeropuerto de Sevilla"
+      ],
+      [
+        "3",
+        "Campos que reservamos aquí"
+      ],
+      [
+        "3",
+        "Open de España en el Real Club Sevilla Golf"
+      ],
+      [
+        "13-17 min",
+        "Desde el centro por carretera"
+      ]
+    ],
+    "faqs": [
+      [
+        "¿Pueden jugar visitantes en los tres clubes?",
+        "No por igual. El Real Club Sevilla Golf publica green fees públicos y admite reserva online. El Real Club Pineda es un club privado de socios que publica una tarifa para no socios, y el Club Zaudín es sobre todo de socios, aunque la Junta de Andalucía lo recoge con precios para visitantes. En estos dos últimos confirmamos siempre acceso y salida con el club antes de nada."
+      ],
+      [
+        "¿Cuándo conviene jugar en Sevilla?",
+        "En primavera y a comienzos de otoño. La tabla de 2026 del Real Club Sevilla Golf marca como temporada alta del 16 de febrero al 30 de junio y del 1 de septiembre al 19 de octubre, y como baja del 1 de julio al 31 de agosto, un reflejo del calor del verano. Con salidas a primera hora, el invierno y el verano también se llevan bien."
+      ],
+      [
+        "¿A cuánto quedan los campos del aeropuerto y del centro?",
+        "Por carretera, el Real Club Pineda está a unos 16 minutos del aeropuerto, el Real Club Sevilla Golf a unos 20 y el Club Zaudín a unos 27. Desde el centro, calcula unos 13 minutos hasta Pineda, 16 hasta Sevilla Golf y 17 hasta Zaudín, de modo que puedes alojarte en la ciudad sin grandes trayectos."
+      ],
+      [
+        "¿Puedo añadir la costa de Huelva a un viaje a Sevilla?",
+        "Sí. Golf El Rompido e Islantilla, en Huelva, quedan a hora y media del centro de Sevilla por carretera y a entre 100 y 105 minutos del aeropuerto; un viaje partido, unas noches en la ciudad y otras en la costa, es muy factible."
       ]
     ]
   }

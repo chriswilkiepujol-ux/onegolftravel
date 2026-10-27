@@ -2,46 +2,341 @@
   "inmood-san-roque": {
     "location": "San Roque, a 10 minutos de Sotogrande",
     "about": "Un resort moderno de cuatro estrellas entre jardines, entre San Roque y Sotogrande, con más de 130 habitaciones y suites, tres restaurantes y bares, una gran piscina exterior con solárium y gimnasio. Es la base de nuestro paquete Sotogrande Signature: La Hacienda y San Roque Club están a pocos minutos, y el hotel gestiona el alquiler de palos y carros bajo petición.",
-    "facilities": ["Más de 130 habitaciones y suites", "Tres espacios de restauración", "Piscina exterior y solárium", "Gimnasio", "Alquiler de palos y carros bajo petición", "Admite mascotas, wifi gratis, parking privado"]
+    "facilities": [
+      "Más de 130 habitaciones y suites",
+      "Tres espacios de restauración",
+      "Piscina exterior y solárium",
+      "Gimnasio",
+      "Alquiler de palos y carros bajo petición",
+      "Admite mascotas, wifi gratis, parking privado"
+    ]
   },
   "encinar-sotogrande": {
     "location": "Sotogrande, Cádiz",
     "about": "Un hotel de cuatro estrellas de estilo andaluz tradicional dentro de la urbanización de Sotogrande, con más de 100 habitaciones con vistas al jardín o al golf, restaurante mediterráneo, cafetería, bar con terraza, piscina exterior, pistas de tenis y un pequeño gimnasio. Tiene conserjería de golf y alquiler de palos y carros, y Valderrama, La Cañada y The Alto están a pocos minutos. Nuestra opción de mejor precio en Sotogrande.",
-    "facilities": ["Más de 100 habitaciones con vistas al jardín o al golf", "Restaurante mediterráneo, cafetería y bar con terraza", "Piscina exterior", "Pistas de tenis y gimnasio pequeño", "Conserjería de golf, alquiler de palos y carros", "Wifi y parking gratuitos, taquillas con duchas"]
+    "facilities": [
+      "Más de 100 habitaciones con vistas al jardín o al golf",
+      "Restaurante mediterráneo, cafetería y bar con terraza",
+      "Piscina exterior",
+      "Pistas de tenis y gimnasio pequeño",
+      "Conserjería de golf, alquiler de palos y carros",
+      "Wifi y parking gratuitos, taquillas con duchas"
+    ]
   },
   "so-sotogrande": {
     "location": "Colinas de Sotogrande, Cádiz",
     "about": "El resort de cinco estrellas de Sotogrande, con interiores de diseño, más de 150 habitaciones y suites, cuatro restaurantes y bares, un spa de 3.500 metros cuadrados con hammam y sauna, piscina interior climatizada, tres piscinas exteriores y gimnasio. El campo The Alto está en el propio resort, con buggies, carros, caddies y conserjería, y el hotel ofrece bicicletas eléctricas, actividades guiadas, aparcacoches y traslados de lujo.",
-    "facilities": ["Más de 150 habitaciones y suites", "Cuatro restaurantes y bares", "Spa de 3.500 m² con hammam y sauna", "Piscina interior climatizada, tres exteriores, gimnasio", "Golf en el resort: The Alto, buggies, caddies, conserjería", "Bicicletas eléctricas, actividades guiadas, aparcacoches y traslados de lujo"]
+    "facilities": [
+      "Más de 150 habitaciones y suites",
+      "Cuatro restaurantes y bares",
+      "Spa de 3.500 m² con hammam y sauna",
+      "Piscina interior climatizada, tres exteriores, gimnasio",
+      "Golf en el resort: The Alto, buggies, caddies, conserjería",
+      "Bicicletas eléctricas, actividades guiadas, aparcacoches y traslados de lujo"
+    ]
   },
   "drumoig": {
     "location": "Leuchars, a 10 minutos de St Andrews",
     "about": "Un hotel de estilo lodge en el campo, a diez minutos de St Andrews, con 29 habitaciones con baño, su propio campo parkland de 18 hoyos, campo de prácticas y restaurante con bar. Cómodo, acogedor y a buen precio, por eso es la base de nuestro paquete St Andrews Signature. Sin spa.",
-    "facilities": ["29 habitaciones con baño", "Campo parkland de 18 hoyos propio", "Campo de prácticas", "Restaurante y bar", "Parking gratuito"]
+    "facilities": [
+      "29 habitaciones con baño",
+      "Campo parkland de 18 hoyos propio",
+      "Campo de prácticas",
+      "Restaurante y bar",
+      "Parking gratuito"
+    ]
   },
   "fairmont-st-andrews": {
     "location": "St Andrews, en los acantilados sobre el Mar del Norte",
     "about": "Un resort de cinco estrellas en los acantilados justo al sur de St Andrews, con 211 habitaciones y suites, dos campos de campeonato en la finca, el Torrance y el Kittocks, spa completo, piscina interior, gimnasio y varios restaurantes. Kingsbarns, Crail y los pueblos del East Neuk están a un corto trayecto por la costa.",
-    "facilities": ["211 habitaciones y suites", "Dos campos de campeonato en el resort", "Spa completo y piscina interior", "Gimnasio", "Varios restaurantes y bares", "Lanzadera al pueblo de St Andrews"]
+    "facilities": [
+      "211 habitaciones y suites",
+      "Dos campos de campeonato en el resort",
+      "Spa completo y piscina interior",
+      "Gimnasio",
+      "Varios restaurantes y bares",
+      "Lanzadera al pueblo de St Andrews"
+    ]
   },
   "greyfriars": {
     "location": "North Street, centro de St Andrews",
     "about": "Un hotel boutique en North Street, en pleno centro de St Andrews, con más de 20 habitaciones con baño y un restaurante y bar muy populares. A un paseo corto del Old Course, del Links Clubhouse y de todos los pubs del pueblo, así que el grupo puede dejar los coches donde están. Sin spa.",
-    "facilities": ["Más de 20 habitaciones con baño", "Restaurante y bar", "A pie del Old Course", "Ubicación en el centro"]
+    "facilities": [
+      "Más de 20 habitaciones con baño",
+      "Restaurante y bar",
+      "A pie del Old Course",
+      "Ubicación en el centro"
+    ]
   },
   "druids-glen-hotel": {
     "location": "Newtownmountkennedy, condado de Wicklow",
     "about": "Un resort de cinco estrellas en una finca a cuarenta minutos al sur de Dublín, con 145 habitaciones y suites, el restaurante gastronómico Hugo's, The Garden Rooms para todo el día, bar con terraza y un spa con tratamientos Elemis, circuito termal, piscina interior, jacuzzi, sauna, baño de vapor y gimnasio. Druids Glen y Druids Heath están en la finca, y Powerscourt, las montañas de Wicklow y Glendalough están cerca.",
-    "facilities": ["145 habitaciones y suites", "Hugo's (gastronómico) y The Garden Rooms", "Bar y terraza", "Spa con tratamientos Elemis, circuito termal y piscina interior", "Gimnasio", "Dos campos en la finca"]
+    "facilities": [
+      "145 habitaciones y suites",
+      "Hugo's (gastronómico) y The Garden Rooms",
+      "Bar y terraza",
+      "Spa con tratamientos Elemis, circuito termal y piscina interior",
+      "Gimnasio",
+      "Dos campos en la finca"
+    ]
   },
   "woodstock-house": {
     "location": "Resort Druids Glen, condado de Wicklow",
     "about": "Una casa de campo de estilo georgiano dentro de la finca de Druids Glen, con nueve habitaciones y suites, incluidas dos suites panorámicas con vistas a los campos Druids Glen y Druids Heath. Comedor privado para grupos y acceso completo al spa y los restaurantes del resort. Ideal para un grupo de hasta 18 que quiera la casa entera.",
-    "facilities": ["9 habitaciones y suites, dos panorámicas", "Comedor privado para grupos", "Opción de uso exclusivo", "Acceso al spa del resort", "Vistas a los dos campos"]
+    "facilities": [
+      "9 habitaciones y suites, dos panorámicas",
+      "Comedor privado para grupos",
+      "Opción de uso exclusivo",
+      "Acceso al spa del resort",
+      "Vistas a los dos campos"
+    ]
   },
   "portmarnock-hotel": {
     "location": "Portmarnock, a 15 minutos del aeropuerto de Dublín",
     "about": "Un resort costero de cuatro estrellas en Velvet Strand con 137 habitaciones y suites, The Bay Restaurant, el Cliff Lounge & Bar, Toast Café y un spa con tratamientos Elemis, piscina interior, gimnasio, sauna y baños de vapor. El links de Bernhard Langer está en el propio recinto y el centro de Dublín a 15 minutos.",
-    "facilities": ["137 habitaciones y suites", "The Bay Restaurant, Cliff Lounge & Bar, Toast Café", "Spa con tratamientos Elemis y piscina interior", "Gimnasio, sauna y baños de vapor", "Links en el recinto", "A 15 minutos del aeropuerto de Dublín"]
+    "facilities": [
+      "137 habitaciones y suites",
+      "The Bay Restaurant, Cliff Lounge & Bar, Toast Café",
+      "Spa con tratamientos Elemis y piscina interior",
+      "Gimnasio, sauna y baños de vapor",
+      "Links en el recinto",
+      "A 15 minutos del aeropuerto de Dublín"
+    ]
+  },
+  "mim-sotogrande": {
+    "location": "Sotogrande, San Roque, Cádiz",
+    "about": "Hotel de cinco estrellas de Meliá Collection en pleno puerto deportivo de Sotogrande, con piscina infinita en la azotea frente a los veleros. El Real Club de Golf Sotogrande queda a 4,1 km y Valderrama también está cerca. Pensado para quien quiere cenar paseando por el puerto y, tras la ronda, soltar piernas en el circuito de hidroterapia, el spa o el gimnasio.",
+    "facilities": [
+      "Piscina infinita en la azotea con vistas al puerto",
+      "Circuito de hidroterapia y tratamientos de spa",
+      "Gimnasio",
+      "Dos restaurantes y bares, uno de pescado de Nandu Jubany",
+      "Diez tipos de habitación y suite",
+      "Real Club de Golf Sotogrande a 4,1 km"
+    ]
+  },
+  "fairmont-la-hacienda": {
+    "location": "San Roque, Cádiz",
+    "about": "Resort de cinco estrellas frente al mar en Alcaidesa, con 150 habitaciones, 156 suites y 47 villas y vistas al Mediterráneo y a Gibraltar. Está rodeado por los dos campos de La Hacienda Links Golf Resort y a pocos minutos de Sotogrande y Valderrama. Además del golf, tiene un spa de 1.800 m² y varias piscinas para quien no juega.",
+    "facilities": [
+      "150 habitaciones, 156 suites y 47 villas con piscina privada",
+      "Spa de 1.800 m² y gimnasio",
+      "Varias piscinas",
+      "Seis restaurantes y bares",
+      "Campos Links y Heathland de La Hacienda cerca",
+      "Vistas al mar y a Gibraltar"
+    ]
+  },
+  "h10-estepona-palace": {
+    "location": "Estepona, Málaga",
+    "about": "Un cuatro estrellas frente a la playa de Estepona, con spa y piscina cubierta, bien situado para una semana de golf en esta parte de la costa. En línea recta, Valle Romano y Azata quedan a unos 2,5 km y Estepona Golf a unos 3,4 km. Habitaciones con vistas al mar y jardines con piscina: buena base para grupos en los que no todos juegan cada día.",
+    "facilities": [
+      "Primera línea de playa",
+      "Spa Despacio",
+      "Piscina cubierta",
+      "Jardines con piscina",
+      "Habitaciones con vistas al mar"
+    ]
+  },
+  "ona-valle-romano": {
+    "location": "Estepona, Málaga",
+    "about": "Apartamentos y áticos construidos sobre el propio campo de Valle Romano, con el tee del 1 a unos pasos de la puerta. Las unidades tienen cocina y dos baños, algo que se agradece si compartís alojamiento entre amigos o en familia, y la piscina mira al campo. Hay también sala social, gimnasio, restaurante con bar y, en verano, traslado a la playa.",
+    "facilities": [
+      "Dentro del campo de Valle Romano",
+      "Apartamentos y áticos con cocina",
+      "Piscina con vistas al campo",
+      "Gimnasio",
+      "Restaurante y bar",
+      "Traslado a la playa en verano"
+    ]
+  },
+  "finca-cortesin-hotel": {
+    "location": "Casares, Málaga",
+    "about": "Un resort señorial junto a Casares con campo propio de Cabell B. Robinson, sede de la Solheim Cup 2023, a la puerta de la habitación. Las suites van de 52 a 120 metros cuadrados, y el spa, de 2.200 m², tiene baños termales y piscina cubierta de agua salada de 25 metros. En la mesa, de El Jardín de Lutz a Don Giovanni y la Clubhouse; en el recinto, club de raqueta y Nicklaus Academy.",
+    "facilities": [
+      "Campo de campeonato en el recinto",
+      "Spa de 2.200 metros cuadrados",
+      "Suites de 52 a 120 metros cuadrados",
+      "Varios restaurantes, entre ellos Clubhouse",
+      "Club de raqueta",
+      "Nicklaus Academy"
+    ]
+  },
+  "don-carlos-resort": {
+    "location": "Elviria, Marbella, Málaga",
+    "about": "Un cinco estrellas frente al mar en Elviria que recibe huéspedes desde 1969 y que ha rediseñado Jaime Beriestain. Está en el mismo barrio que el Santa María Golf Club, así que una vuelta por la mañana y una tarde de playa caben en el mismo día. Tiene spa, Rafa Nadal Tennis Center, club infantil, varios restaurantes y beach clubs en la arena.",
+    "facilities": [
+      "Primera línea de playa",
+      "Spa",
+      "Rafa Nadal Tennis Center",
+      "Club infantil",
+      "Restaurantes y beach clubs"
+    ]
+  },
+  "kimpton-los-monteros": {
+    "location": "Marbella, Málaga",
+    "about": "Un cinco estrellas junto a la playa de Los Monteros, al este del centro de Marbella. En línea recta, Santa Clara queda a 0,8 km, Higuerón a 1,3 km y Río Real a 1,9 km, de ahí que sea una de las bases más cómodas para jugar al golf. Tiene club de raqueta con seis pistas de pádel y siete de tenis, el beach club La Cabane, spa Codage Paris y piscina infinity en la azotea.",
+    "facilities": [
+      "Club de raqueta con 6 pistas de pádel y 7 de tenis",
+      "Beach club La Cabane",
+      "Spa Codage Paris",
+      "Piscina infinity en la azotea",
+      "Acceso a la playa"
+    ]
+  },
+  "rio-real-golf-hotel": {
+    "location": "Marbella, Málaga",
+    "about": "Un hotel boutique de 30 habitaciones en pleno campo de Río Real, con vistas al hoyo 11 desde las habitaciones. Decorado por Pascua Ortega, tiene piscina, gimnasio con equipamiento Technogym, zona de bienestar, restaurante y sala de eventos para 50 personas. Una buena opción para grupos pequeños que quieren ir andando al tee del 1 y cenar con el campo delante.",
+    "facilities": [
+      "Dentro del campo de Río Real",
+      "30 habitaciones, varias con vistas al campo",
+      "Piscina",
+      "Gimnasio con equipamiento Technogym",
+      "Zona de bienestar",
+      "Restaurante"
+    ]
+  },
+  "puente-romano": {
+    "location": "Milla de Oro, Marbella, Málaga",
+    "about": "Un resort frente al mar en la Milla de Oro de Marbella, rodeado de jardines botánicos y con club de tenis y spa propios. Para el golfista es una base cómoda y tranquila: el Marbella Club Golf Resort, en las colinas de Benahavís, es de la misma familia Marbella Club y su casa club cuenta con personal de los equipos del Marbella Club y de Puente Romano. Con unos veinte restaurantes y bares, las noches no son un problema, algo que agradecen los grupos en los que no todos juegan cada día.",
+    "facilities": [
+      "Primera línea de playa en la Milla de Oro",
+      "Club de tenis",
+      "Spa y zona de bienestar",
+      "Jardines botánicos",
+      "Unos veinte restaurantes y bares",
+      "Restaurante Sea Grill"
+    ]
+  },
+  "marbella-club-hotel": {
+    "location": "Milla de Oro, Marbella, Málaga",
+    "about": "Un clásico frente al mar en la Milla de Oro, con habitaciones entre jardines, club de playa, zona de bienestar y un aire andaluz que no pasa de moda. El grupo gestiona también el Marbella Club Golf Resort de Benahavís, un campo de 18 hoyos de Dave Thomas con juego limitado y salidas cada 30 minutos, de modo que puedes montar la semana de golf con una sola marca. Va bien a parejas y grupos pequeños que quieran golf por la mañana y playa por la tarde.",
+    "facilities": [
+      "Primera línea de playa en la Milla de Oro",
+      "Club de playa",
+      "Spa y bienestar",
+      "Habitaciones de jardín y villas",
+      "Bodega",
+      "Club infantil"
+    ]
+  },
+  "villa-padierna": {
+    "location": "Benahavís, Málaga",
+    "about": "Un hotel con aire de palacio dentro de la urbanización golfística de Villa Padierna, en las colinas de Benahavís, por encima de Marbella y Puerto Banús. Los tres campos de 18 hoyos del resort, Flamingos, Alferini y el ejecutivo Tramores, están en la misma finca, y el campo de prácticas es gratuito el día que juegas. Con el spa Anantara, un club de playa y varios restaurantes, es una opción redonda para grupos que quieren tenerlo todo en el mismo sitio y noches tranquilas después de la vuelta.",
+    "facilities": [
+      "Villa Padierna Golf Club en el propio resort, 54 hoyos",
+      "Campo de prácticas y academia de golf",
+      "Spa Anantara",
+      "Club de playa Club de Mar",
+      "Varios restaurantes y bares",
+      "Club de raqueta con pádel, tenis y croquet"
+    ]
+  },
+  "guadalmina-spa-golf": {
+    "location": "Guadalmina Alta, Marbella, Málaga",
+    "about": "Antes Hotel Guadalmina Spa & Golf Resort y hoy Barceló Marbella, este cuatro estrellas está en Guadalmina Alta, a unos 100 metros del Real Club de Golf Guadalmina. Habitaciones con vistas al campo, centro de bienestar, tres piscinas exteriores y opción de todo incluido lo convierten en una base práctica y de buena relación calidad-precio para grupos. El hotel indica unos 40 minutos desde el aeropuerto de Málaga, y Puerto Banús queda a pocos kilómetros.",
+    "facilities": [
+      "Real Club de Golf Guadalmina a unos 100 m",
+      "Habitaciones con vistas al campo de golf",
+      "Centro de bienestar",
+      "Tres piscinas exteriores",
+      "Opción de todo incluido",
+      "Salas de reuniones y eventos"
+    ]
+  },
+  "la-cala-resort": {
+    "location": "La Cala de Mijas, Málaga",
+    "about": "Un hotel de 107 habitaciones rodeado por tres campos de campeonato en las colinas de La Cala de Mijas: el tee del 1 queda a pasos de la puerta. El resort suma un Golf Hub con campo de prácticas, academia y un campo corto de 9 hoyos par 3, un spa con circuito de hidroterapia, piscina y club de raqueta. Está a unos 30 minutos del aeropuerto de Málaga y a 20 de Marbella, una base cómoda para un grupo que quiera jugar La Cala casi a diario y acercarse a los campos vecinos.",
+    "facilities": [
+      "Tres campos de 18 hoyos en el propio resort",
+      "Golf Hub con campo de prácticas y academia",
+      "Spa con circuito de hidroterapia",
+      "Piscina exterior",
+      "Club de raqueta y gimnasio",
+      "Restaurantes en el resort"
+    ]
+  },
+  "la-zambra": {
+    "location": "Mijas, Málaga",
+    "about": "Un resort de cinco estrellas totalmente renovado, con 196 habitaciones y suites, levantado donde estuvo el antiguo hotel Byblos y a un paso del pueblo blanco de Mijas. Para el golfista, el reclamo es su situación junto a Mijas Golf, con Los Lagos y Los Olivos a los que el hotel presenta como de acceso directo, y un spa con tratamientos pensados para golfistas. Tenis, pádel, un beach club, varios restaurantes y un club infantil lo hacen válido para grupos que viajan con pareja o familia.",
+    "facilities": [
+      "196 habitaciones y suites",
+      "Mood Spa con tratamientos para golfistas",
+      "Cuatro restaurantes",
+      "Beach club La Familia",
+      "Pistas de tenis y pádel",
+      "Club infantil"
+    ]
+  },
+  "royal-hideaway-sancti-petri": {
+    "location": "La Barrosa, Chiclana de la Frontera, Cádiz",
+    "about": "Hotel de cinco estrellas en primera línea de La Barrosa, del grupo Barceló y antes conocido como Barceló Sancti Petri Spa Resort. Tiene cinco piscinas, cinco restaurantes (Chez Lumière figura en la Guía Repsol 2026), un spa de 3.650 m² y suites con terraza y piscina privada. Para el golfista, los campos de Novo Sancti Petri quedan muy cerca; el aeropuerto de Jerez está a unos 50 km y Cádiz a 39. Va bien para parejas y grupos en los que no todos juegan cada día.",
+    "facilities": [
+      "Primera línea de La Barrosa",
+      "Cinco piscinas",
+      "Cinco restaurantes",
+      "Spa de 3.650 m²",
+      "Suites con terraza y piscina privada",
+      "Cerca de los campos de Novo Sancti Petri"
+    ]
+  },
+  "barcelo-montecastillo": {
+    "location": "Jerez de la Frontera, Cádiz",
+    "about": "Resort de cinco estrellas construido alrededor del campo de Jack Nicklaus en Montecastillo, junto al Circuito de Jerez. Tiene 124 habitaciones y 38 villas, tres espacios para comer (la cafetería Ricardo's, el snack bar Tabanco y el restaurante El Lagar), el U-Spa y campos de fútbol. Colabora además con bodegas de la zona, un buen plan para el día de descanso. El aeropuerto de Jerez queda a unos diez minutos, así que los días de llegada se hacen cortos.",
+    "facilities": [
+      "Campo de Jack Nicklaus en el resort",
+      "124 habitaciones y 38 villas",
+      "Restaurante El Lagar, Tabanco y cafetería Ricardo's",
+      "U-Spa",
+      "Campos de fútbol",
+      "Visitas a bodegas de jerez"
+    ]
+  },
+  "fairplay-golf-spa-resort": {
+    "location": "Benalup-Casas Viejas, Cádiz",
+    "about": "Resort de golf de cinco estrellas en Benalup-Casas Viejas, tierra adentro respecto a la Costa de la Luz, con 134 habitaciones junto a su propio campo par 73. Dentro hay Aura Spa, simulador de golf, gimnasio y la academia del club, y se come en Mar de Campo, Acebuches, Hoyo 19 o Atalaya. Es una base tranquila para quien prefiere campo a playa abarrotada y razonable para grupos que quieren repetir el campo del resort.",
+    "facilities": [
+      "Campo propio par 73",
+      "134 habitaciones",
+      "Aura Spa",
+      "Cuatro restaurantes",
+      "Academia y simulador de golf",
+      "Gimnasio"
+    ]
+  },
+  "melia-atlantico-isla-canela": {
+    "location": "Isla Canela, Ayamonte, Huelva",
+    "about": "Hotel Meliá de cuatro estrellas, de arquitectura andaluza, dentro de la urbanización de Isla Canela. Tiene spa, piscina exterior amplia y actividades para quienes no juegan. Por carretera, el Isla Canela Old Course queda a unos 15 minutos y el Isla Canela Links a menos de media hora, de modo que encaja en una semana de golf con escapada al Algarve portugués. El aeropuerto de Faro está a unos 75 minutos. Buena base si no todos juegan cada día.",
+    "facilities": [
+      "Spa",
+      "Piscina exterior amplia",
+      "Programa de actividades y animación",
+      "Arquitectura de estilo andaluz con interiores modernos",
+      "A unos 15 minutos por carretera del Isla Canela Old Course"
+    ]
+  },
+  "precise-resort-el-rompido": {
+    "location": "El Rompido, Cartaya, Huelva",
+    "about": "Hotel de cinco estrellas pegado a los dos campos de Golf El Rompido, con 184 habitaciones, 10 junior suites y 2 suites. El Campo Sur y la casa club quedan a pocos minutos andando, y el Norte queda apenas un poco más allá. El resort suma spa con piscina climatizada, sauna y baño de vapor, piscina exterior con bar, club infantil y pistas de pádel y tenis, útil para familias o acompañantes que no juegan. Islantilla queda a unos 30 minutos por carretera.",
+    "facilities": [
+      "184 habitaciones, 10 junior suites y 2 suites",
+      "Spa con piscina climatizada, sauna y baño de vapor",
+      "Piscina exterior con bar",
+      "Gimnasio",
+      "Club infantil, pistas de pádel y tenis",
+      "Los dos campos de El Rompido a pocos minutos andando"
+    ]
+  },
+  "doubletree-islantilla": {
+    "location": "Islantilla, Lepe, Huelva",
+    "about": "Hotel de cuatro estrellas, recién renovado, con 204 habitaciones, dentro de los 27 hoyos de Islantilla Golf Resort. La casa club está a 50 metros y la playa a unos 800, con beach club de verano y lanzadera gratuita. Después de jugar hay zona de bienestar con piscina climatizada, saunas y gimnasio, y varios restaurantes. La academia de golf da clases en español, inglés, alemán, francés y croata. A unos 30 minutos por carretera queda El Rompido.",
+    "facilities": [
+      "204 habitaciones",
+      "Zona de bienestar con piscina climatizada, saunas y gimnasio",
+      "Piscina exterior con bar",
+      "Varios restaurantes y bares, entre ellos LaTerrazza, de inspiración italiana",
+      "Beach club con lanzadera en verano",
+      "Casa club de golf a 50 metros del hotel"
+    ]
   }
 }

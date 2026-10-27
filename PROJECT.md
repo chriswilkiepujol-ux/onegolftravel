@@ -2,7 +2,7 @@
 
 Living project doc. **If you're a future Claude session picking this up cold: read this file first, in full, before touching anything.**
 
-**Last updated:** 21 October 2026, initial build (EN/ES/DE test site).
+**Last updated:** 27 October 2026, Spain course/hotel/region build added (see section 4).
 
 ## 1. What this project is
 
@@ -82,3 +82,13 @@ Overlay files are keyed by the English `slug`. They hold only the translatable f
 ## 7. Hosting
 
 Vercel, static output `_site`, framework preset Eleventy. Connect to the GitHub repo `chriswilkiepujol-ux/onegolftravel` so pushes to `main` auto-deploy. `vercel.json` sets `cleanUrls` + `trailingSlash`.
+
+## 8. Spain build (27 Oct 2026)
+
+Built from Max's Google My Map "SPAIN GOLF TRAVEL" (214 pins: ~110 clubs, 56 hotels, 9 excursions, 4 airports). Scope agreed with Chris: southern Spain core only (Costa del Sol, Cádiz, Huelva, Seville) plus hotels near the courses (the ten Racket Breaks hotels and golf resorts from the map). Alicante, Catalonia, Mallorca, Madrid and the Basque Country pins are NOT built yet.
+
+- 7 Spain regions: sotogrande, estepona-casares, marbella, mijas-malaga, cadiz-sancti-petri, huelva, seville.
+- 63 Spain courses (was 4), 29 hotels in total. Facts verified from official sources by region; blanks mean unconfirmed. Audit: `COURSE-DATA-AUDIT-SPAIN.md`; image sources: `IMAGE-CREDITS-SPAIN.md`.
+- Held back: Higuerón Marbella (course), Gran Meliá Don Pepe, Higuerón Curio, Atalaya Park, Iberostar Royal Andalus, Elba Costa Ballena (see audit file).
+- No new Spain packages yet: regions show the "coming soon" package box.
+- Corrections made to the earlier Spain records: La Cañada par 71, Valderrama par 71, The Alto 18 holes par 71, Hacienda courses = La Hacienda Links Golf Resort (formerly Alcaidesa), Gibraltar airport ~15 min.

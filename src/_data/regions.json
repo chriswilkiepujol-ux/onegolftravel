@@ -208,11 +208,11 @@
     "lede": "Nine 18-hole courses within six kilometres, Valderrama and Real Sotogrande among them, and the Rock of Gibraltar on the horizon.",
     "intro": [
       "Sotogrande is Spanish golf at its best. The estate was laid out around Robert Trent Jones Sr's Real Club de Golf Sotogrande in the 1960s and Valderrama, host of the 1997 Ryder Cup, followed. Today nine 18-hole courses sit within about six kilometres: La Cañada, The Alto at SO/ Sotogrande, San Roque Club, La Reserva and the two courses at La Hacienda on the coast at Alcaidesa.",
-      "It is also our home. We are based here, we play these courses every week, and our relationships with the clubs mean we can often arrange access that is hard to get as a visitor. Gibraltar airport is ten minutes from the first tee at La Hacienda; Málaga is about an hour along the coast."
+      "It is also our home. We are based in the area and know these courses well, so tell us what you want to play and we will see what can be arranged. Gibraltar airport is about fifteen minutes from the first tee at La Hacienda; Málaga is about an hour along the coast."
     ],
     "stats": [
       [
-        "10 min",
+        "15 min",
         "From Gibraltar airport"
       ],
       [
@@ -235,7 +235,7 @@
       ],
       [
         "Gibraltar or Málaga?",
-        "Gibraltar if there is a direct flight from your airport: it is ten minutes from La Hacienda and twenty from Sotogrande. Málaga has far more flights and is about an hour away by private transfer."
+        "Gibraltar if there is a direct flight from your airport: it is about fifteen minutes from La Hacienda and a little more from Sotogrande. Málaga has far more flights and is about an hour away by private transfer."
       ],
       [
         "What is the weather like in winter?",
@@ -292,6 +292,342 @@
       [
         "Is Royal Dornoch hard to book?",
         "Visitors are welcome most days but the summer tee sheet fills many months ahead. Tell us your dates early and we will build the week around the Dornoch time."
+      ]
+    ]
+  },
+  {
+    "slug": "estepona-casares",
+    "country": "spain",
+    "name": "Estepona & Casares",
+    "code": "EST",
+    "status": "live",
+    "featured": false,
+    "image": "/assets/images/courses/finca-cortesin.webp",
+    "images": [
+      "/assets/images/courses/finca-cortesin.webp",
+      "/assets/images/courses/valle-romano.webp",
+      "/assets/images/courses/estepona-golf.webp",
+      "/assets/images/courses/azata-golf.webp"
+    ],
+    "lede": "Hillside and parkland courses between Manilva and Estepona, from a Solheim Cup venue to compact family rounds, an hour from Málaga airport.",
+    "intro": [
+      "West of Marbella the Costa del Sol turns quieter and more rural. Estepona's white-walled old town sits beside the sea, while inland the Sierra Bermeja rises above rolling hills, and six courses use that terrain, from Estepona Golf, open since 1989, to Azata, a newer addition built beside a stream.",
+      "The mix is wide. Finca Cortesín, host of the 2023 Solheim Cup, and Valle Romano share a designer in Cabell B. Robinson, while Doña Julia and La Duquesa, just over the Manilva boundary, bring sea views and a more relaxed pace. Green fees often include a buggy, which is useful in the hills."
+    ],
+    "stats": [
+      [
+        "1 hr",
+        "From Málaga airport"
+      ],
+      [
+        "40 min",
+        "From Gibraltar airport"
+      ],
+      [
+        "6",
+        "Courses we cover here"
+      ],
+      [
+        "2",
+        "Cabell B. Robinson designs"
+      ]
+    ],
+    "faqs": [
+      [
+        "Which airports are closest to the Estepona and Casares courses?",
+        "Málaga is the main gateway, around 96 km from Doña Julia by the club's own figures, so allow roughly an hour by road. Gibraltar is about 35 km away and Jerez 134 km. Most visitors hire a car, since the courses sit on different hillsides and public transport between them is limited."
+      ],
+      [
+        "Is a buggy included in the green fee?",
+        "It depends on the club. Azata includes a buggy in all of its rates, Doña Julia includes a shared buggy and Finca Cortesín provides a complimentary buggy with GPS. Always check the rate you are quoted, because policies change by season and some clubs offer a cheaper walking rate."
+      ],
+      [
+        "Can I stay on the golf course?",
+        "Yes, in several places. Ona Valle Romano has apartments and penthouses on the Valle Romano course, Finca Cortesín has its own luxury hotel beside the course, and La Duquesa has a boutique hotel with suites at the club. Each offers a short walk to the first tee."
+      ],
+      [
+        "When is the busiest season?",
+        "The clubs' price lists show a high season running from mid-February to mid-May and from mid-September to mid-November. Estepona Golf, for example, lists 15 February to 17 May and 17 September to 16 November, and Doña Julia lists similar windows. Book tee times early during those periods, especially for Finca Cortesín and Valle Romano."
+      ]
+    ]
+  },
+  {
+    "slug": "marbella",
+    "country": "spain",
+    "name": "Marbella & Benahavís",
+    "code": "MBL",
+    "status": "live",
+    "featured": false,
+    "image": "/assets/images/courses/flamingos-villa-padierna.webp",
+    "images": [
+      "/assets/images/courses/flamingos-villa-padierna.webp",
+      "/assets/images/courses/real-guadalmina-south.webp",
+      "/assets/images/courses/atalaya-old.webp",
+      "/assets/images/courses/el-paraiso.webp"
+    ],
+    "lede": "From Seve Ballesteros's Los Arqueros to Robert Trent Jones at Los Naranjos, 16 courses across the Marbella coast and the Benahavís hills, all within reach of Málaga airport.",
+    "intro": [
+      "Marbella's golf sits in the band of hills and valleys between the Golden Mile and Benahavís. Here you can play Robert Trent Jones at Los Naranjos, Javier Arana's Guadalmina South beside the sea, the two Atalaya courses, Villa Padierna's Flamingos and Alferini, and Seve Ballesteros's first Costa del Sol design at Los Arqueros. Layouts range from short, walkable parkland to long hillside courses, so mixed-ability groups find a round that fits.",
+      "Not every famous name is open to visitors. Real Club de Golf Las Brisas is a private members' club, while many others are member-owned but welcome green-fee players, so a good itinerary mixes the two. Clubs publish handicap limits, such as 28 for men and 36 for women at Atalaya and Flamingos, and Alferini is stricter at 24 and 32. Fly into Málaga and expect roughly 40 to 50 minutes by road to the courses."
+    ],
+    "stats": [
+      [
+        "40–50 min",
+        "From Málaga airport"
+      ],
+      [
+        "16",
+        "Courses we cover here"
+      ],
+      [
+        "3",
+        "Clubs with 36 holes or more"
+      ],
+      [
+        "Spring, autumn",
+        "Higher green-fee seasons at several clubs"
+      ]
+    ],
+    "faqs": [
+      [
+        "Which airport should we fly into for Marbella golf?",
+        "Málaga-Costa del Sol is the usual gateway. Barceló Marbella in Guadalmina quotes about 40 minutes by road from the airport, and the Benahavís hills are a little further. Plan your transfer around the first tee time rather than the flight, and ask us about a driver or hire car if the group splits between hotels."
+      ],
+      [
+        "Can visitors play every course here?",
+        "No. Real Club de Golf Las Brisas is a private members' club, so play there depends on a member's invitation. Los Naranjos, El Paraíso, Atalaya, Los Arqueros and Villa Padierna take visitors, usually with handicap limits. Atalaya and Flamingos allow 28 for men and 36 for women; Alferini allows 24 and 32 unless you play with a PGA professional."
+      ],
+      [
+        "When should we visit, and what should we book ahead?",
+        "Courses are open all year, and several price by season. Atalaya and Los Arqueros charge their highest green fees in spring and again from mid-September to November, with summer the cheapest period. Book tee times early for those windows, and check each club's published maintenance weeks, when a course can close for a few days."
+      ]
+    ]
+  },
+  {
+    "slug": "mijas-malaga",
+    "country": "spain",
+    "name": "Mijas & Málaga",
+    "code": "MJS",
+    "status": "live",
+    "featured": false,
+    "image": "/assets/images/courses/la-cala-europa.webp",
+    "images": [
+      "/assets/images/courses/la-cala-europa.webp",
+      "/assets/images/courses/santana.webp",
+      "/assets/images/courses/torrequebrada.webp",
+      "/assets/images/hotels/la-zambra.webp"
+    ],
+    "lede": "Thirteen courses between the Mijas hills and the Guadalhorce valley, from La Cala's three championship layouts to Torrequebrada, all within reach of Málaga airport.",
+    "intro": [
+      "Mijas and the hills behind it hold the densest cluster of golf on this stretch of the Costa del Sol. La Cala Resort alone has three 18-hole courses by Cabell Robinson, Mijas Golf adds Robert Trent Jones Sr's Los Lagos and Los Olivos, and Chaparral, Miraflores, Calanova and Santana sit close by. Many of them can be reached in a few minutes from one another, which suits a week of different rounds from a single hotel.",
+      "Further out are Alhaurín Golf, designed by Severiano Ballesteros, the 27 holes of Lauro, the long Real Guadalhorce beside the river, and Torrequebrada in Benalmádena, which hosted the Spanish Open in 1979. Most courses are roughly 20 to 35 minutes from Málaga airport by road, so a group can land, drop bags and play the same afternoon."
+    ],
+    "stats": [
+      [
+        "30 min",
+        "From Málaga airport"
+      ],
+      [
+        "13",
+        "Courses we cover here"
+      ],
+      [
+        "3",
+        "Courses at La Cala Resort"
+      ],
+      [
+        "Oct–May",
+        "Peak season"
+      ]
+    ],
+    "faqs": [
+      [
+        "Which airport do we fly into?",
+        "Málaga airport. Torrequebrada is about 20 minutes away by the club's own account, Alhaurín Golf about 25, and La Cala Resort about 30. Most other courses in this area fall in the same range, which keeps transfers short on arrival and departure days."
+      ],
+      [
+        "Can we play a tournament at La Cala in late November?",
+        "Only the Europa course is affected. It hosts the Ladies European Tour's Andalucía Costa del Sol Open de España from 26 to 29 November 2026 and is reserved for the event from 20 to 30 November. America and Asia stay open to guests, so plan your November dates around that."
+      ],
+      [
+        "Is a buggy included in the green fee?",
+        "It depends on the club. Calanova includes a buggy in every green fee. Mijas Golf offers buggies, electric trolleys and hand trolleys, and Lauro can be played on foot. Tell us how your group likes to play and we will check each course before booking."
+      ],
+      [
+        "Are there driving ranges at every course?",
+        "Not every one. La Cala, Mijas Golf, Alhaurín, Miraflores, Calanova and Torrequebrada have practice ranges, while Santana advertises a putting green rather than a range. If warm-ups matter to your group, we can build a range session into the day."
+      ]
+    ]
+  },
+  {
+    "slug": "cadiz-sancti-petri",
+    "country": "spain",
+    "name": "Cádiz, Sancti Petri & Jerez",
+    "code": "CAD",
+    "status": "live",
+    "featured": false,
+    "image": "/assets/images/courses/real-novo-sancti-petri.webp",
+    "images": [
+      "/assets/images/courses/real-novo-sancti-petri.webp",
+      "/assets/images/courses/costa-ballena.webp",
+      "/assets/images/courses/montenmedio.webp",
+      "/assets/images/courses/fairplay.webp"
+    ],
+    "lede": "Atlantic beaches, pine woods and sherry country: eleven courses between Cádiz, Jerez and Vejer, mostly within an hour of Jerez airport.",
+    "intro": [
+      "The Costa de la Luz plays differently from the Costa del Sol. Courses around Sancti Petri and La Barrosa sit among stone pines and farmland, with the Atlantic breeze doing the work that bunkers do elsewhere. Real Novo Sancti Petri alone offers 36 holes by Severiano Ballesteros, and Sancti Petri Hills and La Estancia are a short drive away.",
+      "Inland, the options widen. Sherry Golf Jerez and Montecastillo hold professional pedigree, Montenmedio and Fairplay look across the La Janda countryside, and Arcos Golf sits by a white hill town. Costa Ballena adds 27 holes beside the ocean. Hotels range from beachfront resorts to a five-star property built around a Nicklaus course."
+    ],
+    "stats": [
+      [
+        "58 min",
+        "Jerez airport to Sancti Petri Hills"
+      ],
+      [
+        "11",
+        "Courses we cover here"
+      ],
+      [
+        "36",
+        "Holes at Real Novo Sancti Petri"
+      ],
+      [
+        "27",
+        "Holes at Costa Ballena"
+      ]
+    ],
+    "faqs": [
+      [
+        "Which airport should I fly into?",
+        "Jerez is the closest for most of these courses: the club lists about 58 minutes (64 km) to Sancti Petri Hills, and Montecastillo is around ten minutes from the terminal. Sevilla is the main alternative, roughly 1 hour 40 minutes from Sancti Petri Hills, and it offers a wider choice of routes."
+      ],
+      [
+        "Do I need a handicap certificate?",
+        "Check each club before you book. Montenmedio requires a federation licence and enforces a dress code, and other clubs may ask for proof of handicap. Bring your national association card or a club letter, and tell the booking team your handicap when you request tee times so groups are placed sensibly."
+      ],
+      [
+        "What does a round cost?",
+        "Prices change by season and club. As one reference point, Sancti Petri Hills published 2026 green fees for 18 holes of €78 in low season, €86 in mid season and €94 in high season, with a buggy at €30 or €35. Always confirm current rates directly with the club."
+      ],
+      [
+        "Can I stay beachfront and still play?",
+        "Yes. Royal Hideaway Sancti Petri is on La Barrosa with the Novo Sancti Petri courses nearby, Iberostar Waves Royal Andalus offers a free golf shuttle subject to availability, and Elba Costa Ballena is about 800 metres from Costa Ballena Ocean Golf Club, also with a shuttle on pre-booking."
+      ],
+      [
+        "When can I play?",
+        "Courses here are open all year. Sancti Petri Hills, for example, opens every day from 8:00 to 19:00. Winter rounds are shorter on daylight and the Atlantic wind can pick up, so plan earlier starts, and book ahead at the busiest periods around spring and autumn."
+      ]
+    ]
+  },
+  {
+    "slug": "huelva",
+    "country": "spain",
+    "name": "Huelva & Costa de la Luz",
+    "code": "HUV",
+    "status": "live",
+    "featured": false,
+    "image": "/assets/images/courses/el-rompido-norte.webp",
+    "images": [
+      "/assets/images/courses/el-rompido-norte.webp",
+      "/assets/images/courses/isla-canela-links.webp",
+      "/assets/images/courses/islantilla.webp",
+      "/assets/images/hotels/precise-resort-el-rompido.webp"
+    ],
+    "lede": "Marsh, pine and estuary golf on the Costa de la Luz: five courses and 99 holes, from Isla Canela on the Portuguese border to El Rompido and Islantilla.",
+    "intro": [
+      "Huelva is the quiet end of Andalucía's golf map. Between the Portuguese border and the Piedras estuary, the courses we cover sit among salt marsh, pines and long empty beaches, a very different feel from the Costa del Sol. Isla Canela has two courses, the parkland Old Course and the links-style Links, El Rompido has two more laid out by Álvaro Arana, and Islantilla adds a full 27 holes.",
+      "It pairs naturally with the eastern Algarve. Faro is the closest international airport to Isla Canela, around 75 minutes by road; from Faro or Seville allow roughly 90 to 105 minutes for El Rompido and Islantilla. Bases range from the Meliá Atlántico at Isla Canela to Precise Resort El Rompido, a few minutes' walk from its courses, and the DoubleTree at Islantilla, 50 metres from its clubhouse."
+    ],
+    "stats": [
+      [
+        "75 min",
+        "From Faro airport to Isla Canela"
+      ],
+      [
+        "5",
+        "Courses we cover here"
+      ],
+      [
+        "99",
+        "Holes across those courses"
+      ],
+      [
+        "30 min",
+        "El Rompido to Islantilla by road"
+      ]
+    ],
+    "faqs": [
+      [
+        "Which airport should I fly into?",
+        "Faro, across the border in Portugal, is the closest international airport for Isla Canela, about 75 minutes by road. For El Rompido and Islantilla, Faro and Seville are roughly level at 90 to 105 minutes, so choose whichever has the better flights from your home airport. We can arrange a private transfer either way."
+      ],
+      [
+        "Can I combine Huelva with the Algarve?",
+        "Easily. Isla Canela sits at the Portuguese frontier, and the club describes Isla Canela Links as the first course in Spain after crossing from the Algarve, reached by the A-22 on the Portuguese side and the A-49 in Spain. Many groups play a few rounds on each side of the border."
+      ],
+      [
+        "Are these courses easy to walk?",
+        "Mostly, yes. The clubs describe the Old Course and the Links at Isla Canela as completely flat, El Rompido's South course is flat too, and Islantilla has gentle slopes. Buggies and trolleys are available at all of them, so a group of mixed fitness can still play together."
+      ],
+      [
+        "How far apart are the courses?",
+        "El Rompido's two courses are a six-minute walk apart, and Islantilla is about 30 minutes from El Rompido by road. Isla Canela lies further west, roughly 30 minutes from Islantilla and 40 from El Rompido, so most groups either base in two places or choose one area and play it well."
+      ]
+    ]
+  },
+  {
+    "slug": "seville",
+    "country": "spain",
+    "name": "Seville",
+    "code": "SVQ",
+    "status": "live",
+    "featured": false,
+    "image": "/assets/images/courses/real-club-pineda.webp",
+    "images": [
+      "/assets/images/courses/real-club-pineda.webp",
+      "/assets/images/courses/real-club-sevilla-golf.webp",
+      "/assets/images/courses/zaudin.webp",
+      "/assets/images/courses/zaudin-2.webp"
+    ],
+    "lede": "Three clubs within half an hour of the airport, including Olazábal's Real Club Sevilla Golf, host of the Open de España in 2008, 2010 and 2012.",
+    "intro": [
+      "Seville is the one big city on our Spanish golf map, so a round comes with tapas, the Alcázar and flamenco a short taxi ride away. The three courses we cover lie within about half an hour of the airport: Real Club Sevilla Golf, the championship venue that has staged the Open de España three times, Real Club Pineda, a historic private sports club south of the centre, and Club Zaudín in Tomares, a Gary Player design.",
+      "Access is the thing to plan. Real Club Sevilla Golf publishes public green fees, while Pineda and Zaudín are members' clubs, so we confirm tee times with them before quoting. Seville is very hot in July and August, and the Sevilla Golf rate sheet treats those months as low season; spring and early autumn are the comfortable windows. El Rompido, in Huelva, is about an hour and a half from the city centre."
+    ],
+    "stats": [
+      [
+        "15-30 min",
+        "From Seville airport"
+      ],
+      [
+        "3",
+        "Courses we cover here"
+      ],
+      [
+        "3",
+        "Open de España editions at Real Club Sevilla Golf"
+      ],
+      [
+        "13-17 min",
+        "From the city centre by road"
+      ]
+    ],
+    "faqs": [
+      [
+        "Can visitors play at all three clubs?",
+        "Not equally. Real Club Sevilla Golf publishes public green fees and takes online bookings. Real Club Pineda is a private members' club that publishes a non-member rate, and Club Zaudín is mainly a members' club that the Andalucía tourist board lists with visitor fees. For the last two we always confirm access and tee times with the club first."
+      ],
+      [
+        "When is the best time to play in Seville?",
+        "Spring and early autumn. Real Club Sevilla Golf's 2026 rate sheet classes 16 February to 30 June and 1 September to 19 October as high season, and 1 July to 31 August as low season, which reflects the summer heat. Early-morning tee times make winter and summer rounds more comfortable."
+      ],
+      [
+        "How far are the courses from the airport and the city?",
+        "By road, Real Club Pineda is about 16 minutes from Seville airport, Real Club Sevilla Golf about 20 and Club Zaudín about 27. From the city centre allow roughly 13 minutes to Pineda, 16 to Sevilla Golf and 17 to Zaudín, so you can stay in town and play without a long drive."
+      ],
+      [
+        "Can I add the Huelva coast to a Seville trip?",
+        "Yes. Golf El Rompido and Islantilla, in Huelva, are around an hour and a half from Seville city centre by road and 100 to 105 minutes from the airport, which makes a split stay of a few nights in the city and a few on the coast realistic."
       ]
     ]
   }
