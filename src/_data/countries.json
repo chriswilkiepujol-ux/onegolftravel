@@ -1,76 +1,15 @@
 [
   {
-    "slug": "scotland",
-    "name": "Scotland",
-    "code": "SCO",
-    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-    "order": 1,
-    "status": "live",
-    "targets": { "packages": 15, "courses": 50 },
-    "image": "/assets/images/countries/scotland.webp",
-    "hero": "/assets/images/countries/scotland-hero.webp",
-    "airports": "Edinburgh, Glasgow, Aberdeen, Dundee, Inverness",
-    "lede": "The home of golf. Links courses that have been played for centuries, the Old Course ballot, and three regions within two hours of Edinburgh and Glasgow airports.",
-    "intro": [
-      "There is nowhere in the world quite like Scotland for golf. This is where the game was born and where it still feels most alive: windswept links along the coast, pot bunkers that have swallowed careers, and clubhouses where the history is on the walls rather than in a brochure.",
-      "We book Scotland in three regions. St Andrews and the Kingdom of Fife for the Old Course and its sisters, Edinburgh and East Lothian for the Golf Coast, and the West Coast and Ayrshire for Open Championship links like Troon and Turnberry. Each works as a base for a 5 to 7 night trip, and the keen groups combine two."
-    ],
-    "faqs": [
-      ["Can you get us on the Old Course?", "Yes. We can build packages with a guaranteed Old Course tee time, or help your group through the ballot, which opens each August for the following year. Our Unlimited Golf option guarantees a daily tee time on the other St Andrews Links courses whatever the ballot result."],
-      ["When is the best time to play golf in Scotland?", "May to September gives the longest days and the best chance of good weather, with June and July the busiest. April and October are quieter and noticeably better value, and the links drain well so winter golf is very playable for the hardy."],
-      ["Which airport should we fly into?", "Edinburgh for St Andrews and East Lothian, Glasgow or Prestwick for Ayrshire and the West Coast. Aberdeen, Dundee and Inverness work for Highland and north-east trips. Tell us your departure airport and we will suggest the simplest routing."]
-    ]
-  },
-  {
-    "slug": "ireland",
-    "name": "Ireland",
-    "code": "IRL",
-    "flag": "🇮🇪",
-    "order": 2,
-    "status": "live",
-    "targets": { "packages": 10, "courses": 30 },
-    "image": "/assets/images/countries/ireland.webp",
-    "hero": "/assets/images/countries/ireland-hero.webp",
-    "airports": "Dublin, Shannon, Cork, Belfast",
-    "lede": "Championship parkland an hour from Dublin, wild links on the coast, and the kind of welcome that turns a golf trip into the one your group talks about for years.",
-    "intro": [
-      "Ireland is one of the great summer golf destinations and right now it is genuinely good value. Dublin is the natural base: Ryder Cup venues, Irish Open courses and true links golf all sit within an hour of the city, with the pubs and restaurants of the capital waiting at the end of the day.",
-      "Our Dublin and Wicklow packages pair Druids Glen, Druids Heath and The K Club with resorts that are built around golf. Beyond Dublin we book the south-west and the north coast on request, and we are happy to build a two-centre trip."
-    ],
-    "faqs": [
-      ["When should we go to Ireland?", "May to September is prime time. The courses are in peak condition and the evenings are long. September and early October are quieter and often better value, and Ireland's mild climate means links golf is playable most of the year."],
-      ["Can non-golfers come too?", "Yes. Dublin is a great city for a few days, and we can arrange dual itineraries with city tours, spa days or trips to Wicklow and Glendalough while the golfers play."],
-      ["How does transport work?", "Most groups use a private driver for the week. From six golfers upwards it is usually cheaper than hiring cars and nobody has to stay off the Guinness. We can also arrange hire cars if you would rather drive."]
-    ]
-  },
-  {
-    "slug": "england",
-    "name": "England",
-    "code": "ENG",
-    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "order": 3,
-    "status": "coming-soon",
-    "targets": { "packages": 5, "courses": 20 },
-    "image": "/assets/images/countries/england.webp",
-    "hero": "/assets/images/countries/england.webp",
-    "airports": "London Heathrow, Gatwick, Manchester, Liverpool",
-    "lede": "Open Championship links in the north-west, the heathland classics of Surrey and Berkshire, and easy access from every major airport.",
-    "intro": [
-      "England packs an enormous amount of golf into a small space. The Lancashire coast alone has Royal Birkdale, Royal Lytham and Hillside within a short drive of each other, while Surrey's heathland courses around Sunningdale and Wentworth are twenty minutes from Heathrow.",
-      "We are building our first England packages now. In the meantime we are booking England trips on request, so tell us your dates and the courses on your list and we will put a proposal together."
-    ],
-    "faqs": [
-      ["Which part of England should we play?", "For links golf, the north-west coast between Liverpool and Blackpool. For heathland and easy London access, Surrey and Berkshire. For a mix of both with coastal scenery, Kent and the south-east."]
-    ]
-  },
-  {
     "slug": "spain",
     "name": "Spain",
     "code": "ESP",
     "flag": "🇪🇸",
-    "order": 4,
+    "order": 1,
     "status": "live",
-    "targets": { "packages": 20, "courses": 50 },
+    "targets": {
+      "packages": 20,
+      "courses": 50
+    },
     "image": "/assets/images/countries/spain.webp",
     "hero": "/assets/images/countries/spain-hero.webp",
     "airports": "Málaga, Gibraltar, Seville, Jerez",
@@ -80,9 +19,112 @@
       "Sotogrande and San Roque are our home turf. Nine 18-hole courses sit within about six kilometres of each other, including Valderrama, Real Sotogrande, San Roque and La Hacienda, and we can usually get groups onto courses with limited visitor access through our local relationships. Costa del Sol, Cádiz and Seville trips are built on request."
     ],
     "faqs": [
-      ["When is the golf season in Andalucía?", "October to May is peak season, with mild sunny days and perfect course conditions. Summer is hot but very playable with early tee times, and prices drop noticeably in July and August."],
-      ["Can you get us onto Valderrama or Real Sotogrande?", "Often, yes. Both limit visitor play, but through our industry relationships we can usually arrange access for groups who book in good time. Tell us your dates and we will check availability."],
-      ["Which airport is best?", "Málaga has the most flights and is about an hour from Sotogrande. Gibraltar is about fifteen minutes from the first tee at La Hacienda and well worth checking from the UK. Seville and Jerez are good alternatives for the western courses."]
+      [
+        "When is the golf season in Andalucía?",
+        "October to May is peak season, with mild sunny days and perfect course conditions. Summer is hot but very playable with early tee times, and prices drop noticeably in July and August."
+      ],
+      [
+        "Can you get us onto Valderrama or Real Sotogrande?",
+        "Often, yes. Both limit visitor play, but through our industry relationships we can usually arrange access for groups who book in good time. Tell us your dates and we will check availability."
+      ],
+      [
+        "Which airport is best?",
+        "Málaga has the most flights and is about an hour from Sotogrande. Gibraltar is about fifteen minutes from the first tee at La Hacienda and well worth checking from the UK. Seville and Jerez are good alternatives for the western courses."
+      ]
+    ]
+  },
+  {
+    "slug": "scotland",
+    "name": "Scotland",
+    "code": "SCO",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "order": 2,
+    "status": "live",
+    "targets": {
+      "packages": 15,
+      "courses": 50
+    },
+    "image": "/assets/images/countries/scotland.webp",
+    "hero": "/assets/images/countries/scotland-hero.webp",
+    "airports": "Edinburgh, Glasgow, Aberdeen, Dundee, Inverness",
+    "lede": "The home of golf. Links courses that have been played for centuries, the Old Course ballot, and three regions within two hours of Edinburgh and Glasgow airports.",
+    "intro": [
+      "There is nowhere in the world quite like Scotland for golf. This is where the game was born and where it still feels most alive: windswept links along the coast, pot bunkers that have swallowed careers, and clubhouses where the history is on the walls rather than in a brochure.",
+      "We book Scotland in three regions. St Andrews and the Kingdom of Fife for the Old Course and its sisters, Edinburgh and East Lothian for the Golf Coast, and the West Coast and Ayrshire for Open Championship links like Troon and Turnberry. Each works as a base for a 5 to 7 night trip, and the keen groups combine two."
+    ],
+    "faqs": [
+      [
+        "Can you get us on the Old Course?",
+        "Yes. We can build packages with a guaranteed Old Course tee time, or help your group through the ballot, which opens each August for the following year. Our Unlimited Golf option guarantees a daily tee time on the other St Andrews Links courses whatever the ballot result."
+      ],
+      [
+        "When is the best time to play golf in Scotland?",
+        "May to September gives the longest days and the best chance of good weather, with June and July the busiest. April and October are quieter and noticeably better value, and the links drain well so winter golf is very playable for the hardy."
+      ],
+      [
+        "Which airport should we fly into?",
+        "Edinburgh for St Andrews and East Lothian, Glasgow or Prestwick for Ayrshire and the West Coast. Aberdeen, Dundee and Inverness work for Highland and north-east trips. Tell us your departure airport and we will suggest the simplest routing."
+      ]
+    ]
+  },
+  {
+    "slug": "england",
+    "name": "England",
+    "code": "ENG",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "order": 3,
+    "status": "coming-soon",
+    "targets": {
+      "packages": 5,
+      "courses": 20
+    },
+    "image": "/assets/images/countries/england.webp",
+    "hero": "/assets/images/countries/england.webp",
+    "airports": "London Heathrow, Gatwick, Manchester, Liverpool",
+    "lede": "Open Championship links in the north-west, the heathland classics of Surrey and Berkshire, and easy access from every major airport.",
+    "intro": [
+      "England packs an enormous amount of golf into a small space. The Lancashire coast alone has Royal Birkdale, Royal Lytham and Hillside within a short drive of each other, while Surrey's heathland courses around Sunningdale and Wentworth are twenty minutes from Heathrow.",
+      "We are building our first England packages now. In the meantime we are booking England trips on request, so tell us your dates and the courses on your list and we will put a proposal together."
+    ],
+    "faqs": [
+      [
+        "Which part of England should we play?",
+        "For links golf, the north-west coast between Liverpool and Blackpool. For heathland and easy London access, Surrey and Berkshire. For a mix of both with coastal scenery, Kent and the south-east."
+      ]
+    ]
+  },
+  {
+    "slug": "ireland",
+    "name": "Ireland",
+    "code": "IRL",
+    "flag": "🇮🇪",
+    "order": 4,
+    "status": "coming-soon",
+    "targets": {
+      "packages": 10,
+      "courses": 30
+    },
+    "image": "/assets/images/countries/ireland.webp",
+    "hero": "/assets/images/countries/ireland-hero.webp",
+    "airports": "Dublin, Shannon, Cork, Belfast",
+    "lede": "Championship parkland an hour from Dublin, wild links on the coast, and the kind of welcome that turns a golf trip into the one your group talks about for years.",
+    "intro": [
+      "Ireland is one of the great summer golf destinations and right now it is genuinely good value. Dublin is the natural base: Ryder Cup venues, Irish Open courses and true links golf all sit within an hour of the city, with the pubs and restaurants of the capital waiting at the end of the day.",
+      "Our Dublin and Wicklow packages pair Druids Glen, Druids Heath and The K Club with resorts that are built around golf. Beyond Dublin we book the south-west and the north coast on request, and we are happy to build a two-centre trip."
+    ],
+    "faqs": [
+      [
+        "When should we go to Ireland?",
+        "May to September is prime time. The courses are in peak condition and the evenings are long. September and early October are quieter and often better value, and Ireland's mild climate means links golf is playable most of the year."
+      ],
+      [
+        "Can non-golfers come too?",
+        "Yes. Dublin is a great city for a few days, and we can arrange dual itineraries with city tours, spa days or trips to Wicklow and Glendalough while the golfers play."
+      ],
+      [
+        "How does transport work?",
+        "Most groups use a private driver for the week. From six golfers upwards it is usually cheaper than hiring cars and nobody has to stay off the Guinness. We can also arrange hire cars if you would rather drive."
+      ]
     ]
   },
   {
@@ -92,7 +134,10 @@
     "flag": "🇲🇦",
     "order": 5,
     "status": "coming-soon",
-    "targets": { "packages": 5, "courses": 15 },
+    "targets": {
+      "packages": 5,
+      "courses": 15
+    },
     "image": "/assets/images/countries/morocco.webp",
     "hero": "/assets/images/countries/morocco.webp",
     "airports": "Marrakech, Agadir, Casablanca, Tangier",
@@ -102,7 +147,10 @@
       "Our first Morocco packages are in preparation. We are already booking trips here on request, so send us your dates, group size and the courses you have in mind."
     ],
     "faqs": [
-      ["When is the best time for golf in Morocco?", "October to April. Winter days are warm and sunny, and it is one of the few places in Europe's time zone where you can count on short-sleeve golf in January."]
+      [
+        "When is the best time for golf in Morocco?",
+        "October to April. Winter days are warm and sunny, and it is one of the few places in Europe's time zone where you can count on short-sleeve golf in January."
+      ]
     ]
   },
   {
@@ -112,7 +160,10 @@
     "flag": "🇦🇪",
     "order": 6,
     "status": "coming-soon",
-    "targets": { "packages": 5, "courses": 15 },
+    "targets": {
+      "packages": 5,
+      "courses": 15
+    },
     "image": "/assets/images/countries/dubai.webp",
     "hero": "/assets/images/countries/dubai.webp",
     "airports": "Dubai, Abu Dhabi",
@@ -122,7 +173,10 @@
       "Our UAE packages are being finalised. We are booking trips to Dubai and Abu Dhabi on request, including hospitality for the Race to Dubai finale in November."
     ],
     "faqs": [
-      ["When should we visit Dubai for golf?", "October to April. Summer is too hot for most groups, although night golf under floodlights is an option. November is especially popular around the DP World Tour Championship."]
+      [
+        "When should we visit Dubai for golf?",
+        "October to April. Summer is too hot for most groups, although night golf under floodlights is an option. November is especially popular around the DP World Tour Championship."
+      ]
     ]
   }
 ]

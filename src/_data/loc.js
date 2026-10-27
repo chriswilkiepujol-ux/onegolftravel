@@ -122,6 +122,16 @@ module.exports = function () {
     }
   }
 
+  // Countries marked "coming-soon" only get their hub page: their regions, packages, courses and hotels
+  // stay in the JSON (so the work is kept) but are not published until the country goes live.
+  for (const locale of site.locales) {
+    const D = out[locale];
+    const held = new Set(D.countries.filter((c) => c.status === "coming-soon").map((c) => c.id));
+    const regionCountry = Object.fromEntries(D.regions.map((r) => [r.id, r.country]));
+    const isHeld = (r) => held.has(r.country || regionCountry[r.region]);
+    for (const type of ["regions", "packages", "courses", "hotels"]) D[type] = D[type].filter((r) => !isHeld(r));
+  }
+
   // URLs: regions need their (localised) country slug, so resolve after merging.
   for (const locale of site.locales) {
     const D = out[locale];
