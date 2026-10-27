@@ -97,6 +97,6 @@ Built from Max's Google My Map "SPAIN GOLF TRAVEL" (214 pins: ~110 clubs, 56 hot
 
 - Country priority/nav order (`countries.json > order`): Spain, Scotland, England, Ireland, Morocco, UAE. Max and Chris want to promote the three semi-finished countries first.
 - **Ireland is "coming-soon"**: its regions, packages, courses and hotels stay in the JSON but are NOT published. `src/_data/loc.js` filters out everything belonging to a coming-soon country. Set `status: "live"` in `countries.json` to publish them again once all the courses etc. are ready.
-- England is live for the South West only: regions cornwall, north-devon-somerset, south-devon-dorset (22 courses, 5 hotels incl. Saunton Sands, Carlyon Bay, Thurlestone, Bovey Castle). Courses were chosen by us (no Max map). Audit: `COURSE-DATA-AUDIT-ENGLAND.md`, images: `IMAGE-CREDITS-ENGLAND.md`.
+- England is live for the South West only: regions cornwall, north-devon-somerset, south-devon-dorset (22 courses, 4 hotels: Saunton Sands, Carlyon Bay, Thurlestone, Bovey Castle). Courses were chosen by us (no Max map). Audit: `COURSE-DATA-AUDIT-ENGLAND.md`, images: `IMAGE-CREDITS-ENGLAND.md`.
 - Held back / to do: St Mellion (Nicklaus + second course, hotel), Churston GC (no image), The Priory Wareham (stars). Rest of England (heathland, links north-west) not started.
 - Max is expected to send a document with his packages; build packages from it (hotel, courses, nights 5 or 7, price).
