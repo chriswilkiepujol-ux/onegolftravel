@@ -65,7 +65,7 @@ Overlay files are keyed by the English `slug`. They hold only the translatable f
 ## 5. Open items / to confirm with Max
 
 1. **Placeholder prices** on the 6 non-Signature packages (`priceStatus: "placeholder"`). Replace or delete.
-2. **Formspree**: currently the Racket Breaks form ID. Create a One Golf Travel form (or confirm the shared inbox is fine) and set `site.json > formspree`. Submissions carry `_site: One Golf Travel` so they can be filtered.
+2. **Formspree**: own One Golf Travel form created 27 Oct 2026 (`mzeeroow`, set in `site.json > formspree`). Submissions carry `_site: One Golf Travel` so they can be filtered.
 3. Email: header uses info@onegolftravel.com; the old site footer used info@onegolftravel.eu. Confirm one.
 4. Top 10 Scotland list and order.
 5. Remaining packages: 12 more Scotland, 7 Ireland, 5 England, 17 Spain, 5 Morocco, 5 UAE per the brief. Need hotel, courses, price, rounds, nights per package; copy can be written from that.
